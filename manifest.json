@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  25,
+    "patch":  26,
     "minLauncherVersion":  "1.7.0",
-    "releasedAt":  "2026-08-22T19:56:52.3781549Z",
-    "notes":  "Upgrade patch 25",
+    "releasedAt":  "2026-08-22T22:33:09.6913525Z",
+    "notes":  "Upgrade patch 26",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/70113531eced8d8bdc0c49e4fce373f936e289745de1893b06110c49022ab856.zip",
-                    "sha256":  "70113531eced8d8bdc0c49e4fce373f936e289745de1893b06110c49022ab856",
-                    "size":  931314466,
+                    "url":  "https://files.mu-horizon.com/zips/ee2ae186bff962b4bbf1abc2e0bc23b96021fe544d124221c04835459fbbf3d4.zip",
+                    "sha256":  "ee2ae186bff962b4bbf1abc2e0bc23b96021fe544d124221c04835459fbbf3d4",
+                    "size":  931326137,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-25/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-26/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -4632,6 +4632,11 @@
                       "path":  "Data/Interface/newui_scrollbar_up.OZT",
                       "sha256":  "aef10b692818bcf315532210430c27e2f090638a73b0d5ee24e4728a59154ed5",
                       "size":  132
+                  },
+                  {
+                      "path":  "Data/Interface/newui_seek_and_destroy.OZJ",
+                      "sha256":  "bfd0f1c78eac1d657e936894cf178c3e33cfdaed115fbe58d9a5bcf2caa72fc2",
+                      "size":  10307
                   },
                   {
                       "path":  "Data/Interface/newui_separate_Line.OZJ",
@@ -14925,8 +14930,8 @@
                   },
                   {
                       "path":  "Data/Local/Eng/NpcName_Eng.txt",
-                      "sha256":  "946c6410b74648f55afc2b0207c3ab518e0e2145aa7efe6d42540c5edc020350",
-                      "size":  15467
+                      "sha256":  "514d526247f34624651552d448b011bf94b14d88a43e458802a3a4a98d7c70f1",
+                      "size":  15482
                   },
                   {
                       "path":  "Data/Local/Eng/partCharge1/ShopCategoryItems.bmd",
@@ -15625,8 +15630,8 @@
                   },
                   {
                       "path":  "Data/Local/Por/NpcName_Por.txt",
-                      "sha256":  "fa2828898ef7fef971dbf51971fb2160ad7635a1e217bed87c9dbf59b8b8e814",
-                      "size":  15153
+                      "sha256":  "369b202c045a2c32df5259b3892186011f1cce9b2f0347bccc27850eb3684cde",
+                      "size":  15168
                   },
                   {
                       "path":  "Data/Local/Por/partCharge1/ShopCategoryItems.bmd",
@@ -16160,8 +16165,8 @@
                   },
                   {
                       "path":  "Data/Local/Spn/NpcName_Spn.txt",
-                      "sha256":  "2b0e0444ee8b9024ba69405589ac4ba2a6b458e4eda13de91d72ca3c74cee323",
-                      "size":  15300
+                      "sha256":  "99451285792f8a44a6233503d3803b90673356a95f8fbdb787d05a8e73ece54e",
+                      "size":  15315
                   },
                   {
                       "path":  "Data/Local/Spn/partCharge1/ShopCategoryItems.bmd",
@@ -77995,8 +78000,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "0b6e39cabc9ddf84d56bda329f1e2ac1d2516c33e1fb5a069c06ae96ad7d6a84",
-                      "size":  11190784
+                      "sha256":  "7090dbc1a773f8695368a94d1268a4525ca7a6a3ffb620640629b51c681ae71d",
+                      "size":  11193344
                   },
                   {
                       "path":  "MuError.prev.log",
@@ -78005,7 +78010,7 @@
                   },
                   {
                       "path":  "MuHorizon.CrashReporter.exe",
-                      "sha256":  "2c98891521f90b8ffa2374f092750c31d30bc9c9b8a3ca62b07d2ea06881c054",
+                      "sha256":  "afdaf84669486d22a51651d8f48f3ea94038253f97e346500a71ca0ea602f4c0",
                       "size":  52394500
                   },
                   {
@@ -78025,11 +78030,11 @@
                   }
               ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/b8e57bcc2eabbbe7ef636240a178c861a466ec16331c5611bfc6f413e7dee4b2.zip",
-                     "sha256":  "b8e57bcc2eabbbe7ef636240a178c861a466ec16331c5611bfc6f413e7dee4b2",
-                     "size":  52896876,
+                     "url":  "https://files.mu-horizon.com/zips/262ef9daf82813c52caaa6004bf4b369e735be300e48fb6e9cef148495096c46.zip",
+                     "sha256":  "262ef9daf82813c52caaa6004bf4b369e735be300e48fb6e9cef148495096c46",
+                     "size":  51557954,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-25/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-26/client-patch.zip"
                               ]
                  }
 }
