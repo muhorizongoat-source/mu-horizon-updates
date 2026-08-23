@@ -16,7 +16,6 @@
                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-26/client-full.zip"
                              ]
                 },
-    "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
     "files":  [
                   {
                       "path":  "config.ini.template",
@@ -78036,5 +78035,6 @@
                      "urls":  [
                                   "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-26/client-patch.zip"
                               ]
-                 }
+                 },
+    "filesBaseUrl":  "https://files.mu-horizon.com/blobs"
 }
