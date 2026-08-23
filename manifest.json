@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  27,
+    "patch":  28,
     "minLauncherVersion":  "1.8.0",
-    "releasedAt":  "2026-08-23T03:03:38.8497137Z",
-    "notes":  "Upgrade patch 27",
+    "releasedAt":  "2026-08-23T20:09:29.1787183Z",
+    "notes":  "Upgrade patch 28",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/91fb299a0baf6d986581bb05a64d8b1f5167ddffbab2e6311913935003be32c9.zip",
-                    "sha256":  "91fb299a0baf6d986581bb05a64d8b1f5167ddffbab2e6311913935003be32c9",
-                    "size":  931331615,
+                    "url":  "https://files.mu-horizon.com/zips/e4f402ba2a9ffcec0c5a63b8f93512eed1d1852f876f47d79e30f3c1e0d28939.zip",
+                    "sha256":  "e4f402ba2a9ffcec0c5a63b8f93512eed1d1852f876f47d79e30f3c1e0d28939",
+                    "size":  931397786,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-27/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-28/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -692,6 +692,16 @@
                       "path":  "Data/Effect/gra.OZJ",
                       "sha256":  "374c75603bc7962c530ca97534855c7ec2bd7ecccbb85ab6022af42019aa69d2",
                       "size":  13233
+                  },
+                  {
+                      "path":  "Data/Effect/grab_hook_chain.OZT",
+                      "sha256":  "1ec7faf7e21dca4f3b032b3af0b2f1a727b5d06163339685d9685fa142379573",
+                      "size":  16406
+                  },
+                  {
+                      "path":  "Data/Effect/grab_hook_tip.OZT",
+                      "sha256":  "a3ae68e1d98d83552675a8044578fb2aedf9c845458edbe8183ad470b5fb7385",
+                      "size":  16406
                   },
                   {
                       "path":  "Data/Effect/grandmark.OZJ",
@@ -3969,6 +3979,16 @@
                       "size":  16809
                   },
                   {
+                      "path":  "Data/Interface/newui_dragon_blessing.OZJ",
+                      "sha256":  "9b47ecf6c1fe5fe4a4c24adde8cecfe1c441473c128145f33d6ee7578ee05c14",
+                      "size":  15576
+                  },
+                  {
+                      "path":  "Data/Interface/newui_duelist_presence.OZJ",
+                      "sha256":  "ad0ee8b463d089a5efffd0e378777c03e375573aca187d1be31572faae47f288",
+                      "size":  18699
+                  },
+                  {
                       "path":  "Data/Interface/newui_DuelWindow.OZT",
                       "sha256":  "a10ac477b40daa6eec04af09055f7159d14a3024976cf2074b0d88b0893756f0",
                       "size":  81744
@@ -4712,6 +4732,11 @@
                       "path":  "Data/Interface/newui_SW_Time_Frame.OZT",
                       "sha256":  "dfcb35be92c6280f896a3f533032f3a2418d31d9d55b03e97ddf01102b47b461",
                       "size":  19880
+                  },
+                  {
+                      "path":  "Data/Interface/newui_sworn_victory.OZJ",
+                      "sha256":  "c60b9ca577db1a9efa7b766c616e350552681003d314f138dc72a8666271f25e",
+                      "size":  19608
                   },
                   {
                       "path":  "Data/Interface/nis_back.OZJ",
@@ -78000,8 +78025,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "57d1d581da98a842a72dc1070bb3c0f1f2869b26ae8da06ee8854066337f158c",
-                      "size":  11197440
+                      "sha256":  "8765d9e21cac170b76ec5157a05d04f3b320f3132fe231cd6717ffa3db2120c3",
+                      "size":  11218432
                   },
                   {
                       "path":  "MuError.prev.log",
@@ -78010,7 +78035,7 @@
                   },
                   {
                       "path":  "MuHorizon.CrashReporter.exe",
-                      "sha256":  "9a32b3e9afd765f8d9e8471d851c951157a8cb40af06d6a069a3b8ccb7bad6be",
+                      "sha256":  "0d1ad3ee3e485dde3daee84f39b002f5bede1de5b4a242735d1035c015e85ec7",
                       "size":  52394500
                   },
                   {
@@ -78030,11 +78055,11 @@
                   }
               ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/678f42160f24a02d0bc78687ee93538b5d14c28da1cfe2fa7f5d80db310938d0.zip",
-                     "sha256":  "678f42160f24a02d0bc78687ee93538b5d14c28da1cfe2fa7f5d80db310938d0",
-                     "size":  52887604,
+                     "url":  "https://files.mu-horizon.com/zips/745e144a8a1e5cb7e9f63b2d842c2cc212fa927c936352331cb8eed65fecb697.zip",
+                     "sha256":  "745e144a8a1e5cb7e9f63b2d842c2cc212fa927c936352331cb8eed65fecb697",
+                     "size":  51599370,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-27/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-28/client-patch.zip"
                               ]
                  }
 }
