@@ -1,7 +1,6 @@
 {
     "generation":  1,
     "patch":  26,
-    "minLauncherVersion":  "1.7.0",
     "releasedAt":  "2026-08-22T22:33:09.6913525Z",
     "notes":  "Upgrade patch 26",
     "connection":  {
@@ -78036,5 +78035,6 @@
                                   "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-26/client-patch.zip"
                               ]
                  },
-    "filesBaseUrl":  "https://files.mu-horizon.com/blobs"
+    "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
+    "minLauncherVersion":  "1.8.0"
 }
