@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  31,
+    "patch":  32,
     "minLauncherVersion":  "1.8.0",
-    "releasedAt":  "2026-08-23T20:42:02.3078345Z",
-    "notes":  "Upgrade patch 31",
+    "releasedAt":  "2026-08-24T18:14:04.0168974Z",
+    "notes":  "Upgrade patch 32",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/8ef7341e117e2523985657f21ac261ec48d349c0259ed52fd904adabbe965297.zip",
-                    "sha256":  "8ef7341e117e2523985657f21ac261ec48d349c0259ed52fd904adabbe965297",
-                    "size":  931398329,
+                    "url":  "https://files.mu-horizon.com/zips/4a42e58d0cc9fc4fdda1080933bc680c66e64ef9f2c5f2e911b2684a4d820223.zip",
+                    "sha256":  "4a42e58d0cc9fc4fdda1080933bc680c66e64ef9f2c5f2e911b2684a4d820223",
+                    "size":  934703776,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-31/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-32/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -1765,13 +1765,13 @@
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSPackage.txt",
-                      "sha256":  "c76a0fbc9b17f11a475925709d53bc0865cb39f8972151a068a816c134d32fee",
-                      "size":  5961
+                      "sha256":  "da7953790efb59510200adaf60759babc1a334f3b0238bb375d60088ff76720e",
+                      "size":  6140
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSProduct.txt",
-                      "sha256":  "b3bb9a4a0567d86c41496074c60e4739d9ca1064281d2c1f5988edeca5788f3e",
-                      "size":  2134
+                      "sha256":  "b5ac8d39179e2ae341a2aea843f05aa21bdb72d0c628c7b66b94bc678eef0d6e",
+                      "size":  2222
                   },
                   {
                       "path":  "Data/Interface/accept_box01.OZJ",
@@ -3425,13 +3425,13 @@
                   },
                   {
                       "path":  "Data/Interface/new_Master_Icon.OZJ",
-                      "sha256":  "2e89c318c7e355c68e98c58255504a31986d9e5739cde2621873b44aa2d3111c",
-                      "size":  365179
+                      "sha256":  "b9d364a21cf7a0da85e8adc691b8bfcbf506a14819521fad745196be8691b770",
+                      "size":  910890
                   },
                   {
                       "path":  "Data/Interface/new_Master_non_Icon.OZJ",
-                      "sha256":  "6dae0e82a7c059e45b10648b68575c6cfc0f4791ada2483f5e3a5b05b3095f8c",
-                      "size":  253872
+                      "sha256":  "b5f44e181168ac8e32ea1e73239e8f66f8f9aa7443ba0e3ccf34c5774741f7c7",
+                      "size":  562645
                   },
                   {
                       "path":  "Data/Interface/newui_Account_title.OZT",
@@ -3980,11 +3980,21 @@
                   },
                   {
                       "path":  "Data/Interface/newui_dragon_blessing.OZJ",
+                      "sha256":  "dd5819843eb2b8ba1912c49b1becd1be7c5e0c50dfb0f525630e6dab4af74f07",
+                      "size":  67712
+                  },
+                  {
+                      "path":  "Data/Interface/newui_dragon_blessing_classic.OZJ",
                       "sha256":  "9b47ecf6c1fe5fe4a4c24adde8cecfe1c441473c128145f33d6ee7578ee05c14",
                       "size":  15576
                   },
                   {
                       "path":  "Data/Interface/newui_duelist_presence.OZJ",
+                      "sha256":  "c1fffe2e75696f0cbde07d0da1ebe655e97cd8e6f3335797f14a9bf29ac12f43",
+                      "size":  68557
+                  },
+                  {
+                      "path":  "Data/Interface/newui_duelist_presence_classic.OZJ",
                       "sha256":  "ad0ee8b463d089a5efffd0e378777c03e375573aca187d1be31572faae47f288",
                       "size":  18699
                   },
@@ -4080,6 +4090,11 @@
                   },
                   {
                       "path":  "Data/Interface/newui_grab_and_cripple.OZJ",
+                      "sha256":  "3d047d3e0b08d7a4ccb4d4ecb5a8c7f333be1e2bad7f9a560f0567aaab83a641",
+                      "size":  93497
+                  },
+                  {
+                      "path":  "Data/Interface/newui_grab_and_cripple_classic.OZJ",
                       "sha256":  "d84eb1027768d6c4bc785f386f5a45826ef07859c44ff3d5a60d44be9a44e039",
                       "size":  16129
                   },
@@ -4470,18 +4485,18 @@
                   },
                   {
                       "path":  "Data/Interface/newui_non_skill.OZJ",
-                      "sha256":  "fb9f0f7421304eccd79102763ee9eb504d555eef5f74a88806d5d58a915c450b",
-                      "size":  45960
+                      "sha256":  "f49112f4daa9e527b8cbd66a12f0421680f1a0cc5c2eae8f3287678d5a2e6884",
+                      "size":  221227
                   },
                   {
                       "path":  "Data/Interface/newui_non_skill2.OZJ",
-                      "sha256":  "bb8fabc1b57a575e5389490c9f0a1b43d1a5f4d13cf5ff565695f5ed95b1e9f5",
-                      "size":  67195
+                      "sha256":  "65e1f8128b6a0e8b1d979f485586f0550a9412475360e1cbe6bd7e799d09e8ec",
+                      "size":  337188
                   },
                   {
                       "path":  "Data/Interface/newui_non_skill3.OZJ",
-                      "sha256":  "769a3d046e841a2fc03e8b1020db32a2f26f0d253799b6c77fe198151c30f962",
-                      "size":  28675
+                      "sha256":  "90d4775ea91bb0abe13e3b991f2c3adaff7d3da4744cb323e825c08bf0ae8d43",
+                      "size":  100898
                   },
                   {
                       "path":  "Data/Interface/newui_npcshop_btn_repair.OZT",
@@ -4550,6 +4565,11 @@
                   },
                   {
                       "path":  "Data/Interface/newui_panic_escape.OZJ",
+                      "sha256":  "adc61c291be2fcb7f4451d948bc7ffac3446d73b1c391d1407b0e3dec0019de4",
+                      "size":  148483
+                  },
+                  {
+                      "path":  "Data/Interface/newui_panic_escape_classic.OZJ",
                       "sha256":  "3e4d36f76e69dddafcdb487a07bc0afa1c8c1315e38e5b172c2fa07dc03cf37e",
                       "size":  20262
                   },
@@ -4609,12 +4629,27 @@
                       "size":  14391
                   },
                   {
+                      "path":  "Data/Interface/newui_phantom_rush.OZJ",
+                      "sha256":  "f88b178683d37ebd941d098d6056712068a1716d1efa70c83a88f757b9042868",
+                      "size":  50957
+                  },
+                  {
+                      "path":  "Data/Interface/newui_phantom_rush_classic.OZJ",
+                      "sha256":  "5ea9a37835e66697bc91698950374a0631a521131711b0d3bcc4ddbb10400858",
+                      "size":  16122
+                  },
+                  {
                       "path":  "Data/Interface/newui_position02.OZT",
                       "sha256":  "4679bbd3b862a3d05d3828ddf6ce05b69de7176f00914bfb391f0a399b9d5154",
                       "size":  7048
                   },
                   {
                       "path":  "Data/Interface/newui_quick_step.OZJ",
+                      "sha256":  "873d8b5a0fa0acf5bb769ef4f8d3f3e616721fd1d33f181880d560d3d16ed861",
+                      "size":  161974
+                  },
+                  {
+                      "path":  "Data/Interface/newui_quick_step_classic.OZJ",
                       "sha256":  "369c7fa2ce4f67bd05c3d4cdbf584a2217e360a8670bfa462d66ef88a78d2374",
                       "size":  27123
                   },
@@ -4655,6 +4690,11 @@
                   },
                   {
                       "path":  "Data/Interface/newui_seek_and_destroy.OZJ",
+                      "sha256":  "b52ed060e3cda8c302f71c654ae292777b0b31b8c42d1aa9ed00895658a821ae",
+                      "size":  51980
+                  },
+                  {
+                      "path":  "Data/Interface/newui_seek_and_destroy_classic.OZJ",
                       "sha256":  "bfd0f1c78eac1d657e936894cf178c3e33cfdaed115fbe58d9a5bcf2caa72fc2",
                       "size":  10307
                   },
@@ -4665,18 +4705,18 @@
                   },
                   {
                       "path":  "Data/Interface/newui_skill.OZJ",
-                      "sha256":  "f0ffc9cd08ffe38928d9cfafed53f110716338c45b01d0851d33855e71aa47bc",
-                      "size":  90299
+                      "sha256":  "71d43d0f0418e7a36ea19ed691163bcfbc6bae29f7f8210da023c02c2ea1e79d",
+                      "size":  417532
                   },
                   {
                       "path":  "Data/Interface/newui_skill2.OZJ",
-                      "sha256":  "c5276c194d21165018ad395c407d09af03483f4cca080b95c5631717d1d57306",
-                      "size":  161506
+                      "sha256":  "9a79a008ee698de623dab3de168c49b90185159d5cfc730a2fdb9f9ecd94821d",
+                      "size":  744450
                   },
                   {
                       "path":  "Data/Interface/newui_skill3.OZJ",
-                      "sha256":  "3683e9f55974f27c3b490ee9a461f3df3c3ccaacbe0bb3a57d1045a24ef529a9",
-                      "size":  37246
+                      "sha256":  "c82910db1d7c1686fc156391ad72167abf204aca59fab967c2ce2a85d992b42d",
+                      "size":  122080
                   },
                   {
                       "path":  "Data/Interface/newui_skillbox.OZJ",
@@ -4735,8 +4775,23 @@
                   },
                   {
                       "path":  "Data/Interface/newui_sworn_victory.OZJ",
+                      "sha256":  "dd291061ed562c2e051446697b345574a1200d23ff0a21bef9ddc71292620019",
+                      "size":  55530
+                  },
+                  {
+                      "path":  "Data/Interface/newui_sworn_victory_classic.OZJ",
                       "sha256":  "c60b9ca577db1a9efa7b766c616e350552681003d314f138dc72a8666271f25e",
                       "size":  19608
+                  },
+                  {
+                      "path":  "Data/Interface/newui_ultimate_sacrifice.OZJ",
+                      "sha256":  "11baebe5c076ef5b0d1a4fbf807ecb3a6ea0825dde85e4fd3ddc7c1db011ec0b",
+                      "size":  84092
+                  },
+                  {
+                      "path":  "Data/Interface/newui_ultimate_sacrifice_classic.OZJ",
+                      "sha256":  "11baebe5c076ef5b0d1a4fbf807ecb3a6ea0825dde85e4fd3ddc7c1db011ec0b",
+                      "size":  84092
                   },
                   {
                       "path":  "Data/Interface/nis_back.OZJ",
@@ -78025,8 +78080,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "cadab1f988d0ed9c3b07782dc963edf55099e7cd86e25a8cb381642c0590278b",
-                      "size":  11219968
+                      "sha256":  "de5ad73985b391cffbccee6a2a08ae494a96b17748980c06fe90b9bf61b2b87a",
+                      "size":  11242496
                   },
                   {
                       "path":  "MuError.prev.log",
@@ -78035,7 +78090,7 @@
                   },
                   {
                       "path":  "MuHorizon.CrashReporter.exe",
-                      "sha256":  "4376399bd2edadab9d4b250b46c4c7f2be895d2edfb0cff2038cac31451b9f22",
+                      "sha256":  "4be287ebeb4d591e78d17104813e57faa6d3cc3e9519be1a52c8cc0e574bdeda",
                       "size":  52394500
                   },
                   {
@@ -78055,11 +78110,11 @@
                   }
               ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/f63740f145b63495751cccbf7616a1a8fd9ac4209c0ecf0fe1bb57eebd96765a.zip",
-                     "sha256":  "f63740f145b63495751cccbf7616a1a8fd9ac4209c0ecf0fe1bb57eebd96765a",
-                     "size":  47125270,
+                     "url":  "https://files.mu-horizon.com/zips/f581ce723e17f1bea8e89ed44550b26e5efde93f9871d66fd65b5f49a01cc35f.zip",
+                     "sha256":  "f581ce723e17f1bea8e89ed44550b26e5efde93f9871d66fd65b5f49a01cc35f",
+                     "size":  55861924,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-31/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-32/client-patch.zip"
                               ]
                  }
 }
