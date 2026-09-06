@@ -1,19 +1,19 @@
 {
   "generation": 1,
-  "patch": 41,
+  "patch": 42,
   "minLauncherVersion": "1.8.0",
-  "releasedAt": "2026-09-06T06:22:11.6387281Z",
-  "notes": "Upgrade patch 41",
+  "releasedAt": "2026-09-06T19:27:29.963144Z",
+  "notes": "Upgrade patch 42",
   "connection": {
     "serverIp": "play.mu-horizon.com",
     "serverPort": 44406
   },
   "fullZip": {
-    "url": "https://files.mu-horizon.com/zips/0106c2092078670ac294306cb1488e2f42defa4f0dc85953239bd411393f3bcc.zip",
-    "sha256": "0106c2092078670ac294306cb1488e2f42defa4f0dc85953239bd411393f3bcc",
-    "size": 1364996797,
+    "url": "https://files.mu-horizon.com/zips/85c3765af6d530188a7ca8ba9ca432e1efeaa4a69266b39db1b7136793abefcc.zip",
+    "sha256": "85c3765af6d530188a7ca8ba9ca432e1efeaa4a69266b39db1b7136793abefcc",
+    "size": 1366839135,
     "urls": [
-      "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-41/client-full.zip"
+      "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-42/client-full.zip"
     ]
   },
   "filesBaseUrl": "https://files.mu-horizon.com/blobs",
@@ -2820,8 +2820,8 @@
     },
     {
       "path": "Data/Interface/lo_back_im01.OZJ",
-      "sha256": "81c15438ffe8cbd06758c09d08fd944945192f5b220559ec855c3d6f925a8e99",
-      "size": 140409
+      "sha256": "f467284d46c78193e9b247f1039bccf382ba487f6b93ac44436c20fa77a5aae9",
+      "size": 96707
     },
     {
       "path": "Data/Interface/lo_back_im02_Blue.OZJ",
@@ -2830,8 +2830,8 @@
     },
     {
       "path": "Data/Interface/lo_back_im02.OZJ",
-      "sha256": "405820338b2feac46a82a47a20c08fe633fcc795a2a61c3d96a764fd984199b1",
-      "size": 121380
+      "sha256": "97769ea768583c82490f5c3537a9b01626a25242ae4941be02be11002edb6d19",
+      "size": 100199
     },
     {
       "path": "Data/Interface/lo_back_im03_Blue.OZJ",
@@ -2840,8 +2840,8 @@
     },
     {
       "path": "Data/Interface/lo_back_im03.OZJ",
-      "sha256": "6d74ced0f0510fd6efae6b990ba86ce46eb4670175249278f569bf5a703cb339",
-      "size": 69694
+      "sha256": "560fd60d1e2775e0933710b8ae5060c8fcfc7db9bfa43893d1d8cf5c23cdb394",
+      "size": 41427
     },
     {
       "path": "Data/Interface/lo_back_im04_Blue.OZJ",
@@ -2850,8 +2850,8 @@
     },
     {
       "path": "Data/Interface/lo_back_im04.OZJ",
-      "sha256": "c7079745cf3d34b96157a1085d3f04cc60c059ee688069438b303cdafa0e7be9",
-      "size": 49351
+      "sha256": "49eb6459ab157fc3f2a849925213542eaeb176a0d991a01037f7fee1fd5fae47",
+      "size": 49208
     },
     {
       "path": "Data/Interface/lo_back_im05_Blue.OZJ",
@@ -2860,8 +2860,8 @@
     },
     {
       "path": "Data/Interface/lo_back_im05.OZJ",
-      "sha256": "a2dd2dbe0df0c97309dbf3ff6861e6e5d392a697425b279f4fbe31abe8f73bbd",
-      "size": 42366
+      "sha256": "b42ab552f4e2949ee70532bffdb412b65bec9cb9f8508771aa982233f4245f40",
+      "size": 47584
     },
     {
       "path": "Data/Interface/lo_back_im06_Blue.OZJ",
@@ -2870,18 +2870,18 @@
     },
     {
       "path": "Data/Interface/lo_back_im06.OZJ",
-      "sha256": "dbf8d4f62e6192e1172e118e16acae600657c3ce88abb7db1ac3c5fc0cdb8521",
-      "size": 27705
+      "sha256": "9b8660d98c9c2c01ec13822aff5e37dfd0dd30ae88d28bbc0692aeca03475ca5",
+      "size": 20683
     },
     {
       "path": "Data/Interface/lo_back_s5_03.OZJ",
-      "sha256": "8c4d82e85320616431f1aa06f5714893c1fde397ee430a343b567b082d45d430",
-      "size": 10986
+      "sha256": "c3f0369a395c3799a447cc72e83be399ff2c85b488771a1aefa19a78816fdbe7",
+      "size": 14173
     },
     {
       "path": "Data/Interface/lo_back_s5_04.OZJ",
-      "sha256": "4bc6cdd1f21298c7cedc4109f8e58d9a37615cbbc2bcb460bc54baea49797693",
-      "size": 11074
+      "sha256": "6e76c7814422abf7d22a090ce8cdfaa0f7509191ef8f6ad2575be56371bc8dfd",
+      "size": 10116
     },
     {
       "path": "Data/Interface/lo_back_s5_im01.OZJ",
@@ -2990,23 +2990,23 @@
     },
     {
       "path": "Data/Interface/LSBg01.OZJ",
-      "sha256": "522fb44415b7fdec3fe614835e911278b0ad029a1040e9253d525138d35f455e",
-      "size": 109116
+      "sha256": "431324987b96b5104e24562d0c3431f1d96b135cdfc8d952de5127dedd46675e",
+      "size": 83939
     },
     {
       "path": "Data/Interface/LSBg02.OZJ",
-      "sha256": "7b06767ad2d93b4eb7c5b82314a9d8cfc6c6e885c56504ff112a20168ecb3f77",
-      "size": 108370
+      "sha256": "62b9c868b2d3fb9bdfc9d69e013680766941d1377d75d693e3585843e1426976",
+      "size": 96324
     },
     {
       "path": "Data/Interface/LSBg03.OZJ",
-      "sha256": "7c5d2e86c6e53d273a6d047161a5e018d44f7e2e00249eb97766f40fd51499c4",
-      "size": 9251
+      "sha256": "05d3a28f8db1438408d4af929e0f71bac6fb24d1d1f6227c849f25aa797a1390",
+      "size": 16109
     },
     {
       "path": "Data/Interface/LSBg04.OZJ",
-      "sha256": "6be95320fa0ed616890c178824a2415651e4248b2c3dc48c047511cabe68d694",
-      "size": 13412
+      "sha256": "db7a98af6fadf14e9efbab9348cdf57924a77fc12e951a42ec869e925574a2d4",
+      "size": 12284
     },
     {
       "path": "Data/Interface/m_b_no1.OZT",
@@ -3370,13 +3370,13 @@
     },
     {
       "path": "Data/Interface/New_lo_back_01.OZJ",
-      "sha256": "724571748f3a54b67351c4f0030d03512b45ea72f7626aed033257691a52b026",
-      "size": 7308
+      "sha256": "9c389c77ef769bc89ba8f03182e5db6d58275d95bfbf97956040f791f7288c5e",
+      "size": 6771
     },
     {
       "path": "Data/Interface/New_lo_back_02.OZJ",
-      "sha256": "8812305e33c4cbc7f378fdc3617e30cd109a05e420e39a5e522072a648160c72",
-      "size": 8358
+      "sha256": "2f2de3c5d439b5dc8bd082129a2fc253a4582357e3cca1f40019daa474b91cf9",
+      "size": 5647
     },
     {
       "path": "Data/Interface/New_lo_mu_logo.OZT",
@@ -4872,6 +4872,11 @@
       "path": "Data/Interface/newui_unique_amanecer.OZJ",
       "sha256": "4cec1a278c782377c4de700f28cf15d628ae6d3b0b5671ad0a53d6e22f3939c8",
       "size": 47520
+    },
+    {
+      "path": "Data/Interface/newui_unique_carga.OZJ",
+      "sha256": "b11e1973df6a18d148208068cfb3b307710b94ec38b42a8a7c9212a6e5c9012b",
+      "size": 43807
     },
     {
       "path": "Data/Interface/newui_unique_embestida.OZJ",
@@ -72075,8 +72080,8 @@
     },
     {
       "path": "Data/UniqueMods.txt",
-      "sha256": "31afae62b840c744993550e4bd167211240fa76dd15b05806a368a449ece0806",
-      "size": 6960
+      "sha256": "46d10296a500e98994ce68d058d9355a7e4f3363aeb9335ca978ff4ad2f50d2e",
+      "size": 7086
     },
     {
       "path": "Data/upscaled.txt",
@@ -72090,8 +72095,8 @@
     },
     {
       "path": "Data/Video/login.mp4",
-      "sha256": "b36d955da0f57b88302ef3b31153d8a3b59fab992af5de924dd79c5c7bbb1e20",
-      "size": 19451934
+      "sha256": "ea0c013fc3c1c731476ebbac07b7cfe76437f3138d9cfc4a967a79ab9eacbc63",
+      "size": 21283213
     },
     {
       "path": "Data/Video/news/index.json",
@@ -91170,8 +91175,8 @@
     },
     {
       "path": "Main.exe",
-      "sha256": "a560a5a9b2f82ad8afda3380ea7d655ea33df46a7562c5cc8458e545fcb7b873",
-      "size": 11623856
+      "sha256": "8f712aca8c25f39133834a0b57da843ff9827cdd1e39b7afa7ed511da3f2b9f1",
+      "size": 11624368
     },
     {
       "path": "MuHorizon.CrashReporter.exe",
@@ -91180,7 +91185,7 @@
     },
     {
       "path": "MUnique.Client.Library.dll",
-      "sha256": "342628e1e63d43061285f3443e8115bdbb25167d8c4f319c2d0aa61b39831cae",
+      "sha256": "af70d888145368f793500e388cfd07ecb473edcb0c2edd22e450ceb590c25133",
       "size": 2728448
     },
     {
@@ -99933,12 +99938,12 @@
         },
         {
           "path": "Main.exe",
-          "sha256": "782779b69963dda0f43b80e6211607ed10f65a1d8c827e8e860f12d091dc404c",
+          "sha256": "4d69139d196c5d2a19cf377a7bae078b1fce49b4efdf8cee83eb560519d71067",
           "size": 13270448
         },
         {
           "path": "MUnique.Client.Library.dll",
-          "sha256": "163dbfb327b42755342a5c036713b7a4117e5957b4ea3fe313c6c51b12bfe055",
+          "sha256": "f7c511aada7e377e1d3980d24f38fa445ee672792b94b89b4793507522f42924",
           "size": 3233792
         },
         {
@@ -99950,11 +99955,11 @@
     }
   ],
   "patchZip": {
-    "url": "https://files.mu-horizon.com/zips/a549baf6b5b6562ea97eb69d731a5c4e50276299fbbddf37b2f1c2a37af63c69.zip",
-    "sha256": "a549baf6b5b6562ea97eb69d731a5c4e50276299fbbddf37b2f1c2a37af63c69",
-    "size": 67160592,
+    "url": "https://files.mu-horizon.com/zips/d9a267e82189c735bdc3ac8bd4b3cd6520c958cce74d45af19db2e1a4454427b.zip",
+    "sha256": "d9a267e82189c735bdc3ac8bd4b3cd6520c958cce74d45af19db2e1a4454427b",
+    "size": 30314931,
     "urls": [
-      "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-41/client-patch.zip"
+      "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-42/client-patch.zip"
     ]
   }
 }
