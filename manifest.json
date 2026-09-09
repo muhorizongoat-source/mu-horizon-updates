@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  44,
+    "patch":  45,
     "minLauncherVersion":  "1.9.2",
-    "releasedAt":  "2026-09-08T01:22:00.4398138Z",
-    "notes":  "Upgrade patch 44",
+    "releasedAt":  "2026-09-09T16:06:10.3746779Z",
+    "notes":  "Upgrade patch 45",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/c1bb901a0200a75e14f3eee298772a5a225c85ad716f38be97c51570fe4d0888.zip",
-                    "sha256":  "c1bb901a0200a75e14f3eee298772a5a225c85ad716f38be97c51570fe4d0888",
-                    "size":  1111265374,
+                    "url":  "https://files.mu-horizon.com/zips/6ece2b3282c7562a62878cd90f6450dcfc72681abc4b638dadfe5fe07b2785fc.zip",
+                    "sha256":  "6ece2b3282c7562a62878cd90f6450dcfc72681abc4b638dadfe5fe07b2785fc",
+                    "size":  1119419192,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-44/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-45/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -2815,8 +2815,8 @@
                   },
                   {
                       "path":  "Data/Interface/lo_back_im01.OZJ",
-                      "sha256":  "79c59f591899ffc980942db5e81cadd7f1715ee364482375b4aaf0135e7ea406",
-                      "size":  98314
+                      "sha256":  "7a05e59a5b5e530a53db5bf57ca77afb5d37064ef8e775163cd6f553afee9659",
+                      "size":  106252
                   },
                   {
                       "path":  "Data/Interface/lo_back_im01_Blue.OZJ",
@@ -2825,8 +2825,8 @@
                   },
                   {
                       "path":  "Data/Interface/lo_back_im02.OZJ",
-                      "sha256":  "22f822a1ecad207b3c3d1d51ff9500c7a1ae427623fd758ef73ad1ed2d9e1c39",
-                      "size":  84292
+                      "sha256":  "c17afa6e87ca79ad07e0a67893c1416e47da132e17c114b029ce88ca4b4f3394",
+                      "size":  102463
                   },
                   {
                       "path":  "Data/Interface/lo_back_im02_Blue.OZJ",
@@ -2835,8 +2835,8 @@
                   },
                   {
                       "path":  "Data/Interface/lo_back_im03.OZJ",
-                      "sha256":  "42aa4acbf52f10e48d2ff37e6bed85803906c23c569e38b28ef79011f11b20ca",
-                      "size":  55430
+                      "sha256":  "f727457211f88db3d4ffeb663a4d1199d81b8fee325294b04bab058c48e12c53",
+                      "size":  58801
                   },
                   {
                       "path":  "Data/Interface/lo_back_im03_Blue.OZJ",
@@ -2845,8 +2845,8 @@
                   },
                   {
                       "path":  "Data/Interface/lo_back_im04.OZJ",
-                      "sha256":  "2ff5e2307ab673f97308685aab257d89ebe7e0ddfc0fe5c3433ef18714d1cf46",
-                      "size":  44151
+                      "sha256":  "cf57b180e1d3127717b196386328f4ff9d098b89cfdf6fa7bbff6136c96a645f",
+                      "size":  43180
                   },
                   {
                       "path":  "Data/Interface/lo_back_im04_Blue.OZJ",
@@ -2855,8 +2855,8 @@
                   },
                   {
                       "path":  "Data/Interface/lo_back_im05.OZJ",
-                      "sha256":  "a353e80fbbc9464f88a52cd382e6dbe7be95182259abcb1e86bb5b9c5fbe13e9",
-                      "size":  48564
+                      "sha256":  "e648812b29e2d51e8634ad43d2bf0d1698d0f2f709d3b664ae1c2113c624cfdd",
+                      "size":  52588
                   },
                   {
                       "path":  "Data/Interface/lo_back_im05_Blue.OZJ",
@@ -2865,8 +2865,8 @@
                   },
                   {
                       "path":  "Data/Interface/lo_back_im06.OZJ",
-                      "sha256":  "df2935548de59757c306214475e32312b22dbebf44ec77a196bcddb6b6bcd2a7",
-                      "size":  28885
+                      "sha256":  "e75a836efb204f162f10487b4fe14a1d4130bcce13e19f1514bbe4a654c24e4e",
+                      "size":  24848
                   },
                   {
                       "path":  "Data/Interface/lo_back_im06_Blue.OZJ",
@@ -2875,13 +2875,13 @@
                   },
                   {
                       "path":  "Data/Interface/lo_back_s5_03.OZJ",
-                      "sha256":  "51883cc42ee153eabdd410b6f20920030d4917d8fedee9693066a45b9bcc7dd1",
-                      "size":  8335
+                      "sha256":  "9723ec058a2a81f5d1bc02586f49b440d4bdde838b944fd47a115a141d4bca67",
+                      "size":  7157
                   },
                   {
                       "path":  "Data/Interface/lo_back_s5_04.OZJ",
-                      "sha256":  "9892b343bafae41cca481df28e5c07270b6481999dcb435cd2a782c8dad57130",
-                      "size":  8202
+                      "sha256":  "dd28bc6a0e0c6b93c4aa13bdf2685b68fbdffc20c35bc2264ad9f8e94459d5fb",
+                      "size":  7185
                   },
                   {
                       "path":  "Data/Interface/lo_back_s5_im01.OZJ",
@@ -2990,23 +2990,23 @@
                   },
                   {
                       "path":  "Data/Interface/LSBg01.OZJ",
-                      "sha256":  "27115dbc268689e619b265a9cde5574ffe57ad9cb43a3d67f60cd06518c1a042",
-                      "size":  83360
+                      "sha256":  "1c680227f894171cb641f47030c4bf81fcdea4a1f8dfce5e2809395d544b64fd",
+                      "size":  73173
                   },
                   {
                       "path":  "Data/Interface/LSBg02.OZJ",
-                      "sha256":  "895d36533f103b2d7b0174490fcf5a55624894c4a357150ace64e88757e09542",
-                      "size":  92242
+                      "sha256":  "9c8d86565e86e9931f285e519e36acefc92dabdb98a3bda6540a92b8ba643b98",
+                      "size":  66403
                   },
                   {
                       "path":  "Data/Interface/LSBg03.OZJ",
-                      "sha256":  "5b1943a773a35431885c2673ec62504fb5c7781a09e7bb9dc5c38786b4fbc9ef",
-                      "size":  5214
+                      "sha256":  "5cfea3aec411b00979e3edc4410539b5e9a83a88c43661f634f29663e1b580c9",
+                      "size":  13598
                   },
                   {
                       "path":  "Data/Interface/LSBg04.OZJ",
-                      "sha256":  "96975bb63394550a510131a81f19beb8b7b89f4b37ed795fcea54d834c7c0281",
-                      "size":  8758
+                      "sha256":  "8ebca04e6fddcbb35a2e44d3fdbb36a1169084addb0c94aeb213ddac83f71753",
+                      "size":  13264
                   },
                   {
                       "path":  "Data/Interface/m_b_no1.OZT",
@@ -3370,13 +3370,13 @@
                   },
                   {
                       "path":  "Data/Interface/New_lo_back_01.OZJ",
-                      "sha256":  "024a5645c6f7e2629034776e98322056e896c2be2f38d700be6985c0cc6366e2",
-                      "size":  2488
+                      "sha256":  "555d0efc00f0d9cbbe0bb62fc703dc528d862ccb7ebd8e2813cce9ccfc25461e",
+                      "size":  2382
                   },
                   {
                       "path":  "Data/Interface/New_lo_back_02.OZJ",
-                      "sha256":  "378ab6a84268a9c0f0a87e204fbfc01ad0db86d6ad68e101bab13e5662788bc0",
-                      "size":  1923
+                      "sha256":  "22567607caf3926d1ec0509b0a7570a1c2b0c6b3974ad65cf2227d4c7d3dbac5",
+                      "size":  2406
                   },
                   {
                       "path":  "Data/Interface/New_lo_mu_logo.OZT",
@@ -14430,8 +14430,8 @@
                   },
                   {
                       "path":  "Data/Item/UniqueLook/2_24.bmd",
-                      "sha256":  "fbb5eb5ae5bf5e33d1288ebbdbc99160aa8aa3f2c248360970b31af87c8bc07d",
-                      "size":  58610
+                      "sha256":  "77e87f98c122ecf99b99335bb4a09fc4909f070bcbe9c7f18f74c8731099a71c",
+                      "size":  38328
                   },
                   {
                       "path":  "Data/Item/UniqueLook/2_24_0.OZJ",
@@ -14439,9 +14439,19 @@
                       "size":  19263
                   },
                   {
+                      "path":  "Data/Item/UniqueLook/2_24_0.OZT",
+                      "sha256":  "d910def7436355bcbf4023f58e7deb1bbc4ac0f27afddf133d3847c5d96f29ba",
+                      "size":  32790
+                  },
+                  {
                       "path":  "Data/Item/UniqueLook/2_24_1.OZJ",
-                      "sha256":  "192568abf79986e29f338e4c5d482e112b9b1b40ae3abed5f89e56399103e6b6",
-                      "size":  3665
+                      "sha256":  "846a97793f7feca93ce198cea37b40d1a1e68834402839b83934ded000c051e1",
+                      "size":  10690
+                  },
+                  {
+                      "path":  "Data/Item/UniqueLook/2_24_2.OZJ",
+                      "sha256":  "02bc2c6c917df1ea750c7fcb82809eab3bd338c2b507296f845ccef690017886",
+                      "size":  894
                   },
                   {
                       "path":  "Data/Item/UniqueLook/2_25.bmd",
@@ -14860,8 +14870,8 @@
                   },
                   {
                       "path":  "Data/Item/UniqueLook/README.md",
-                      "sha256":  "1d0f0f554906e41d48911613a570a5121c2fdb1e2a7bc4b502840e9656927e91",
-                      "size":  311
+                      "sha256":  "a51ab3a832aa37c8a5f7bc772f9c09e2e4d6c2cdb3f4bcbf2a9d8bb8a69271d8",
+                      "size":  447
                   },
                   {
                       "path":  "Data/Item/upper_09.OZJ",
@@ -15740,7 +15750,7 @@
                   },
                   {
                       "path":  "Data/Local/Eng/item_eng.bmd",
-                      "sha256":  "5c2345e0ff208593d9ecd54e678cba2e0c05db3b2fc039d6ce898ce67fb90ff3",
+                      "sha256":  "b19afed94e8cb04b8fe7493a6e2530d3a88c25d6c7b3ce8c10ff0cb58d907115",
                       "size":  851972
                   },
                   {
@@ -16100,8 +16110,8 @@
                   },
                   {
                       "path":  "Data/Local/mix.bmd",
-                      "sha256":  "2c9b86ba8042ed4c25765b5ea13079485c8a8be71c499de4d65af9cc2c131c95",
-                      "size":  78776
+                      "sha256":  "42d1770f8aa595f0d36b1dd497567c90cc28d0da54a317eaf8f7514c8c4a7854",
+                      "size":  83368
                   },
                   {
                       "path":  "Data/Local/MonsterSkill.bmd",
@@ -16375,7 +16385,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/item_por.bmd",
-                      "sha256":  "c5d224e41f53aa8512dc8a19c41c88ee027065adf76d6a54230999e28deac9c1",
+                      "sha256":  "67f67876ffffa1f990b9fbec6ecd6e46de4a6b27d18156da45b85f5e80dc50ab",
                       "size":  851972
                   },
                   {
@@ -16985,7 +16995,7 @@
                   },
                   {
                       "path":  "Data/Local/Spn/item_spn.bmd",
-                      "sha256":  "ecc841ac238df2d6fb8bef3ebebf2a871bba0501a909b917d1e283ece0af8651",
+                      "sha256":  "fc90810a7ad748ea54ee2c4c0ab1261123c3b3a2fba34b9ba7d70b72e496fd97",
                       "size":  851972
                   },
                   {
@@ -68949,6 +68959,11 @@
                       "size":  213862
                   },
                   {
+                      "path":  "Data/Sound/grab_shout.wav",
+                      "sha256":  "5985ce9fce03c58797102d697dcd6396d72f2dfda134ff97a2b3fd3ccb6dad8b",
+                      "size":  152712
+                  },
+                  {
                       "path":  "Data/Sound/handclap-01.wav",
                       "sha256":  "ac2a5a00f97d05df41f09c9d666869be49a037bee4b32b89fec6cf8e80767214",
                       "size":  316140
@@ -72875,12 +72890,17 @@
                   },
                   {
                       "path":  "Data/UniqueItems.txt",
-                      "sha256":  "3da5c3175205e9e0b0fe1e5d9f416df78812aaf9a23861562c32e0cd44e2711d",
+                      "sha256":  "83bc4e1a2c61e6b62774366b6ce3db6ee965507edd36408ca1581aa302abb98c",
                       "size":  5564
                   },
                   {
+                      "path":  "Data/UniqueLook.off",
+                      "sha256":  "0d41122b5e1dd19274982103ef37f99b2e3368b9f0ee4a31a3a03ad756c16cc8",
+                      "size":  178
+                  },
+                  {
                       "path":  "Data/UniqueMods.txt",
-                      "sha256":  "46d10296a500e98994ce68d058d9355a7e4f3363aeb9335ca978ff4ad2f50d2e",
+                      "sha256":  "19f145f636dd82fa80c1ee81bb339a1478111296d7fb6967622525f4faa0034b",
                       "size":  7086
                   },
                   {
@@ -82340,23 +82360,38 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "9703736915f43b8e09c5b575dfca7964cd2d84f5f3df706dfddf5f4fd874499f",
-                      "size":  11629488
+                      "sha256":  "7a46480bc9446fc4dc715c5e849f09680ee5279a4058fcba14e5da4c4e2b3f63",
+                      "size":  11636144
                   },
                   {
                       "path":  "MuHorizon.CrashReporter.exe",
-                      "sha256":  "47168aa34c96e8f3b02cfd5a5064baa82affe9a8cf370339972fd22fd9cb9794",
+                      "sha256":  "0bab3a26a4321276c6aa1505019de7833015af9a19d0f640c9d9e3b5f0f8fb19",
                       "size":  116837528
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
-                      "sha256":  "317baf99492e4227d04a1dfbd6cb9fd10b06f49b3e0975d567c610d124cd6861",
+                      "sha256":  "416a9dd11d87222e0084adf7d421885028bee7bbe378b01c0efa872b8f9c8eb7",
                       "size":  2728448
                   },
                   {
                       "path":  "ogg.dll",
                       "sha256":  "e6a3deeebe9de112a9a0c0c456a15e7f6cbae0af5d859932bdc5ff1ad9cfa60e",
                       "size":  53248
+                  },
+                  {
+                      "path":  "Screen(09_08-21_40)-0000.jpg",
+                      "sha256":  "c8fb67f252904e766b7b8305d5cf804f75344abd1510b420e258083cee333937",
+                      "size":  2783704
+                  },
+                  {
+                      "path":  "Screen(09_08-21_40)-0001.jpg",
+                      "sha256":  "f61d224c938e80c3335d9cc473e40f084512802df77d9b6278e42e99ca6a448c",
+                      "size":  2803014
+                  },
+                  {
+                      "path":  "Screen(09_08-21_42)-0002.jpg",
+                      "sha256":  "a8d835c2a11f45aeb673ecf27f233f113f92fab96b4a4696c27f397d849b508a",
+                      "size":  2472117
                   },
                   {
                       "path":  "vorbisfile.dll",
@@ -82550,11 +82585,6 @@
                                            "path":  "Data/Item/Arrows02.bmd",
                                            "sha256":  "3872f5dd64bd90a0ef7a31812ff7710c5d635c67403e0fdf5bd891967f0a438f",
                                            "size":  11414
-                                       },
-                                       {
-                                           "path":  "Data/Item/Axe01.bmd",
-                                           "sha256":  "2ffd58bf01ba21d9b4fce44b7d5edf116aa673116ddee383c2fe3e870d0df18f",
-                                           "size":  27130
                                        },
                                        {
                                            "path":  "Data/Item/Axe02.bmd",
@@ -82782,11 +82812,6 @@
                                            "size":  65558
                                        },
                                        {
-                                           "path":  "Data/Item/Bow01.bmd",
-                                           "sha256":  "348f61a52b332b89c3aa5e40fcbbb7fc31c0ee04d31bc16d4cc29792a77a6244",
-                                           "size":  22336
-                                       },
-                                       {
                                            "path":  "Data/Item/bow01.OZJ",
                                            "sha256":  "f64d18918441da55204aecb38d56b65a525b7c6e0db05843bc4058eac271cd83",
                                            "size":  8695
@@ -82980,11 +83005,6 @@
                                            "path":  "Data/Item/crossbow_box.OZJ",
                                            "sha256":  "70fab0e15c17298465a1138ca3424085be83e0aa4e0423db777f39f9ddbb7892",
                                            "size":  7983
-                                       },
-                                       {
-                                           "path":  "Data/Item/CrossBow01.bmd",
-                                           "sha256":  "7aa7f8beb38a102eae5fa0ddd64335dba692e6f22cbd0c8f3c75287d621836f4",
-                                           "size":  21455
                                        },
                                        {
                                            "path":  "Data/Item/crossbow01.OZJ",
@@ -84292,11 +84312,6 @@
                                            "size":  262192
                                        },
                                        {
-                                           "path":  "Data/Item/K_Axes02HQ.ozj",
-                                           "sha256":  "15c23e1ec9a46ae467a8ee98f4e1571d3a5cfb592c6ac2f2ebd59493f9c614b1",
-                                           "size":  71856
-                                       },
-                                       {
                                            "path":  "Data/Item/K_Axes03HQ.ozj",
                                            "sha256":  "25390a422f1b785ec6ceb8e7879afde2d4487a1d98f6ccae2ecdbfc4714d4504",
                                            "size":  76389
@@ -84512,11 +84527,6 @@
                                            "size":  23646
                                        },
                                        {
-                                           "path":  "Data/Item/K_Sword02HQ.ozj",
-                                           "sha256":  "40fed00385b913bda3eb14d0ac635d74aa8cd5330470bdb7293ec2a02b851417",
-                                           "size":  47533
-                                       },
-                                       {
                                            "path":  "Data/Item/K_Sword06HQ.ozj",
                                            "sha256":  "bf30e2feed36ad7f506f52c3dfd0a80a006a0e871fc7ca181502796a47a74a1d",
                                            "size":  38299
@@ -84687,11 +84697,6 @@
                                            "size":  106006
                                        },
                                        {
-                                           "path":  "Data/Item/KMUA2_tex_wq2001_1.ozj",
-                                           "sha256":  "42e240a37fca27a7dee4ac89660cf06a7cb19d892b0f0d941f81cb67e7cc7b8a",
-                                           "size":  86316
-                                       },
-                                       {
                                            "path":  "Data/Item/KMUA2_tex_wq2002_1.ozj",
                                            "sha256":  "5af7a361223ddb2c319cae68fa9c77db6c84e926e5b854022af0b30f9c31ee44",
                                            "size":  56219
@@ -84710,11 +84715,6 @@
                                            "path":  "Data/Item/KMUA2_tex_wq2099.ozj",
                                            "sha256":  "c4c1355c21efb5a65a45f6ae72fdea6dda15402d8284a97beaa4dd0cce879a69",
                                            "size":  115481
-                                       },
-                                       {
-                                           "path":  "Data/Item/KMUA2_tex_wq3001.ozj",
-                                           "sha256":  "88d9c6d29a34f9a9b773a771c819b95d1ba7a05f484d6019fd6ba49c6deb7a27",
-                                           "size":  74163
                                        },
                                        {
                                            "path":  "Data/Item/KMUA2_tex_wq3002.ozj",
@@ -84855,11 +84855,6 @@
                                            "path":  "Data/Item/Mace02.bmd",
                                            "sha256":  "f466eb892761767466208180e8307ca6ded947a92b3cc0ffb508b0b911819d6e",
                                            "size":  46892
-                                       },
-                                       {
-                                           "path":  "Data/Item/mace02.OZJ",
-                                           "sha256":  "3c63243a956dba0f3e3f304322e2ffe67808492f632184f7fb13174f7707ddb8",
-                                           "size":  5107
                                        },
                                        {
                                            "path":  "Data/Item/Mace03.bmd",
@@ -85372,11 +85367,6 @@
                                            "size":  1048598
                                        },
                                        {
-                                           "path":  "Data/Item/Polearms02.OZJ",
-                                           "sha256":  "f6d06c1a0d1d7d4753c2894ac8e2d3f92a5bbcf7a5ffd4e7f206354807466b99",
-                                           "size":  22110
-                                       },
-                                       {
                                            "path":  "Data/Item/Polearms03.OZJ",
                                            "sha256":  "d44c9951fa9d574e0e61cf34c7c30b350f950cd20f535d17ec077e2ee2877f5e",
                                            "size":  26886
@@ -85560,16 +85550,6 @@
                                            "path":  "Data/Item/secromicon_piece.OZJ",
                                            "sha256":  "ad1bd79bee188f2378dc08678d52f0bdf6aff0b0180cb9e39c3ac426822feb3a",
                                            "size":  85092
-                                       },
-                                       {
-                                           "path":  "Data/Item/sep01.OZJ",
-                                           "sha256":  "6296ce09fa6c0309f03a95e6f8e01022e0bb8102b4f277f080c7d1bc007eb2f3",
-                                           "size":  10549
-                                       },
-                                       {
-                                           "path":  "Data/Item/sep011.OZJ",
-                                           "sha256":  "bf9e3edbb58e366211ca877662eca690c19f0ebf528b7ace928d3af5f6f43abe",
-                                           "size":  9915
                                        },
                                        {
                                            "path":  "Data/Item/sep02.OZJ",
@@ -85947,11 +85927,6 @@
                                            "size":  470259
                                        },
                                        {
-                                           "path":  "Data/Item/Staff01.bmd",
-                                           "sha256":  "69e7e2d902787af95d6c27c52dd0f157f0a41bf010089d23f6fc226cda0558f1",
-                                           "size":  25442
-                                       },
-                                       {
                                            "path":  "Data/Item/Staff02.bmd",
                                            "sha256":  "6a88397c05edb95d452324b279368e78afbf650f1bd1af5c908080529f00dbcd",
                                            "size":  22046
@@ -86055,11 +86030,6 @@
                                            "path":  "Data/Item/Sumbk.OZJ",
                                            "sha256":  "4f07786baab248bf1b9466c48c155534f6c274a72b5120e9dbc3275d9bb2952b",
                                            "size":  22425
-                                       },
-                                       {
-                                           "path":  "Data/Item/Sword01.bmd",
-                                           "sha256":  "6ad81e8efdb7dd7640091550b25877015167e692638930896a74f04e1829b736",
-                                           "size":  32444
                                        },
                                        {
                                            "path":  "Data/Item/sword015.OZJ",
@@ -91103,8 +91073,8 @@
                                        },
                                        {
                                            "path":  "Main.exe",
-                                           "sha256":  "9dd5e5caec123a5ff895e29995891a654508d0a91198fcfe65638397e5188156",
-                                           "size":  13278128
+                                           "sha256":  "24cfec7507467f3f7a5672dfb65692e7dc6284c1ebd07d8bdfca37abbd3f1a97",
+                                           "size":  13282224
                                        },
                                        {
                                            "path":  "MUnique.Client.Library.dll",
@@ -91120,11 +91090,11 @@
                      }
                  ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/8c631f4021144d9413f11b27d2d93daf52d967d151fec7332fbe3679657f6bc7.zip",
-                     "sha256":  "8c631f4021144d9413f11b27d2d93daf52d967d151fec7332fbe3679657f6bc7",
-                     "size":  57052209,
+                     "url":  "https://files.mu-horizon.com/zips/abcfa2bec9a8762e49380c46eb3e2c8e24b81a771bf28cb24a5baaf9525ea3a5.zip",
+                     "sha256":  "abcfa2bec9a8762e49380c46eb3e2c8e24b81a771bf28cb24a5baaf9525ea3a5",
+                     "size":  65361991,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-44/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-45/client-patch.zip"
                               ]
                  }
 }
