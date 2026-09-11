@@ -1,8 +1,9 @@
 {
     "generation":  1,
-    "patch":  49,
-    "releasedAt":  "2026-09-11T22:28:12.9639680Z",
-    "notes":  "Upgrade patch 49",
+    "patch":  50,
+    "minLauncherVersion":  "1.9.2",
+    "releasedAt":  "2026-09-11T23:21:02.6464570Z",
+    "notes":  "Upgrade patch 50",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
@@ -12,9 +13,10 @@
                     "sha256":  "7eff401a1867b94965f034d28743724bac76f4bbbd5017191910f6b1085b958b",
                     "size":  1119412151,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-49/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-50/client-full.zip"
                              ]
                 },
+    "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
     "files":  [
                   {
                       "path":  "config.ini.template",
@@ -92011,13 +92013,13 @@
                                        },
                                        {
                                            "path":  "Main.exe",
-                                           "sha256":  "cbc73583ba700bf33e37065b1f6ff617e1c087a89d936be03e12ded895525666",
-                                           "size":  13316016
+                                           "sha256":  "c2d97052cd81eb2bb674bb7fb03857960761108504dafd6e7820b65e3e4909cd",
+                                           "size":  13322160
                                        },
                                        {
                                            "path":  "MUnique.Client.Library.dll",
-                                           "sha256":  "bb600fa39a55a75569fcfd3a5f76b665ac7aa4788eb79ab52b7f63d02f162a1e",
-                                           "size":  3233792
+                                           "sha256":  "def8e058b332cd3a52f50baa5dbe17cee9b1ad9c942316bf402474db16fba899",
+                                           "size":  3234304
                                        },
                                        {
                                            "path":  "WebView2Loader.dll",
@@ -92032,9 +92034,7 @@
                      "sha256":  "84b2de4538753365d9c9fa02bb80042f4d9c9896c5a3d97b8e5f45c91fe46db9",
                      "size":  56509407,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-49/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-50/client-patch.zip"
                               ]
-                 },
-    "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
-    "minLauncherVersion":  "1.9.2"
+                 }
 }
