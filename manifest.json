@@ -1,7 +1,6 @@
 {
     "generation":  1,
     "patch":  49,
-    "minLauncherVersion":  "1.9.2",
     "releasedAt":  "2026-09-11T22:28:12.9639680Z",
     "notes":  "Upgrade patch 49",
     "connection":  {
@@ -16,7 +15,6 @@
                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-49/client-full.zip"
                              ]
                 },
-    "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
     "files":  [
                   {
                       "path":  "config.ini.template",
@@ -92036,5 +92034,7 @@
                      "urls":  [
                                   "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-49/client-patch.zip"
                               ]
-                 }
+                 },
+    "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
+    "minLauncherVersion":  "1.9.2"
 }
