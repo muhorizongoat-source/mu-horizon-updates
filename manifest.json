@@ -1,19 +1,19 @@
 {
   "generation": 1,
-  "patch": 46,
+  "patch": 47,
   "minLauncherVersion": "1.9.2",
-  "releasedAt": "2026-09-11T15:25:28.6581597Z",
-  "notes": "Upgrade patch 46",
+  "releasedAt": "2026-09-11T20:00:35.5270787Z",
+  "notes": "Upgrade patch 47",
   "connection": {
     "serverIp": "play.mu-horizon.com",
     "serverPort": 44406
   },
   "fullZip": {
-    "url": "https://files.mu-horizon.com/zips/4ddc55ecdbd9b9da3b1ec33919c829c03240c9c670c976016c5ef590ba727786.zip",
-    "sha256": "4ddc55ecdbd9b9da3b1ec33919c829c03240c9c670c976016c5ef590ba727786",
-    "size": 1245566275,
+    "url": "https://files.mu-horizon.com/zips/ef94e02d86b9d06879613959c38bea473a3cc7843c1e6ebfff8cb8e2ff4ab2f9.zip",
+    "sha256": "ef94e02d86b9d06879613959c38bea473a3cc7843c1e6ebfff8cb8e2ff4ab2f9",
+    "size": 1246726588,
     "urls": [
-      "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-46/client-full.zip"
+      "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-47/client-full.zip"
     ]
   },
   "filesBaseUrl": "https://files.mu-horizon.com/blobs",
@@ -15515,28 +15515,28 @@
     },
     {
       "path": "Data/Item/UniqueModels/0_29.bmd",
-      "sha256": "45d1a547c4c1cd46ece386f34decef693215670fe3c903ba2ff11c1f35550ec5",
-      "size": 160370
+      "sha256": "98f5aa6f3fccc59da309bd004b12ddc3f60f12dc683452b606282dd4fde0dc10",
+      "size": 270194
     },
     {
       "path": "Data/Item/UniqueModels/0_30.bmd",
-      "sha256": "dab5bb8931a9462e162f2b7f73678af36fea1e098d242ade4535b3c91d300b86",
-      "size": 123394
+      "sha256": "5501822decf18d3f61a6c8fad7d1153c807c0ad3ce37f291f30e59eefffa5959",
+      "size": 183922
     },
     {
       "path": "Data/Item/UniqueModels/0_36.bmd",
-      "sha256": "70894460f40e65db66bdde1e2a39ba24f9701013df2c4fcca67f988dab08290f",
-      "size": 181746
+      "sha256": "f943d89003acb3ab996b3837ad5a0138e51911fed8b8d6cb473f74c0e501743e",
+      "size": 353970
     },
     {
       "path": "Data/Item/UniqueModels/0_37.bmd",
-      "sha256": "5d0ba37c80e9fecd0f3fbc6f1f00f218dfc86d347a1d8562d1fe2c03e0073ab5",
-      "size": 99778
+      "sha256": "d808ee6a22eba43aca4f543ab363b04564dcaabb7f68cc72e708305ee788066b",
+      "size": 151570
     },
     {
       "path": "Data/Item/UniqueModels/0_38.bmd",
-      "sha256": "40c59f401676bd5967efd022a64652032789cc952c9b8a07fd99f82d5dba5656",
-      "size": 119304
+      "sha256": "ba86c29c707548d1feded821e6de40df8574fea460890dab330c41f86a7e6e03",
+      "size": 192312
     },
     {
       "path": "Data/Item/UniqueModels/0_42.bmd",
@@ -15545,253 +15545,253 @@
     },
     {
       "path": "Data/Item/UniqueModels/0_43.bmd",
-      "sha256": "ef2f07b11b197b4beb0f3a4ab392ec2137ffc08784da543b9856b8e35fa2250b",
-      "size": 67202
+      "sha256": "98b7e81e212f4c6b39c7dbcaec9b45a1a43754b328c0b9a060ef96a688b3620e",
+      "size": 116498
     },
     {
       "path": "Data/Item/UniqueModels/0_44.bmd",
-      "sha256": "fb3a306dd77e5843854a276a49564478965090f7a1f0ce1d878d502dab4307b8",
-      "size": 62274
+      "sha256": "336eed267e38c7b7b544c1d332d5d62da4f6042520f5834e88da8e29f0e6a0d5",
+      "size": 115314
     },
     {
       "path": "Data/Item/UniqueModels/0_45.bmd",
-      "sha256": "b4e03b879c940932bcb748b8bc4497fa46a0295ff6500d2c0c2f2cbf826c5ff1",
-      "size": 93096
+      "sha256": "ec3a62a2280f5501cf054a5f07b8613ccb25d92a3101d91caa903c7fc8b611e4",
+      "size": 182952
     },
     {
       "path": "Data/Item/UniqueModels/1_9.bmd",
-      "sha256": "c50736c9a43f8c8aaa2fc6b0d646edbbcc67a3d0a3f947b09e5a61e729b85849",
-      "size": 116722
+      "sha256": "fc4bf5a035355bab2b232cac04c3e6ef7e3486d4f331532a47e16fcf0f33ffe9",
+      "size": 174130
     },
     {
       "path": "Data/Item/UniqueModels/13_145.bmd",
-      "sha256": "c6ef29ad25eb93e43b7ed67caa8921476138ecd662b25e5756f92d347ae16d82",
-      "size": 166882
+      "sha256": "67a5fea586ccea74e29cdb2d6da7da128dae01e6b97366b61e612c7bb0e02e7a",
+      "size": 269218
     },
     {
       "path": "Data/Item/UniqueModels/13_146.bmd",
-      "sha256": "65a70bf333db02d052cd22d8fb13949e6c691ab913f1b6656cf6a53047d03c6d",
-      "size": 210626
+      "sha256": "9a06c010097c37920aa3486fc07457390e07f21bb6fb9059f5ad52584e0d6ab7",
+      "size": 322946
     },
     {
       "path": "Data/Item/UniqueModels/13_147.bmd",
-      "sha256": "999cc7867ab1deefd53d66eccfc6b1508c6ef2679cd4f43f67110441c0c6c551",
-      "size": 169442
+      "sha256": "f949b92deca0557faf0ff9460059fadd6dd0307e79eb723f8ee7e599757f55b7",
+      "size": 273650
     },
     {
       "path": "Data/Item/UniqueModels/13_148.bmd",
-      "sha256": "52406bb31a25f16c609ebece50a17fa1d000b412711b893cfacfd4c114d4ccc2",
-      "size": 165698
+      "sha256": "0d417b0a3aa46522a87d8899c561dcb9324b28b12be94f7e598fd45b4a8219e2",
+      "size": 249314
     },
     {
       "path": "Data/Item/UniqueModels/13_149.bmd",
-      "sha256": "3f8c37fd3da1efd0e3ca094784ee53e77d6a326b96bc418f21715c1801d1e483",
-      "size": 300482
+      "sha256": "82765c91b6d9064bf4c2c30db47b5322379c0d84fdbe10085e2d77e983c1b72f",
+      "size": 451490
     },
     {
       "path": "Data/Item/UniqueModels/13_150.bmd",
-      "sha256": "3f34c6c18433fc1a3c84e64ce791df627adae89520699985d312cd7083d9b403",
-      "size": 300482
+      "sha256": "ca5abd2fb47c55ae76d903223ce37698ffe558d8f2c2ce0207bcd84dd937823f",
+      "size": 451490
     },
     {
       "path": "Data/Item/UniqueModels/13_151.bmd",
-      "sha256": "1d699d9b9f7150ddc9d5a354d3d649f7a2e8ce0886c6450b51c4e8fcceda4926",
-      "size": 169410
+      "sha256": "10faf9970c17178671b9f4dc7a22bcc84818dd87f4d874d015d2e02a0ca1bf74",
+      "size": 265506
     },
     {
       "path": "Data/Item/UniqueModels/13_152.bmd",
-      "sha256": "810795c8ef3895ebd87e52b58c74d245eb7b4774056c073b68f61b760e198bbc",
-      "size": 86418
+      "sha256": "7928b3dc845cb622ed4ff235aaac05ebf35c5d2064775ad1bdd87a9f2f95e8ab",
+      "size": 158178
     },
     {
       "path": "Data/Item/UniqueModels/13_153.bmd",
-      "sha256": "494fbed5142d96f5d41e9950b563f8264a237b06071c3fdbae6133585e3b9c30",
-      "size": 126946
+      "sha256": "2bd1d049eccb6ddb23580f3dfac9ec3bd227b2503069678be2ce12fd280c94d6",
+      "size": 209314
     },
     {
       "path": "Data/Item/UniqueModels/13_154.bmd",
-      "sha256": "27f0eb6e3e03ed1e7f72de02466194c52703858f449b1af5fffcf3650173e527",
-      "size": 76434
+      "sha256": "cec9bc6104114ee9d186f867c15bd36927ad2c969bf160ca97331c6f6b26e26e",
+      "size": 127602
     },
     {
       "path": "Data/Item/UniqueModels/13_155.bmd",
-      "sha256": "eced5bf71a22477e3edf3381de1dc75b595a7499eea5bde0c98d73ba46d49234",
-      "size": 173778
+      "sha256": "808b1efd41d5c17681f871644740537b5838d1872831a4715a4418a9941a801b",
+      "size": 261138
     },
     {
       "path": "Data/Item/UniqueModels/13_156.bmd",
-      "sha256": "b42289c857a193141f6ab8b9b67195046e878f1fc312cfcde501f694deb7ba12",
-      "size": 155842
+      "sha256": "cf3116d9ae09c298db0083a1b86c58db0ddbc9bc018607bd7f1926310cf30554",
+      "size": 266914
     },
     {
       "path": "Data/Item/UniqueModels/2_19.bmd",
-      "sha256": "efcf8095a524f5d68ab14eb6fc875d78795ebb409dac544adb5a6a753686c3c2",
-      "size": 145817
+      "sha256": "e6710d4d1e9f38494f474d4560469ded71d339643d61751c100a7299d30d470e",
+      "size": 201977
     },
     {
       "path": "Data/Item/UniqueModels/2_20.bmd",
-      "sha256": "b1eca15eed6e7df40f03e843cd8604c009e1db0844d10515a275bc7c33c337c5",
-      "size": 119987
+      "sha256": "2401af89c76544c57bea350916c338617ca38e68cfd78b246d8f87342afe93c7",
+      "size": 183635
     },
     {
       "path": "Data/Item/UniqueModels/2_23.bmd",
-      "sha256": "c064fe0f9316c45fa29762026f4462013c1e56a9158b97a17fda603e7cacce8b",
-      "size": 135533
+      "sha256": "8de1673c0e782073a37682b513c47bb45ae2d9f32f72752e05d789c6bb9e0fcc",
+      "size": 219149
     },
     {
       "path": "Data/Item/UniqueModels/2_24.bmd",
-      "sha256": "22608d05e4f9788e8a989702ac0b4bd1486fa0a323765268a04b13d429da7136",
-      "size": 122416
+      "sha256": "dff49cc1713c9b35335242f2fe14bc21fd4d9231f859ba0e10ac63d46d29be15",
+      "size": 156112
     },
     {
       "path": "Data/Item/UniqueModels/2_25.bmd",
-      "sha256": "4b7a48e91f632bedacbb2f8fc308b2da95b48548236c0b0fb255479ab07aa1eb",
-      "size": 114786
+      "sha256": "c36bd8a8078867232443620e7cb1c78a6a737fac99d65d3887204ad34a0f80db",
+      "size": 174066
     },
     {
       "path": "Data/Item/UniqueModels/2_26.bmd",
-      "sha256": "0ade97b01082500db9b4c249bc3f522bc7932353c8216c69f997f24a59c170ec",
-      "size": 166861
+      "sha256": "931c60e2353b0bdf2788f1a3fb534be6551cae178118358319f105ad900babb3",
+      "size": 256717
     },
     {
       "path": "Data/Item/UniqueModels/2_27.bmd",
-      "sha256": "e4a5c75debadbbc39d1bbc2f40bb86211d58b236806619ceca8151241a47f174",
-      "size": 139044
+      "sha256": "fce97dee2de78f1443fa5bc871ed15e3359e650029983ff8b16e2bf5fdde0313",
+      "size": 192708
     },
     {
       "path": "Data/Item/UniqueModels/3_12.bmd",
-      "sha256": "61af30c3a987e3834b17c5f0d00b43a2dbdc42c8845cf8f1901ee63b463353a9",
-      "size": 133865
+      "sha256": "94600a47813e1f1c0d27657d6d2c921ffb125165dffe11ca7abf526106e853a2",
+      "size": 206249
     },
     {
       "path": "Data/Item/UniqueModels/3_13.bmd",
-      "sha256": "9dd62a8ada43abf2c7e0be00486cfd802d7dcda465313048c7cb78decc80a22c",
-      "size": 124085
+      "sha256": "fc7f2c7aa2a9db3fbe92da39c9a7a3ce9ac1f36aa23f845fcfbd9371071f375b",
+      "size": 192725
     },
     {
       "path": "Data/Item/UniqueModels/3_14.bmd",
-      "sha256": "3e8e9ef4c28848c6f8170eb3f34b84b6849d7b1053cd61b485be7da2a41558b8",
-      "size": 223426
+      "sha256": "828d2ff459840fe2997f388ae6b830d3f988ec610948c2d3e1e608093079fc04",
+      "size": 340738
     },
     {
       "path": "Data/Item/UniqueModels/4_25.bmd",
-      "sha256": "37bb7c9df620624e7d4cc7821c058493444c4f8127ee4c40d7fc2edfd15a010b",
-      "size": 73897
+      "sha256": "12f2d4bcaf0053c57fd79cdcb2bad16e0b85b5156b31beb1e0d3588ecc22cff1",
+      "size": 141289
     },
     {
       "path": "Data/Item/UniqueModels/4_26.bmd",
-      "sha256": "846f1eb23783ce68f5c214a77dfe89eddab39f0f0276858089b86dbab88a1a6b",
-      "size": 137486
+      "sha256": "a88aa3714beb5822a521466540660424c1e8ca582d318f15806268710cdba3f3",
+      "size": 246062
     },
     {
       "path": "Data/Item/UniqueModels/4_28.bmd",
-      "sha256": "0d2f430dbc54ef8ceb0f7c3ec14df31f9e3b353700156fdfebdc7d987170a98a",
-      "size": 139883
+      "sha256": "f6d5ad3a8618fd17a1586b92f6ea3fe9ee03a1fcfdc70db2a2f5ca84f7d9a71c",
+      "size": 238475
     },
     {
       "path": "Data/Item/UniqueModels/4_29.bmd",
-      "sha256": "9e810e82c09940273dfa4ff7aa8f746e7bf6e030a7d0679d2bc3bd9185d56330",
-      "size": 125937
+      "sha256": "fc96a11dc51a2870ee2fb18a34babf2ad6327a1440bbae2b7709d1119d74dd41",
+      "size": 194577
     },
     {
       "path": "Data/Item/UniqueModels/4_30.bmd",
-      "sha256": "2d7114a810c2d425011ff3fa87190ebf681d14d4058b5c2ab8f7c3c2412c512b",
-      "size": 116182
+      "sha256": "cb309e59f31ef0d133aa7091006fad8e770e95e9017226126a9cb676d5507bec",
+      "size": 162358
     },
     {
       "path": "Data/Item/UniqueModels/4_31.bmd",
-      "sha256": "42bfca6340d5ba128e0263b00ace1f09027e1625c88ccfbd5949c670a46c612a",
-      "size": 349259
+      "sha256": "724fa63f9e5abb4efe1ba52806e73c93cce3464a1c9c5476ff93e11493da83e7",
+      "size": 526475
     },
     {
       "path": "Data/Item/UniqueModels/5_24.bmd",
-      "sha256": "4db8127b131a21c045fa28ca116ac4f16d4c840a4cb3f32408bdefe0340d60ce",
-      "size": 139410
+      "sha256": "dedf3f321d2960ba247d73b45fb17eabc293d20c9d8eb8cbd7e6629c6b7e98d7",
+      "size": 218034
     },
     {
       "path": "Data/Item/UniqueModels/5_25.bmd",
-      "sha256": "ba4ef007fe2c870ad093ab44128e01f1db863ae87d90c69320aa1963589f7768",
-      "size": 265827
+      "sha256": "e6876ff28f381d2db954e664015b1fb45c89f78aa804f203832b904664879b5a",
+      "size": 385635
     },
     {
       "path": "Data/Item/UniqueModels/5_26.bmd",
-      "sha256": "a096eb769c80adc420a7f20d85ecf191e5de69d23097c626d581fc1309eb1d02",
-      "size": 204058
+      "sha256": "f01d8ebb311b1758c93ecdbddaf24d4753c8392448731ae963a10412bef0ef00",
+      "size": 325114
     },
     {
       "path": "Data/Item/UniqueModels/5_27.bmd",
-      "sha256": "fad56ee8508eced5c86b0dc444cb6c6092be3928fb080e2cedf19b021ad0614c",
-      "size": 127834
+      "sha256": "f95968e6d459ef4384e09958e37096a6b1a8e75bb8b7e46d8164c1b9b3eb2517",
+      "size": 198970
     },
     {
       "path": "Data/Item/UniqueModels/5_28.bmd",
-      "sha256": "a6d711b68a59c21937c6b815cd34c56ec0431fe39e460f5cdbeaa9eede5e2e12",
-      "size": 178204
+      "sha256": "5ec3c3fb4b1498092c92fcbc3536134d5267b383bdca2008857e169bd482078a",
+      "size": 268060
     },
     {
       "path": "Data/Item/UniqueModels/5_29.bmd",
-      "sha256": "44ea250cdf286ef551a810ad803671b1bd372f3ad1682ba0becf31ce5071862b",
-      "size": 138717
+      "sha256": "f32e3627e5d79c344698ecf4bfc684c40373643e8a2d51968e28823207a3a0c7",
+      "size": 234813
     },
     {
       "path": "Data/Item/UniqueModels/5_32.bmd",
-      "sha256": "6df54e7184120a6eedad9c31c76e670f6d10e8ca96a1c8401629405d9198a1e9",
-      "size": 137506
+      "sha256": "fdeea67cc80e97a0da5f90c4b0f49c4758250e9c2cfa50b9d5c55e0dcdc5e4fe",
+      "size": 196162
     },
     {
       "path": "Data/Item/UniqueModels/5_35.bmd",
-      "sha256": "afc92fb8373e73704e61fea3ec8cb290e4aaeaa8a33d5882ac3368ca4a2e4488",
-      "size": 200962
+      "sha256": "edcfa2cef54cd35a4d6c672092d26f52714aed9064586e659a41de0afb576fae",
+      "size": 288322
     },
     {
       "path": "Data/Item/UniqueModels/5_39.bmd",
-      "sha256": "0123890c48b2c4eed3a4ff7339668ea2c9e5a20ae147e21a5147f5110783d7c4",
-      "size": 265325
+      "sha256": "f26dab80d3cef407930ed88888abdcfcff648fcec5d423f184d1ed92b79aa2c8",
+      "size": 385133
     },
     {
       "path": "Data/Item/UniqueModels/5_40.bmd",
-      "sha256": "9c31432bdd7a42e8316bc99a7452b9741497dbb9e4a846f82a411e01ec28c45d",
-      "size": 100066
+      "sha256": "fcc99d5056af156dbc5496f078863f753e45b8338d20b9bba70dd9acd810c34a",
+      "size": 179938
     },
     {
       "path": "Data/Item/UniqueModels/6_22.bmd",
-      "sha256": "2acfa8e8d19d30c7decfbec4c0b402cf4b5f71856ed88e44a7bac200e71b0284",
-      "size": 69661
+      "sha256": "5eac7d865b68db341732f12b8c06f5ba41bd5ed698149056cfeaa046957c99bf",
+      "size": 108349
     },
     {
       "path": "Data/Item/UniqueModels/6_23.bmd",
-      "sha256": "26a23223918894149d1e188d4c9497121aeb5275786e7a4377569468d601a54b",
-      "size": 60989
+      "sha256": "d9eb1d97245058ef4eca6fec40ef465e90c1c748ba73beb47f0b2bb2bee1485b",
+      "size": 139613
     },
     {
       "path": "Data/Item/UniqueModels/6_24.bmd",
-      "sha256": "1998c20dd83465a0172f92f1f8d0d4d31456b98fe102245a0ad253d99ff882ee",
-      "size": 38994
+      "sha256": "231dbcdd0d7872e68448ee4a69b987047712c0c695f22f3d4044a5a3a124411e",
+      "size": 68946
     },
     {
       "path": "Data/Item/UniqueModels/6_25.bmd",
-      "sha256": "ed5a4bd3c7ad9d339453edf29ce947aada0f23b92f4a3381432c1b4bfc1e3dcc",
-      "size": 66161
+      "sha256": "d259e7f0ebadab85cba9df834d998417edf8a2a0d6cfa82db3c4fd901a30f6bd",
+      "size": 136049
     },
     {
       "path": "Data/Item/UniqueModels/9_74.bmd",
-      "sha256": "3d6e77d996182226f762871f0304b2d31b23d56c0ea81ca7d54d55cf52cd4d09",
-      "size": 153164
+      "sha256": "e7405ed680dba89bffcdd1a8681daf882fe9beb65147c0bfb693c810dcbe9636",
+      "size": 260492
     },
     {
       "path": "Data/Item/UniqueModels/hz_amanecer.OZJ",
-      "sha256": "82da022597acbf35f050c89d80cda75db2f0c148d755e06b32a62fbd02d92e9f",
-      "size": 767398
+      "sha256": "04d47c09eca9019042b6dbb6a1a6151c16935b393decd7ffab3c36bccf929e94",
+      "size": 621651
     },
     {
       "path": "Data/Item/UniqueModels/hz_unique_ivory.OZJ",
-      "sha256": "1269c493eafb6b99f7e1d96fccb674182cd12aeb127661d3b79632e6e7baee8c",
-      "size": 718420
+      "sha256": "093cba9438cbf0184b275ae0da1e301a2bab136bcc928239e634f021b51522a1",
+      "size": 660254
     },
     {
       "path": "Data/Item/UniqueModels/hz_unique_onyx.OZJ",
-      "sha256": "9cbf565e07ca40ab9bc60443ef676e81f19645e37f250981c0a576deccb87907",
-      "size": 774571
+      "sha256": "39b9f883cdf5e80f2121246b5db9dd07ce2b96ce2b7785711a8096a95c8763fe",
+      "size": 613769
     },
     {
       "path": "Data/Item/upper_09.OZJ",
@@ -17030,7 +17030,7 @@
     },
     {
       "path": "Data/Local/mix.bmd",
-      "sha256": "42d1770f8aa595f0d36b1dd497567c90cc28d0da54a317eaf8f7514c8c4a7854",
+      "sha256": "b898e10efd052394116c62ac6dab1d7380abe21937f639e6169a7d6efca5589b",
       "size": 83368
     },
     {
@@ -83310,17 +83310,17 @@
     },
     {
       "path": "Main.exe",
-      "sha256": "4a41e36710faa91293775d162a9591985e3bdc60638c6f6ae1152363edfbc459",
+      "sha256": "0186b8f40322fd1faff81f9874f9de51a5ee0785cec335c8760baa3181302fb6",
       "size": 11669936
     },
     {
       "path": "MuHorizon.CrashReporter.exe",
-      "sha256": "093a80b82b3686e5b2c5f9e1fc32db14e1788357ad41c213395c28ae0122d252",
+      "sha256": "e9ae2019dd1f527b13b739f811bcdb5001db6dfd1423b4117a6ec26460e2bad9",
       "size": 116837528
     },
     {
       "path": "MUnique.Client.Library.dll",
-      "sha256": "d9de3e3b2e54b93d331af301040be5d498a5ef1f31cec6b8b560d727b8e7b518",
+      "sha256": "2162887add444de1ace1c8dcacc0ee79d51346ebb2e542d82f434082fedb1dcd",
       "size": 2728448
     },
     {
@@ -92013,12 +92013,12 @@
         },
         {
           "path": "Main.exe",
-          "sha256": "43ea9169ff30cfa57bbe1a0edd0068658e923b1197dbb0813ccc6e4f81babed0",
-          "size": 13314992
+          "sha256": "525883511f9199b928d34e9a509f39401250e52a9b52c64528ccfa9eb66f4827",
+          "size": 13316016
         },
         {
           "path": "MUnique.Client.Library.dll",
-          "sha256": "70f1e0813cb6a34c7ff4d10fc80f1d1185df53c08943612c394835d90bd62536",
+          "sha256": "befda58adfd062c0e3aef6c1e55d141ae8d908de4ea40515e64b962ed32e7644",
           "size": 3233792
         },
         {
@@ -92030,11 +92030,11 @@
     }
   ],
   "patchZip": {
-    "url": "https://files.mu-horizon.com/zips/c66ce9d44251cdceb95326ccc78c343c69dc34cde5eed5b61e9aafb77f726b18.zip",
-    "sha256": "c66ce9d44251cdceb95326ccc78c343c69dc34cde5eed5b61e9aafb77f726b18",
-    "size": 77738866,
+    "url": "https://files.mu-horizon.com/zips/2bc0ddbd1bee37761f8bae827de5aa8ec60719a97ed40915fc9de9097186f9b2.zip",
+    "sha256": "2bc0ddbd1bee37761f8bae827de5aa8ec60719a97ed40915fc9de9097186f9b2",
+    "size": 73032086,
     "urls": [
-      "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-46/client-patch.zip"
+      "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-47/client-patch.zip"
     ]
   }
 }
