@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  61,
+    "patch":  62,
     "minLauncherVersion":  "1.9.2",
-    "releasedAt":  "2026-09-15T21:57:26.4446789Z",
-    "notes":  "Upgrade patch 61",
+    "releasedAt":  "2026-09-16T03:06:45.1003309Z",
+    "notes":  "Upgrade patch 62",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/a360e12e34e571e2b32583d430f384bafac90d9d7d20145e62cdb2feb48087fc.zip",
-                    "sha256":  "a360e12e34e571e2b32583d430f384bafac90d9d7d20145e62cdb2feb48087fc",
-                    "size":  1123311549,
+                    "url":  "https://files.mu-horizon.com/zips/23ce83b616b52d4d4c4a1c0cc8210e95dfc995fe2cd9ae63451a0095662e312f.zip",
+                    "sha256":  "23ce83b616b52d4d4c4a1c0cc8210e95dfc995fe2cd9ae63451a0095662e312f",
+                    "size":  1150107799,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-61/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-62/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -2405,8 +2405,8 @@
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSPackage.txt",
-                      "sha256":  "48a37c738309db9591e298558c9bff5eca03a4d59bbf76e7c720b073c6902201",
-                      "size":  7876
+                      "sha256":  "2aeadcad8339d7345e1e11d21d2e8b66e0a3298a89d1bc907cc8da305547a681",
+                      "size":  7841
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSProduct.txt",
@@ -15805,22 +15805,22 @@
                   },
                   {
                       "path":  "Data/Item/UniqueModels/6_22.bmd",
-                      "sha256":  "6a024bb6a5b5b28a7d435f932a627f4d0f004aae0065077875f377cabe974438",
+                      "sha256":  "341414c2e9c808399ba4b77cc5bd66d31b16ff87af1d155d789ec7631fa9f3c4",
                       "size":  381453
                   },
                   {
                       "path":  "Data/Item/UniqueModels/6_23.bmd",
-                      "sha256":  "42dcebe901eb7b18998a8ff2e74d41c8315c2216c87400aa8c50d655639698e7",
+                      "sha256":  "8af043b31ed8e5b29d3eb3e4b3de6d3a092ac8112719ee1a06f593f0c081faca",
                       "size":  860965
                   },
                   {
                       "path":  "Data/Item/UniqueModels/6_24.bmd",
-                      "sha256":  "3c8b29649fd6d86bfb09570da3ac9079c871a2c1ab0569435af67d4a296dd2f8",
+                      "sha256":  "7f793f8311a47bec58af5ab6e636e272725204d3484b6188720fa5affb87223e",
                       "size":  777186
                   },
                   {
                       "path":  "Data/Item/UniqueModels/6_25.bmd",
-                      "sha256":  "d6f50fe118def8a443a3dc7e8bf45586971901dc091a4db246e1ecb0d78de878",
+                      "sha256":  "c4a191752126bcbf1a76c39bb0fc3b5071ad8e6d7bdebd784ba8d85ba230e955",
                       "size":  573939
                   },
                   {
@@ -16770,7 +16770,7 @@
                   },
                   {
                       "path":  "Data/Local/Eng/itemsetoption_eng.bmd",
-                      "sha256":  "cbbfe7a3bdeb1a633c4e80087cfb49ec4de1b1b4df4df770901bde4e40304af7",
+                      "sha256":  "c0537aff95a00cd4b40616636f5c00404f8a9d6737850ab57c0611f78c741aed",
                       "size":  7044
                   },
                   {
@@ -17070,7 +17070,7 @@
                   },
                   {
                       "path":  "Data/Local/itemsettype.bmd",
-                      "sha256":  "75627df8bb200b16bab10eb313ac5415bec017ab2632a438c11eb6fdf3bd1498",
+                      "sha256":  "e1f33dcfa59d39a805fff3499ba7e20ca9885fcd1119812f4f75a8406ed256c6",
                       "size":  32772
                   },
                   {
@@ -17395,7 +17395,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/itemsetoption_por.bmd",
-                      "sha256":  "ca172d982399d90e169008a4fb1bb531616cb0ff052ff8bd90f04789168c8a25",
+                      "sha256":  "74cc979560cb250ecc15caf06936b91c3063e552ef4957da11910e2b91dac345",
                       "size":  7044
                   },
                   {
@@ -18005,7 +18005,7 @@
                   },
                   {
                       "path":  "Data/Local/Spn/itemsetoption_spn.bmd",
-                      "sha256":  "4d8261b95ed382cbacb01e5fedfb13752558e268e13201515fe8a015790306c7",
+                      "sha256":  "9d4a97f701525ecbf0aa8ee819a90c39d4e9f0037231449059a257e7b9368ea6",
                       "size":  7044
                   },
                   {
@@ -72089,9 +72089,654 @@
                       "size":  43240
                   },
                   {
+                      "path":  "Data/Sound/voices/alex_break.wav",
+                      "sha256":  "af7ca3113525a6ecbf7f5c7d63fbf219ca19c879d9043bf4037de275fc6f24a2",
+                      "size":  296430
+                  },
+                  {
+                      "path":  "Data/Sound/voices/alex_break_en.wav",
+                      "sha256":  "1efa48ced5d748d039670f999b790aa023945f717364543d9a8a9f31bcc8febf",
+                      "size":  296430
+                  },
+                  {
+                      "path":  "Data/Sound/voices/alex_ready.wav",
+                      "sha256":  "95da7d450f59b9acb324461ae754662158913075648496114e8aee79299b6888",
+                      "size":  317598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/alex_ready_en.wav",
+                      "sha256":  "144cc53afeb3731d30036e8c887def60e7799236a313ae044abca85c22158a91",
+                      "size":  275262
+                  },
+                  {
+                      "path":  "Data/Sound/voices/alex_steel.wav",
+                      "sha256":  "53dae9ba65909012cf58553069f7956dfb24a8fe023e9a8e2193ee3585fbc8a2",
+                      "size":  317598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/alex_steel_en.wav",
+                      "sha256":  "bc9d249870386ed1ae69f3c3b4c557fd0256729e5b71d295406a4d3e03327e0d",
+                      "size":  282318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/amy_belt.wav",
+                      "sha256":  "fa25db762d5adbb66221dd3bf2036fd3b361c6da4dacc6b402b19079a18f0c0d",
+                      "size":  190590
+                  },
+                  {
+                      "path":  "Data/Sound/voices/amy_belt_en.wav",
+                      "sha256":  "4ca3b1858b7a4958967bbb97a181d55f2942f62315282e503fe744871e90044d",
+                      "size":  204702
+                  },
+                  {
+                      "path":  "Data/Sound/voices/amy_flask.wav",
+                      "sha256":  "56db3b6a07e3e21ae2f8b4ba3d67b90bc16ea8bc3ce33947b331cb31d26bfeae",
+                      "size":  296430
+                  },
+                  {
+                      "path":  "Data/Sound/voices/amy_flask_en.wav",
+                      "sha256":  "0766fa873a1c96ae4c34986725e3b91682d594ad8465f74212ffe31764cea1e5",
+                      "size":  254094
+                  },
+                  {
+                      "path":  "Data/Sound/voices/amy_pots.wav",
+                      "sha256":  "d3da6e0e61c963aadabc72664b42332cea23efd7a050f374140cdbf910eb71ad",
+                      "size":  359934
+                  },
+                  {
+                      "path":  "Data/Sound/voices/amy_pots_en.wav",
+                      "sha256":  "ce6b5c425e99ca24f41be339d54a343e9004dc0978c156cf9007a40f6fb876c4",
+                      "size":  338766
+                  },
+                  {
+                      "path":  "Data/Sound/voices/baz_open.wav",
+                      "sha256":  "a495714f0bb07f2d95beceb94f3754d0ba0e08f616e843377971fce50f1256b3",
+                      "size":  254094
+                  },
+                  {
+                      "path":  "Data/Sound/voices/baz_open_en.wav",
+                      "sha256":  "8b0d9c97aedd18dbd4b2b39e49751fd77e5b86f424230b475a53007fef266f88",
+                      "size":  239982
+                  },
+                  {
+                      "path":  "Data/Sound/voices/baz_space.wav",
+                      "sha256":  "58d8d2d58af691d288eae9d5b9e68682abbc2ec7e0e9afd1ff62430ceeb63774",
+                      "size":  254094
+                  },
+                  {
+                      "path":  "Data/Sound/voices/baz_space_en.wav",
+                      "sha256":  "ee47a01326b3079d37be1139c29f7828d50df79ec4984126867729a918c69bd1",
+                      "size":  282318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/baz_zen.wav",
+                      "sha256":  "25404720cedab941a8ed3391e71b112b75485656bb2f170fbd1755a94fb2a46c",
+                      "size":  204702
+                  },
+                  {
+                      "path":  "Data/Sound/voices/baz_zen_en.wav",
+                      "sha256":  "bf6b06661d47b11e093429bc72e0d161a5d37818ec96c0483ce88d8e59776c60",
+                      "size":  254094
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_horizon.wav",
+                      "sha256":  "49c63bbdc330c9209940333ab0cccd2368ee2236a38687bf76067e55dd2c3956",
+                      "size":  218814
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_horizon_en.wav",
+                      "sha256":  "03f8d8e123ec3fd8efc8c70465353ca2e05e65c5d1174fa4bb2200e4028c5bf3",
+                      "size":  232926
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_rates.wav",
+                      "sha256":  "b92da3d3f506380339ada7a7a9a799f02b867d677146be88ad89552b91d3ee45",
+                      "size":  331710
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_rates_en.wav",
+                      "sha256":  "14940b444fab70529a4d47cf68de2c8f39361d75e38686d4a5edff09287ff55a",
+                      "size":  310542
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_start.wav",
+                      "sha256":  "da89a299416ddf658d4f0e940ccf0c327f77b267c2e80cd81f8fc0c512d702f6",
+                      "size":  310542
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_start_en.wav",
+                      "sha256":  "d08bb85cd7de8fa0067b470043bcc1ca3f9acfc45343c3421da04488f0d3a132",
+                      "size":  303486
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_welcome.wav",
+                      "sha256":  "559d57be33fc56d4d0f042df190f16947ab9ed5b89aa03966327c87321faeb22",
+                      "size":  345822
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_welcome_en.wav",
+                      "sha256":  "1d67743216bc4cb3789bd91f5a468ce585241d592bd6f8a6933e6a9c81c673bd",
+                      "size":  303486
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_cold.wav",
+                      "sha256":  "5c34c876d647b9a9fb11c95a67458b4c4d36cfefb1b1f2f5e68cc6e35a3f4065",
+                      "size":  317598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_cold_en.wav",
+                      "sha256":  "37435af6d697d94a1cdbf57d445efb52edc45e2cb4b014670e3a4437d66eb100",
+                      "size":  296430
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_ice.wav",
+                      "sha256":  "0a96a22617a82912e965f1a771847cb3673016257375a23f9cd85d0151951f2b",
+                      "size":  204702
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_ice_en.wav",
+                      "sha256":  "a62d2171078c5bfa89853325d96e4c47d23b3fee608bd1a272eda86e130aa061",
+                      "size":  204702
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_isabel.wav",
+                      "sha256":  "405d8028bb26e74b55752d5ab5ba93c5539809332a20a0975c374807af60722f",
+                      "size":  218814
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_isabel_en.wav",
+                      "sha256":  "f0cdcc60ad049b58ca1f88c05cfeb92c0fc4394f64be6952a0ca4615247cbc22",
+                      "size":  225870
+                  },
+                  {
+                      "path":  "Data/Sound/voices/crossbow_first.wav",
+                      "sha256":  "5f97620f5a521b578c7d50822bf73551689580fe1ae28e9fff75da0825193c96",
+                      "size":  239982
+                  },
+                  {
+                      "path":  "Data/Sound/voices/crossbow_first_en.wav",
+                      "sha256":  "4347af4b6baaa2cc4d4e82af966b9337776d9228394820d0d5fababa919cbe38",
+                      "size":  183534
+                  },
+                  {
+                      "path":  "Data/Sound/voices/crossbow_square.wav",
+                      "sha256":  "f9406d31f53618669a6bc8db912e7ed4664e973fa1997e5234591e11a213babd",
+                      "size":  324654
+                  },
+                  {
+                      "path":  "Data/Sound/voices/crossbow_square_en.wav",
+                      "sha256":  "2b15fafd47d1fc2789a52432f3e3ee2861596773f008074e32b047d0e356890e",
+                      "size":  296430
+                  },
+                  {
+                      "path":  "Data/Sound/voices/crossbow_watch.wav",
+                      "sha256":  "2d03add5dabfa5bd2371ad5901bcfdf4a8d143356e4427bb0c26e097a64f618e",
+                      "size":  268206
+                  },
+                  {
+                      "path":  "Data/Sound/voices/crossbow_watch_en.wav",
+                      "sha256":  "bf676b2837a0bab2cbfc7be507fd14fc56441dd6f140a658a504bdeca60934ea",
+                      "size":  247038
+                  },
+                  {
+                      "path":  "Data/Sound/voices/elf_buff.wav",
+                      "sha256":  "c0c7110e19d1f5b3835a711c87fe76b492f9dd814e8cfb687b4181c2d66974a5",
+                      "size":  197646
+                  },
+                  {
+                      "path":  "Data/Sound/voices/elf_classic.wav",
+                      "sha256":  "345d13372ddbf2ab7ba12e2b071fe42da07092bc162907ddcbac6cf5c3252f3b",
+                      "size":  409326
+                  },
+                  {
+                      "path":  "Data/Sound/voices/elf_journal.wav",
+                      "sha256":  "50f878b57c07aff368d3c897c08198ca051edd166db07e10a8d8190db20ba86f",
+                      "size":  289374
+                  },
+                  {
+                      "path":  "Data/Sound/voices/elf_path.wav",
+                      "sha256":  "006c0e68d85adbaebfc6cf32fbcbf51edf67ca113f583cb7e7ad7ecc5f43ce9b",
+                      "size":  296430
+                  },
+                  {
+                      "path":  "Data/Sound/voices/eo_aim.wav",
+                      "sha256":  "7e273f0f78c9077b8ee94778bee9dcb590e8824bbbd3b95118969332bcecdf28",
+                      "size":  232926
+                  },
+                  {
+                      "path":  "Data/Sound/voices/eo_aim_en.wav",
+                      "sha256":  "0b886ea1db92772a97362ff149849f436ec02b24bf76195d1c5500032b539bd8",
+                      "size":  225870
+                  },
+                  {
+                      "path":  "Data/Sound/voices/eo_bows.wav",
+                      "sha256":  "679a9aceeff1944ad9f43ca823d5a85dad4a084626425e49547c46e5258075cf",
+                      "size":  282318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/eo_bows_en.wav",
+                      "sha256":  "26ce5599f845b55ba209610719131bbf4efb3395d475a260cf0461fc95e0badd",
+                      "size":  282318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/eo_lala.wav",
+                      "sha256":  "1cbfbed47acf769dd0a07c7a9558b7ac4ece187276995670e028b2ea24ba4a45",
+                      "size":  261150
+                  },
+                  {
+                      "path":  "Data/Sound/voices/eo_lala_en.wav",
+                      "sha256":  "3a975fe5a3e1017e26276dfc909261c8b45954e5070a85040aa1e646fa7bcc5c",
+                      "size":  197646
+                  },
+                  {
+                      "path":  "Data/Sound/voices/goblin_boom.wav",
+                      "sha256":  "7175ef05ac5c38bb35ea31fe9fc5f8696ac8135631410a396f35e088ed36ce07",
+                      "size":  324654
+                  },
+                  {
+                      "path":  "Data/Sound/voices/goblin_boom_en.wav",
+                      "sha256":  "08c69542cac75be5ea77249fcb5a865cdf5313fd585ecafa15b31575a53f5476",
+                      "size":  282318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/goblin_faith.wav",
+                      "sha256":  "6c4435ab220369535288b9f278efbc8e460442fbc84584dcad31d9e981a1a023",
+                      "size":  345822
+                  },
+                  {
+                      "path":  "Data/Sound/voices/goblin_faith_en.wav",
+                      "sha256":  "1e973814ab457da0eaf4dc659f7ea04074ef25442f4b15fec36ce5f9fe20526b",
+                      "size":  430494
+                  },
+                  {
+                      "path":  "Data/Sound/voices/goblin_ready.wav",
+                      "sha256":  "215d97a7cfb773dc19f091f6bb7d7cc96c09ecb8bcf54ac4131410f80490ad35",
+                      "size":  282318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/goblin_ready_en.wav",
+                      "sha256":  "afd3e8410bf296d3b53dc9e9b2646cfd315b4b5112db7e94124dcb97dc5ca7ed",
+                      "size":  239982
+                  },
+                  {
+                      "path":  "Data/Sound/voices/guild_already.wav",
+                      "sha256":  "f72e9fa76d758a3cf1e1758dcbd68a1c4b320c2fb17498d8c6018324c97c6130",
+                      "size":  254094
+                  },
+                  {
+                      "path":  "Data/Sound/voices/guild_already_en.wav",
+                      "sha256":  "bdc9ac12f954a5d7c257fb9e756888bcc33266a8cacfd48c04bc18a1856f3784",
+                      "size":  218814
+                  },
+                  {
+                      "path":  "Data/Sound/voices/guild_found.wav",
+                      "sha256":  "06d434a38275436ea292a228bee120f334671b42b27eefc38289e9c2e72f0d37",
+                      "size":  239982
+                  },
+                  {
+                      "path":  "Data/Sound/voices/guild_found_en.wav",
+                      "sha256":  "c1f681f0fcbd60ca4a7feca16df21689e6a1212324eaaf59ed6b096dbee84ee5",
+                      "size":  254094
+                  },
+                  {
+                      "path":  "Data/Sound/voices/guild_name.wav",
+                      "sha256":  "b5b16409b856fa72dac4219fbbbd9f92973a2359f823f11bd3b29c5aec637be2",
+                      "size":  409326
+                  },
+                  {
+                      "path":  "Data/Sound/voices/guild_name_en.wav",
+                      "sha256":  "5a5d76b9d1c853e2004999ee2aec1fe1f81dc492ebe605732b3b0a3f67e8f8bf",
+                      "size":  303486
+                  },
+                  {
+                      "path":  "Data/Sound/voices/hanzo_anvil.wav",
+                      "sha256":  "dfb9d7beb90313104669879b3fb7eb9acb2df8c2788e4541f0418a915193c124",
+                      "size":  289374
+                  },
+                  {
+                      "path":  "Data/Sound/voices/hanzo_anvil_en.wav",
+                      "sha256":  "5df5360b07634c0cb46c1787de66a73ebf447a1ae69cf9a8f3abb59a06dfda70",
+                      "size":  218814
+                  },
+                  {
+                      "path":  "Data/Sound/voices/hanzo_iron.wav",
+                      "sha256":  "d7b13d4a6eedd530ce0149e0039095444422b26aabf4daa50ed83f640970f0a2",
+                      "size":  247038
+                  },
+                  {
+                      "path":  "Data/Sound/voices/hanzo_iron_en.wav",
+                      "sha256":  "d5f03bd520a3be7cb76d3dc74fd8e0197b400f8a6c700cb5e676953c8662609c",
+                      "size":  225870
+                  },
+                  {
+                      "path":  "Data/Sound/voices/hanzo_size.wav",
+                      "sha256":  "2028c019288c03bf703bc801312bf24a69f15fc9b54ad34ae1f194e1fcc35eff",
+                      "size":  310542
+                  },
+                  {
+                      "path":  "Data/Sound/voices/hanzo_size_en.wav",
+                      "sha256":  "5b1371e840da5c7ba80b6ce66206dda346b479e185ba650c3a5ab4fc775a2cfe",
+                      "size":  225870
+                  },
+                  {
+                      "path":  "Data/Sound/voices/harold_first.wav",
+                      "sha256":  "94097dea0723818e1d14543a4e0e826c790806502ea71c1487b4f4c97d49b4f8",
+                      "size":  289374
+                  },
+                  {
+                      "path":  "Data/Sound/voices/harold_first_en.wav",
+                      "sha256":  "e4d5811d89672f9d440796b9f800e8d5d0c7d49b3ab7735bd5f0fe086e57f073",
+                      "size":  268206
+                  },
+                  {
+                      "path":  "Data/Sound/voices/harold_martin.wav",
+                      "sha256":  "862f7cad117cbdff9a73c7a05f685c16f9e7bab041f5dbe07abc2ead82cc95e2",
+                      "size":  232926
+                  },
+                  {
+                      "path":  "Data/Sound/voices/harold_martin_en.wav",
+                      "sha256":  "d2ae046edf23f53acbbefe003a51dffd85afa05a2e6cfeb92346f6bb49df16c6",
+                      "size":  211758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/harold_pass.wav",
+                      "sha256":  "cbf4b526c32705dfdfee7c5bd7fb3bb221fe22a2903bc08c6d36d479fb44f16d",
+                      "size":  247038
+                  },
+                  {
+                      "path":  "Data/Sound/voices/harold_pass_en.wav",
+                      "sha256":  "82f6bc9e5ac4003727e819a526c8fd058cce20cc3347c5c4995cf803732cbd9e",
+                      "size":  218814
+                  },
+                  {
                       "path":  "Data/Sound/voices/index.txt",
-                      "sha256":  "caf36c5e71d7ababefc97bbbc10318c03ef1a07036a603cd0ed6617de280adfa",
-                      "size":  1088
+                      "sha256":  "4ab73696e831fb95c6f2036e09a51d84c0666dafa7e3c5807f2ae554cfffa280",
+                      "size":  7439
+                  },
+                  {
+                      "path":  "Data/Sound/voices/isabel_mana.wav",
+                      "sha256":  "bb5e9176cb3bad85083c2dec84ce1a169693d072d93275a22a62273632ccb0ee",
+                      "size":  268206
+                  },
+                  {
+                      "path":  "Data/Sound/voices/isabel_mana_en.wav",
+                      "sha256":  "ebb6a2f3a3138eb11e4c39b15f9215ab9a8335f60e1639e60323185ca6999dd4",
+                      "size":  275262
+                  },
+                  {
+                      "path":  "Data/Sound/voices/isabel_pasi.wav",
+                      "sha256":  "c69bbacd1f9ae5956e42da91282f8cdc1b4c7511ea7005a3fce4073a43995af0",
+                      "size":  225870
+                  },
+                  {
+                      "path":  "Data/Sound/voices/isabel_pasi_en.wav",
+                      "sha256":  "d8d8c98a36ea33b7316ac74289228f8055970d4e901ab6f5eb53ce542f3bf6f8",
+                      "size":  225870
+                  },
+                  {
+                      "path":  "Data/Sound/voices/isabel_stronger.wav",
+                      "sha256":  "0b84b6399632700b9b4a76b6d87c7160b731db269e084f153364e5679b95e45e",
+                      "size":  225870
+                  },
+                  {
+                      "path":  "Data/Sound/voices/isabel_stronger_en.wav",
+                      "sha256":  "4feef9dfeb27f3fb1055fd4c566a68d684ba1db2057f338e990193591af8b5e5",
+                      "size":  190590
+                  },
+                  {
+                      "path":  "Data/Sound/voices/lahap_loose.wav",
+                      "sha256":  "4d2c58b1008bb87efbfb63b7146d17cdb63049e580396e1ce4ca29b6144bc67b",
+                      "size":  204702
+                  },
+                  {
+                      "path":  "Data/Sound/voices/lahap_loose_en.wav",
+                      "sha256":  "571d536df623db7e93e40e74eb4a399545bfde454d0d22b4ed5b98e17c23ec5f",
+                      "size":  183534
+                  },
+                  {
+                      "path":  "Data/Sound/voices/lahap_mix.wav",
+                      "sha256":  "c401af81aee2039b69a8d6bf63bbc25c388fecb9d580f21f58ddb94e52615700",
+                      "size":  275262
+                  },
+                  {
+                      "path":  "Data/Sound/voices/lahap_mix_en.wav",
+                      "sha256":  "47d928e361ea40425e4ec2a80656d6ed5bdf39442e1883e23835144d7d50e3cb",
+                      "size":  211758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/lahap_ten.wav",
+                      "sha256":  "b577fc93798bb3f8d3debaad49575f88c00cf2da034c69a2e553008e52a63eea",
+                      "size":  232926
+                  },
+                  {
+                      "path":  "Data/Sound/voices/lahap_ten_en.wav",
+                      "sha256":  "c80e62cd5b4bcf56270ae84c4adcd1805ef83c94bda0178ed1b8edb2b5fcc716",
+                      "size":  183534
+                  },
+                  {
+                      "path":  "Data/Sound/voices/lala_care.wav",
+                      "sha256":  "7e2de7243dac68602ad67510fabb764bef66ba1c2be7469fa423ac66616e0284",
+                      "size":  359934
+                  },
+                  {
+                      "path":  "Data/Sound/voices/lala_care_en.wav",
+                      "sha256":  "38d0a4d6bca3ab3efaa11c5f199e93300772b7d05410447a6f33be9196bc494b",
+                      "size":  366990
+                  },
+                  {
+                      "path":  "Data/Sound/voices/lala_eo.wav",
+                      "sha256":  "a61d1d5a6f7315450691c3c69da4161d072fa98e3ca427f7ee1c8cc61f105a51",
+                      "size":  261150
+                  },
+                  {
+                      "path":  "Data/Sound/voices/lala_eo_en.wav",
+                      "sha256":  "ba373365f17c09dfea424fe9e840db3a65ae375b5ce5820aee961acaa23d6cd6",
+                      "size":  211758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/lala_woods.wav",
+                      "sha256":  "5c7e59780ec8998dfcb2c808391c81863ec2373aaa5ea0b462e133e7cb2480bf",
+                      "size":  282318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/lala_woods_en.wav",
+                      "sha256":  "fa8facb99c0e2a73e07be561dc949dd1154e1411d0bc514698060dd5a5301f02",
+                      "size":  324654
+                  },
+                  {
+                      "path":  "Data/Sound/voices/lumen_drink.wav",
+                      "sha256":  "b496e2ffca8be4f89321cc687c28bde54abdd6a3dcbf81ef48e8900dce68c7c6",
+                      "size":  268206
+                  },
+                  {
+                      "path":  "Data/Sound/voices/lumen_drink_en.wav",
+                      "sha256":  "8e3d315ef53a99153d3bb498f2eac52bb90e7b76686be7c62a263c1b9691f56c",
+                      "size":  310542
+                  },
+                  {
+                      "path":  "Data/Sound/voices/lumen_open.wav",
+                      "sha256":  "a893ead551471ca598085d2dd77fbe2dc0705d7492911e598d0579a688368a67",
+                      "size":  232926
+                  },
+                  {
+                      "path":  "Data/Sound/voices/lumen_open_en.wav",
+                      "sha256":  "d435b60f3d6b9ee058ae7609e7c65b17c4e28d65d0f7b8f0ea7b7db9244c73da",
+                      "size":  239982
+                  },
+                  {
+                      "path":  "Data/Sound/voices/lumen_zen.wav",
+                      "sha256":  "a4673f248fd302967639d97f87f64e5b19cebbbb79969e29eddc97fb01b209ce",
+                      "size":  268206
+                  },
+                  {
+                      "path":  "Data/Sound/voices/lumen_zen_en.wav",
+                      "sha256":  "e3155ea7562d6ed63a38ef67b756f035cdfdc94f637eb25f3125c59562cbce1c",
+                      "size":  239982
+                  },
+                  {
+                      "path":  "Data/Sound/voices/martin_harold.wav",
+                      "sha256":  "70672aec02a9cf10dde4c4ef643d03db194c4e68bccd116c0f9607a943f27770",
+                      "size":  232926
+                  },
+                  {
+                      "path":  "Data/Sound/voices/martin_harold_en.wav",
+                      "sha256":  "a7b49e859861f55e17eca19243b1814b21e7a5579eb22d56b33604ee90086de2",
+                      "size":  148254
+                  },
+                  {
+                      "path":  "Data/Sound/voices/martin_noria.wav",
+                      "sha256":  "5048b631240a7a01afdec3404fe568c7d2aff12a9bc89e36504ae01389c47301",
+                      "size":  268206
+                  },
+                  {
+                      "path":  "Data/Sound/voices/martin_noria_en.wav",
+                      "sha256":  "a2d89b558242f3b7e52cd1a42a8b93936635a199cd0f8745902581b1245c807c",
+                      "size":  324654
+                  },
+                  {
+                      "path":  "Data/Sound/voices/martin_road.wav",
+                      "sha256":  "42e10d48dc30ae684e05ba206afde4e5dca778542cd69d68ff5d5ee67c993371",
+                      "size":  324654
+                  },
+                  {
+                      "path":  "Data/Sound/voices/martin_road_en.wav",
+                      "sha256":  "4a56553f3a8b2956cf384da324cfc98a1fe67e45be22990b0340b74194ae3054",
+                      "size":  254094
+                  },
+                  {
+                      "path":  "Data/Sound/voices/pasi_honest.wav",
+                      "sha256":  "231c72ffba572e9ca525396a7bcc6dc706ea2ef8cdb454f16c4d693d97a5082e",
+                      "size":  275262
+                  },
+                  {
+                      "path":  "Data/Sound/voices/pasi_honest_en.wav",
+                      "sha256":  "1e985c3ce7ce35998c37445c668affc82688d67604b62031b23ec0809d1c5cf6",
+                      "size":  282318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/pasi_isabel.wav",
+                      "sha256":  "db0f007c2642ecf4b1bb03e3a0f35e02bf7ada40ab80cd1db6f69a6587b28cc6",
+                      "size":  296430
+                  },
+                  {
+                      "path":  "Data/Sound/voices/pasi_isabel_en.wav",
+                      "sha256":  "0fbefcd28cb02c37afff7f80549ea7cf3175d8891ea7db971aa94a8e6d46fa70",
+                      "size":  275262
+                  },
+                  {
+                      "path":  "Data/Sound/voices/pasi_shop.wav",
+                      "sha256":  "136c122d0d9fe5249ae694f25b94d18cd1f0ce5503800e1fc55e0577f7849770",
+                      "size":  296430
+                  },
+                  {
+                      "path":  "Data/Sound/voices/pasi_shop_en.wav",
+                      "sha256":  "ae2b445ffd60737c43163413c78fd7964660b72d790d2098930fd37a0bea48f7",
+                      "size":  232926
+                  },
+                  {
+                      "path":  "Data/Sound/voices/pasi_town.wav",
+                      "sha256":  "8dedbe337be6fafecc48b441419cf662c725c66bb7593ea6a7c0693535027b5b",
+                      "size":  211758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/pasi_town_en.wav",
+                      "sha256":  "1f76e0348f3e9d56dc77d86f538845481b22338ab934849cea66d1251b8bd413",
+                      "size":  183534
+                  },
+                  {
+                      "path":  "Data/Sound/voices/pets_build.wav",
+                      "sha256":  "2e60db7f182ae2eae89e83a75d00b4131842941b19173e9cecd3b216d0f17af1",
+                      "size":  239982
+                  },
+                  {
+                      "path":  "Data/Sound/voices/pets_build_en.wav",
+                      "sha256":  "f8552bf08fe40d47f47c67436af6cd5cfb985ea1cd50aa90eab76bc5ce281ace",
+                      "size":  211758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/pets_choice.wav",
+                      "sha256":  "860eae2337c852bbdc95397c010189673ab3b90852696c469378c6bec4efb8a4",
+                      "size":  310542
+                  },
+                  {
+                      "path":  "Data/Sound/voices/pets_choice_en.wav",
+                      "sha256":  "464d9d33128b58ea3fa99bb9317768925e9b13db5a7b86eff9a060a69a024414",
+                      "size":  254094
+                  },
+                  {
+                      "path":  "Data/Sound/voices/pets_food.wav",
+                      "sha256":  "f4302fb6cac5920bde63d6edcf2c85c7317e71e915e43f6064e11e07697368f8",
+                      "size":  289374
+                  },
+                  {
+                      "path":  "Data/Sound/voices/pets_food_en.wav",
+                      "sha256":  "1a4a355bba691c7d8efaabb6cfcde0e8f82431cac7edc475796e1a855af2c7ca",
+                      "size":  268206
+                  },
+                  {
+                      "path":  "Data/Sound/voices/sukuna_cleave.wav",
+                      "sha256":  "279b3846c2e2fd9d927305da8637347e89b097e93c1e01b5ca79c751c142b141",
+                      "size":  91806
+                  },
+                  {
+                      "path":  "Data/Sound/voices/sukuna_domain.wav",
+                      "sha256":  "0816907375116a5e45bf21e10ae96094111db78d840826e176373a570d3e5487",
+                      "size":  155310
+                  },
+                  {
+                      "path":  "Data/Sound/voices/sukuna_enrage.wav",
+                      "sha256":  "e25f3dfe29147bca0cfac4f10eefbd3762016c6ba2c3ed64b550a2ae41ef20ef",
+                      "size":  112974
+                  },
+                  {
+                      "path":  "Data/Sound/voices/sukuna_fuga.wav",
+                      "sha256":  "a539f71ad77e2c24a6ad51bced1e2ba6046c9b7656ada6b1ca492e8a927b8008",
+                      "size":  232926
+                  },
+                  {
+                      "path":  "Data/Sound/voices/sukuna_fuga_broken.wav",
+                      "sha256":  "34f641d8ada6e4701bcfe2d8f143b047ea7222a17d03ce6db695c2a3869e68ca",
+                      "size":  112974
+                  },
+                  {
+                      "path":  "Data/Sound/voices/sukuna_roar.wav",
+                      "sha256":  "ed8b3496b78be435c965e02d83132053239c79cb57c6c6b5fea7f4dfe0aee25d",
+                      "size":  169422
+                  },
+                  {
+                      "path":  "Data/Sound/voices/sukuna_shrine.wav",
+                      "sha256":  "6b8e0315326aeb27692aa575da3eca83cbe8b03cb39bb13de638ea70f539fcfc",
+                      "size":  169422
+                  },
+                  {
+                      "path":  "Data/Sound/voices/zienna_dragon.wav",
+                      "sha256":  "8761c1e093b7430181837278d3ae0d6099a8eee22d17c37083ae714fe5c0ce8f",
+                      "size":  211758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/zienna_dragon_en.wav",
+                      "sha256":  "81e00b51f4092ecff5ce8b660be6664fa928c8652910b52540699b9db624a0ca",
+                      "size":  155310
+                  },
+                  {
+                      "path":  "Data/Sound/voices/zienna_ice.wav",
+                      "sha256":  "b743104bce3a415a61b30b880483fa898775e8cec1614b27f723249a3dce547a",
+                      "size":  395214
+                  },
+                  {
+                      "path":  "Data/Sound/voices/zienna_ice_en.wav",
+                      "sha256":  "d4774ff6c05a1762fa101bb19c24915ec383aa0ddff8b491517c696c1de70eec",
+                      "size":  331710
+                  },
+                  {
+                      "path":  "Data/Sound/voices/zienna_jam.wav",
+                      "sha256":  "c2f6550a81a5922a20360da4954f7ce63731b8802856099ea725842363d4cc5f",
+                      "size":  331710
+                  },
+                  {
+                      "path":  "Data/Sound/voices/zienna_jam_en.wav",
+                      "sha256":  "068008ad7a4936080a297c4d48c3437fe690e975ccdbf85143bbb7556960851b",
+                      "size":  310542
                   },
                   {
                       "path":  "Data/Sound/w31/aW31.wav",
@@ -83395,17 +84040,17 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "d86ec73fa0166f6faa0e341bc2c89287054b12c2d2d81d5c1cee62bd02c38e6e",
-                      "size":  11751344
+                      "sha256":  "aae2b4f247a60df29baa2de1b385d061968d4dd44bd6725cf1b49cf0dea952f9",
+                      "size":  11785648
                   },
                   {
                       "path":  "MuHorizon.CrashReporter.exe",
-                      "sha256":  "8676247903530f47802dc7ed8bdc467bb5a83b6f52ebff7084d614643c39e880",
+                      "sha256":  "f9845aba6d4154ec05ae354a3da988ab1178ce51cd1a5ed8be594c2233cf1425",
                       "size":  116837528
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
-                      "sha256":  "2d22e482524315ac325a77d621acbc658406e56225a66e66f5cfb70dc65db22a",
+                      "sha256":  "a4275b6e4b39debe562b32c5d10c9a01172e2049997277a442245d1bffbeba72",
                       "size":  2729472
                   },
                   {
@@ -92098,12 +92743,12 @@
                                        },
                                        {
                                            "path":  "Main.exe",
-                                           "sha256":  "d6332bca53fc664bdb39863e96f17f16188f284ce046229b44630512311ff6c2",
-                                           "size":  13418928
+                                           "sha256":  "ddf79ca380498ab32c8ffce133d7a0fdc200f1717c483b9c5c975b7a610358e7",
+                                           "size":  13463472
                                        },
                                        {
                                            "path":  "MUnique.Client.Library.dll",
-                                           "sha256":  "943ccfde47200775c9b4c5756019f60adc5c2c74830255118815d50dd3e2f255",
+                                           "sha256":  "1ba7f60a0e8621668cc0cb3c081710af625c5f35caa8fc3a437147df4e20c156",
                                            "size":  3234304
                                        },
                                        {
@@ -92115,11 +92760,11 @@
                      }
                  ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/e9f2d76d3e5fe53af6dc5b1c9ab4ae8b4fe9ec2b4a56d434f50e13c29fde13a1.zip",
-                     "sha256":  "e9f2d76d3e5fe53af6dc5b1c9ab4ae8b4fe9ec2b4a56d434f50e13c29fde13a1",
-                     "size":  61288345,
+                     "url":  "https://files.mu-horizon.com/zips/8d13d418fcaf691381a132c59f31ff009518b41f4f37696b053b855e2dc925da.zip",
+                     "sha256":  "8d13d418fcaf691381a132c59f31ff009518b41f4f37696b053b855e2dc925da",
+                     "size":  84126322,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-61/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-62/client-patch.zip"
                               ]
                  }
 }
