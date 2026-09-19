@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  65,
+    "patch":  66,
     "minLauncherVersion":  "1.10.0",
-    "releasedAt":  "2026-09-18T17:21:48.2222643Z",
-    "notes":  "Upgrade patch 65",
+    "releasedAt":  "2026-09-19T03:39:29.5382943Z",
+    "notes":  "Upgrade patch 66",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/4b87e63ca4a360ab6be1f3f761a3e670909eb7fd006a2e15694801f791466210.zip",
-                    "sha256":  "4b87e63ca4a360ab6be1f3f761a3e670909eb7fd006a2e15694801f791466210",
-                    "size":  1456154779,
+                    "url":  "https://files.mu-horizon.com/zips/f187bbe6dbce02fcd6cb076f324f4db52c80b987c2266c38db9e5863232b9820.zip",
+                    "sha256":  "f187bbe6dbce02fcd6cb076f324f4db52c80b987c2266c38db9e5863232b9820",
+                    "size":  1565852390,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-65/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-66/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -2410,8 +2410,8 @@
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSProduct.txt",
-                      "sha256":  "cc040266e5a54aae0043a43447ea699092c9d6459b270d573b52038a6eb1ed17",
-                      "size":  3295
+                      "sha256":  "591b946b786ad7278359f7810de54cc4d555ad9f36516ae08aec6da49972c964",
+                      "size":  3297
                   },
                   {
                       "path":  "Data/Interface/accept_box01.OZJ",
@@ -5524,9 +5524,19 @@
                       "size":  112475
                   },
                   {
+                      "path":  "Data/Interface/newui_unique_amanecer_classic.OZJ",
+                      "sha256":  "4cec1a278c782377c4de700f28cf15d628ae6d3b0b5671ad0a53d6e22f3939c8",
+                      "size":  47520
+                  },
+                  {
                       "path":  "Data/Interface/newui_unique_carga.OZJ",
                       "sha256":  "c53518d2de150d42b69947337c70304db8d804165ee88181ace7541ebfd30b7d",
                       "size":  126513
+                  },
+                  {
+                      "path":  "Data/Interface/newui_unique_carga_classic.OZJ",
+                      "sha256":  "b11e1973df6a18d148208068cfb3b307710b94ec38b42a8a7c9212a6e5c9012b",
+                      "size":  43807
                   },
                   {
                       "path":  "Data/Interface/newui_unique_embestida.OZJ",
@@ -5534,9 +5544,19 @@
                       "size":  130914
                   },
                   {
+                      "path":  "Data/Interface/newui_unique_embestida_classic.OZJ",
+                      "sha256":  "1cee9272ed678f15e9b32c9b42f17efd14d1ebcae7babc843075b0ae6f135ff5",
+                      "size":  46863
+                  },
+                  {
                       "path":  "Data/Interface/newui_unique_entrapment.OZJ",
                       "sha256":  "8ceed76576f1c7a2afe0a0813eb8fead8c93557ec116e38c695c1001265fd94e",
                       "size":  153339
+                  },
+                  {
+                      "path":  "Data/Interface/newui_unique_entrapment_classic.OZJ",
+                      "sha256":  "07a5c75ea2e8fd7937baf0b9aac2b318b13af592f6f3814a2117a99b08749f2e",
+                      "size":  46201
                   },
                   {
                       "path":  "Data/Interface/newui_unique_punto_ciego.OZJ",
@@ -5544,9 +5564,19 @@
                       "size":  101468
                   },
                   {
+                      "path":  "Data/Interface/newui_unique_punto_ciego_classic.OZJ",
+                      "sha256":  "c948dae754c4a94e2a246799a01fd9ef5cd886972b9de935c9f0f8b35b9b8089",
+                      "size":  40579
+                  },
+                  {
                       "path":  "Data/Interface/newui_unique_viento.OZJ",
                       "sha256":  "bbbd587f782abb2ef4091201febc3fbbaff2c4499728326301b9173f4a03e79a",
                       "size":  103466
+                  },
+                  {
+                      "path":  "Data/Interface/newui_unique_viento_classic.OZJ",
+                      "sha256":  "dc1bd9e1bd65ef4e3dfffe4cea95411ecf8b680b52520a2c192ea196da2fd344",
+                      "size":  37875
                   },
                   {
                       "path":  "Data/Interface/newui_viento_antiheal.OZJ",
@@ -17560,8 +17590,8 @@
                   },
                   {
                       "path":  "Data/Local/Eng/QuestWords_eng.bmd",
-                      "sha256":  "1c1228dd67605aeffac68bd4d7e6a93218386f8068918ea81cd9a3d472f84a73",
-                      "size":  420828
+                      "sha256":  "bb089950741ed245f868b93216d80ce6cca09ac0c5e0b06691ff2cf6be8e808b",
+                      "size":  510377
                   },
                   {
                       "path":  "Data/Local/Eng/SetItemType.txt",
@@ -18260,8 +18290,8 @@
                   },
                   {
                       "path":  "Data/Local/Por/QuestWords_por.bmd",
-                      "sha256":  "6a9f038045e60c4b908aea5516f4051a0685f114bd60e45d0ff3a6435ee9c48c",
-                      "size":  429467
+                      "sha256":  "f4ec6f60c0252d7c3fceb4d4c832055a5df1749b146bcb0b91a1c456f49a265d",
+                      "size":  517336
                   },
                   {
                       "path":  "Data/Local/Por/SetItemType.txt",
@@ -18305,8 +18335,8 @@
                   },
                   {
                       "path":  "Data/Local/QuestWords.bmd",
-                      "sha256":  "cb1fd0dfae3b34c4aab786962ea950b8a5f1a3db833e68bf379c349cc66fe324",
-                      "size":  374031
+                      "sha256":  "aa6624be0904999ea64ca68531bbbaed5648fd45e6a7db6f69a6e885166fcdd3",
+                      "size":  461900
                   },
                   {
                       "path":  "Data/Local/ServerList.bmd",
@@ -18795,8 +18825,8 @@
                   },
                   {
                       "path":  "Data/Local/Spn/QuestWords_spn.bmd",
-                      "sha256":  "a595a063744096b74558e66e17ecc1bde7d28e755ea0531eefd901c28a173c07",
-                      "size":  443796
+                      "sha256":  "2802569da89e0083f388de6a2e8c4c1488c1151e6c5e2f6952972a3345568866",
+                      "size":  531665
                   },
                   {
                       "path":  "Data/Local/Spn/SetItemType.txt",
@@ -72944,6 +72974,126 @@
                       "size":  145998
                   },
                   {
+                      "path":  "Data/Sound/voices/apostle_devin_ch16_close.wav",
+                      "sha256":  "c3994cd4b050616495bd030f7b0cb33ba7f9b7b662d0fa7fc3e53cf724b41c45",
+                      "size":  307278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_ch16_close_en.wav",
+                      "sha256":  "c9b367b523f83aad3a712cfad6b92445ca9ce0fb432de191173efa831e477496",
+                      "size":  284238
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_ch16_present.wav",
+                      "sha256":  "8e4e68bdab0f60e631a994abe530af07055f1a0a5fa09a6c749f04b90687ae15",
+                      "size":  295758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_ch16_present_en.wav",
+                      "sha256":  "efd8c083d6eebbb394308b6b77a515460a495ee75715712276b70a80223579a1",
+                      "size":  322638
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_ch16_progress.wav",
+                      "sha256":  "6785fe5e40521b31d63786649a22c78a058b1d15a34d2031025d0975ab938351",
+                      "size":  195918
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_ch16_progress_en.wav",
+                      "sha256":  "bcc52fc91412e15e173762c6bd62c681de97051b4b86657dcffa7176b9560268",
+                      "size":  149838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_q_c16_aullido_de_crywolf.wav",
+                      "sha256":  "c0a7075eb0b57cf7402bc6d82131bd1998741a44b9c7246ff4d6ec0f90f50f16",
+                      "size":  295758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_q_c16_aullido_de_crywolf_en.wav",
+                      "sha256":  "f4a23d50d5d34ae7c78fcdbc62b172686e75a41f709d827af79541054406a54e",
+                      "size":  234318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_q_c16_balram.wav",
+                      "sha256":  "d4e86e5367b897a9cf5a338632660b2da574d43057b80259c3bba4f97c10b974",
+                      "size":  257358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_q_c16_balram_en.wav",
+                      "sha256":  "caf61b9f07c3d685b1271d1918058cc883fcb7a728da77828fe475d1fbcbc0b2",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_q_c16_bow_scout.wav",
+                      "sha256":  "747a663d4ddf47aa1cd58759328fd18ff7d82b352375bb358c5c704025725cf2",
+                      "size":  203598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_q_c16_bow_scout_en.wav",
+                      "sha256":  "3421e0c197c77825566d2f9b647bd0dc86ef8dc28cbbc9e46178d310a764dfdf",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_q_c16_hammer_scout.wav",
+                      "sha256":  "a21eae14ce666b6460b9b0361359a7b249ef86a91c8624bf62a91c3e99050530",
+                      "size":  284238
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_q_c16_hammer_scout_en.wav",
+                      "sha256":  "43131fc2fdb4bc6a66262424b6e796022276f4247b15e177c48e59b61dcb5b82",
+                      "size":  180558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_q_c16_lance_scout.wav",
+                      "sha256":  "084640fe742f3424eaa25aa81cd96b8b5dbc2059395232af93047a5884944b77",
+                      "size":  276558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_q_c16_lance_scout_en.wav",
+                      "sha256":  "79d51001557f1b7b2235c3ab2308a3a14b2b98a3c122094b294ef456fda6937e",
+                      "size":  226638
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_q_c16_scout_hero.wav",
+                      "sha256":  "814514d85ce5adb8e03a5f3d8ff59b3dabe28b656c1ff7690dd35acc5f015852",
+                      "size":  226638
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_q_c16_scout_hero_en.wav",
+                      "sha256":  "3d44024d27b00ef8b2058015df46a3f794159239fb66d559c5ab8f067f07b540",
+                      "size":  314958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_q_c16_soram.wav",
+                      "sha256":  "90172b85f7a71a7bec7d80c0a58095063a08ce5676bffe23218bbaffd160edc1",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_q_c16_soram_en.wav",
+                      "sha256":  "e31103f38bb5714a0839e23c3f7861f987841b6baa641ae444b06e9236b10d02",
+                      "size":  322638
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_q_c16_werewolf.wav",
+                      "sha256":  "3b8d17049b43f83215f09481f81216a17407d59f6723ed442ffe5db5b0734a0e",
+                      "size":  215118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_q_c16_werewolf_en.wav",
+                      "sha256":  "a940cb5383092a59f44f3237c339023e10d0b20d1c6dd215d3333b0bae9cfe23",
+                      "size":  203598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_q_c16_werewolf_hero.wav",
+                      "sha256":  "b7163edcda7132f07d218c2db5b9d68162e95df05c32d11c1a98ba81a5ab715d",
+                      "size":  276558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_q_c16_werewolf_hero_en.wav",
+                      "sha256":  "a3cb532b8735457d73c4d86405bc84383833e4c1c8c4286d0b511c41bfdcd1cd",
+                      "size":  199758
+                  },
+                  {
                       "path":  "Data/Sound/voices/archangel_line1.wav",
                       "sha256":  "65c7d96701b382d1f2eff58b75f98f085ea9eb9fc0afd74d3fa991ddb5e4f16b",
                       "size":  203598
@@ -73034,6 +73184,36 @@
                       "size":  165198
                   },
                   {
+                      "path":  "Data/Sound/voices/berdysh_ch01_close.wav",
+                      "sha256":  "a7a60b2fc378acbbdcf76f12efd9e0d2001913371baa5119d147fa353c8a2e3b",
+                      "size":  307278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_ch01_close_en.wav",
+                      "sha256":  "ef80dedd12158a3f91be323c592adb60fcb19f3b93f79f3c0607b7a757471c62",
+                      "size":  257358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_ch01_present.wav",
+                      "sha256":  "ef42d72b78991e3ce564f8cf04616e6360ae8150249410ef7fff9b5b72ce32f2",
+                      "size":  169038
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_ch01_present_en.wav",
+                      "sha256":  "6ee6b67c64a3da2f6e5aa2a9c3f61247049a9bf016f2a508dbc1b77b60857aff",
+                      "size":  215118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_ch01_progress.wav",
+                      "sha256":  "0dd703bcaef50158569a84d01a833363292848e1359a54295df4026e9057b205",
+                      "size":  130638
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_ch01_progress_en.wav",
+                      "sha256":  "2aa8e2b25c0b45844e170db7966884ebd749e4107ddb7d081c6aaf9c1907d697",
+                      "size":  115278
+                  },
+                  {
                       "path":  "Data/Sound/voices/berdysh_horizon.wav",
                       "sha256":  "6108b7dfa29e5a07edf0510e8c2fcfd0d43adbe69a01d02b5850e66ec11e317a",
                       "size":  145998
@@ -73042,6 +73222,96 @@
                       "path":  "Data/Sound/voices/berdysh_horizon_en.wav",
                       "sha256":  "eb2abff831f6f9f86f028b744b30187ecf4f021010174e9e1ae0bc338120bdc7",
                       "size":  126798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_q_c01_bramador_de_lorencia.wav",
+                      "sha256":  "dd46d5e6b33b00e434036e836c92ee8126e73b47224c7d68f9a87729a9c8234f",
+                      "size":  268878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_q_c01_bramador_de_lorencia_en.wav",
+                      "sha256":  "08e7a47c7e6763034fdfbab8afa31e67953eecc260704059424846cde53397ff",
+                      "size":  257358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_q_c01_budge_dragon.wav",
+                      "sha256":  "e9e991e4fe6988d0d8fc59745d50b85c4a8d8dc447bdf47b814fba67421f88f4",
+                      "size":  215118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_q_c01_budge_dragon_en.wav",
+                      "sha256":  "6ffd7099ac37b82bb6a7485206b5d84499d47860fe4e6a440d43f6d7ceec6c30",
+                      "size":  172878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_q_c01_bull_fighter.wav",
+                      "sha256":  "0e8c89b16a003b6832897e3e80cafd5c6c4dfa733d6ffa2d5afdd65207068210",
+                      "size":  153678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_q_c01_bull_fighter_en.wav",
+                      "sha256":  "491807b5ead3f3d4a61c42122861e1ab612c77bc5a177838ea58e69fef85b474",
+                      "size":  188238
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_q_c01_elite_bull_fighter.wav",
+                      "sha256":  "395ca9d0b26f0da1f3546f8f2715b097ae1c426a0a74c3e450d5901aee78dd79",
+                      "size":  115278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_q_c01_elite_bull_fighter_en.wav",
+                      "sha256":  "83cfbf3f2a325891e86b22750bf7ca5d1fc6ae3b794fad13979d526d4e3f413d",
+                      "size":  115278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_q_c01_giant.wav",
+                      "sha256":  "4401d02ce669252badb88deec36d74c516e334fc653b432571cfed6899d9ad6e",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_q_c01_giant_en.wav",
+                      "sha256":  "e02cb22300a316a97222f30ed30ab2c8fd3d3bba1ddd65ae7eb18e5c4e03b28a",
+                      "size":  184398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_q_c01_hound.wav",
+                      "sha256":  "b4bd78f1299d04558a155e49c2be5dc7557d36586946e5171a3469c0b9d2667e",
+                      "size":  265038
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_q_c01_hound_en.wav",
+                      "sha256":  "6a022ff524448119ebea1c909b660be09fa21f37df5cb2624d717917f8282386",
+                      "size":  230478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_q_c01_lich.wav",
+                      "sha256":  "5d4d88acdefe277e9876a526cde9c42c29131da99c1f098d1f4e07a4bbad048d",
+                      "size":  218958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_q_c01_lich_en.wav",
+                      "sha256":  "24470a09d43d8abcc289712e100dbae9a36dfd20435da1efdbde7c6f4d9cfd95",
+                      "size":  188238
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_q_c01_skeleton_warrior.wav",
+                      "sha256":  "743e8d8f0f552c709b90e9600d85e171d501081ecae1b0fccda97966924bc41d",
+                      "size":  192078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_q_c01_skeleton_warrior_en.wav",
+                      "sha256":  "33c3a4c627133949c6a3d4754d2b896fc1fd115b220f2151348376d85101bf47",
+                      "size":  161358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_q_c01_spider.wav",
+                      "sha256":  "375a0cb5e5f0fdb5fe77847a1d64305b9e474dad0e0662c0c21d68bee990c8ea",
+                      "size":  172878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_q_c01_spider_en.wav",
+                      "sha256":  "c7733c685eb9ca617f57678faf9cc1fc38522334c5ebecad2199f1ce302cb68c",
+                      "size":  122958
                   },
                   {
                       "path":  "Data/Sound/voices/berdysh_rates.wav",
@@ -73072,6 +73342,76 @@
                       "path":  "Data/Sound/voices/berdysh_welcome_en.wav",
                       "sha256":  "b8aec398facdc1d1871ceb199130245a241e581168567c21f3f119497242b076",
                       "size":  176718
+                  },
+                  {
+                      "path":  "Data/Sound/voices/bolo_ch24_close.wav",
+                      "sha256":  "7aa4549a2e85715a15374ecfa439f4de39b3dfc2c38aae42b6ac1ac758647a0b",
+                      "size":  368718
+                  },
+                  {
+                      "path":  "Data/Sound/voices/bolo_ch24_close_en.wav",
+                      "sha256":  "3eb2cbd22f83e359b9b723668b3de9ced362f04d0524d2c23813926e0abc7f0e",
+                      "size":  341838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/bolo_ch24_present.wav",
+                      "sha256":  "6b8333ae166158abe02744a6b9180315c557f70e4db36640f2540689feee80d3",
+                      "size":  280398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/bolo_ch24_present_en.wav",
+                      "sha256":  "53687bf580100b5920bd13f6efd98c115b21b3e38d3bcef8b8a30b1e2e19edd9",
+                      "size":  307278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/bolo_ch24_progress.wav",
+                      "sha256":  "dcc32681397c14795ccad43a29f7efca8581313429a6174b1650fa51e122331d",
+                      "size":  199758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/bolo_ch24_progress_en.wav",
+                      "sha256":  "3bc7ec115e45c01a90936ac7910c5383cda20f283f05bf493c1e42896ccd228f",
+                      "size":  157518
+                  },
+                  {
+                      "path":  "Data/Sound/voices/bolo_q_c24_coloso_de_karutan.wav",
+                      "sha256":  "2ab6b6a49b4e8dea1c28290e58430006bd7aed8c37252bd8ac8409a25621382b",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/bolo_q_c24_coloso_de_karutan_en.wav",
+                      "sha256":  "195210db8ca33e61a4cd4a6c95306600b6bcb6a92b34bfd4aa541f57c882d32c",
+                      "size":  218958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/bolo_q_c24_condra.wav",
+                      "sha256":  "f4ad388ecd03745e4f0806787a170be29ad2a14f01867044a0a829defce15658",
+                      "size":  265038
+                  },
+                  {
+                      "path":  "Data/Sound/voices/bolo_q_c24_condra_en.wav",
+                      "sha256":  "73fed1a6b397caa8463c8d310ce03ac1689dda93339dec4b0a7c9403d70b6511",
+                      "size":  234318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/bolo_q_c24_gollock.wav",
+                      "sha256":  "84d65df32cb8db5df8ad51e488ed34ff92ea30d43676149f2150eebac76762ee",
+                      "size":  230478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/bolo_q_c24_gollock_en.wav",
+                      "sha256":  "0d8fec68c830ed178633a41a0430659e66f6f142b1f0df58ac87a399e5270ad2",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/bolo_q_c24_narcondra.wav",
+                      "sha256":  "fe76d736079e00eddaca33fa800595f09cc5000b6340cd3deab9ba6232a8dc12",
+                      "size":  238158
+                  },
+                  {
+                      "path":  "Data/Sound/voices/bolo_q_c24_narcondra_en.wav",
+                      "sha256":  "4998a56051328338b6e76e40ee4f7b2dc8afdcb6afb46a11d3fa594fd6b3a34d",
+                      "size":  207438
                   },
                   {
                       "path":  "Data/Sound/voices/boss_aguijon_call.wav",
@@ -73175,8 +73515,8 @@
                   },
                   {
                       "path":  "Data/Sound/voices/boss_aullido_defeat.wav",
-                      "sha256":  "5c3808add9b0e991a32b2bff1cbcfcf0da1e1e947093372ad6dcf0b949548eae",
-                      "size":  207438
+                      "sha256":  "9bc2a8dc2451f2d7a39c7f2e8346577e0e5fa01105fe05f05d718332908e1fe9",
+                      "size":  169038
                   },
                   {
                       "path":  "Data/Sound/voices/boss_aullido_defeat_en.wav",
@@ -73235,8 +73575,8 @@
                   },
                   {
                       "path":  "Data/Sound/voices/boss_aullido_rival_balgass.wav",
-                      "sha256":  "733499dc2cf63fff46f721f3c353adbb3ffbbb4fcc228a18ad8727759bd4861c",
-                      "size":  165198
+                      "sha256":  "7edcf219614228faa3665ae41c81e2f4594d8cdb633bffcfef504c6837a9bd4b",
+                      "size":  172878
                   },
                   {
                       "path":  "Data/Sound/voices/boss_aullido_rival_balgass_en.wav",
@@ -73305,8 +73645,8 @@
                   },
                   {
                       "path":  "Data/Sound/voices/boss_balgass_hammer.wav",
-                      "sha256":  "384154b58560528581531b06cc0cdc62ea30c4dfb304e6467e3a62cba8c9017c",
-                      "size":  107598
+                      "sha256":  "d677f845c5e59dfd597355efaa69e3c789c1096d9a3d2beb438a5fdd34be320b",
+                      "size":  119118
                   },
                   {
                       "path":  "Data/Sound/voices/boss_balgass_hammer_en.wav",
@@ -73665,8 +74005,8 @@
                   },
                   {
                       "path":  "Data/Sound/voices/boss_capitan_defeat.wav",
-                      "sha256":  "2b3323d02a175a649677edce91e2cf1b51c33569bb9941363a3e0191b63127af",
-                      "size":  222798
+                      "sha256":  "3e7f0fbbcd4a0981490ffbcf4a94ee20be3ff23bb9a741e6afd0e21f15a92c26",
+                      "size":  265038
                   },
                   {
                       "path":  "Data/Sound/voices/boss_capitan_defeat_en.wav",
@@ -74205,8 +74545,8 @@
                   },
                   {
                       "path":  "Data/Sound/voices/boss_elfa_oscura_defeat.wav",
-                      "sha256":  "740769031d66cad71f93e06da63e2d0544e540336a7f15eb54c9852dc3688a66",
-                      "size":  203598
+                      "sha256":  "c2aee9a8a8b298aabb452325dcae5279b492e4cee8f4198e5a0e0656681881ec",
+                      "size":  180558
                   },
                   {
                       "path":  "Data/Sound/voices/boss_elfa_oscura_defeat_en.wav",
@@ -74235,8 +74575,8 @@
                   },
                   {
                       "path":  "Data/Sound/voices/boss_elfa_oscura_enrage.wav",
-                      "sha256":  "2ebbbae9f161f337f553d28d8cf267fbd5555ab2dbaf76837fbb77a68affc219",
-                      "size":  126798
+                      "sha256":  "56dd586212c10ee1cab81b8d3bc9583a3ab6cbb37e05ca9f13ab13c4f1eadb0a",
+                      "size":  92238
                   },
                   {
                       "path":  "Data/Sound/voices/boss_elfa_oscura_enrage_en.wav",
@@ -74255,8 +74595,8 @@
                   },
                   {
                       "path":  "Data/Sound/voices/boss_elfa_oscura_shield.wav",
-                      "sha256":  "902f7721b906ef3531aeedd459b0bdbfd7cacfe9ff47f815a7417daba0f8ff79",
-                      "size":  145998
+                      "sha256":  "5461869c40abc1fe30991a4f529cd248451c88fbd54b72e52a7dfa85119b72cf",
+                      "size":  103758
                   },
                   {
                       "path":  "Data/Sound/voices/boss_elfa_oscura_shield_en.wav",
@@ -74855,8 +75195,8 @@
                   },
                   {
                       "path":  "Data/Sound/voices/boss_kundun_engaged_by_lord.wav",
-                      "sha256":  "5609de1526e47888ae672030bcef24d4d49567311cf044f3da100feec699bb3d",
-                      "size":  249678
+                      "sha256":  "49504d52ebc244e0144f8693a8c28959e4da1ac43abd4054ff63c7a34906cfcd",
+                      "size":  253518
                   },
                   {
                       "path":  "Data/Sound/voices/boss_kundun_engaged_by_lord_en.wav",
@@ -75405,8 +75745,8 @@
                   },
                   {
                       "path":  "Data/Sound/voices/boss_sombra_balgass_call.wav",
-                      "sha256":  "659f471cd75735fc651d6df123bc6a7fd1e8808fd727066c39abcccc103646de",
-                      "size":  134478
+                      "sha256":  "1175763c7e49422cc67b2dcb95e1b33508ca1df373ca1c900325aabd561ed1d9",
+                      "size":  119118
                   },
                   {
                       "path":  "Data/Sound/voices/boss_sombra_balgass_call_en.wav",
@@ -75455,8 +75795,8 @@
                   },
                   {
                       "path":  "Data/Sound/voices/boss_sombra_balgass_last_words.wav",
-                      "sha256":  "4bf12cc5be5d942aeacde1fb036e95b8cee55b879343fcace5856170e629a9c1",
-                      "size":  153678
+                      "sha256":  "0f959c899b90f77851642d4ef9b977676d26721c515c7681536310a4da9c5cc6",
+                      "size":  138318
                   },
                   {
                       "path":  "Data/Sound/voices/boss_sombra_balgass_last_words_en.wav",
@@ -75605,8 +75945,8 @@
                   },
                   {
                       "path":  "Data/Sound/voices/boss_vigia_encounter.wav",
-                      "sha256":  "e15cf1f328c719023e13f5c552deb668e4ea8d40682a19593c43dea1d3e07aec",
-                      "size":  184398
+                      "sha256":  "c5f421b8f7e30c9849576c1cd925ce7e1e9b2faa6887aadf08d8918d4edb69e0",
+                      "size":  192078
                   },
                   {
                       "path":  "Data/Sound/voices/boss_vigia_encounter_en.wav",
@@ -75694,6 +76034,36 @@
                       "size":  165198
                   },
                   {
+                      "path":  "Data/Sound/voices/caren_ch03_close.wav",
+                      "sha256":  "ca03c2f1e9fb7104bc87e845f303f547e7dc259dff48b6bc633f60a422298445",
+                      "size":  238158
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_ch03_close_en.wav",
+                      "sha256":  "62b8f43a648354c89173295892af7e89761e88b3b3792013c74cc38b63a0cf9e",
+                      "size":  222798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_ch03_present.wav",
+                      "sha256":  "2e1a4d77a3007e0e6319553854902e33c6ea2c9543338e015327d093ef21f4be",
+                      "size":  234318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_ch03_present_en.wav",
+                      "sha256":  "0f445fd789d0403dcf7289d824637b8ac22613356d9db4d618669a7f003e699f",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_ch03_progress.wav",
+                      "sha256":  "d4c354c828f47e5481a4a694f2cb6aed9a45c5ea43a701ef6329b86f1c88e898",
+                      "size":  184398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_ch03_progress_en.wav",
+                      "sha256":  "bf90b2a03c85f11ead0d7341119b0581565f3178270b68f1da29e814cf8ffedf",
+                      "size":  161358
+                  },
+                  {
                       "path":  "Data/Sound/voices/caren_cold.wav",
                       "sha256":  "96f394efe83d168de9ddb632fb62296f4a23b48d2b69425a84fd5825210dec61",
                       "size":  165198
@@ -75722,6 +76092,76 @@
                       "path":  "Data/Sound/voices/caren_isabel_en.wav",
                       "sha256":  "6ab1ea8c804f6fa5914a57019353c44240f29981133a16afa7c0a66a000aff07",
                       "size":  115278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_q_c03_assassin.wav",
+                      "sha256":  "5138738b2efb77bcaae3c2d8d61854ee20c71101ea030db63f8a2e9b2b05c15c",
+                      "size":  218958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_q_c03_assassin_en.wav",
+                      "sha256":  "ebd1471d687ce31d55f111d23b294ee5a04273f02f4c9247ff5c18e9e02fe5c8",
+                      "size":  199758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_q_c03_elite_yeti.wav",
+                      "sha256":  "cc245598cd6b489ab3857d6321cc04689b64b38503d993e50328bd8e87b094a1",
+                      "size":  199758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_q_c03_elite_yeti_en.wav",
+                      "sha256":  "6838e194aeaabd775b212fe15cb0315e86c7871b515ee5c10db85bd79bf36a0e",
+                      "size":  230478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_q_c03_escarcha_de_devias.wav",
+                      "sha256":  "ee5ca1748730bf33c7f7e4f4005a9e080be1c9f8da61c6503d67be4ea38c3ce4",
+                      "size":  195918
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_q_c03_escarcha_de_devias_en.wav",
+                      "sha256":  "75bc4540e15c5d6c7c8474b463b07619fb6514f8fddb4f0d9979bebf657d82c9",
+                      "size":  192078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_q_c03_hommerd.wav",
+                      "sha256":  "4ba91965fdc9968532d999a6fb476bc90525445f6434d0587221d9be24d81528",
+                      "size":  195918
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_q_c03_hommerd_en.wav",
+                      "sha256":  "421200e043349f8286df4f5b3822cf2af1053063f373315c67a89cb842489de0",
+                      "size":  215118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_q_c03_ice_monster.wav",
+                      "sha256":  "8b1c312a6d7537a13e26cb0b847576656ec8e86166b07b22f60c927451537e9e",
+                      "size":  222798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_q_c03_ice_monster_en.wav",
+                      "sha256":  "6788490005f35078345edca3b3103a9fbad8c56525729bae328476e3e5a57e0a",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_q_c03_ice_queen.wav",
+                      "sha256":  "c089d096a3a1899ce222ae69979fffa7d1fa362ff81555134bb40bad0984471d",
+                      "size":  226638
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_q_c03_ice_queen_en.wav",
+                      "sha256":  "d95ba371413500c5e29f950b7c8965a07348c3d0c468ccb0725587afae63b1c2",
+                      "size":  199758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_q_c03_worm.wav",
+                      "sha256":  "ab12773d9b3a49db5aaeff553cdca76014e3a6d9c26d665d0fc90fdde3301165",
+                      "size":  288078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_q_c03_worm_en.wav",
+                      "sha256":  "b9e0f78e8ba9f821dc14db62198cdfa7b303ae7898c7da942396f68919565101",
+                      "size":  218958
                   },
                   {
                       "path":  "Data/Sound/voices/charon_line1.wav",
@@ -75884,6 +76324,46 @@
                       "size":  138318
                   },
                   {
+                      "path":  "Data/Sound/voices/gatekeeper_ch20_close.wav",
+                      "sha256":  "959023a0165df5fc7b74712001c45d8af50d2a755f2049a6e0e761d4a3275b7e",
+                      "size":  334158
+                  },
+                  {
+                      "path":  "Data/Sound/voices/gatekeeper_ch20_close_en.wav",
+                      "sha256":  "f8eae482921acd243f945a6535eb6bfd87effed6e75bd97481e17853a5c09001",
+                      "size":  349518
+                  },
+                  {
+                      "path":  "Data/Sound/voices/gatekeeper_ch20_present.wav",
+                      "sha256":  "c1dc20327086f3a237d0766141a6440a1ee4353bfedcbbd934d2d0763139e3cf",
+                      "size":  284238
+                  },
+                  {
+                      "path":  "Data/Sound/voices/gatekeeper_ch20_present_en.wav",
+                      "sha256":  "5ce3afaa414a3806d457a1f8c9cdda6a11f68729cd58d8bfc2193bfb493d1830",
+                      "size":  291918
+                  },
+                  {
+                      "path":  "Data/Sound/voices/gatekeeper_ch20_progress.wav",
+                      "sha256":  "4451ffbb1961b798f0a320b3e8143eb463d8329f17ce33e49bfb6d39e5d7f865",
+                      "size":  188238
+                  },
+                  {
+                      "path":  "Data/Sound/voices/gatekeeper_ch20_progress_en.wav",
+                      "sha256":  "531f76ce9c6eebff30aa01ce167fd9423329fc552f44bd7d08fe6fbed42cf3c9",
+                      "size":  215118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/gatekeeper_q_c20_sombra_de_balgass.wav",
+                      "sha256":  "4a3dc82f16987ff852f6981ef529c916e61b7c307f8cfcf04427afcca410b4e7",
+                      "size":  234318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/gatekeeper_q_c20_sombra_de_balgass_en.wav",
+                      "sha256":  "18e32ebdf1efcccb4739f4e44713d5f87bd5d4a947f9c1240ac28b83f3afd05f",
+                      "size":  241998
+                  },
+                  {
                       "path":  "Data/Sound/voices/goblin_boom.wav",
                       "sha256":  "898554d978eddfceeffcc540f5159b097588e20696bca1ad188754b2ef7d07b8",
                       "size":  199758
@@ -76015,8 +76495,8 @@
                   },
                   {
                       "path":  "Data/Sound/voices/index.txt",
-                      "sha256":  "c04954f258e71adfb7eac3949a26d17c838f9aaa176e861a6721d105c0229d45",
-                      "size":  49465
+                      "sha256":  "7bbe91ba5cb4e2737ee302ec177641ad7d195f8cea8078f355c4a1b71dc0b50b",
+                      "size":  110174
                   },
                   {
                       "path":  "Data/Sound/voices/isabel_mana.wav",
@@ -76139,6 +76619,96 @@
                       "size":  161358
                   },
                   {
+                      "path":  "Data/Sound/voices/leina_ch23_close.wav",
+                      "sha256":  "82c6c3fc903185ce18011032ee1ff6683d4f481e3ef8c54089d7ea32c0e52a4b",
+                      "size":  291918
+                  },
+                  {
+                      "path":  "Data/Sound/voices/leina_ch23_close_en.wav",
+                      "sha256":  "3bb31a3a96e961bfd0e974f2c73223bef1cd8d61b775f42bf0c8ce0e459a5ab6",
+                      "size":  295758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/leina_ch23_present.wav",
+                      "sha256":  "1e709ab0f15f9d67b1f120281518d8e935888725eac7c056e31caa837bb0ccdb",
+                      "size":  307278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/leina_ch23_present_en.wav",
+                      "sha256":  "5f084e80c4d5bb69e33376527a0cecfd7c2cf6ef1625c5f5e2fbf2a5cf9a1705",
+                      "size":  288078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/leina_ch23_progress.wav",
+                      "sha256":  "0108c887470f6ff0094f320363d1767d9e47f412b2718869d9dbfe37592b6d38",
+                      "size":  238158
+                  },
+                  {
+                      "path":  "Data/Sound/voices/leina_ch23_progress_en.wav",
+                      "sha256":  "67d747268b38a756b8eae1c2c5b4789f202b73cdb663240a0a8e90f6bedcca07",
+                      "size":  188238
+                  },
+                  {
+                      "path":  "Data/Sound/voices/leina_q_c23_aguij_n_de_karutan.wav",
+                      "sha256":  "23e4355efc6b0f097e98bc6070439422fe76ccbff8c03ee66305791564ee59b1",
+                      "size":  272718
+                  },
+                  {
+                      "path":  "Data/Sound/voices/leina_q_c23_aguij_n_de_karutan_en.wav",
+                      "sha256":  "68950647b1f3d95fee0a8139c625fd694bf1a2bf8cd14cd26edbe616160fbfc2",
+                      "size":  211278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/leina_q_c23_bone_scorpion.wav",
+                      "sha256":  "d775afd6b21fcca4905a9a82e92e505bd5afb124a4bf9559062a28a4e0d1f609",
+                      "size":  161358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/leina_q_c23_bone_scorpion_en.wav",
+                      "sha256":  "aff197b09ac1731f96368e62b49d7f337c93869c994a0da9bc36248d7d55b991",
+                      "size":  157518
+                  },
+                  {
+                      "path":  "Data/Sound/voices/leina_q_c23_crypos.wav",
+                      "sha256":  "c135050166f7ee74b8420c2ff99e9912f628ba3d860ace9a3f7c927b3771a13b",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/leina_q_c23_crypos_en.wav",
+                      "sha256":  "3b79105c63c3f092eb829218626cbcb3e7988e7f6c250598665f0425fff6da3e",
+                      "size":  203598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/leina_q_c23_crypta.wav",
+                      "sha256":  "ed9daa758b9cabb2da121fe83ef3d97c08d86afa7cdeadd0dadcbeabfd149a30",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/leina_q_c23_crypta_en.wav",
+                      "sha256":  "189d42b8e34eb0ad48c8a382b7efe0f793280b1d12190718e666c482e578ec2e",
+                      "size":  218958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/leina_q_c23_orcus.wav",
+                      "sha256":  "98c672b041a2d03994d3a723db68a8085f7f307436a0291ad8f4942dd226b70d",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/leina_q_c23_orcus_en.wav",
+                      "sha256":  "931dd4c16d1a3ffe78ac9c7835e91a613a1c609cbdc62045fc682d6b21c61f3b",
+                      "size":  280398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/leina_q_c23_venomous_chain_scorpion.wav",
+                      "sha256":  "788331c458b2e3aca4c4b0b838fa3cd33c37efb3727aa4a6faf9f76b73ab5649",
+                      "size":  303438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/leina_q_c23_venomous_chain_scorpion_en.wav",
+                      "sha256":  "d65471bf20673a56a96db244e463890dbd0afedb99c33ad25796f639dec8da3d",
+                      "size":  218958
+                  },
+                  {
                       "path":  "Data/Sound/voices/lumen_drink.wav",
                       "sha256":  "54622707714ced82eb33de1333d43c2fe278b4c72a28be561cc6ae15a556b328",
                       "size":  149838
@@ -76167,6 +76737,116 @@
                       "path":  "Data/Sound/voices/lumen_zen_en.wav",
                       "sha256":  "49dc9c69e0d0e784040699cd32e63d1dee3f5de785d998574a691f4f1bc17b91",
                       "size":  153678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/marlon_ch06_close.wav",
+                      "sha256":  "95acba647f8a73e824e8dc249f992611833b62b49e2af9e55e9e027119cd7a20",
+                      "size":  341838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/marlon_ch06_close_en.wav",
+                      "sha256":  "a85825660cfadc55920ffd0e251e9d225bd7679b019cbc85153ed00d3dc2d75a",
+                      "size":  380238
+                  },
+                  {
+                      "path":  "Data/Sound/voices/marlon_ch06_present.wav",
+                      "sha256":  "fb8ba96e2bb85f94e77eb37613da32640b00bc716f83c97cc6e8d919b5cac5a0",
+                      "size":  399438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/marlon_ch06_present_en.wav",
+                      "sha256":  "260a8b156ae3b615adf0b9b2312592e785c27ea32bd216c49fa895f17c81d488",
+                      "size":  353358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/marlon_ch06_progress.wav",
+                      "sha256":  "c0b60b648c495e523122e725b4428c754436a6d270330a09d5fa2f032120097b",
+                      "size":  234318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/marlon_ch06_progress_en.wav",
+                      "sha256":  "65225dd7e3105fabedde9c3ec578cda2d820e091ba9717d926f8653ec36a1920",
+                      "size":  195918
+                  },
+                  {
+                      "path":  "Data/Sound/voices/marlon_q_c06_bahamut.wav",
+                      "sha256":  "fe39e3803adb0abd7a7b1edac771b60456d812898c8d5bbb683b0fa4ec5fcaa1",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/marlon_q_c06_bahamut_en.wav",
+                      "sha256":  "87d84302aa3d852edeb87545345092675df4ab57ea6f56a6fd9d8f4d4c296b96",
+                      "size":  199758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/marlon_q_c06_great_bahamut.wav",
+                      "sha256":  "1b697aced41829240763ba8912be69a363b6279e19a72e1eaa7335baa81e783e",
+                      "size":  280398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/marlon_q_c06_great_bahamut_en.wav",
+                      "sha256":  "ec04d6f2ca2bdefd3423509e68c0c45483debcd39c23f0ec767b684e643a7dfc",
+                      "size":  284238
+                  },
+                  {
+                      "path":  "Data/Sound/voices/marlon_q_c06_hydra.wav",
+                      "sha256":  "7f00583b9dc7a2672bff79e061211f316655635693502c44f2a4da7dd376c786",
+                      "size":  226638
+                  },
+                  {
+                      "path":  "Data/Sound/voices/marlon_q_c06_hydra_en.wav",
+                      "sha256":  "9f3217548d355e820dffc38090f0782ac3a1a5986506e739d85e36912317af86",
+                      "size":  234318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/marlon_q_c06_lizard_king.wav",
+                      "sha256":  "2b0bfd6bed0e69260236f4ccee83dfaea3d1d2976edbe79a5fa024c44fab94ff",
+                      "size":  238158
+                  },
+                  {
+                      "path":  "Data/Sound/voices/marlon_q_c06_lizard_king_en.wav",
+                      "sha256":  "38b407d588ec449ffee71e585044c1340d21d2906b16acbd0c0b6079081ba19b",
+                      "size":  288078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/marlon_q_c06_marea_de_atlans.wav",
+                      "sha256":  "ff097963b6d242401d2047089ed18575f3f2742cddbd6290de5ca931cde20268",
+                      "size":  291918
+                  },
+                  {
+                      "path":  "Data/Sound/voices/marlon_q_c06_marea_de_atlans_en.wav",
+                      "sha256":  "583552e508ca493d46f22665cf465fbb9ab87d169fa7091ce24390b1bc5fb285",
+                      "size":  307278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/marlon_q_c06_silver_valkyrie.wav",
+                      "sha256":  "7e331479f1b78b728390b55cfc958b16ac3761b30fd16b48b915999840286153",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/marlon_q_c06_silver_valkyrie_en.wav",
+                      "sha256":  "4c922b073fb7232bba78cfe66d71d4619d58d07630988cbcd510b32036dda613",
+                      "size":  284238
+                  },
+                  {
+                      "path":  "Data/Sound/voices/marlon_q_c06_valkyrie.wav",
+                      "sha256":  "4c921ef24cc1237f0116b18b2aab6ad9ed4e4a6a9831af67b92369dbe1cd1169",
+                      "size":  280398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/marlon_q_c06_valkyrie_en.wav",
+                      "sha256":  "76457bb546616a4705f1b1f7bc90ada71f37a8895ee21a62847bf4dc317a8612",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/marlon_q_c06_vepar.wav",
+                      "sha256":  "bbb9b8b5e2a05a545fd727c0b8ad85f0e3ea5a6bcff9105dc9e902e2d47e1931",
+                      "size":  280398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/marlon_q_c06_vepar_en.wav",
+                      "sha256":  "10de43a0ea3d0549bc0b770290f2356f568753113d9f4d4524220948bfc3d222",
+                      "size":  245838
                   },
                   {
                       "path":  "Data/Sound/voices/martin_harold.wav",
@@ -76239,6 +76919,216 @@
                       "size":  199758
                   },
                   {
+                      "path":  "Data/Sound/voices/oracle_layla_ch09_close.wav",
+                      "sha256":  "a55db7f546f8d88f4857708902e934977f29635b0dccd97239a25bd961c42380",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch09_close_en.wav",
+                      "sha256":  "786d0c4bda7eda2032b65567a220b4622104261210bc622912cd379c03d18085",
+                      "size":  257358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch09_present.wav",
+                      "sha256":  "ee74074a2629589b998ae84add4ac8088625b6d07c0ce61a061cefa91823d74e",
+                      "size":  299598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch09_present_en.wav",
+                      "sha256":  "95639dd352ebfb265602c8e4fb0a99dfe7c365a19528a8c4a5dfd083cc81fda8",
+                      "size":  307278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch09_progress.wav",
+                      "sha256":  "694273c05c6bf735cb1b4f9da13e357c68e0098150994b9fc14f96263471ef61",
+                      "size":  199758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch09_progress_en.wav",
+                      "sha256":  "354b392730366483f5079732ffa0d40ddba4594cdcceb8340ce46e2ebe692cf0",
+                      "size":  215118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch10_close.wav",
+                      "sha256":  "9d4ca5868a44ed9a443eedeba35bc2ae732df3a95ae2e43d00f70b2dfa189ce2",
+                      "size":  307278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch10_close_en.wav",
+                      "sha256":  "8f08ddadaaa7f87dedb1385df041ace57022b6a439ff66c849efc3684084830a",
+                      "size":  295758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch10_present.wav",
+                      "sha256":  "b9acba5a46b5f1112afb7f3cee5a367d206773f0e3c9a6434df32c9211261176",
+                      "size":  238158
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch10_present_en.wav",
+                      "sha256":  "3dd2f7630c3ee41d8593448d9ca1d002a3e125ba842012c2ac789ec671f28103",
+                      "size":  195918
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch10_progress.wav",
+                      "sha256":  "32faf281ff7df794d9c948787665cfa449cdabbfd940954c9cf242b0c9281f68",
+                      "size":  145998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch10_progress_en.wav",
+                      "sha256":  "615bc053d38f691666ad49541dd19a891595541f801ddc2b126610d3b41ffd47",
+                      "size":  126798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch11_close.wav",
+                      "sha256":  "1e5bf62a8c3d302d49643bddfb5833db947cccd1d360a9f2fad0a5f00a3dac00",
+                      "size":  311118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch11_close_en.wav",
+                      "sha256":  "ee54f1c9a0b5e755f57cdbc34eb3270fa630534bd4521fc9ef7af58502e498d2",
+                      "size":  311118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch11_present.wav",
+                      "sha256":  "784c46f472dbe5b2b59a011fac414268a4ca126f8f07443612e08176cc479aa0",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch11_present_en.wav",
+                      "sha256":  "3351df40437d6c307735978218c00d693e51c147d86eda65ed402fe9a5824de5",
+                      "size":  284238
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch11_progress.wav",
+                      "sha256":  "ff164740f35a857e891a3c6a7360661c8879687999d8c2c16b7120af5e6c88ab",
+                      "size":  188238
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch11_progress_en.wav",
+                      "sha256":  "d3903e922f7c06cc9248d1873ca8780473b1c76d2217fac8d2f2d4cfd334c2a2",
+                      "size":  180558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch12_close.wav",
+                      "sha256":  "16593c825d5db68b30deef96f98bef1aed5540ae1c959402f919723352f5d650",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch12_close_en.wav",
+                      "sha256":  "debbd2b3881c767ecb48125db7a61e8161bb526c5db20eef273e43bb8f52eaf2",
+                      "size":  253518
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch12_present.wav",
+                      "sha256":  "4519fe189849f24252c237bd82e3d4802ae0a2ed1ddc1ddb68345f462713b972",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch12_present_en.wav",
+                      "sha256":  "a8073233e2cc476e8f57a42d753159a4ba02d8cbf2bb324d6e316a3d060549b2",
+                      "size":  203598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch12_progress.wav",
+                      "sha256":  "0070e6ef6297af7bea47016f9ce3769754bbd0a13e8722ff33cbd20b01343a28",
+                      "size":  234318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch12_progress_en.wav",
+                      "sha256":  "004ed00f6f0ce62cad9d1ab0b8a53ca5ec0e74c3c658cec85d96770adfb9a302",
+                      "size":  199758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch13_close.wav",
+                      "sha256":  "d0c49bc77dbb3dbaf966d78fc680eb39c3603995431fa81ddea6acbf26f674d7",
+                      "size":  226638
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch13_close_en.wav",
+                      "sha256":  "96f7d22f6eb837d433bc18b7a19bf9e2d96df7662dc1c20e023da42eaf085dbf",
+                      "size":  284238
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch13_present.wav",
+                      "sha256":  "2d5e24fe8fb21e30224d6fa5eb436c18aabf455e1c77f98a42e289c904857634",
+                      "size":  280398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch13_present_en.wav",
+                      "sha256":  "666079142abd1eaeba390adc1e9c3375ea1627e2dcac7b29264288e2cf0c9f4e",
+                      "size":  261198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch13_progress.wav",
+                      "sha256":  "ae0f61e3b3d08d4f1a173ce5d6cda1fdbdc689ee78f1d0772f04da878ec460c4",
+                      "size":  180558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch13_progress_en.wav",
+                      "sha256":  "e018a33c0395a8b6fb10057ef0242cd75b53c5aa2941f3a744b3ec0091b2f2bb",
+                      "size":  176718
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch14_close.wav",
+                      "sha256":  "c51603aac2f8984d72d3b439ca6b4fa9d81c9a035cc6c88fa926eb5b0e3d8c36",
+                      "size":  230478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch14_close_en.wav",
+                      "sha256":  "f527c2216b5e86735205853c36c4275b360554e135c3cd2a48ab09ee6ed016e0",
+                      "size":  295758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch14_present.wav",
+                      "sha256":  "4346592831e396664a7e66bc51c177d636523b1422581f0c8b6a77b88fc27169",
+                      "size":  330318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch14_present_en.wav",
+                      "sha256":  "89deafc3fa3aa8e1e6a178211e1b3eac3ad678713c04654059ac1592c5b1553c",
+                      "size":  291918
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch14_progress.wav",
+                      "sha256":  "0f2772064d575f2800749aeec44d17981202a5fc811110879a8975c173553e24",
+                      "size":  199758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch14_progress_en.wav",
+                      "sha256":  "df6bb17d8d0c1753d720b214ca2301431d3f22092b4b9684588a90593a640275",
+                      "size":  222798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch21_close.wav",
+                      "sha256":  "0da1c434834aeeb7bd61e668ef4146a20124a2560768aba637f210e29de603ef",
+                      "size":  303438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch21_close_en.wav",
+                      "sha256":  "0a97db4ef14ecaccea3177ddef56d1b5172d9d282e9002182ab153ae56a30b5f",
+                      "size":  307278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch21_present.wav",
+                      "sha256":  "c94b3991d2055b796338587575bf439ad0a0b7fb8cd6629d982a9a05b5876099",
+                      "size":  284238
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch21_present_en.wav",
+                      "sha256":  "31491e8997b63f4350afe676138b4aff5d0380fccb37fc56bba40a39c6bd5faa",
+                      "size":  307278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch21_progress.wav",
+                      "sha256":  "3bd57be63612705299ef5f41de25dd7239f9d06cb3952d7b20ee2bbf0887087d",
+                      "size":  165198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_ch21_progress_en.wav",
+                      "sha256":  "1eb250d3e23a69912129a8a7d632ab64d65eab72bff29e6a950ecdd1adb3b80b",
+                      "size":  149838
+                  },
+                  {
                       "path":  "Data/Sound/voices/oracle_layla_crack.wav",
                       "sha256":  "58838c6d5c252972ec7b7213c527594791ed5e58815dd33c186850a329ec5d4e",
                       "size":  134478
@@ -76269,6 +77159,576 @@
                       "size":  218958
                   },
                   {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c09_aegis.wav",
+                      "sha256":  "58c2680c7ee349d3571a3f0788a191cda9bee56beaa9bb4d66b1fcd6fa874e6a",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c09_aegis_en.wav",
+                      "sha256":  "9a3a8767b335166b6248c4c498405f6442131de823d6d54313337efb24036719",
+                      "size":  211278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c09_blood_soldier.wav",
+                      "sha256":  "91db0c8b3a346d09c2e390d6f5a8b19551757e56dcfeaa59503aecc7a676d7a9",
+                      "size":  265038
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c09_blood_soldier_en.wav",
+                      "sha256":  "01dd10c4d45d68fae9566970e2caa6cef5d1a3671e3a6343df367b3ae80c9d0f",
+                      "size":  226638
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c09_death_angel.wav",
+                      "sha256":  "2435f938302f411f8259e1394db5b7bb3eb1bdd6a39c8e04ce736e98439e8096",
+                      "size":  203598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c09_death_angel_en.wav",
+                      "sha256":  "6dc91a5eceab4900da8cfb90e7156f2fb24bec9806ab9990e7481218b3f399bb",
+                      "size":  195918
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c09_death_centurion.wav",
+                      "sha256":  "404c033922c265ebbb257225a80d74c9a0d51beb0a237986a2b3810c0b9bba7b",
+                      "size":  222798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c09_death_centurion_en.wav",
+                      "sha256":  "97e555118ad822fc93a532bb9054a8ac300855b54be4fa4466d2196e4b6ddb73",
+                      "size":  249678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c09_ilusi_n_de_kundun_1.wav",
+                      "sha256":  "a8f01db438d91b8c1ed768547f40e726cfc6336b4dbdff6ff596ac208fa94234",
+                      "size":  176718
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c09_ilusi_n_de_kundun_1_en.wav",
+                      "sha256":  "1b0f64bbd8db2143bbbe96feb76be2f42ad6eb8b89e5b196cc71b00265a02955",
+                      "size":  199758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c09_necron.wav",
+                      "sha256":  "905a1f5152a1b50650be2542239939836999cd8ffab933badb705555c536f9e9",
+                      "size":  199758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c09_necron_en.wav",
+                      "sha256":  "b1d346b18050a6b7da76f7bdf91403765a12dfa7b1df2512e5aebb3e5e440dcd",
+                      "size":  172878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c09_rogue_centurion.wav",
+                      "sha256":  "bc59c1aac18e9bd8cef7273f9a9e2ff39e6ea6059816175eb22cf6f34cb3342e",
+                      "size":  215118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c09_rogue_centurion_en.wav",
+                      "sha256":  "6337f9bdbb0ea5066b9a79a718160fb7e54cd31ef7bd370aca46a3527782c4ed",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c09_schriker.wav",
+                      "sha256":  "83edc8a03eb66a9da7d22a9fa90a7442cd2efa38bb63bd2a79da254790830945",
+                      "size":  195918
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c09_schriker_en.wav",
+                      "sha256":  "37294ca764b0d83a79bf4b0f4c3788f01264cfa9539e7ad632d7e31773913480",
+                      "size":  195918
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c10_aegis.wav",
+                      "sha256":  "b1491ed844989c3d369b9bfd1491c1b8a9789988018560de81175255524e4311",
+                      "size":  249678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c10_aegis_en.wav",
+                      "sha256":  "757289663b2cc117ebf753eab2a644cac5e86684d4ba4cbd8acc76fe0cea7209",
+                      "size":  211278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c10_blood_soldier.wav",
+                      "sha256":  "eb8e19153d620ef7e22925e30ae8af58f00928207c1460baf3997e43b44777e2",
+                      "size":  249678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c10_blood_soldier_en.wav",
+                      "sha256":  "855ffeec45e799f706f6a224aac3abba7b806af027b24b0c935744a0c3bd62da",
+                      "size":  172878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c10_death_angel.wav",
+                      "sha256":  "ce8cc9a60b3bf116edd11eda7cf0810c84241403a567d79f5fc8b13f1ecb7c5a",
+                      "size":  211278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c10_death_angel_en.wav",
+                      "sha256":  "deba70bc0a7831150d5b5bebf7b7925cae3904b40d2ceaf75338fb36e2bb966b",
+                      "size":  192078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c10_death_centurion.wav",
+                      "sha256":  "9a8c05706ab61f02988753699ca67c401450b5d4250bb740776c756ba51e7dc3",
+                      "size":  180558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c10_death_centurion_en.wav",
+                      "sha256":  "8f081e3da2f3c58152993b281f534941dd6ad19488d3c881f21498c871f31560",
+                      "size":  145998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c10_ilusi_n_de_kundun_2.wav",
+                      "sha256":  "b529d0c86d4613ad930927d5cd7aa8f1350f405e128d039c4140900c4ebb71f3",
+                      "size":  218958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c10_ilusi_n_de_kundun_2_en.wav",
+                      "sha256":  "526da99cdf7444132cf85255d76f0c7c1e1f4cfe27cf2fedd2d3e6dd8d19746a",
+                      "size":  176718
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c10_necron.wav",
+                      "sha256":  "d1a107096a1c6d848e21946f5bc0f7539f4871aae3ec572fcaa518235abe0326",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c10_necron_en.wav",
+                      "sha256":  "b6c42670452daf445938f52fadd52592aba1657f3868fa2de28363c7194e94c0",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c10_rogue_centurion.wav",
+                      "sha256":  "c8ba061272520c919ddeec76eb06452550cea8229688c016d3d2335b15d17179",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c10_rogue_centurion_en.wav",
+                      "sha256":  "3586157a21c1c7e3f22c2b695557f54ab6c9475e3420ca75a26fba68b59e4e9a",
+                      "size":  211278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c10_schriker.wav",
+                      "sha256":  "df5ce7956a8a53f0aedfdf9151e3d2e9918914800ac4027708c44da20fb9609b",
+                      "size":  192078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c10_schriker_en.wav",
+                      "sha256":  "6e6bc32516b744c2b2bface2e2332bf206cf9a64aa68796499acad4e1694148e",
+                      "size":  153678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c11_aegis.wav",
+                      "sha256":  "e4b212028a1b2b418e4a571df4f59513969e9d23a570004ed10e5b54fe8dfbe7",
+                      "size":  192078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c11_aegis_en.wav",
+                      "sha256":  "9357b9e1b838de0f66c051b23c76accab9eaab889b0c68c7074521263ee8275f",
+                      "size":  169038
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c11_blood_soldier.wav",
+                      "sha256":  "f89521343e7255c204e929458bf4ca7b644800cd214538f54cad0ea2cb097075",
+                      "size":  172878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c11_blood_soldier_en.wav",
+                      "sha256":  "413d6f66159281cd31a3719b7e54efb132c77289766539ffa9d6a2223e6f96d0",
+                      "size":  165198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c11_death_angel.wav",
+                      "sha256":  "21963c50b78b0e0eed58fe9722894d6db2ddbfb5dd36c1bdee8f39f60673f125",
+                      "size":  238158
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c11_death_angel_en.wav",
+                      "sha256":  "3a3aee66f30eee243b3db0cad9cc3aa17b6e0d163d0452d750ff836646d2bd39",
+                      "size":  161358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c11_death_centurion.wav",
+                      "sha256":  "a90496450da4c4cc15470eb4876de7e77aabb65b6f147ba366b23c5b732561e8",
+                      "size":  192078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c11_death_centurion_en.wav",
+                      "sha256":  "195c3c58d54cbc223716c924f4cf9c67ed888b3162a887f2ab93594bd63b707c",
+                      "size":  184398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c11_ilusi_n_de_kundun_3.wav",
+                      "sha256":  "42db44d4770424914675b3336d28af763a856f65e5f2a4e11351d9b626553c54",
+                      "size":  199758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c11_ilusi_n_de_kundun_3_en.wav",
+                      "sha256":  "5cb6d8ecce48168cbbe8d87e4a4d36a217fa52bf250bad734105113bd11d0a56",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c11_necron.wav",
+                      "sha256":  "e5d557ec53268c72acdb270e5abb3e92b7f052c1386fa245ea4801217ef7267b",
+                      "size":  265038
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c11_necron_en.wav",
+                      "sha256":  "49ff76fb8c8160847b8994ef8abcec9e5f7fb1bc37ee69d2cad3fc0e4108cbd9",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c11_rogue_centurion.wav",
+                      "sha256":  "83a0ac91133dd8d7cdf07bcde1d3d045999a2aa1f5b0cc2ec25a260547437383",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c11_rogue_centurion_en.wav",
+                      "sha256":  "755635e07e7b20a1dec874072e1854388940fe52fca986acbbb9426c9a82c681",
+                      "size":  230478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c11_schriker.wav",
+                      "sha256":  "b3e9a343f79bb6dfdf27b58ce4dbebcd54847edebdf40344848864a8492231b7",
+                      "size":  211278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c11_schriker_en.wav",
+                      "sha256":  "60e151af995d908d5fe63cc46a426141b12234d5e96c371535bb4583671b6a30",
+                      "size":  176718
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c12_aegis.wav",
+                      "sha256":  "535e5c22a88adad35040ee86da57ff5e6f3eaf40d512d970da08a61dec397945",
+                      "size":  218958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c12_aegis_en.wav",
+                      "sha256":  "724ee8b90afae696eb42f1677f2b1b5d7b22a1eb69baa916f79f435ef3c5f627",
+                      "size":  195918
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c12_blood_soldier.wav",
+                      "sha256":  "0938e02b6067d00b8d5601a5be46c0bf076976fe1ecf381244aabd2d06bf0a20",
+                      "size":  218958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c12_blood_soldier_en.wav",
+                      "sha256":  "faaf770f65d63419ac8975e8055e15d402a4aa638548be2c8b7c8eccd343a19a",
+                      "size":  184398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c12_death_angel.wav",
+                      "sha256":  "7c7cbd5ee2371a8ce8924d03f43f3f573f83a1a2cb2766324771aec20867d78e",
+                      "size":  184398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c12_death_angel_en.wav",
+                      "sha256":  "105a32e76e26c6cced610f110f8ff3dc181ba2265aaff0db34399a9354870e26",
+                      "size":  184398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c12_death_centurion.wav",
+                      "sha256":  "cc6d3970571bafba7ce93636580a150fddd70951fafef6aa0da20acfab5d274d",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c12_death_centurion_en.wav",
+                      "sha256":  "380ed67774c515f205f6a9e712a751d9b38a1e599665c02b1243454411f7cb5c",
+                      "size":  199758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c12_ilusi_n_de_kundun_4.wav",
+                      "sha256":  "cf90bd0b42aef3c884592e8e5728908d3e70f7faa386fec4674fca5c84fa8c20",
+                      "size":  234318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c12_ilusi_n_de_kundun_4_en.wav",
+                      "sha256":  "913bb7beb75e1ebc3ddedb2c1541ebfce54f6ea47e470b3cab6b570bee831082",
+                      "size":  169038
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c12_necron.wav",
+                      "sha256":  "f0bac9762577b329cfa49e0d7b61a3b754981cd84f9c54529e09ed0dde76f352",
+                      "size":  184398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c12_necron_en.wav",
+                      "sha256":  "265e4842f16444f186b3965f200fbaf044ac5b418a5b536664aeea3eeb50d34a",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c12_rogue_centurion.wav",
+                      "sha256":  "0288f5bbcd6d6aa80bcff30eba382ebab9209765b5b56c6dfd688d7332e0a563",
+                      "size":  272718
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c12_rogue_centurion_en.wav",
+                      "sha256":  "584aaec3394e7d3771029e0afb518c286be53b088613420d92e3f1a646062999",
+                      "size":  192078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c12_schriker.wav",
+                      "sha256":  "f2f99fee5dd7960f35fb387f6ec436216a06fb535f2ecfe04fb90a2ba5a06747",
+                      "size":  222798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c12_schriker_en.wav",
+                      "sha256":  "59b8ca400957b200cfa88bcfc23c05afc57717e8204db31e4d364e2c056281ce",
+                      "size":  180558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c13_aegis.wav",
+                      "sha256":  "a381eff15c8c3abb8f85de474e8d3c7b837c8c6c33ea9e76395cce2379c26a6d",
+                      "size":  188238
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c13_aegis_en.wav",
+                      "sha256":  "26e9131f2ce25d82e3925182020e44e35824bb494330376a6e9cc4a7f872d170",
+                      "size":  192078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c13_blood_soldier.wav",
+                      "sha256":  "67def378f1fab2dd4275d5da6bbb5184cebbeb050c26fcdd511a04e5d7ab6fad",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c13_blood_soldier_en.wav",
+                      "sha256":  "546e84cb552a4da7943176c9be6f1d865b260cd9f05189879c7063a3c767b9ed",
+                      "size":  149838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c13_death_angel.wav",
+                      "sha256":  "38039ef05abbfa78b5e9e9a7fce444d02449424ab1e61e162f49dccc9c0aecf9",
+                      "size":  192078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c13_death_angel_en.wav",
+                      "sha256":  "ee0fe06499ac75a5d116a142c9c7a5097ba3ab1979068a8fa8ebd997d4a3c41e",
+                      "size":  226638
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c13_death_centurion.wav",
+                      "sha256":  "f397e628f535fe1b72060b50fa06c1e3df6c1398c865c7fabc7c45963acafebd",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c13_death_centurion_en.wav",
+                      "sha256":  "9acc33bd9d835f947bf1515872e18720b6022aa374f2431f8d1555c25ae16941",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c13_ilusi_n_de_kundun_5.wav",
+                      "sha256":  "285ab9c7d82ffaa5c2fc94d3cb6ede87be8cc20258097d5d04c12119743791f1",
+                      "size":  215118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c13_ilusi_n_de_kundun_5_en.wav",
+                      "sha256":  "06b6a79c5c44715687a585ed84ecc4afc8c8e8ee85e61946c73b61451aecce7b",
+                      "size":  172878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c13_necron.wav",
+                      "sha256":  "9a5753a7809ef1ed5d76c278174fef22ab66edbe8dcde16f725c38551d5c18bb",
+                      "size":  211278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c13_necron_en.wav",
+                      "sha256":  "d567fbadd5433049379901edefcc54d53dddf1b1d4ebe5a96226b60b911a6e5d",
+                      "size":  218958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c13_rogue_centurion.wav",
+                      "sha256":  "259cf7aee3865305edef871eeb8015e91bc87f1193f0d93dd2430af102eff31f",
+                      "size":  145998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c13_rogue_centurion_en.wav",
+                      "sha256":  "eef39f661fe461af1ef76e3ebf05815ed207f3e0d5181fc9ef549c139c29edc5",
+                      "size":  130638
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c13_schriker.wav",
+                      "sha256":  "e074c0cb8282cae5592001c83a0edd562b0bbbc837d4f8c7190e962760bd3566",
+                      "size":  222798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c13_schriker_en.wav",
+                      "sha256":  "be91f700697d042384d62df5e4c56af2aa6651320a635f4864a8ccd04db9a44e",
+                      "size":  199758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c14_aegis.wav",
+                      "sha256":  "8dcda61f3537b5cde5b29892aba88e3845f12fb611f08e2bfabbd0bc4f2872a9",
+                      "size":  230478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c14_aegis_en.wav",
+                      "sha256":  "d01ddcd58bac0179047a29e9561a01284a9cb187263324d06ae52be5ab2def76",
+                      "size":  280398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c14_blood_soldier.wav",
+                      "sha256":  "3f8dfc1cf01d8c1ef254dc57784511ad17329c5c2b0b7f13a788d03594e5b524",
+                      "size":  268878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c14_blood_soldier_en.wav",
+                      "sha256":  "8329830187b12e3375f416b7b29f4d05b70af0e17852c9281a4822ba2aae6416",
+                      "size":  203598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c14_death_angel.wav",
+                      "sha256":  "8a8763c4b1e5a057e676e7e560f1f98e02f2487917576f56018515c423212afa",
+                      "size":  211278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c14_death_angel_en.wav",
+                      "sha256":  "6b85e4ef724ff029e54038aded60b586df11d800d6f76227b65e76605e790341",
+                      "size":  165198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c14_death_centurion.wav",
+                      "sha256":  "a47be2b5c9bba914ed743a681c4b7b6b80d8ee9d8d99485fc070bab556429296",
+                      "size":  192078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c14_death_centurion_en.wav",
+                      "sha256":  "46a4e1f6762c96fc777a9b9679ef436c002db6a95e48b1a1e82a097d2d70171f",
+                      "size":  218958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c14_espejismo_de_kalima_6.wav",
+                      "sha256":  "1f21d97d6b795262d64dfe655519e7a12457090d0aa44a972d3ef86df0ff8f30",
+                      "size":  226638
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c14_espejismo_de_kalima_6_en.wav",
+                      "sha256":  "db56835f70f67a0ef99ca0eecd1f567c47d3967ab6bfafdadae6e237905c07a5",
+                      "size":  280398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c14_ilusi_n_de_kundun_6.wav",
+                      "sha256":  "a276b22cb8eb71b7c1fc4c8307f4a635397426508bb23f8bff175626e1e88a3d",
+                      "size":  161358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c14_ilusi_n_de_kundun_6_en.wav",
+                      "sha256":  "8da0a14c3de106ed5e4599c2c1ed015231b573b6910c202ba8a799a85a9e2189",
+                      "size":  180558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c14_necron.wav",
+                      "sha256":  "1835c13547d53681c9f94dda4f565b7bb6e3094b028653f897b7372f5319e626",
+                      "size":  195918
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c14_necron_en.wav",
+                      "sha256":  "7e8699b738afcb87f1f1709f0d0b338e2b56f74c543f53da0083e187d3ec3cfa",
+                      "size":  184398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c14_rogue_centurion.wav",
+                      "sha256":  "f298929569d3f4de2a4fd3be1a31c9774e13377544d4794db736da2d84253f8a",
+                      "size":  180558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c14_rogue_centurion_en.wav",
+                      "sha256":  "927850a4ea7221c891d946953cbee128537816be47c90d6f59e6500ee6c3b4e9",
+                      "size":  169038
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c14_schriker.wav",
+                      "sha256":  "c08f958fc3262e32b02175e652b99776ddc2e7e5f1e6b71c0a07886b6a3c24fb",
+                      "size":  218958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c14_schriker_en.wav",
+                      "sha256":  "e982712d52d7fa95f2a2e03653b7e3739cb8148e28c7631ae727dc6a1858f89e",
+                      "size":  249678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c21_aegis.wav",
+                      "sha256":  "0e43aa1b3765b90bc633719e8de6b122fe49dfbe4708fb77983fb11d6a504d2b",
+                      "size":  226638
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c21_aegis_en.wav",
+                      "sha256":  "9a53907c7d778912a6f9473b42bcc0ccabda05cc802519faf9921806e5bea5c0",
+                      "size":  188238
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c21_blood_soldier.wav",
+                      "sha256":  "f8c1c00dd37bf6e88ba1ceb859d27eae34aef969e2bc83e885e6c7129b60e194",
+                      "size":  199758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c21_blood_soldier_en.wav",
+                      "sha256":  "896cb8b1849b301c564c04f6d1690e6c997e7bc953fbe22f667b8695221a9e2c",
+                      "size":  149838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c21_death_angel.wav",
+                      "sha256":  "85e4c9b2188c0b205f3b9ce69f6e4b3311436d9476a809ccdd556e2b88373787",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c21_death_angel_en.wav",
+                      "sha256":  "c231fa9ef120626a3c79b211f820a12e3a4a6f99ed1acf3ef72403a0ec08099e",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c21_death_centurion.wav",
+                      "sha256":  "31255f970bc2cb3c4e4fe66d5e96bb8fa7acdad3af70a5d4c6b84f6bc6dfd31a",
+                      "size":  180558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c21_death_centurion_en.wav",
+                      "sha256":  "87e5b16239b0bf166e6f72eb76b107226d97cb825c4dfbcd86049fdc45a7b1de",
+                      "size":  153678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c21_kundun.wav",
+                      "sha256":  "45a4182946f6ea29fc9021d47b2f82281c9c2450b3dfe2694ba865617c640ddd",
+                      "size":  238158
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c21_kundun_en.wav",
+                      "sha256":  "1ee684a865d245ed24fa5ff86de94734ff57204149eafd7369283cc07d1a95d5",
+                      "size":  272718
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c21_necron.wav",
+                      "sha256":  "bc7f02790e2d8547b6788b7d5f90fd31902bc8c4fb5fb5f61c838a01e9b7182e",
+                      "size":  222798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c21_necron_en.wav",
+                      "sha256":  "106b324d6fe042745e6233a060cf7e40dbebbb803f7f814710ea37985608fe60",
+                      "size":  192078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c21_rogue_centurion.wav",
+                      "sha256":  "82a50494f22dbeb021b41f8b949595001e2d3d3049bed2c63e5b4af8a48fecea",
+                      "size":  199758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c21_rogue_centurion_en.wav",
+                      "sha256":  "7062d8de199d2ef63891f1dae0adb6c817a447b2c82ab5de4c04a957e7b47e49",
+                      "size":  180558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c21_schriker.wav",
+                      "sha256":  "94f75ba1fada1bb60bb198951629d4a5a1e3aa43af764c15e542f0ef2b9c5fb4",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_q_c21_schriker_en.wav",
+                      "sha256":  "b066fa172300c4191e300da50f5ba38458a4e0deb9a8957a7d3bcc69e9af3d06",
+                      "size":  230478
+                  },
+                  {
                       "path":  "Data/Sound/voices/oracle_layla_seal.wav",
                       "sha256":  "56ed2b36265cbab02302a64a46a81118a49eb33f1c046dcdcba10b153f7a33d0",
                       "size":  134478
@@ -76277,6 +77737,36 @@
                       "path":  "Data/Sound/voices/oracle_layla_seal_en.wav",
                       "sha256":  "ef572796aba764168024a0c3cd7c84094350449b2826904e2df315292831303d",
                       "size":  126798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_ch15_close.wav",
+                      "sha256":  "f7e62bb793f006cd28f9197f595b2bca23df014db185ea552e5c27eadc1a4be0",
+                      "size":  299598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_ch15_close_en.wav",
+                      "sha256":  "9c19a120bf4389f3310c72857ebae172269475d2a8dd48e32995726faf4b0615",
+                      "size":  307278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_ch15_present.wav",
+                      "sha256":  "9f737c9b263947ccd6992cf0e93b630ef52dfa0a5eb69625c6104b76cdfe9e2e",
+                      "size":  265038
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_ch15_present_en.wav",
+                      "sha256":  "79ce764794a54ee5be83f72f936c9dfb620711a09d78675f5b8a791db8a5f1f0",
+                      "size":  261198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_ch15_progress.wav",
+                      "sha256":  "659b49796e57542f927d1c87456a6e0ab2a42bde3ebb0393876e9f597f1dd263",
+                      "size":  215118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_ch15_progress_en.wav",
+                      "sha256":  "b093c9e34eb87ff03bc61d53164d91e7c38839dc6c52317499c551b92b13d87a",
+                      "size":  165198
                   },
                   {
                       "path":  "Data/Sound/voices/osbourne_line1.wav",
@@ -76307,6 +77797,116 @@
                       "path":  "Data/Sound/voices/osbourne_line3_en.wav",
                       "sha256":  "4a3fb5a81b684380ba302ee62f136f3dde928c6df13d164776be0910817f71d0",
                       "size":  142158
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_q_c15_bloody_death_rider.wav",
+                      "sha256":  "e8e04addeb603e3432d4da1e45988fab2200f4160b45632831a1a9493fef6ad8",
+                      "size":  265038
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_q_c15_bloody_death_rider_en.wav",
+                      "sha256":  "64f666a425ab2895463f345ce7e4d904a2c1243a8b3aea5976d5477efa873237",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_q_c15_bloody_golem.wav",
+                      "sha256":  "ceb9a40bee2b45d59791be3b680de100ff98f09d2a75cd2e7429b8e4a2d1224d",
+                      "size":  234318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_q_c15_bloody_golem_en.wav",
+                      "sha256":  "13433ea602440cea1f0e00be2b403e31d841594c376f62434c35540d7d76d9c3",
+                      "size":  211278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_q_c15_bloody_orc.wav",
+                      "sha256":  "864d60e3e230aee02a448fad40455a498e7130ec7d12c1edad3ff1eefcd59858",
+                      "size":  299598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_q_c15_bloody_orc_en.wav",
+                      "sha256":  "fefd0fbbfc27ed74bf292d69f0b8907548b1f735a61d247e4b7f2925f9130b10",
+                      "size":  230478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_q_c15_bloody_witch_queen.wav",
+                      "sha256":  "65b79c3945351eeba59f94cb11e54ebc5293c2dabc11cf1a7e088d404a99fcc7",
+                      "size":  249678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_q_c15_bloody_witch_queen_en.wav",
+                      "sha256":  "71aa8fd419be42d30e791118789e5bfed244aa215532f8ddd5581701d6d69064",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_q_c15_blue_golem.wav",
+                      "sha256":  "584e447a2a2e16a645e39c3991a635e5cb5e2d94f6dc73f138165defe611c7b9",
+                      "size":  253518
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_q_c15_blue_golem_en.wav",
+                      "sha256":  "7a44ba62e7f64eec9d86017513877e3e868ef4f7419651cacaa0d1552c722720",
+                      "size":  218958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_q_c15_death_rider.wav",
+                      "sha256":  "b72150771f6194204ca2a11708503efbf8fd722776af75f5a57904373b2e8d25",
+                      "size":  215118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_q_c15_death_rider_en.wav",
+                      "sha256":  "6dfff4d13ef06517bc4f50ebd1186701d0519bdd6f8bdbe2503188c5494c94ec",
+                      "size":  195918
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_q_c15_death_tree.wav",
+                      "sha256":  "e76672aee270ed240d8fc63b0a24e6b67d14f100e5cef37de6409bdad41b7da3",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_q_c15_death_tree_en.wav",
+                      "sha256":  "e18f1abccfc64d60888f80431f45da7cce351daf43881c22a1933d5e67209573",
+                      "size":  249678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_q_c15_forest_orc.wav",
+                      "sha256":  "f10334b9f6bff4aae49948cb95d62d4534d738c6a114b0a8db0a8857d5ef4950",
+                      "size":  165198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_q_c15_forest_orc_en.wav",
+                      "sha256":  "d18b1af4996e68fec612e1226b9e7a20d18af4b7bc2cd67f25bde1ea745221dc",
+                      "size":  165198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_q_c15_hell_maine.wav",
+                      "sha256":  "a058638b7080230aafa79ebc8542ac020f144077fe64ccef48aa89779cd8128d",
+                      "size":  265038
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_q_c15_hell_maine_en.wav",
+                      "sha256":  "be50d70f22b55f8d0a534c57bb3836ee4317cae66073200f8f6ea5124b9446be",
+                      "size":  253518
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_q_c15_ra_z_negra_de_aida.wav",
+                      "sha256":  "f23d5062b97ac037410db523053067a2b2fce104c8119c88cf7179066d3ff22d",
+                      "size":  280398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_q_c15_ra_z_negra_de_aida_en.wav",
+                      "sha256":  "74e2ed111df9671d2b881e6588343158f146e996d9702c5fdd842b06cbad2abd",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_q_c15_witch_queen.wav",
+                      "sha256":  "63b24cce555643412137e3347903983426d61062aaf25520bf967856b26ab9ca",
+                      "size":  268878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_q_c15_witch_queen_en.wav",
+                      "sha256":  "f8861b47691566404b2402c2687e4b601f3084de13cc0db55ed212a3a47a958b",
+                      "size":  234318
                   },
                   {
                       "path":  "Data/Sound/voices/pasi_honest.wav",
@@ -76377,6 +77977,1306 @@
                       "path":  "Data/Sound/voices/pets_food_en.wav",
                       "sha256":  "086c9664ec0eb5a52483c535294f3190ad23a9904a09c15fa69de72b300e1e4a",
                       "size":  169038
+                  },
+                  {
+                      "path":  "Data/Sound/voices/quarel_ch19_close.wav",
+                      "sha256":  "445a243eda12e6c6c3afd0abde32409cb23c408890eceee7e64cb29568c72a3a",
+                      "size":  284238
+                  },
+                  {
+                      "path":  "Data/Sound/voices/quarel_ch19_close_en.wav",
+                      "sha256":  "7db762dc4e48e43ff5493fa9a2574ea454849f00c1b5b04fe375260cd49e82a9",
+                      "size":  253518
+                  },
+                  {
+                      "path":  "Data/Sound/voices/quarel_ch19_present.wav",
+                      "sha256":  "af9ce766211f4f151732a9a73a6293a19c2e8282d0ce22adecce8dd4e534598a",
+                      "size":  307278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/quarel_ch19_present_en.wav",
+                      "sha256":  "a9e6dc4a1ea4cd8e27f5aad38c7ec400fb4abdc9351ed5c9b8614fe0351040b5",
+                      "size":  295758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/quarel_ch19_progress.wav",
+                      "sha256":  "b1d2e9774298d6089fcfe1518e45395663faa37db037a5c69890fe436e8a5d4f",
+                      "size":  222798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/quarel_ch19_progress_en.wav",
+                      "sha256":  "9b2b90d66d06e75df4cb5bd34a0a75dedd3a6eae814a07ed44b6c9ebf8b0bea2",
+                      "size":  253518
+                  },
+                  {
+                      "path":  "Data/Sound/voices/quarel_q_c19_balram_aprendiz.wav",
+                      "sha256":  "39de097b08b279f0f5a6f896ad21e5da3ac0ce713d4708d99dd3f11b9294960d",
+                      "size":  257358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/quarel_q_c19_balram_aprendiz_en.wav",
+                      "sha256":  "96b7e8a6fd0b28d72887f0730b5fef25c878feee0873e32560effdd343fc7b8c",
+                      "size":  222798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/quarel_q_c19_capit_n_de_los_barracones.wav",
+                      "sha256":  "f5cd0f082877beab240430847f40c7402573f1aaf482ee960d423a33590fc6e7",
+                      "size":  272718
+                  },
+                  {
+                      "path":  "Data/Sound/voices/quarel_q_c19_capit_n_de_los_barracones_en.wav",
+                      "sha256":  "00203ce6fe2988f0855aaaccafff0bab125f8a6a6d4652b08ac6e32df9ad7bdc",
+                      "size":  218958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/quarel_q_c19_death_spirit_aprendiz.wav",
+                      "sha256":  "0dc1c7bc250f52ff3767f80bac863acdcde34de3a7c4706e57c2664fa40733d4",
+                      "size":  295758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/quarel_q_c19_death_spirit_aprendiz_en.wav",
+                      "sha256":  "d8493509069eac5d2d8aac909125465e2b0e5d15372928569cec0654ff7943f3",
+                      "size":  195918
+                  },
+                  {
+                      "path":  "Data/Sound/voices/quarel_q_c19_soram_aprendiz.wav",
+                      "sha256":  "c3408fcddccf004baa5a8247704aa925f81c5379dccd25a76fa945d5a05f2f31",
+                      "size":  222798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/quarel_q_c19_soram_aprendiz_en.wav",
+                      "sha256":  "cdae582ed460332f6fb42503c59ac82695800247452806a8427ab13269cd3dbf",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_ch08_close.wav",
+                      "sha256":  "80a9474562be7a0b58129253b859b3981c68d123e6a58e8a07fd8bba7dc56503",
+                      "size":  357198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_ch08_close_en.wav",
+                      "sha256":  "79a92ba62b1d53c28d615b9d280818f255123b88a8fcd257047083940500cf9a",
+                      "size":  368718
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_ch08_progress.wav",
+                      "sha256":  "756f51e92e823841e97b71cd47580a2408e4fdf1cc09265db2bbd73f63317212",
+                      "size":  145998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_ch08_progress_en.wav",
+                      "sha256":  "f235ac9cf25fbbffb13d1b8b824730ac9a3869b18b60008d98f3343d3e86a676",
+                      "size":  157518
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_q_c08_alpha_crust.wav",
+                      "sha256":  "55bea3923bec1828a728cbe0912f367f49f3ae4f2446e617e0a22ad80fa4ea90",
+                      "size":  265038
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_q_c08_alpha_crust_en.wav",
+                      "sha256":  "4f6302f0315c4e5f5bcdc200cc9c0285a949d5c3779207bf96ac6c8d0040ac18",
+                      "size":  203598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_q_c08_alquamos.wav",
+                      "sha256":  "8160b9a95824bf2080e4349f3b1bfb45b0a03e84dda7010470a91c453848c786",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_q_c08_alquamos_en.wav",
+                      "sha256":  "65fff165bc168868da26d06b71af8b168bc1d8b3a01628e1d8e2406bf3dd3c2f",
+                      "size":  180558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_q_c08_dark_phoenix.wav",
+                      "sha256":  "8500b096345028cc7b3074166badf9528f0504b45f635c95d14a4c8133680035",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_q_c08_dark_phoenix_en.wav",
+                      "sha256":  "a9ef2b0abbdda0aaa75810e4fdec9adf8008452013211c203f0ca02ed10cb5a0",
+                      "size":  211278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_q_c08_drakan.wav",
+                      "sha256":  "faa8350e646986af9f9350961de7bbb4bd996ef2124b804d46238635e0934108",
+                      "size":  272718
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_q_c08_drakan_en.wav",
+                      "sha256":  "9299d25441d2d7d3b35444973122e84069f0c04001cfccc7c7689984b9d6d198",
+                      "size":  257358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_q_c08_great_drakan.wav",
+                      "sha256":  "db887853bee52482ad20bb8c2f23f6d6c7bfc119a09cf8e6057ccab6685343d8",
+                      "size":  295758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_q_c08_great_drakan_en.wav",
+                      "sha256":  "8dcc4c8cee097878390aaaaea1408ea49684b780d0dc2290a0ef5618104a16cf",
+                      "size":  218958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_q_c08_mega_crust.wav",
+                      "sha256":  "beb06dc51bb3bb7171125486da9dc75aaa4836308a0e9faec800aba8db787fda",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_q_c08_mega_crust_en.wav",
+                      "sha256":  "ff0a807a2c3f147cd7bc8cd5fd5e12f47d26838c1a67e16e3544ae38daf382e3",
+                      "size":  138318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_q_c08_phantom_knight.wav",
+                      "sha256":  "b5d6bff4371f8ff1d5d5141c19d7ec9cb92c303e17d4a5e5737299039db6059b",
+                      "size":  230478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_q_c08_phantom_knight_en.wav",
+                      "sha256":  "fd7325326b7d3300c51be55a5dde691d0360dac97e31df466f69b2c6815f89cd",
+                      "size":  215118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_q_c08_queen_rainer.wav",
+                      "sha256":  "6afde98cf49725206b15ec1f55c4b4ea3738dea572221fa364327d5d7843e64e",
+                      "size":  218958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_q_c08_queen_rainer_en.wav",
+                      "sha256":  "f748332d3be1eb11a988eb542e3225476de90f346d256fb8f4e44c0ea4b067ff",
+                      "size":  211278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_q_c08_tormenta_de_icarus.wav",
+                      "sha256":  "c73c8c80303db9450d6cee5f04a30b2ee5d4d5f25870f05fceef4f3b71e61807",
+                      "size":  176718
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_q_c08_tormenta_de_icarus_en.wav",
+                      "sha256":  "d8ea0819e844ac8ee035e35e64cc51bd3343eaf189b365fc59dcc83beed4cf80",
+                      "size":  276558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_talk.wav",
+                      "sha256":  "04602534d0fe0db0de5d5de8d452b639601cab512bae202f6063a80c4c36bfcd",
+                      "size":  326478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_alen_talk_en.wav",
+                      "sha256":  "a02a7c06fb9190a871c7ab998bfbcf1a7e11e50e9d09a726e1e52f0a9f68658b",
+                      "size":  326478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_brenn_ch27_close.wav",
+                      "sha256":  "f9baac9a918e9a6c962a6844a302e095da7b76187d60219121dc079023930e56",
+                      "size":  238158
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_brenn_ch27_close_en.wav",
+                      "sha256":  "4aa5a566004783030ec9a0e58c85d500e4f31c2c12c37913736d169e2ea7c494",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_brenn_ch27_progress.wav",
+                      "sha256":  "38ad31bb79bf9ed4e76fe408a0395725e0ae4d504b30107fab9f6abe4754cc7f",
+                      "size":  180558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_brenn_ch27_progress_en.wav",
+                      "sha256":  "29a883ae0d37ab42a85d86c1c006c54711325ddb58ff5ced0737284cd00bfb71",
+                      "size":  165198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_brenn_q_c27_axe_warrior.wav",
+                      "sha256":  "e53b74d89bc3293bc7e0b861c395afdc6bed45c98b9e6c26c338b925fb4c84ac",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_brenn_q_c27_axe_warrior_en.wav",
+                      "sha256":  "7f494d2a9d09fa163a7a947f188dbfb94d3a0a275344f191613bbf800188979e",
+                      "size":  203598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_brenn_q_c27_fire_golem.wav",
+                      "sha256":  "70de5ec9b0a7a2138f919e42c869d23d8767a062259d4c992e0b6468e24e625b",
+                      "size":  265038
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_brenn_q_c27_fire_golem_en.wav",
+                      "sha256":  "99058a201b455a6522a0306150f6ca57c3051ef77e98b21d78c62385accd5530",
+                      "size":  222798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_brenn_q_c27_juicio_de_las_pruebas.wav",
+                      "sha256":  "c57dd14f50e57079482d0e44e56cb2b64fd7765da6286d80d9f37f9ffa1d9d5c",
+                      "size":  222798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_brenn_q_c27_juicio_de_las_pruebas_en.wav",
+                      "sha256":  "024c3004079545b89d2f07a02559c83192461fd632174a4dec29aa252a521a7f",
+                      "size":  218958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_brenn_q_c27_lizard_warrior.wav",
+                      "sha256":  "bbbb250d86887c403f34994c079769f9dd694c4a6989470baf502cbcfa13368b",
+                      "size":  253518
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_brenn_q_c27_lizard_warrior_en.wav",
+                      "sha256":  "463de835c0d1d16688e06cca59a4231ef2fd18bb7ed073ab39a9cf4fa674e65f",
+                      "size":  188238
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_brenn_q_c27_poison_golem.wav",
+                      "sha256":  "1f61cd5d1c8e1b7f6205a1e22a990478f8a568a494994ab87b8d963ea6bcf985",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_brenn_q_c27_poison_golem_en.wav",
+                      "sha256":  "b9aeb74366d8962b0f5040b3d4408a4c487c8dac818067b9a6bee47e6582f9bd",
+                      "size":  203598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_brenn_q_c27_queen_bee.wav",
+                      "sha256":  "2424826a7ddbf1b0ec2ce48d8c09ed686f576f373cef05be4d5d558267b39d8a",
+                      "size":  272718
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_brenn_q_c27_queen_bee_en.wav",
+                      "sha256":  "e85b758cb70969fe95ec3d1dd434a9c06f7dcc88f72446a65359c54ca8771973",
+                      "size":  272718
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_brenn_talk.wav",
+                      "sha256":  "f8e615c571af703209d9289c5026b6b5b7fd8c1e07e51565bee7f81f7c3c8653",
+                      "size":  326478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_brenn_talk_en.wav",
+                      "sha256":  "11ff1f564f347c447426c8b0a507bbbadcb549db1e35628e55ed54c2191653d1",
+                      "size":  345678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_ch04_close.wav",
+                      "sha256":  "6d3ca9de727ef46c76120e31e9a35a69d8b8b2774696ab3180035643a2213357",
+                      "size":  253518
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_ch04_close_en.wav",
+                      "sha256":  "7742658873c4730b2aa3d9cabc9f529122df008bcb645423179cffecd43aa304",
+                      "size":  257358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_ch04_progress.wav",
+                      "sha256":  "388dd229351dc0147986143f799e0e4ec4a09ca1af325c168a686eb2ed4c508c",
+                      "size":  157518
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_ch04_progress_en.wav",
+                      "sha256":  "734cc4c98b2e425d42b918a50a93ec1f04cb68bcb9af720317ce7164ae17e1ae",
+                      "size":  126798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_carcelero_del_calabozo.wav",
+                      "sha256":  "98be65d80cc3ccf7c10358412e3051a548e4e1564c1b4b4ece8b65310ab011f1",
+                      "size":  157518
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_carcelero_del_calabozo_en.wav",
+                      "sha256":  "4e6aa551c2a11ba488ba1bbbdfc1d90fd38a286cb0d058182f10d730df53b72e",
+                      "size":  88398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_cyclops.wav",
+                      "sha256":  "399ffe1c0329685051c05e34616b40fe8de29fc4176d12d2bbfac39801b9f42f",
+                      "size":  122958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_cyclops_en.wav",
+                      "sha256":  "0a01eadd55c01955f4f28b9f666dbf04c49166efe2573e512fe0e948b1780b92",
+                      "size":  88398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_dark_knight.wav",
+                      "sha256":  "d59afca9d477b5c6ddb5504383f2c286990cdabf0f007631c77ec2344de416bc",
+                      "size":  157518
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_dark_knight_en.wav",
+                      "sha256":  "26f9f31aeab64ff82f4a365ce115ce2c1972ec7dc1c8521e7a7b5adb6e21138a",
+                      "size":  172878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_elite_skeleton.wav",
+                      "sha256":  "9e1f5b3292383b0b8d58578df6e1e1ad86f440a4c8decd1c49d0b4304ed631ac",
+                      "size":  130638
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_elite_skeleton_en.wav",
+                      "sha256":  "7eee8a6291629e418c724363273933c7fbfbeee3e1d8908f72d015bdeff87437",
+                      "size":  122958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_ghost.wav",
+                      "sha256":  "a7c01a0d7898bbf0cac9bd76f06bf57c0899a7a5c07886ae0b4731ee2af5d4e2",
+                      "size":  142158
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_ghost_en.wav",
+                      "sha256":  "0c9a0f807ff710398a96fbcf6d145c242718cc5782dbc03d21ee3055d0bd47e6",
+                      "size":  153678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_gorgon.wav",
+                      "sha256":  "76f1d66dfd2247e3714a3d221ba0eb95c4127428d90ba5cd388677e9c84c9a50",
+                      "size":  203598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_gorgon_en.wav",
+                      "sha256":  "32bb9bd70d0a93dde7d0c9b8a80b10a14fe2f127c37092c131e092e89d6d7d67",
+                      "size":  165198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_hell_hound.wav",
+                      "sha256":  "11255853f20573a47853510b96bac8fec4c7b1b4e8bf5c33a04e9d08ac3f0819",
+                      "size":  145998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_hell_hound_en.wav",
+                      "sha256":  "a6a677f7e81508411e8b7c52304b53debc80381d30cbd36edb494db6001233f7",
+                      "size":  96078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_hell_spider.wav",
+                      "sha256":  "e340c65dad2dd5b2d4ca4c40a60a32b981e122b3c843fe3790d9335620b7dc68",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_hell_spider_en.wav",
+                      "sha256":  "0427fe2a538c1174805d0989c8817e5278573106d3ac5bb8503759323b4dae99",
+                      "size":  165198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_larva.wav",
+                      "sha256":  "c014b4ebca1ee137c35e443ad09904c6f14826ac3a3222e0e848b829b4182c64",
+                      "size":  230478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_larva_en.wav",
+                      "sha256":  "44bc8fea0d61ea4d4453793ea6c119e580e1cdc3bcb1392dfad612e841449f24",
+                      "size":  142158
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_poison_bull.wav",
+                      "sha256":  "0dfa5ee3202cd5163030c668f3a660ee04d312a8003007ae4ce48f63c0b562a2",
+                      "size":  130638
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_poison_bull_en.wav",
+                      "sha256":  "ff9c43f6cb3e52d67de3c614de2e5d51f92045cad3082ae4b3a0ab0082397c21",
+                      "size":  111438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_skeleton_archer.wav",
+                      "sha256":  "2aebd025fadb2a44f8f28dfea770f8e6113c3b26bb5eea1d3f53d3ca4c5bfb39",
+                      "size":  119118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_skeleton_archer_en.wav",
+                      "sha256":  "72d8b2e5e1748c7a23e83d5b55aa9f31f004d2ffcca29fd770724b7f26678040",
+                      "size":  99918
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_thunder_lich.wav",
+                      "sha256":  "f76fcf3d8ac7a6413cef44683ff13ee36f1a60ad292ef0194534ee6b9a43efeb",
+                      "size":  172878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_q_c04_thunder_lich_en.wav",
+                      "sha256":  "ffedcbd5b79312d419ea7d627663c28f9f3bcf2f4afb383a3dc05ef44e066f1b",
+                      "size":  138318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_talk.wav",
+                      "sha256":  "893900ee833147facdf20293f5dab4a2a9eb59d07e70086a784c04162cb62397",
+                      "size":  295758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_dungeon_talk_en.wav",
+                      "sha256":  "cd225c023d12856dc4f8881cfe44ed4353823c9b16b4ae8744d7be94a6055737",
+                      "size":  238158
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_ch05_close.wav",
+                      "sha256":  "3a23d283fd9157ade45172e3670a0f20a1eb2b193c70bd38ae0ee679a459d613",
+                      "size":  288078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_ch05_close_en.wav",
+                      "sha256":  "c301f6ace4cedda888ac12a13ae71bbded46a2548fedeea0d78da0df2b9c91f1",
+                      "size":  334158
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_ch05_progress.wav",
+                      "sha256":  "b1436f5508b7197005c002bfe8bebe43e06ab23f10df66bd13cdd521669b6b29",
+                      "size":  199758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_ch05_progress_en.wav",
+                      "sha256":  "6e96f3e1716e9de321376b5637f32d6aadc52354c45bd2b7ba9e064bf4cdf3d5",
+                      "size":  149838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_q_c05_balrog.wav",
+                      "sha256":  "32111ca01d056a62ddbf2d279dc09a1f851da533c4bc373c88442d362d6a7488",
+                      "size":  311118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_q_c05_balrog_en.wav",
+                      "sha256":  "eb99a508ecfe5a28207bae8fa91fc11820cab901ffe77e8bd11d3c7491f30404",
+                      "size":  288078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_q_c05_campanero_de_la_torre.wav",
+                      "sha256":  "d925a921bd661fbe3867f86bc2a7ef50c212811a2cd99382e1d1184df867f160",
+                      "size":  265038
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_q_c05_campanero_de_la_torre_en.wav",
+                      "sha256":  "f37ac730384b6efb98a1974d9bea3070dcd917a2c2047dfc9a4db10b85a07ef0",
+                      "size":  261198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_q_c05_cursed_wizard.wav",
+                      "sha256":  "176d0ae17205d96401bf511f6fd988f06b8e621fb18bc1726f90e352a06d02d4",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_q_c05_cursed_wizard_en.wav",
+                      "sha256":  "6081a8e3864e0b0300e007ec6cbc02dda915236d8ee6a1ca2e70fa3d06ab81cd",
+                      "size":  211278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_q_c05_death_cow.wav",
+                      "sha256":  "9f40dce2001c8e261a52212c7126eb6a4991d5dff2fee55f93fe854e621df8c6",
+                      "size":  222798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_q_c05_death_cow_en.wav",
+                      "sha256":  "c18e8200df0b8f2d171b9f3527651939159af97854d2102874fbbe6e8b5f4bee",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_q_c05_death_gorgon.wav",
+                      "sha256":  "bdf73654c3826f642aacd43c55bc7b43421417bb01a0a17e46f75a6424a07cda",
+                      "size":  230478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_q_c05_death_gorgon_en.wav",
+                      "sha256":  "e5cdb7b7678ca3c284fe67b6c3e3c15121f6d64185638911bc3bcc9610871588",
+                      "size":  145998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_q_c05_death_knight.wav",
+                      "sha256":  "d2ff88df9046091b85083be5973e924050f845c56dd7a3d91c69bf650d4bdc35",
+                      "size":  211278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_q_c05_death_knight_en.wav",
+                      "sha256":  "779c10ef3b7507f39f95d315a9d403a531ef527de21f19bd31d55ecef49766ce",
+                      "size":  172878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_q_c05_devil.wav",
+                      "sha256":  "52dd59ca340ee1930c5ad984b854f6d6d130fc2de094946c5feca09cfb0d5378",
+                      "size":  234318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_q_c05_devil_en.wav",
+                      "sha256":  "b032cc71dd507aabce071340ff5493b0ddf981b22ba6270aea645d073c26a6e2",
+                      "size":  199758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_q_c05_poison_shadow.wav",
+                      "sha256":  "c9de268b85ca999018a778d70972298f63aae39177ca2087c58ef24d88d5231b",
+                      "size":  222798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_q_c05_poison_shadow_en.wav",
+                      "sha256":  "b2f375710bc7558e0f9dcf0c0a0bc83b7bc964b3151d75836785d4998e0ff19a",
+                      "size":  195918
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_q_c05_shadow.wav",
+                      "sha256":  "5b57b73a96388a4808c487991b1e5a2d8bd8a78bef43e8b117ff9984b666bb80",
+                      "size":  257358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_q_c05_shadow_en.wav",
+                      "sha256":  "3d90686ecf13d5d7de469856f15973de771ac41327d3508d3bfb631deca1d5f8",
+                      "size":  272718
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_talk.wav",
+                      "sha256":  "fabddef20f51ed12669f4e609176780b90707b7a6550e00d8c61f4140114cd35",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_talk_en.wav",
+                      "sha256":  "f17cd7c4074a4d85a8caf588e18d7e091d6382f742fff5779300c9b4591c0504",
+                      "size":  257358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_ch22_close.wav",
+                      "sha256":  "11f00f263dc2d5780cc6996adaaececb0b68766f34d524965d52e0c53ca63092",
+                      "size":  288078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_ch22_close_en.wav",
+                      "sha256":  "dd131bee3dddcf8db99cfe546103232b8adc2202c36e2e6e2c9864fe647f53c1",
+                      "size":  314958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_ch22_progress.wav",
+                      "sha256":  "21f083047f6b791b9f941a2d414c390efa062bf0f0d7824481f0c4a3d792d97f",
+                      "size":  303438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_ch22_progress_en.wav",
+                      "sha256":  "f19b60093ceb01b6db639cff36273994ed1b074d7e40c61f8ba07c7ae7a22bc1",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_q_c22_colmillo_de_raklion.wav",
+                      "sha256":  "ecb63c28f971ee6a472b885e5a562cde12759ba2a92caa2e20c77cea5c669067",
+                      "size":  249678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_q_c22_colmillo_de_raklion_en.wav",
+                      "sha256":  "cbac37ba346f3516af755149e791fbeb16b938177e4d261bec62ab57e7703fc4",
+                      "size":  188238
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_q_c22_coolutin.wav",
+                      "sha256":  "4345032340c7abeb7a6018d7706cff45a1e04a70b3816d4156f7f5edcac47d2a",
+                      "size":  188238
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_q_c22_coolutin_en.wav",
+                      "sha256":  "37ec6746b9dba89906ece0f5e46c5487aa084da8197e9124fd7851596d1908c5",
+                      "size":  180558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_q_c22_dark_coolutin.wav",
+                      "sha256":  "dda4f23e360c7ba2c4e29dd05312dc35dfea33fbbedd4ba0caaca1ce89654028",
+                      "size":  318798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_q_c22_dark_coolutin_en.wav",
+                      "sha256":  "7011eb4963b19daf9d3e4b49416a75973eaf81697908694c25624de3ae1238d4",
+                      "size":  249678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_q_c22_dark_giant.wav",
+                      "sha256":  "e5e062692e9e6640d424c9e113630835cee2c4756c01acc52371551fb3931ce6",
+                      "size":  299598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_q_c22_dark_giant_en.wav",
+                      "sha256":  "a691d667d3a9fe1cc2b4458ca34a218f5169582be5ed4adcbb7f90a917cfc744",
+                      "size":  238158
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_q_c22_dark_iron_knight.wav",
+                      "sha256":  "822c23e3531c5627e2d2e7c166ffd3e66c861c6c6a2f5edf518cca4956fefa8a",
+                      "size":  280398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_q_c22_dark_iron_knight_en.wav",
+                      "sha256":  "9d446b6c004e296978de95f01c6b7b40bc8458631543f77ca1327fb5a4513f4e",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_q_c22_dark_mammoth.wav",
+                      "sha256":  "8ee5abc3141cd983c6e9bb7e6e9885ef2f17c455aee31b95ee15b67c60257172",
+                      "size":  238158
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_q_c22_dark_mammoth_en.wav",
+                      "sha256":  "7ef6dd250e5c0b21af70f62a69d44cea1bca0df912cf15523df77cd4d5b55506",
+                      "size":  192078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_q_c22_giant_mammoth.wav",
+                      "sha256":  "585cc0ed18f76b4fbb6b1e62cf38aae09ad8b6768528c4637eae41bd1b2f39b7",
+                      "size":  192078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_q_c22_giant_mammoth_en.wav",
+                      "sha256":  "470db963ca8d3dc70cfbe7921b297255754b9881afaf3544a6e971bbd16a7073",
+                      "size":  134478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_q_c22_ice_giant.wav",
+                      "sha256":  "4baae3d46bfd8fcd7bcbef7029e749b59a77bea6491b3634a7df4de3baecfc76",
+                      "size":  249678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_q_c22_ice_giant_en.wav",
+                      "sha256":  "acea48955cb6ee0d2db625646a1c2d5880525dc15a812a3a3f70617a2336ec67",
+                      "size":  169038
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_q_c22_ice_walker.wav",
+                      "sha256":  "92bc4774b510973e1b076544035f4bcef7f98d0f86bfe4b75589e1c28b9ab735",
+                      "size":  276558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_q_c22_ice_walker_en.wav",
+                      "sha256":  "fa9b97305369700d8133db1b012dbcfb9e436b9ab3fe8f849a838eeb07120919",
+                      "size":  184398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_q_c22_iron_knight.wav",
+                      "sha256":  "ce793aabd37af1e724b40964e479760dd11de3bae0df72530c2d828d1d6f7d79",
+                      "size":  234318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_q_c22_iron_knight_en.wav",
+                      "sha256":  "d0a2d9adc521b8cd088703511e95f0e7e362598c00c243b0d31f92cb1e67ca82",
+                      "size":  165198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_talk.wav",
+                      "sha256":  "3050a0c84c1201b09643f30d1d302ae2544bc64c56d1c809789d4a95d18de062",
+                      "size":  265038
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_talk_en.wav",
+                      "sha256":  "d5981d1830e05ad029097a8c9b39ea9703a7e7d8e7ac4f94f9de5340f6d1f139",
+                      "size":  249678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_ch17_close.wav",
+                      "sha256":  "1735fe5af9409e5b588b80be72601db2df2269464ce9bf44d9fa9d2607068be6",
+                      "size":  253518
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_ch17_close_en.wav",
+                      "sha256":  "5ce1410e3319a0224df18c7cdcf5d0be29272f2dfb9a54647e76e489f55c9a9c",
+                      "size":  272718
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_ch17_progress.wav",
+                      "sha256":  "463617b0969384d59266bada0e3323e546f11789e4361cc06205c72c60d88c0d",
+                      "size":  184398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_ch17_progress_en.wav",
+                      "sha256":  "d3eb251dce77b609dfd49b73c7dc58cef5f9000087e458dd876591cb485dc458",
+                      "size":  165198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_berserker.wav",
+                      "sha256":  "65f71922bb949cee59c47031cb0e8ecf366e4ade89cab0a1970ff8169a57336f",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_berserker_en.wav",
+                      "sha256":  "fba557cc4ef4c8381cc2030cf93043976618d88f536019c3aee96591beb14cee",
+                      "size":  180558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_berserker_warrior.wav",
+                      "sha256":  "f1c9acd5db44c76ae3f2334cb61fb6ddcc62f475683736a7fcf82a8b9071793b",
+                      "size":  280398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_berserker_warrior_en.wav",
+                      "sha256":  "692c9116e09f0e3b9367483a93bc42c152bc7b7a263eda0cca23c5b4e1c80234",
+                      "size":  276558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_blade_hunter.wav",
+                      "sha256":  "5b5f91f48e8394526fe89b128576e727e66051a1fb66493e01d6091e84564ed0",
+                      "size":  272718
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_blade_hunter_en.wav",
+                      "sha256":  "c5db9431fb6eec5092a9461659e846c3acaaaadadedc2e6811f8d5738ce9bffd",
+                      "size":  172878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_genocider.wav",
+                      "sha256":  "2885eec2ef19b1d7fb5fe603a0479a1969bef60479d3071719158509b742568f",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_genocider_en.wav",
+                      "sha256":  "e9e61a5a91d4eb44516e85e3aef1fae6cff8ecab9b083f1a95d2e0af609b7fb6",
+                      "size":  222798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_genocider_warrior.wav",
+                      "sha256":  "c3120785bf1904bc8d50ef0e6124d7aad7bcb0c38a20688eabe8638c8ded31b1",
+                      "size":  268878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_genocider_warrior_en.wav",
+                      "sha256":  "5b50ef6cf4c44d2975a0bd6e5c8a40d2dd92f139aa7a4308bac8cff2186960ae",
+                      "size":  215118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_gigantis.wav",
+                      "sha256":  "70afc8c8f8bb9643db67931bd15571bca97c552611db8caa7b62c5d0f8b44dee",
+                      "size":  280398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_gigantis_en.wav",
+                      "sha256":  "3b75b94e4dcd830c3ba37dd2eb19692cf92250f6a3069e81a8cf8072a2c9e19f",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_gigantis_warrior.wav",
+                      "sha256":  "fd099548a5fd43d1a00756c72de377764a7dcd49511402c9e07afadd54d2e510",
+                      "size":  184398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_gigantis_warrior_en.wav",
+                      "sha256":  "6097c9e6a51c31b40464d246f0896fd23cc9e73381cd8e0cd57134b9afa19d0e",
+                      "size":  138318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_iron_rider.wav",
+                      "sha256":  "080b7bab7178c2cd7b5b769ba3858f75a5080056923f7745dd166365d87998dd",
+                      "size":  230478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_iron_rider_en.wav",
+                      "sha256":  "cdddd3c2ed4b7c65de09d7eac70f1ba163bd8e76cc03420c7bc576e33f229320",
+                      "size":  165198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_kentauros.wav",
+                      "sha256":  "aaa25c3206d5ca577cca4b74e779eeeff6f90fb1c2ff31dbf16b39b9c4f48ebb",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_kentauros_en.wav",
+                      "sha256":  "8215590582b7f3e6347ec03191735e4a07807043eda1bf53af7bb93c040ac42a",
+                      "size":  218958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_kentauros_warrior.wav",
+                      "sha256":  "1679f7360b351d92c34419715c67bb4ad290671226390bb9752f13730cc6177f",
+                      "size":  192078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_kentauros_warrior_en.wav",
+                      "sha256":  "0ef495c5c58222acdabf88ca42d17f809848d377faf4a22cde52d523ac46f6a3",
+                      "size":  218958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_satyros.wav",
+                      "sha256":  "4b269e5420dc2da14377f3a7cbe255ca37bf5998bc3e661805e3487e71eee1c4",
+                      "size":  184398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_satyros_en.wav",
+                      "sha256":  "300d3ab353a8716fe898ebe055831b3e061b8353ab4a670b8ce6582803d313cd",
+                      "size":  184398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_splinter_wolf.wav",
+                      "sha256":  "a75791169cb84fe1f5db966214bf2dba98809668f6b259a5a218b67cc00c2156",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_splinter_wolf_en.wav",
+                      "sha256":  "357b8735162d38c377c53725881cd554f538f13dc4c9931b67a0a3145462aec6",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_vig_a_de_kanturu.wav",
+                      "sha256":  "25adafa57c20635410174db7695d44928463887df3a3b1d07d1d670639255b9e",
+                      "size":  268878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_q_c17_vig_a_de_kanturu_en.wav",
+                      "sha256":  "13eba5da017da31585d4990effb43ab8159480a96c4753c928232a8fa5faff49",
+                      "size":  215118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_talk.wav",
+                      "sha256":  "26df9cd88d49f22736f163aa5cf06f46585866b2939c4dfe7ea82fe3ccbad4af",
+                      "size":  314958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_talk_en.wav",
+                      "sha256":  "a2a62a387491f5d4e428113a683e9913d3439f5ff4bdcddaa057a86b53178631",
+                      "size":  322638
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_ch02_close.wav",
+                      "sha256":  "93b7e7250ffc34b1b02f834fcb6620ad86fc21a4e7280d9171985da06e537152",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_ch02_close_en.wav",
+                      "sha256":  "c7b5518c8130534c5de4e1a5641d9bc4c07e1f5f3c6e67cf75efc738a8425862",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_ch02_progress.wav",
+                      "sha256":  "f53edfcf2fc243764da888a7a7718a96f5cc5eece7ed92e5bebf44fb12892139",
+                      "size":  149838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_ch02_progress_en.wav",
+                      "sha256":  "52fdc43b7a61c4000389277647e2c9d3a30b4f36701df7e0d58cc9960e3e1cf2",
+                      "size":  103758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_q_c02_agon.wav",
+                      "sha256":  "6e10128a2d2ce81bd13cd6156ec99ed444b5b3b07a3dba551271195dc9c2583f",
+                      "size":  153678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_q_c02_agon_en.wav",
+                      "sha256":  "74c43791ba0fe2ad7df6ad2e9d521bbde9c739b79e70f578a15c7d448d0588e8",
+                      "size":  161358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_q_c02_beetle_monster.wav",
+                      "sha256":  "20891775b3b8d7ff90d3e0d914dd50cd370433b40fdb35246dccfe7aadd65ab7",
+                      "size":  180558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_q_c02_beetle_monster_en.wav",
+                      "sha256":  "c561fd3a59c4f2df188429b4066cdb1b24585c350e66edc965f81c062350ba23",
+                      "size":  107598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_q_c02_chain_scorpion.wav",
+                      "sha256":  "aca44f3c28b8a53f17ad7a6248646357e2d4df29174e3784b1855180396bf5e8",
+                      "size":  138318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_q_c02_chain_scorpion_en.wav",
+                      "sha256":  "af37ea1fdf202b65dd3cb5ee0d9fa5adea9e3e22b7d904730fc9df4b9afb1fc0",
+                      "size":  122958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_q_c02_coloso_de_noria.wav",
+                      "sha256":  "8644ce8f13c17eac94de56a651307946aeb2ade36e1e8aacdaf8aec5fc0a411a",
+                      "size":  180558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_q_c02_coloso_de_noria_en.wav",
+                      "sha256":  "188d67cc2f361ce0664a25f77bd05ba912313f48412b0c970a68be0c30f58eca",
+                      "size":  153678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_q_c02_elite_goblin.wav",
+                      "sha256":  "d8008955adf2e190b484d6101e4b011e517df70e339941d157fc51bb34babf7e",
+                      "size":  192078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_q_c02_elite_goblin_en.wav",
+                      "sha256":  "5a763bb1aac0527f235fc238300c7acd0d440ec6b525ceb77b11e16bcb89456a",
+                      "size":  122958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_q_c02_forest_monster.wav",
+                      "sha256":  "ef2dc28d310596c45e951c7520e5831b1025b1eae0a794e14627e30ce24a650c",
+                      "size":  203598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_q_c02_forest_monster_en.wav",
+                      "sha256":  "508d30e209c4fe78c0d862845e31253aeadc2e874fd6ad7bcee13090bf5bbf08",
+                      "size":  218958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_q_c02_goblin.wav",
+                      "sha256":  "35f87c02b1b3583e90d0934f3528b0a4445820be1b24070e74f4c63af6a6387e",
+                      "size":  161358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_q_c02_goblin_en.wav",
+                      "sha256":  "5a18d1a1cca7c16a00dfdeb710f94932c40e72e7b7ceea5a428ac67166229d6e",
+                      "size":  145998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_q_c02_hunter.wav",
+                      "sha256":  "523e470fc279b9019696af11da837ce9dbbd73e86d023b30dafef07bcf658014",
+                      "size":  165198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_q_c02_hunter_en.wav",
+                      "sha256":  "dcdd8278da286922a342fcfd5fe3786eb5d8a8556241c4b0fcc558a9fd61d877",
+                      "size":  145998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_q_c02_stone_golem.wav",
+                      "sha256":  "495e1ac823aaf5a4566984cb16dfb3d56170cd8eb1bd9697886b350975b2228a",
+                      "size":  176718
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_q_c02_stone_golem_en.wav",
+                      "sha256":  "cb2e87ea4dcc7452f8b02533bea93fc34260ce75940b3acb96c9b0f3d05a3507",
+                      "size":  134478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_talk.wav",
+                      "sha256":  "1b46ed1a4d69c1b09afbb372b23ba6b2879d4dde39eb1e0dd0553ee6712adf77",
+                      "size":  272718
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_noria_talk_en.wav",
+                      "sha256":  "03d257f530233e7eb6a7a95705ed80a0ea6ea344c5bc325d8963863631397bc4",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_ch26_close.wav",
+                      "sha256":  "b1dbb6b5fd3b388b802f36cdfd85f9492c40b523637540b444f47fce55429d2d",
+                      "size":  349518
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_ch26_close_en.wav",
+                      "sha256":  "e8f3ffa688abbc601470c388b092d100175e64e98c916dc3e34a813cef5389f5",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_ch26_progress.wav",
+                      "sha256":  "e740953ffc7a1e67dc667706d9b0212d9902ad1f70896b151bf9ea25a1f3e6e3",
+                      "size":  161358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_ch26_progress_en.wav",
+                      "sha256":  "d0d710cc18a8931c509978a2b5704b793454c8d9955aec0555bffec7272d6cbc",
+                      "size":  172878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_blaze_napin.wav",
+                      "sha256":  "179ced0f939b98da1c5eb56855bd4cf46369fb65972f4305de640cc5ba42d531",
+                      "size":  288078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_blaze_napin_en.wav",
+                      "sha256":  "1475debccad08ef8cba63c9c6cfd618fd6afec597356435dc3d804957f565c1a",
+                      "size":  238158
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_ghost_napin.wav",
+                      "sha256":  "30f79d492c6f48596a064c475a5823f5f6f8fb10305f0dc50397092747caae5b",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_ghost_napin_en.wav",
+                      "sha256":  "b6888d4cc0ccb3b012821b49b552e1e928a3736339f0f4cfcfe5ece83455a720",
+                      "size":  153678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_ice_napin.wav",
+                      "sha256":  "b2d5f645088ade9d0e719681096fe5385742610e3e5ae71fb92543b6ed9ef846",
+                      "size":  230478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_ice_napin_en.wav",
+                      "sha256":  "c10a580797131026616227388874285e8511bfaf27cf99742bc49277ab6aa7fb",
+                      "size":  180558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_niebla_del_pantano.wav",
+                      "sha256":  "49da349850cf333b05b43ba13716931059a3b7a1cc1bad4b0c94b7f174686240",
+                      "size":  211278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_niebla_del_pantano_en.wav",
+                      "sha256":  "4caf1ebf2928f1b0e735e381cd8416d452eece3973c58cbbcd4b9bfc145c1515",
+                      "size":  230478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_sapi_duo.wav",
+                      "sha256":  "6b4dad6b6d1b19ee2c605b8786d5512664bb9be638b3d7d2942ccc1221bd58e0",
+                      "size":  211278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_sapi_duo_en.wav",
+                      "sha256":  "f38813994e5d4b67f470cc4437c6c20a2301c6f53be9f1ca83f278dfd80f395e",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_sapi_queen.wav",
+                      "sha256":  "743c4869f362a07134673d9c04ec7a8d4e92b5c64bd6ce58c99580a3c0763b64",
+                      "size":  234318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_sapi_queen_en.wav",
+                      "sha256":  "78cba7cb74790cb0c69e86dab4bad9a2ba6da15c1e43f5b281b2cb586c42a93e",
+                      "size":  180558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_sapi_tres.wav",
+                      "sha256":  "f89b574c8c277b07cb78a0a5fe520f2e89eb46d125ad7888258fa49a55fd6925",
+                      "size":  215118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_sapi_tres_en.wav",
+                      "sha256":  "c8c29e5bbd1f95fcd2435e94c5b93d0e61b5989030e9d3428f7b1e11f04a8358",
+                      "size":  172878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_sapi_unus.wav",
+                      "sha256":  "b373183c54095c51738d64318540db3be309d646b3f383b0b5bc01f505350983",
+                      "size":  299598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_sapi_unus_en.wav",
+                      "sha256":  "8b76cbd255ab634ea9fa033f954721d6b4696fc683b16453b4bdbc1ff9d761f9",
+                      "size":  234318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_shadow_knight.wav",
+                      "sha256":  "b63c498c7b776760ae7b31632253dbe53e9c15883a1646b0d93bf52e192a587c",
+                      "size":  218958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_shadow_knight_en.wav",
+                      "sha256":  "d1953e39d08da1cc3f06aa3d04e9a76ac330a5cdd1ecb4f3611501a01909a7bc",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_shadow_look.wav",
+                      "sha256":  "89fb64bcf72f8a5bc7afd75bea5d45d0716267ee60e75019bcfe256febe257f9",
+                      "size":  211278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_shadow_look_en.wav",
+                      "sha256":  "5055dffeafba86e649b6c31c22cc1d4251ad1ad2a327e1422fcaa16a3e55a2e7",
+                      "size":  234318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_shadow_master.wav",
+                      "sha256":  "a0e7ecd43094e5139ec28f8a07dffd4857178c9f279fb1b7252cb65e393284bd",
+                      "size":  249678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_shadow_master_en.wav",
+                      "sha256":  "34ea50d48eb8697a0b584730fa941e06d4fea9fc076c2955cad3c2032cc26505",
+                      "size":  192078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_shadow_pawn.wav",
+                      "sha256":  "053d38a3c663b8c4293289e77b9aeec6cb06fac748fa53e8205668aa0f546740",
+                      "size":  180558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_shadow_pawn_en.wav",
+                      "sha256":  "372bea2f6a3d16758f753243ed91aaf5fb4a9eb5015ced0f7a28baab8baac4d1",
+                      "size":  195918
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_thunder_napin.wav",
+                      "sha256":  "0d5ce4fa5a06421f3ace346e1a7a71ef794165f5d6b5fccc0edb0db02bb600a9",
+                      "size":  234318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_q_c26_thunder_napin_en.wav",
+                      "sha256":  "5acd72075ba7bffaa554505528fed9d83d94b1ffbf690097eeab1d329e9b4963",
+                      "size":  192078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_talk.wav",
+                      "sha256":  "15a0f59f8649fc077b29dbdafbd28953655cf236abe3665332719601e8b80aa7",
+                      "size":  341838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_talk_en.wav",
+                      "sha256":  "a0013ac9fd02add2570f99f48c2c792e90ecf9add7bb33fb400c423d9ca4e902",
+                      "size":  353358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_tobias_ch18_close.wav",
+                      "sha256":  "a53df61123e24deda4d45bdfc8632c6e9121f8ce1207215a264ee5de32e119a1",
+                      "size":  180558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_tobias_ch18_close_en.wav",
+                      "sha256":  "cd1e18415c5660d18c1528a961067e2d80f9a6e72c64552bce4b3435346f26b4",
+                      "size":  249678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_tobias_ch18_progress.wav",
+                      "sha256":  "17e0a23529f64fada6395394de7c516a14de538199d84c7932e0e801e75b24ca",
+                      "size":  199758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_tobias_ch18_progress_en.wav",
+                      "sha256":  "5e37369d39f3c7ede9e49625ce858969e48ea6ee0f3bbb12b06a434ac47a926f",
+                      "size":  195918
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_tobias_q_c18_custodio_de_las_reliquias.wav",
+                      "sha256":  "a8e47177e9517af6bb17fa8c44d4f227b351efb99613d58876337a935e88a36f",
+                      "size":  161358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_tobias_q_c18_custodio_de_las_reliquias_en.wav",
+                      "sha256":  "85c8c42aa93142423e7355af3f0254369b8062820690217e398af1e7a5291399",
+                      "size":  215118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_tobias_q_c18_dreadfear.wav",
+                      "sha256":  "2d76ebd4e04e829543e6460aec4d76857b63bd49abcc579d4873833570e29138",
+                      "size":  261198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_tobias_q_c18_dreadfear_en.wav",
+                      "sha256":  "d722778f897804bbb1a3b12973cdf4c64d210f9ee346d149d08da1ffb25bbe92",
+                      "size":  215118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_tobias_q_c18_persona.wav",
+                      "sha256":  "0e192cb459c3b836a8159c6b346e538768d92aa9e6ed658c9c7524974331f078",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_tobias_q_c18_persona_en.wav",
+                      "sha256":  "1652ebf0ab9e367da4aed98028addb4902c5415e0dbb9a9c4d6676bf984fa751",
+                      "size":  222798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_tobias_q_c18_twin_tale.wav",
+                      "sha256":  "4568fdeb3531fa95c0e0505aa4970b576f742ff1767730146eb602bf453fa881",
+                      "size":  249678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_tobias_q_c18_twin_tale_en.wav",
+                      "sha256":  "6161699269ffc8bdee6dd82bfafa00c2e517f3ca50581d9334354240c87e945a",
+                      "size":  218958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_tobias_talk.wav",
+                      "sha256":  "27cde5a31b0210a2e29b2ff64ca1e590f18e0e632e0d5585d24e481369ab82f2",
+                      "size":  272718
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_tobias_talk_en.wav",
+                      "sha256":  "2615001bc9d2c8d2a27ce7fe1c0e7ff8c31f1d16687e553518276b33e37dd842",
+                      "size":  234318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_ch07_close.wav",
+                      "sha256":  "852e3bf5a56e11cf56a6013f44bf81d5896df6ea9b320f6df7b86b7f08d5cab3",
+                      "size":  353358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_ch07_close_en.wav",
+                      "sha256":  "4e058dacd1f59431ec7ebb86ab05f4182df89afb8f55486bd3dc13f9fc634db2",
+                      "size":  318798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_ch07_progress.wav",
+                      "sha256":  "979e6c666c0653db58c9ec992e4864d856762b9c46922a543a63ce3730bb508f",
+                      "size":  153678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_ch07_progress_en.wav",
+                      "sha256":  "e834ef2a30cd1f3fce88db104b97bb6054995fde6738b9bb4c6e3090b35ca6f0",
+                      "size":  138318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_q_c07_beam_knight.wav",
+                      "sha256":  "b7e91d467155f7f0a98421d2c3bbb47cb9c7c5dbc2aed2977500143ed7b8a9f1",
+                      "size":  261198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_q_c07_beam_knight_en.wav",
+                      "sha256":  "020cf5c4541d0ab38d73e5ac225b57ccfb922947af451d532d7807ae0eb006c3",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_q_c07_bloody_wolf.wav",
+                      "sha256":  "9b1564df946b607a695bf8c03c8f6c7501f9299674bfa22935a7a35dcf86db6f",
+                      "size":  265038
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_q_c07_bloody_wolf_en.wav",
+                      "sha256":  "e1bc065f42f85a850a4f5412202ced70efa897242899bd9f3208b8a3cbb2d41f",
+                      "size":  157518
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_q_c07_death_beam_knight.wav",
+                      "sha256":  "dc96d3598bd9ca233c932be9c8224850c0f0a1a816399e87e52143b197a6343b",
+                      "size":  261198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_q_c07_death_beam_knight_en.wav",
+                      "sha256":  "918c926cab1f7bf9619e6eb96805a07dd2ba9c644de9d0531f6bc572ec9b1d98",
+                      "size":  276558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_q_c07_forjador_de_tarkan.wav",
+                      "sha256":  "7c4c2932d64fdf8b475bcad29d2d576eb438bf87868e72dd7e30135453a0b790",
+                      "size":  288078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_q_c07_forjador_de_tarkan_en.wav",
+                      "sha256":  "42271430ce7dccd74e4bdb66ebe22b86ebbc98f3d96c539089c242264101fa89",
+                      "size":  268878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_q_c07_iron_wheel.wav",
+                      "sha256":  "249413ac417d392fa2512253c37801c85ef4bb263ddb03e1fc0a9925c18e643a",
+                      "size":  234318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_q_c07_iron_wheel_en.wav",
+                      "sha256":  "b4076640fc829a9e787aa8d4874127aa3230b7400f98df4e0454c35b0d44ad60",
+                      "size":  218958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_q_c07_mutant.wav",
+                      "sha256":  "59397760494245b3580b57cc386f9bc466a4f283c392ba92376d3c906ad1ac44",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_q_c07_mutant_en.wav",
+                      "sha256":  "4a9ccfb5b6f977b7850256cb28134c2ab89922eca8ab0ca6751b44cbb82695a5",
+                      "size":  222798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_q_c07_tantallos.wav",
+                      "sha256":  "a09fd86384898a1a82b4ba54ed097856fb3190198d46b6e2da81b02ed53f9936",
+                      "size":  230478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_q_c07_tantallos_en.wav",
+                      "sha256":  "e88937e30507884413b334dfdede4f4602c8ccc12fbeb127e581f76a5106087a",
+                      "size":  180558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_q_c07_zaikan.wav",
+                      "sha256":  "ebdba471c1eaa2c3be760653cce6299565741cacf192ce420a6735fd4b4ead1c",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_q_c07_zaikan_en.wav",
+                      "sha256":  "f5aed9f2e4bd23691c43a97db5987a5d7fa73c6a08cbe7a445a6d595e4f90000",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_talk.wav",
+                      "sha256":  "77f8e4341f0ead1d80616c1cae7a8c853f8064f3a01acb23eae0ba9be76b9227",
+                      "size":  276558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_talk_en.wav",
+                      "sha256":  "3ee824928ccdc5e31bce42375b92855a45f2e07114dce106f7be6e6888d05121",
+                      "size":  265038
                   },
                   {
                       "path":  "Data/Sound/voices/seedmaster_line1.wav",
@@ -76677,6 +79577,116 @@
                       "path":  "Data/Sound/voices/sukuna_wheel_en.wav",
                       "sha256":  "38e1a92de7ffca11c21ec2620149eb442ac85a23d137aa72fc92c0cfca06c59f",
                       "size":  126798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_ch25_close.wav",
+                      "sha256":  "3792b04a50424668f09b68480f05fdaa5eec6d9f46a41a2833568835de479fee",
+                      "size":  295758
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_ch25_close_en.wav",
+                      "sha256":  "6b4120d537145c0eeb4862e8af7b65f930ff61788f8e537328db1a75c003e865",
+                      "size":  284238
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_ch25_present.wav",
+                      "sha256":  "759e859d814fecd75cd6987ad6cc237da1007f5a16dcbefbe3e6d00c9bfbf02b",
+                      "size":  253518
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_ch25_present_en.wav",
+                      "sha256":  "ad5ec42742e5ad6513bce6bd90413bfc7bdc21dd2cf49194ce7123738df6c142",
+                      "size":  218958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_ch25_progress.wav",
+                      "sha256":  "49ff3be70ac93d6b32b31de881b5c10c03c7497e4be6495e00b5e301011f0c7d",
+                      "size":  230478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_ch25_progress_en.wav",
+                      "sha256":  "ece2b57f4daed961f4ff982c568ee67c8f38c105ab69cefbcef1459895e7b144",
+                      "size":  195918
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_q_c25_ash_slaughterer.wav",
+                      "sha256":  "cf1253af07fa7e15ca0a24b0701afc30704be99e063b15f023c733cb0fcd2793",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_q_c25_ash_slaughterer_en.wav",
+                      "sha256":  "4c1a99460491701a8af8bee610b8fd8439347eeb1d111d979901806d70bb7191",
+                      "size":  192078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_q_c25_blood_assassin.wav",
+                      "sha256":  "d7ee800140fcba65e6347d233b6bf9b0833ae8cc26e0111b597dba020fd558b0",
+                      "size":  265038
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_q_c25_blood_assassin_en.wav",
+                      "sha256":  "412ccf0beeccb89d67bb539e481d83a066516286bc84e9ebde07ba95fb879bba",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_q_c25_brasa_de_vulcanus.wav",
+                      "sha256":  "958a7412729b290613b26be6d3bf497353bcb08dfc2d60376e28bf836cb05234",
+                      "size":  230478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_q_c25_brasa_de_vulcanus_en.wav",
+                      "sha256":  "fa98ebacc5b40255c9238f07fe5a4309669819d1d5b4fd770206180a22c527f2",
+                      "size":  203598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_q_c25_burning_lava_giant.wav",
+                      "sha256":  "7c276c1c9fc658db4ccc8b7818ef62f8467de57412f47191263fe88560a8445e",
+                      "size":  249678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_q_c25_burning_lava_giant_en.wav",
+                      "sha256":  "eaa848a74024a0e5d7687466f8c9cb323339ca21f8c1383ed9247466580acf02",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_q_c25_cruel_blood_assassin.wav",
+                      "sha256":  "a6b3158c12f24f317818974f9c71e5064d84aa398b8e9efe7eadc0640987d2aa",
+                      "size":  172878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_q_c25_cruel_blood_assassin_en.wav",
+                      "sha256":  "edb515e5cd1fd594bfe727a62d9e07398d0e7aa3c4c4c7953c46d4990a2a7a83",
+                      "size":  153678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_q_c25_resurrected_gladiator.wav",
+                      "sha256":  "8df18e39d1744d40d8e327bff7221a090919a8b13f2608397b9c0ce6c7462bab",
+                      "size":  211278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_q_c25_resurrected_gladiator_en.wav",
+                      "sha256":  "0877b7bdb3dc9db8ee64a85cfce2fcf399466ed854b5d12d89af190494bc5959",
+                      "size":  180558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_q_c25_ruthless_lava_giant.wav",
+                      "sha256":  "aa19fa9491f292265856c0c7a842f76d792536a73d44aa8b27d1c723887ba26e",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_q_c25_ruthless_lava_giant_en.wav",
+                      "sha256":  "2a55db5e237cf6aa3cf36375b1bb373b4ced97f25fdd589db8d414df59a32163",
+                      "size":  230478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_q_c25_zombie_fighter.wav",
+                      "sha256":  "e0b97d02ef310af6735a6844a5704d4448833ba1d2aca00560d7d3531f2cef82",
+                      "size":  307278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_q_c25_zombie_fighter_en.wav",
+                      "sha256":  "b801ba8b0e703056b4a92e0b1aa3b54f22a9c5d1e8fc9b0dbf013f5bd3121403",
+                      "size":  245838
                   },
                   {
                       "path":  "Data/Sound/voices/vanert_line1.wav",
@@ -78585,8 +81595,8 @@
                   },
                   {
                       "path":  "Data/UniqueMods.txt",
-                      "sha256":  "2e12b600b40c557ad6d98e9c3bb2f9c97660fdccc63297375270d5c4ff3fe525",
-                      "size":  7735
+                      "sha256":  "0c4ad156d08f25b00a9c5b1e01d82b5bd7a26f5f9f85bb02cee4d7545230f2fd",
+                      "size":  7766
                   },
                   {
                       "path":  "Data/upscaled.txt",
@@ -88110,17 +91120,17 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "2c713dd192270e6d74acfe9e2a0c0fc6e9314618d06de3ffd9d1b13b4dbb2fee",
-                      "size":  12424624
+                      "sha256":  "8b40eb6ad6aa1040f628fae5bbbd17032ef3fe276907405f796b1c9c7f2a7982",
+                      "size":  12010416
                   },
                   {
                       "path":  "MuHorizon.CrashReporter.exe",
-                      "sha256":  "fc1536ec711700fb7577d14bb90704b58d35109eaf959b9cba1ce895bc331c52",
+                      "sha256":  "53d714fd13689214b4bb06dd99c8641c94ffc293e55db1bf4c41f61bb61a1e32",
                       "size":  116837528
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
-                      "sha256":  "14c63d83fc7a1fb75153551c41553f120b504b38e35983c472b8984c380af24e",
+                      "sha256":  "5872f594a5ca3d9fd4d9a37ed007e6223a22abd9b076a61fccf3d33d6a71ee8a",
                       "size":  2740224
                   },
                   {
@@ -96813,12 +99823,12 @@
                                        },
                                        {
                                            "path":  "Main.exe",
-                                           "sha256":  "c3701804bc995402ea1067807fe6aac36ae633d8b32564162a64ffea7f4bb77e",
-                                           "size":  14153648
+                                           "sha256":  "c6f437f17bdf031c4a7730a9ab6bba9c480be8dbd44c69ee90788a8c9606f534",
+                                           "size":  13601200
                                        },
                                        {
                                            "path":  "MUnique.Client.Library.dll",
-                                           "sha256":  "ad20bfccbb71e00f98c733174d9a26d6e715fa08a3614b70dfe38876fc55d1c5",
+                                           "sha256":  "3e4fd8329f8ff932465e445d18c849d63f2887afde51e521731e13e4d73b6d11",
                                            "size":  3246592
                                        },
                                        {
@@ -96830,11 +99840,11 @@
                      }
                  ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/45594b9ab2ecbfaa49c1ab7aad6cf31648b45eb0ab4cf9760c64db1b657f0a05.zip",
-                     "sha256":  "45594b9ab2ecbfaa49c1ab7aad6cf31648b45eb0ab4cf9760c64db1b657f0a05",
-                     "size":  56711125,
+                     "url":  "https://files.mu-horizon.com/zips/914b019d7e5c8265d83f2006598c3f93eefa42e831670d179eb81b35a3f57273.zip",
+                     "sha256":  "914b019d7e5c8265d83f2006598c3f93eefa42e831670d179eb81b35a3f57273",
+                     "size":  168430794,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-65/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-66/client-patch.zip"
                               ]
                  }
 }
