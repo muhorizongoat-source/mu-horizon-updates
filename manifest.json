@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  76,
+    "patch":  77,
     "minLauncherVersion":  "1.10.0",
-    "releasedAt":  "2026-09-24T14:19:42.9752278Z",
-    "notes":  "Upgrade patch 76",
+    "releasedAt":  "2026-09-24T16:46:58.3663173Z",
+    "notes":  "Upgrade patch 77",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/246d1e5bc056df78c08582eb4c48e4118804d1428f1befe65b81ee4e539d84d0.zip",
-                    "sha256":  "246d1e5bc056df78c08582eb4c48e4118804d1428f1befe65b81ee4e539d84d0",
-                    "size":  1566160025,
+                    "url":  "https://files.mu-horizon.com/zips/60a7c10bbee1211e28e39e1ed0059356e314ecb2e8db611063a48aa0919e758c.zip",
+                    "sha256":  "60a7c10bbee1211e28e39e1ed0059356e314ecb2e8db611063a48aa0919e758c",
+                    "size":  1566160337,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-76/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-77/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -24620,8 +24620,8 @@
                   },
                   {
                       "path":  "Data/MonsterSpots.txt",
-                      "sha256":  "cb7843dc729bfbbcc55a6381a2ddb84850c812adadecfc2455e4a8b252286862",
-                      "size":  32525
+                      "sha256":  "685975993f3cb3c49912ba077c7893410a6490d1060d507362ea6de74ca725f8",
+                      "size":  33673
                   },
                   {
                       "path":  "Data/MonsterStyles.txt",
@@ -86315,7 +86315,7 @@
                   },
                   {
                       "path":  "Data/World7/EncTerrain7.att",
-                      "sha256":  "a32424f5845dc0408f060b8c3abb08636687a2bb5aca82e6c0bad97df5257a32",
+                      "sha256":  "514386cb41d307647e6fe7125d0194ff014a30929f6a313f6fe39814a099b7a5",
                       "size":  65540
                   },
                   {
@@ -99865,11 +99865,11 @@
                      }
                  ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/9e1aa32ce0d9c0a10177ab7119851d6d9936e1be55ba50f454baa0d26a92e10d.zip",
-                     "sha256":  "9e1aa32ce0d9c0a10177ab7119851d6d9936e1be55ba50f454baa0d26a92e10d",
-                     "size":  56982407,
+                     "url":  "https://files.mu-horizon.com/zips/b47cf144bca6c20aa1667092bcbbb170e0d095e9b6c66151b3657ca995526ec3.zip",
+                     "sha256":  "b47cf144bca6c20aa1667092bcbbb170e0d095e9b6c66151b3657ca995526ec3",
+                     "size":  50575,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-76/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-77/client-patch.zip"
                               ]
                  }
 }
