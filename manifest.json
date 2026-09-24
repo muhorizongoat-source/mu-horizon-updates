@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  77,
+    "patch":  78,
     "minLauncherVersion":  "1.10.0",
-    "releasedAt":  "2026-09-24T16:46:58.3663173Z",
-    "notes":  "Upgrade patch 77",
+    "releasedAt":  "2026-09-24T20:11:10.4656632Z",
+    "notes":  "Upgrade patch 78",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/60a7c10bbee1211e28e39e1ed0059356e314ecb2e8db611063a48aa0919e758c.zip",
-                    "sha256":  "60a7c10bbee1211e28e39e1ed0059356e314ecb2e8db611063a48aa0919e758c",
-                    "size":  1566160337,
+                    "url":  "https://files.mu-horizon.com/zips/cc11a892e3c32c4d7bbcdfbbef3edb60510c763346c98dc614d7c1ad07c139c3.zip",
+                    "sha256":  "cc11a892e3c32c4d7bbcdfbbef3edb60510c763346c98dc614d7c1ad07c139c3",
+                    "size":  1566160411,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-77/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-78/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -17485,7 +17485,7 @@
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World7_eng.bmd",
-                      "sha256":  "922db05dbe6d036f6f035dc54b5662e728ec588c403717c085a14cf7eca68812",
+                      "sha256":  "3bf0f70aca50eb959423572fd8694e5205fe324b5d03f18bcaa593b728e6039b",
                       "size":  11649
                   },
                   {
@@ -18185,7 +18185,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World7_por.bmd",
-                      "sha256":  "922db05dbe6d036f6f035dc54b5662e728ec588c403717c085a14cf7eca68812",
+                      "sha256":  "3bf0f70aca50eb959423572fd8694e5205fe324b5d03f18bcaa593b728e6039b",
                       "size":  11649
                   },
                   {
@@ -18725,7 +18725,7 @@
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World7_spn.bmd",
-                      "sha256":  "922db05dbe6d036f6f035dc54b5662e728ec588c403717c085a14cf7eca68812",
+                      "sha256":  "3bf0f70aca50eb959423572fd8694e5205fe324b5d03f18bcaa593b728e6039b",
                       "size":  11649
                   },
                   {
@@ -24620,8 +24620,8 @@
                   },
                   {
                       "path":  "Data/MonsterSpots.txt",
-                      "sha256":  "685975993f3cb3c49912ba077c7893410a6490d1060d507362ea6de74ca725f8",
-                      "size":  33673
+                      "sha256":  "9ed0044c336276dbee3d4f6efb11d4e39b23b51de7a727b8979ff4fad1dad6a1",
+                      "size":  33697
                   },
                   {
                       "path":  "Data/MonsterStyles.txt",
@@ -99865,11 +99865,11 @@
                      }
                  ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/b47cf144bca6c20aa1667092bcbbb170e0d095e9b6c66151b3657ca995526ec3.zip",
-                     "sha256":  "b47cf144bca6c20aa1667092bcbbb170e0d095e9b6c66151b3657ca995526ec3",
-                     "size":  50575,
+                     "url":  "https://files.mu-horizon.com/zips/fdae273068a3cff37da44c273012f7e96f6bb3eaff4dfc1e25b68c8e5b0ef205.zip",
+                     "sha256":  "fdae273068a3cff37da44c273012f7e96f6bb3eaff4dfc1e25b68c8e5b0ef205",
+                     "size":  9316,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-77/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-78/client-patch.zip"
                               ]
                  }
 }
