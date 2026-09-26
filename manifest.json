@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  2,
+    "patch":  3,
     "minLauncherVersion":  "1.10.0",
-    "releasedAt":  "2026-09-26T19:59:05.0186304Z",
-    "notes":  "Upgrade patch 2",
+    "releasedAt":  "2026-09-26T20:19:19.7547293Z",
+    "notes":  "Upgrade patch 3",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/2b214335430bd85b0858b8906fb7e00a0d207159fdf00ddae9f613cd47fbc79b.zip",
-                    "sha256":  "2b214335430bd85b0858b8906fb7e00a0d207159fdf00ddae9f613cd47fbc79b",
-                    "size":  1564343039,
+                    "url":  "https://files.mu-horizon.com/zips/b09983cf1fb593ef4c40c53f4040ef87c4735d82351794a1274d35e266480718.zip",
+                    "sha256":  "b09983cf1fb593ef4c40c53f4040ef87c4735d82351794a1274d35e266480718",
+                    "size":  1566175123,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-2/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-3/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -2400,23 +2400,23 @@
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSCategory.txt",
-                      "sha256":  "f5c34cb9ba018b8b9c8f671189cd918d78742a811ee7a578f822a41420c61339",
-                      "size":  424
+                      "sha256":  "630e08ba19b7da8ec07059a2efd98dc0fc5293304cf11ec8f3fab3b380097577",
+                      "size":  408
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSPackage.txt",
-                      "sha256":  "42c69643320dce8c5969e80afa93935055a639bc48b8f0dbd1b98c893b149e90",
-                      "size":  11549
+                      "sha256":  "38e07735767be4fbe23b9aa831e3eba10d6b502a0893708b7bbb53ab1e749047",
+                      "size":  11503
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSProduct.txt",
-                      "sha256":  "3d383d33521f7b413ebb1d20a271e75892fc514d08d33fb1c4ce1e5a7e036135",
-                      "size":  7419
+                      "sha256":  "557d4a80fccee4d70364a700f00ce909ebcac4893847521931f92eb60109ed21",
+                      "size":  7335
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSText.es.txt",
-                      "sha256":  "a6247aa18e9c50b34b12c5eca72910a71d1e115868edbfbe9fafd33d5405c70d",
-                      "size":  8219
+                      "sha256":  "0ed51617e4b2684699e607a066387625b2c47479a117f3edf490adc5080beb43",
+                      "size":  8106
                   },
                   {
                       "path":  "Data/Interface/accept_box01.OZJ",
@@ -17575,8 +17575,8 @@
                   },
                   {
                       "path":  "Data/Local/Eng/NpcName_Eng.txt",
-                      "sha256":  "a61d0e51e33faf3c4ee717efe7361f1df792697d011098b27de9904edda949a8",
-                      "size":  18811
+                      "sha256":  "fb3a0f5910e1714f50aff9a23d09907d1c044a2e3ef390696668c0f975f21ada",
+                      "size":  18071
                   },
                   {
                       "path":  "Data/Local/Eng/partCharge1/ShopCategoryItems.bmd",
@@ -18275,8 +18275,8 @@
                   },
                   {
                       "path":  "Data/Local/Por/NpcName_Por.txt",
-                      "sha256":  "2288e8c4f26973522fd0ea308009995dd77a5488f879abaedd891dbb7fd93711",
-                      "size":  17963
+                      "sha256":  "469869b6f6c443819d4518801619944cb24961eb93dd490257c8523dcfcbc907",
+                      "size":  17223
                   },
                   {
                       "path":  "Data/Local/Por/partCharge1/ShopCategoryItems.bmd",
@@ -18810,8 +18810,8 @@
                   },
                   {
                       "path":  "Data/Local/Spn/NpcName_Spn.txt",
-                      "sha256":  "6a9237f21eccef667bd9450a0eebfaa12f5e991333958db3111b0263ccabf616",
-                      "size":  18109
+                      "sha256":  "5d38654db17290e6abf629bb6d95b917824f744e307376234d9d51ec0c4fb1c8",
+                      "size":  17369
                   },
                   {
                       "path":  "Data/Local/Spn/partCharge1/ShopCategoryItems.bmd",
@@ -24615,8 +24615,8 @@
                   },
                   {
                       "path":  "Data/MonsterModels.txt",
-                      "sha256":  "da6c1f356719f254672e1d54eb87d97a3e71a7d3a7e560b4e9286bec2587b92f",
-                      "size":  10692
+                      "sha256":  "58e28dab469f4f64a669c45a5af6d039f78309739aefbc9c7a4a4eacd5852884",
+                      "size":  10515
                   },
                   {
                       "path":  "Data/MonsterPieces.txt",
@@ -70195,8 +70195,8 @@
                   },
                   {
                       "path":  "Data/Sound/boss/index.txt",
-                      "sha256":  "1222e97ebb4a55326d0690b1b5ca9838bf149a15d94e044e214170b40d08ddda",
-                      "size":  681
+                      "sha256":  "53bf69db643d1c1e96616e0a1bf339b19252dc95a176f3278aefb2b9d65b9dc0",
+                      "size":  660
                   },
                   {
                       "path":  "Data/Sound/boss/kundun_roar.wav",
@@ -81600,8 +81600,8 @@
                   },
                   {
                       "path":  "Data/UniqueMods.txt",
-                      "sha256":  "20a7d1580630fd62ae95917378eece508b0c84bba6470ad207057a2a3e08bc90",
-                      "size":  7842
+                      "sha256":  "be9109eecb4eb94a4414d6fd8b54cc1bb502247ee16f4a8aaf79c157ca41c773",
+                      "size":  7776
                   },
                   {
                       "path":  "Data/upscaled.txt",
@@ -81715,8 +81715,8 @@
                   },
                   {
                       "path":  "Data/Video/login.mp4",
-                      "sha256":  "b36d955da0f57b88302ef3b31153d8a3b59fab992af5de924dd79c5c7bbb1e20",
-                      "size":  19451934
+                      "sha256":  "ea0c013fc3c1c731476ebbac07b7cfe76437f3138d9cfc4a967a79ab9eacbc63",
+                      "size":  21283213
                   },
                   {
                       "path":  "Data/Video/news/index.json",
@@ -99837,6 +99837,11 @@
                                            "size":  48228
                                        },
                                        {
+                                           "path":  "Data/UniqueLook.off",
+                                           "sha256":  "3b0458eef48638701709243108b1dbcd641bbfee9b790cf9155dd0a44f9072ec",
+                                           "size":  245
+                                       },
+                                       {
                                            "path":  "Main.exe",
                                            "sha256":  "197dcd069cfabc681614d1149b1fba3f95674c4f52498da0fd848b67b924c966",
                                            "size":  13563368
@@ -99865,11 +99870,11 @@
                      }
                  ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/093660b809318830a3df129a2de48711d7706ec30ab2f9d77cd3f681ea31e5c6.zip",
-                     "sha256":  "093660b809318830a3df129a2de48711d7706ec30ab2f9d77cd3f681ea31e5c6",
-                     "size":  309771281,
+                     "url":  "https://files.mu-horizon.com/zips/956f672d1dd299c2db07620ac5aa2cfaa7baad5c89ebbd29a96ab7be99a728b1.zip",
+                     "sha256":  "956f672d1dd299c2db07620ac5aa2cfaa7baad5c89ebbd29a96ab7be99a728b1",
+                     "size":  21316068,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-2/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-3/client-patch.zip"
                               ]
                  }
 }
