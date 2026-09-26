@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  1,
+    "patch":  2,
     "minLauncherVersion":  "1.10.0",
-    "releasedAt":  "2026-09-26T19:24:31.7810656Z",
-    "notes":  "Upgrade patch 1",
+    "releasedAt":  "2026-09-26T19:59:05.0186304Z",
+    "notes":  "Upgrade patch 2",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/82dd9779c222767855a8d22f32ecdead254702fc33b6c2d9b06c3bea38e34532.zip",
-                    "sha256":  "82dd9779c222767855a8d22f32ecdead254702fc33b6c2d9b06c3bea38e34532",
-                    "size":  1254571780,
+                    "url":  "https://files.mu-horizon.com/zips/2b214335430bd85b0858b8906fb7e00a0d207159fdf00ddae9f613cd47fbc79b.zip",
+                    "sha256":  "2b214335430bd85b0858b8906fb7e00a0d207159fdf00ddae9f613cd47fbc79b",
+                    "size":  1564343039,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-1/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-2/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -744,6 +744,11 @@
                       "size":  11224
                   },
                   {
+                      "path":  "Data/Effect/hz_telegraph_rune.OZJ",
+                      "sha256":  "17bfac4fab65e80892c08d444f0e9418322ec2923172b0e5f1d29a8e6325a921",
+                      "size":  20708
+                  },
+                  {
                       "path":  "Data/Effect/hzfx_afterimage.bmd",
                       "sha256":  "d17ec3784c476342d4031ecd190df0a865eaa65d239e2a0d492a7d3ebf9dd70d",
                       "size":  12912
@@ -1154,6 +1159,11 @@
                       "size":  20918
                   },
                   {
+                      "path":  "Data/Effect/hzsk_arrow.OZJ",
+                      "sha256":  "891f83fceefbe3759dd0ab16a46063f5ffb3e9a768b2f235dcdcd36532cbc368",
+                      "size":  17020
+                  },
+                  {
                       "path":  "Data/Effect/hzsk_arrow_c.OZJ",
                       "sha256":  "92bb191b2252ac80e52205ae9c831e5fa9cdbdbbaf6ee200fe0159f99b082138",
                       "size":  10628
@@ -1184,6 +1194,11 @@
                       "size":  15038
                   },
                   {
+                      "path":  "Data/Effect/hzsk_charge.OZJ",
+                      "sha256":  "855f05fbe5608de226d9a18ce3b8edf78dbcb687dd1f3cbaec8cfd2841785a58",
+                      "size":  17484
+                  },
+                  {
                       "path":  "Data/Effect/hzsk_charge_c.OZJ",
                       "sha256":  "d6ef7a46d348e4cb33a09a3f46868558366dd7675ee56dfc68b8cb5530b799fb",
                       "size":  10431
@@ -1197,6 +1212,11 @@
                       "path":  "Data/Effect/hzsk_cleave.bmd",
                       "sha256":  "38157d3a527ef24b79b9558c1c4f7b4f809a469c97cadcf6225dbe0d7062aefa",
                       "size":  19878
+                  },
+                  {
+                      "path":  "Data/Effect/hzsk_cleave.OZJ",
+                      "sha256":  "29edeb906ac7844e3ac1df7bb2c34fc31e20a072161e28a154fd4cae449bfdfe",
+                      "size":  17620
                   },
                   {
                       "path":  "Data/Effect/hzsk_cleave_c.OZJ",
@@ -1214,6 +1234,11 @@
                       "size":  18150
                   },
                   {
+                      "path":  "Data/Effect/hzsk_dismantle.OZJ",
+                      "sha256":  "92a4c6dd893d92355483602100df612988414df62fe92d3e1ac375639dd674ed",
+                      "size":  17927
+                  },
+                  {
                       "path":  "Data/Effect/hzsk_dismantle_c.OZJ",
                       "sha256":  "9c370b131dd04b784f0e72d06a8ccf926c1d0efe8d2fb3d6cb538fcd61a75902",
                       "size":  8449
@@ -1227,6 +1252,11 @@
                       "path":  "Data/Effect/hzsk_domain.bmd",
                       "sha256":  "c2825da17734e40c1e8018c3711f73cb7c6a945910f4e990e1c934c88fdfe426",
                       "size":  28566
+                  },
+                  {
+                      "path":  "Data/Effect/hzsk_domain.OZJ",
+                      "sha256":  "439c077d47c4fc5d1447ee2ccfe1ef02fa235f6ec7efc834b7496aabb5c26aa4",
+                      "size":  16849
                   },
                   {
                       "path":  "Data/Effect/hzsk_domain_c.OZJ",
@@ -1249,6 +1279,11 @@
                       "size":  34366
                   },
                   {
+                      "path":  "Data/Effect/hzsk_fuga.OZJ",
+                      "sha256":  "0c1ac7548c338cfba58a3d4ce7602f7761f39073d0425cba2dd9d27cdb7ab240",
+                      "size":  17277
+                  },
+                  {
                       "path":  "Data/Effect/hzsk_fuga_c.OZJ",
                       "sha256":  "cbd9e9ac0dc31583f96dd4ae172a2eacfd3466382e528fb22ada65a1c1e93b36",
                       "size":  15466
@@ -1262,6 +1297,11 @@
                       "path":  "Data/Effect/hzsk_kamutoke.bmd",
                       "sha256":  "4f766f02824fba1b5f388da0e08bfc4697ad94c1214f3a17b78a68f372f523d6",
                       "size":  27574
+                  },
+                  {
+                      "path":  "Data/Effect/hzsk_kamutoke.OZJ",
+                      "sha256":  "3ff9390a9561b1dcee4c3a878b682545b9b9714234215acbead1c90e9a087d7e",
+                      "size":  15984
                   },
                   {
                       "path":  "Data/Effect/hzsk_kamutoke_c.OZJ",
@@ -1279,6 +1319,11 @@
                       "size":  24414
                   },
                   {
+                      "path":  "Data/Effect/hzsk_roar.OZJ",
+                      "sha256":  "361290ae947abae812f2fcfe57071108565d8a52d00e964eb9d47c2d2b029d51",
+                      "size":  17334
+                  },
+                  {
                       "path":  "Data/Effect/hzsk_roar_c.OZJ",
                       "sha256":  "db5e48710d07165833530c9aff64fc53f3c7988a1ea5372481e5fe4156b8d130",
                       "size":  10972
@@ -1294,6 +1339,11 @@
                       "size":  15558
                   },
                   {
+                      "path":  "Data/Effect/hzsk_spear.OZJ",
+                      "sha256":  "f0ff843282c0b437fd6fb788661f006ab4643d13850fd25ccc5e55fefc0cb20a",
+                      "size":  17579
+                  },
+                  {
                       "path":  "Data/Effect/hzsk_spear_c.OZJ",
                       "sha256":  "91b874a5a5de2ba996a2890a87faa30771e26cc85f1c13d11eef255fd5ebd7bd",
                       "size":  8904
@@ -1307,6 +1357,11 @@
                       "path":  "Data/Effect/hzsk_wheel.bmd",
                       "sha256":  "5a4017012f9fb336cecaf40ed1c2515747e9bde8b3cfd4b587fab7f6c535548c",
                       "size":  23558
+                  },
+                  {
+                      "path":  "Data/Effect/hzsk_wheel.OZJ",
+                      "sha256":  "9abddc57680d1b52f05fac864b98a742ec80a243a49228938c527d3804043c5d",
+                      "size":  16927
                   },
                   {
                       "path":  "Data/Effect/hzsk_wheel_c.OZJ",
@@ -6447,6 +6502,11 @@
                       "path":  "Data/Interface/wing_right.OZT",
                       "sha256":  "d21be38c0e775d4ccc00bce872431fa13bcc36de6b0e00b1dfc616eaef75d9b8",
                       "size":  33548
+                  },
+                  {
+                      "path":  "Data/Item/_backup-porro/olive.OZJ.bak",
+                      "sha256":  "8f518930e9f01427701a15f94fea56eddd50af2470b01f09bffc4b99e705262c",
+                      "size":  2472
                   },
                   {
                       "path":  "Data/Item/a_2.OZJ",
@@ -15084,6 +15144,11 @@
                       "size":  38328
                   },
                   {
+                      "path":  "Data/Item/UniqueLook/2_24_0.OZJ",
+                      "sha256":  "781d870bc61d2c0c94d95073aec0ce4fc2f9d4fce944c1056da7e75779755ba9",
+                      "size":  19263
+                  },
+                  {
                       "path":  "Data/Item/UniqueLook/2_24_0.OZT",
                       "sha256":  "d910def7436355bcbf4023f58e7deb1bbc4ac0f27afddf133d3847c5d96f29ba",
                       "size":  32790
@@ -16349,6 +16414,11 @@
                       "size":  207530
                   },
                   {
+                      "path":  "Data/Item/UniqueModels/hz_unique_dragonknight.OZJ",
+                      "sha256":  "6ab604c950676cd12da338c8a6a737582bd4235926f42f491c763b1e31fef6ff",
+                      "size":  212372
+                  },
+                  {
                       "path":  "Data/Item/UniqueModels/hz_unique_ember.OZJ",
                       "sha256":  "d9ed3c3c9cdaf782f127973913842a24e135bdb0792a8c2b506e8a9567432cc2",
                       "size":  526543
@@ -16372,6 +16442,31 @@
                       "path":  "Data/Item/UniqueModels/hz_unique_redspirit.OZJ",
                       "sha256":  "f7e49a5b35df29a987921c20691bd12978d46b8930530dfc3f48bfbf9f9315cb",
                       "size":  231422
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/nks01.OZJ",
+                      "sha256":  "b3a18af04fac7045663fa8c91e6653fee792c05d7728ff6f05d01bf15b655dd6",
+                      "size":  1846
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/nks02.OZJ",
+                      "sha256":  "da820df7f23188b1e1e5be5562fae9591f9f268395f2bc29b5506f5107bc20a5",
+                      "size":  4846
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/nks03.OZJ",
+                      "sha256":  "e1d9dc5362864a2a5ffa7a5d10541d5bf5f9198754ffe6f2b076645c4a3d8f3a",
+                      "size":  1161
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/nks04.OZJ",
+                      "sha256":  "a1f3b61ee52f97d9e200d88b9de47f472c4275b3d4f76b034770a9775c0dbeac",
+                      "size":  3036
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/sword077.OZJ",
+                      "sha256":  "635775634f8b2fc9bbf5a6135cbecc9d96c9a05df5ce65ba2ec070ed0fc84cc5",
+                      "size":  7250
                   },
                   {
                       "path":  "Data/Item/upper_09.OZJ",
@@ -19572,6 +19667,11 @@
                       "path":  "Data/Logo/wood.OZT",
                       "sha256":  "961e408135890a6a60a49ae0550ca1b63802b85b020505a38eefd0af700f7f6c",
                       "size":  16432
+                  },
+                  {
+                      "path":  "Data/Macro.txt",
+                      "sha256":  "7dcf122b3c1030b4c6ce56e9c6d37d55fbec08f1c93d5ab6e4de5b6486e0d068",
+                      "size":  20
                   },
                   {
                       "path":  "Data/Monster/anaconda.OZJ",
@@ -81509,9 +81609,119 @@
                       "size":  2449
                   },
                   {
+                      "path":  "Data/Video/class/dark-knight.mp4",
+                      "sha256":  "d70cfdb5cafe8cd236a4942fabdd908606b6261150f184d51145c84a61d4c85d",
+                      "size":  13235331
+                  },
+                  {
+                      "path":  "Data/Video/class/dark-lord.mp4",
+                      "sha256":  "f3e364049358934a1332842e8d1181d80f68a7c1f27ddb64ee54e27a21fb847f",
+                      "size":  16177415
+                  },
+                  {
+                      "path":  "Data/Video/class/dark-wizard.mp4",
+                      "sha256":  "b25e6919ba1abac6ad87f00ee8a65aa4160d4a0a7dcdcf856f1366489d55b1f6",
+                      "size":  15185521
+                  },
+                  {
+                      "path":  "Data/Video/class/en/dark-knight.mp4",
+                      "sha256":  "e98ba1567dea93881d7c97c21548c7d86c552d9c5516fbd67de3cfc38d67046c",
+                      "size":  13210656
+                  },
+                  {
+                      "path":  "Data/Video/class/en/dark-lord.mp4",
+                      "sha256":  "c6080fdfa8ce9f5a657bbe770040cf88be71731c7e45f3bbcf9d5e864d88ded6",
+                      "size":  16160826
+                  },
+                  {
+                      "path":  "Data/Video/class/en/dark-wizard.mp4",
+                      "sha256":  "65f953f01663024a9a0e8bce8ca8de2445c84194b5285d319cec5d7b31eaeac4",
+                      "size":  15111148
+                  },
+                  {
+                      "path":  "Data/Video/class/en/fairy-elf.mp4",
+                      "sha256":  "17462706a33080fe18e28a071863ad391a354779fbeb07ae907a43476f86bc2b",
+                      "size":  14846043
+                  },
+                  {
+                      "path":  "Data/Video/class/en/magic-gladiator.mp4",
+                      "sha256":  "f1c89ea33c8563c2dfd66ded6fc7efc6cb4bf4c81622954d8e29592f92eaaaf9",
+                      "size":  17453822
+                  },
+                  {
+                      "path":  "Data/Video/class/en/rage-fighter.mp4",
+                      "sha256":  "752a0cbb52529250eed200c1f5b1c183ae520167e7b54f834be84e2a945f1043",
+                      "size":  9914365
+                  },
+                  {
+                      "path":  "Data/Video/class/en/summoner.mp4",
+                      "sha256":  "9c43623da2798db75da01126fb8f4b4c8a577b705f5ee83167fe2aca1b4c30f2",
+                      "size":  16222549
+                  },
+                  {
+                      "path":  "Data/Video/class/es/dark-knight.mp4",
+                      "sha256":  "d70cfdb5cafe8cd236a4942fabdd908606b6261150f184d51145c84a61d4c85d",
+                      "size":  13235331
+                  },
+                  {
+                      "path":  "Data/Video/class/es/dark-lord.mp4",
+                      "sha256":  "f3e364049358934a1332842e8d1181d80f68a7c1f27ddb64ee54e27a21fb847f",
+                      "size":  16177415
+                  },
+                  {
+                      "path":  "Data/Video/class/es/dark-wizard.mp4",
+                      "sha256":  "b25e6919ba1abac6ad87f00ee8a65aa4160d4a0a7dcdcf856f1366489d55b1f6",
+                      "size":  15185521
+                  },
+                  {
+                      "path":  "Data/Video/class/es/fairy-elf.mp4",
+                      "sha256":  "bcdde7e4fa0e7cb35044ea997b4a44ebd34898551b28180a8dffbf1097f4bfa1",
+                      "size":  14897799
+                  },
+                  {
+                      "path":  "Data/Video/class/es/magic-gladiator.mp4",
+                      "sha256":  "408c44cfae7897ee5ad97f494e159c24de0c5ea84805341c17e313ac7f88223d",
+                      "size":  17459416
+                  },
+                  {
+                      "path":  "Data/Video/class/es/rage-fighter.mp4",
+                      "sha256":  "a326acf34213433cd93bac977a4634ea8bba097c22ad2fbc80e0115ee6ab7ca7",
+                      "size":  9938052
+                  },
+                  {
+                      "path":  "Data/Video/class/es/summoner.mp4",
+                      "sha256":  "5a41db669ef776d1a2479a4c0cbe1a1a9f52ffbf58fcdd9b94762e74b8cd412f",
+                      "size":  16287021
+                  },
+                  {
+                      "path":  "Data/Video/class/fairy-elf.mp4",
+                      "sha256":  "bcdde7e4fa0e7cb35044ea997b4a44ebd34898551b28180a8dffbf1097f4bfa1",
+                      "size":  14897799
+                  },
+                  {
+                      "path":  "Data/Video/class/magic-gladiator.mp4",
+                      "sha256":  "408c44cfae7897ee5ad97f494e159c24de0c5ea84805341c17e313ac7f88223d",
+                      "size":  17459416
+                  },
+                  {
+                      "path":  "Data/Video/class/rage-fighter.mp4",
+                      "sha256":  "a326acf34213433cd93bac977a4634ea8bba097c22ad2fbc80e0115ee6ab7ca7",
+                      "size":  9938052
+                  },
+                  {
+                      "path":  "Data/Video/class/summoner.mp4",
+                      "sha256":  "5a41db669ef776d1a2479a4c0cbe1a1a9f52ffbf58fcdd9b94762e74b8cd412f",
+                      "size":  16287021
+                  },
+                  {
                       "path":  "Data/Video/login.mp4",
                       "sha256":  "b36d955da0f57b88302ef3b31153d8a3b59fab992af5de924dd79c5c7bbb1e20",
                       "size":  19451934
+                  },
+                  {
+                      "path":  "Data/Video/news/index.json",
+                      "sha256":  "7ddc0e1d0ef1cc780360c9d2c2ad8fc6047b680f8943effdb71684ca79a3065d",
+                      "size":  21
                   },
                   {
                       "path":  "Data/World1/angeflo_R.OZJ",
@@ -90909,6 +91119,11 @@
                       "size":  410820
                   },
                   {
+                      "path":  "glew32.dll",
+                      "sha256":  "a0822f6b1272689be78221a1b19054007c3f500dc584648a314301e8095d4284",
+                      "size":  424960
+                  },
+                  {
                       "path":  "Main.exe",
                       "sha256":  "2703d2d4b8de81199a2fd9f592b8423e2a440ed8e424203567b0ae3d2344bc96",
                       "size":  12080104
@@ -90929,6 +91144,11 @@
                       "size":  2741248
                   },
                   {
+                      "path":  "ogg.dll",
+                      "sha256":  "e6a3deeebe9de112a9a0c0c456a15e7f6cbae0af5d859932bdc5ff1ad9cfa60e",
+                      "size":  53248
+                  },
+                  {
                       "path":  "vcruntime140.dll",
                       "sha256":  "87fc734e0f2884985514edace58cf649a8ad67cb058dc7b7a4068f77af86810a",
                       "size":  91296
@@ -90937,6 +91157,11 @@
                       "path":  "vcruntime140_1.dll",
                       "sha256":  "e6bfb3662ab4b1969a73441dbe35c96d51441b6bff8cf1fe7430bd5b246ca605",
                       "size":  47264
+                  },
+                  {
+                      "path":  "vorbisfile.dll",
+                      "sha256":  "525d5849837c0451edc855172917b94a1b48010c781ba48f620efb9f5e597055",
+                      "size":  999424
                   },
                   {
                       "path":  "WebView2Loader.dll",
@@ -99638,5 +99863,13 @@
                                        }
                                    ]
                      }
-                 ]
+                 ],
+    "patchZip":  {
+                     "url":  "https://files.mu-horizon.com/zips/093660b809318830a3df129a2de48711d7706ec30ab2f9d77cd3f681ea31e5c6.zip",
+                     "sha256":  "093660b809318830a3df129a2de48711d7706ec30ab2f9d77cd3f681ea31e5c6",
+                     "size":  309771281,
+                     "urls":  [
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-2/client-patch.zip"
+                              ]
+                 }
 }
