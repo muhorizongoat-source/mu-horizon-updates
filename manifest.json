@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  3,
+    "patch":  4,
     "minLauncherVersion":  "1.10.0",
-    "releasedAt":  "2026-09-26T20:19:19.7547293Z",
-    "notes":  "Upgrade patch 3",
+    "releasedAt":  "2026-09-27T19:49:05.6428488Z",
+    "notes":  "Upgrade patch 4",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/b09983cf1fb593ef4c40c53f4040ef87c4735d82351794a1274d35e266480718.zip",
-                    "sha256":  "b09983cf1fb593ef4c40c53f4040ef87c4735d82351794a1274d35e266480718",
-                    "size":  1566175123,
+                    "url":  "https://files.mu-horizon.com/zips/4c6a56a39c981c6727dd8cf3585ce484e890f7fa9c80ca4067e59855eec38c03.zip",
+                    "sha256":  "4c6a56a39c981c6727dd8cf3585ce484e890f7fa9c80ca4067e59855eec38c03",
+                    "size":  1566173402,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-3/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-4/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -6502,11 +6502,6 @@
                       "path":  "Data/Interface/wing_right.OZT",
                       "sha256":  "d21be38c0e775d4ccc00bce872431fa13bcc36de6b0e00b1dfc616eaef75d9b8",
                       "size":  33548
-                  },
-                  {
-                      "path":  "Data/Item/_backup-porro/olive.OZJ.bak",
-                      "sha256":  "8f518930e9f01427701a15f94fea56eddd50af2470b01f09bffc4b99e705262c",
-                      "size":  2472
                   },
                   {
                       "path":  "Data/Item/a_2.OZJ",
@@ -15580,8 +15575,8 @@
                   },
                   {
                       "path":  "Data/Item/UniqueLook/README.md",
-                      "sha256":  "a51ab3a832aa37c8a5f7bc772f9c09e2e4d6c2cdb3f4bcbf2a9d8bb8a69271d8",
-                      "size":  447
+                      "sha256":  "8d56eb9dac6fe8cdadd8a0fb07e97e57b492282acf44471b2d7b7fc944ada97c",
+                      "size":  437
                   },
                   {
                       "path":  "Data/Item/UniqueModels/0_29.bmd",
@@ -17345,7 +17340,7 @@
                   },
                   {
                       "path":  "Data/Local/Eng/item_eng.bmd",
-                      "sha256":  "a90eb8d346023a3619701608d808c58b9ed42004d5793ce3b0a4c49ff79ac98f",
+                      "sha256":  "3680b00e35e558802169ae54bcdc7d21799753328a3c611f37605f77e97cf15b",
                       "size":  851972
                   },
                   {
@@ -17565,7 +17560,7 @@
                   },
                   {
                       "path":  "Data/Local/Eng/MoveReq_eng.bmd",
-                      "sha256":  "2b2a7e08b3868708962744131784adc0241f583d02e6ce74be0d13dd3e68b270",
+                      "sha256":  "8f4686684efa015becf36fdb18ecc23865f065f853a37d094ecce15195cd877f",
                       "size":  4204
                   },
                   {
@@ -17605,7 +17600,7 @@
                   },
                   {
                       "path":  "Data/Local/Eng/skill_eng.bmd",
-                      "sha256":  "5b45add3a6ccd3b588a663ad98f9181848cc0a094452e13ac2c73e2cadfd135e",
+                      "sha256":  "ceea1e69f3446c948af4555d74415170d6a2e8aae63b0a8fbaaa627fbe8f4cd0",
                       "size":  70204
                   },
                   {
@@ -17705,7 +17700,7 @@
                   },
                   {
                       "path":  "Data/Local/mix.bmd",
-                      "sha256":  "9b842bf8e993992c7cb96e8a5adfa4e38a8a9a09018a1533bc51e8d70a6dbc7f",
+                      "sha256":  "732b4ba250a85b1f4c1fb80c3932ed29eecc83ece19294b817a5f9ecab81c971",
                       "size":  84680
                   },
                   {
@@ -17715,7 +17710,7 @@
                   },
                   {
                       "path":  "Data/Local/Movereq.bmd",
-                      "sha256":  "e29987855091a0463139b0b869989824a460de47f744218cdb7b0bc37dc9f9ba",
+                      "sha256":  "0ea18cf4c37d7dc05bd2dc9dd4159e8e72a4bea17655399e652a03e1cfc69287",
                       "size":  4204
                   },
                   {
@@ -17980,7 +17975,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/item_por.bmd",
-                      "sha256":  "ebb28db8e4e33a584e58e9286414ad45ec92167ae0c31994e70b1a9bfc4384df",
+                      "sha256":  "a1db453b118bb00c47eb7a7c1760deae4611706c12569811b5b43e9014113060",
                       "size":  851972
                   },
                   {
@@ -18265,7 +18260,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/MoveReq_por.bmd",
-                      "sha256":  "6f45b8367f146975326833d87bb96e935da8b40d712141d79073cd7310fa21be",
+                      "sha256":  "fef03b506d6e39597bee056d83000ba3c52bb454719a21f157a7979ff94e6912",
                       "size":  4204
                   },
                   {
@@ -18310,7 +18305,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/skill_por.bmd",
-                      "sha256":  "57567dc38175cc1a76d00ce0388219684f487d6bbb714c8d12b1b32fb8b50766",
+                      "sha256":  "49ed3807ae734ca58dc092d08e961a4ff70000c21458ee8e859383e7b7c5ea76",
                       "size":  57204
                   },
                   {
@@ -18346,16 +18341,6 @@
                   {
                       "path":  "Data/Local/ServerList.bmd",
                       "sha256":  "24030a3a898773a50dbe91fb99f2173bde83c0be7adfb26056cfc6205a7552f8",
-                      "size":  165
-                  },
-                  {
-                      "path":  "Data/Local/ServerList.bmd.bak",
-                      "sha256":  "2a847cfe0a71fbde927576a78923927e740f520060d647fdac7f19438099d4f7",
-                      "size":  165
-                  },
-                  {
-                      "path":  "Data/Local/ServerList.bmd.horizon.bak",
-                      "sha256":  "d18c68d8c7b38cebc61d9da6d4cc138318f58afcbdcbe14a5386051c98b869fe",
                       "size":  165
                   },
                   {
@@ -18590,7 +18575,7 @@
                   },
                   {
                       "path":  "Data/Local/Spn/item_spn.bmd",
-                      "sha256":  "558ecffc83e5d3435c36bd666735b09a25755d7cdcf88591f7654e15eb25dd66",
+                      "sha256":  "3b8f81882916c45ea235556f19b096a6f49a232ef249e4b47bf7e0cded28763d",
                       "size":  851972
                   },
                   {
@@ -18800,7 +18785,7 @@
                   },
                   {
                       "path":  "Data/Local/Spn/movereq_spn.bmd",
-                      "sha256":  "b35ff10157a70cac901178f798ff8249247c614559976b2cad19084789057e39",
+                      "sha256":  "2c458598fe4f500d13c2295cfa706f6bfda9d0575c4ad7a541d9004238425912",
                       "size":  4204
                   },
                   {
@@ -18845,7 +18830,7 @@
                   },
                   {
                       "path":  "Data/Local/Spn/skill_spn.bmd",
-                      "sha256":  "a740cbdd7995a31b5f3629058524c0f5689a6d15cea20d70efc93c1c603d4a8c",
+                      "sha256":  "cb78b934b39dd98cad96455f53e551ff4c47afc6636cce3db3f46f9d028bbc95",
                       "size":  57204
                   },
                   {
@@ -19667,11 +19652,6 @@
                       "path":  "Data/Logo/wood.OZT",
                       "sha256":  "961e408135890a6a60a49ae0550ca1b63802b85b020505a38eefd0af700f7f6c",
                       "size":  16432
-                  },
-                  {
-                      "path":  "Data/Macro.txt",
-                      "sha256":  "7dcf122b3c1030b4c6ce56e9c6d37d55fbec08f1c93d5ab6e4de5b6486e0d068",
-                      "size":  20
                   },
                   {
                       "path":  "Data/Monster/anaconda.OZJ",
@@ -21120,8 +21100,8 @@
                   },
                   {
                       "path":  "Data/Monster/Ghoul-Credits.txt",
-                      "sha256":  "c1eade99bc8afb7286cc3a761a6742469fda34af9be5170aaf9cd05a7b40b8b1",
-                      "size":  517
+                      "sha256":  "19fdb01fa8a0cd0f23aee2845dd633d7e93de6a7db290c8b0b256675aa8386ab",
+                      "size":  506
                   },
                   {
                       "path":  "Data/Monster/giantmemud_body.OZJ",
@@ -24620,18 +24600,18 @@
                   },
                   {
                       "path":  "Data/MonsterPieces.txt",
-                      "sha256":  "716737a3909605446f959d6637e2cd3382c31cb4fc98b780fde66d001396c8dd",
-                      "size":  1442
+                      "sha256":  "1b3b8fe64f4569c867352144b11208f137c098faccfa29b3e918de81f93788f4",
+                      "size":  1412
                   },
                   {
                       "path":  "Data/MonsterSpots.txt",
-                      "sha256":  "2e5c87e8060fb29599f558ae9993421b8cdac168094637049f102564528f440b",
-                      "size":  33709
+                      "sha256":  "34d35d2beb4f85db2281c55acd6660950b45ce1a59d57c2a86ddeade27020127",
+                      "size":  32856
                   },
                   {
                       "path":  "Data/MonsterStyles.txt",
-                      "sha256":  "b8f611cf67a3fbbc100d34d0dfb681b4b545007304f1499567f1d2f95323ba58",
-                      "size":  3616
+                      "sha256":  "c06c8ca7ac96583631a5ff423ccd756f376571c2449339bf3f79fdd123e75b40",
+                      "size":  3560
                   },
                   {
                       "path":  "Data/Music/Aida.mp3",
@@ -76500,8 +76480,8 @@
                   },
                   {
                       "path":  "Data/Sound/voices/index.txt",
-                      "sha256":  "105f7930a653d725df553e36b48c8d0f5ed3a3f7c83f2001ee030ba5d4fd7d51",
-                      "size":  110168
+                      "sha256":  "5902e856ce38da02f78e4566d367a7d6c3ac4e786ee76a610b530c900dcfe46b",
+                      "size":  108801
                   },
                   {
                       "path":  "Data/Sound/voices/isabel_mana.wav",
@@ -81590,13 +81570,13 @@
                   },
                   {
                       "path":  "Data/UniqueItems.txt",
-                      "sha256":  "4a5b67fb64a74d9d1213d54309ef626e1e67c657414b91c38941e88d9f9a5298",
-                      "size":  5582
+                      "sha256":  "5106a54a3f957787ff77555ad54a30fc40d25c4f37e7229194c27bebc7b4b21b",
+                      "size":  5508
                   },
                   {
                       "path":  "Data/UniqueLook.off",
-                      "sha256":  "aa7c7de6c6288e1f85afc3751cb95190dab061c4f2eadd313cec61e14393d4d4",
-                      "size":  249
+                      "sha256":  "3b0458eef48638701709243108b1dbcd641bbfee9b790cf9155dd0a44f9072ec",
+                      "size":  245
                   },
                   {
                       "path":  "Data/UniqueMods.txt",
@@ -81605,8 +81585,8 @@
                   },
                   {
                       "path":  "Data/upscaled.txt",
-                      "sha256":  "dc506a30e710c012f6f654153fe69caa30ecc4ffcad4fb81dc724b75920936dc",
-                      "size":  2449
+                      "sha256":  "c7ea763c7faa1df2e0f1c9f507e62e018be7ecd11dfa6a6960a6185b595865bb",
+                      "size":  2397
                   },
                   {
                       "path":  "Data/Video/class/dark-knight.mp4",
@@ -91125,23 +91105,23 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "2703d2d4b8de81199a2fd9f592b8423e2a440ed8e424203567b0ae3d2344bc96",
-                      "size":  12080104
+                      "sha256":  "3e48e092ae23408c7817b3d5ec1e47b862ef401819f52502e60c51124ee103da",
+                      "size":  12062696
                   },
                   {
                       "path":  "msvcp140.dll",
-                      "sha256":  "546ee2af2ffff02a34dbc1139bc6eb0eb5d67d83b3be782cfead374d29c8e01e",
-                      "size":  447568
+                      "sha256":  "97e71a3c697fb1ab3af777db39009e4602525e8c3aff0837ecc7031cba188165",
+                      "size":  447616
                   },
                   {
                       "path":  "MuHorizon.CrashReporter.exe",
-                      "sha256":  "fb220442ecfc8046c3357dedb5aa3dc2e20ab64745499cd5f67847b61d30ddf6",
-                      "size":  116840656
+                      "sha256":  "79126e99cedcf27b94c2dc9d92a650a3c30a47582c932958adcde2401a24696d",
+                      "size":  116844760
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
-                      "sha256":  "1236c38fa00a20374e5118f22d8a8538e51d872c7c659969d3f7bad2ee83ff73",
-                      "size":  2741248
+                      "sha256":  "585d3cc398200d8b33f03fd179bde0f65ac434d67c19e1a013b3917968c8ae63",
+                      "size":  2743296
                   },
                   {
                       "path":  "ogg.dll",
@@ -91150,13 +91130,13 @@
                   },
                   {
                       "path":  "vcruntime140.dll",
-                      "sha256":  "87fc734e0f2884985514edace58cf649a8ad67cb058dc7b7a4068f77af86810a",
-                      "size":  91296
+                      "sha256":  "a9d7732a3c3de09f0601a7fa2555093dcb49f08e2fc62a86091461f0f38393ed",
+                      "size":  91216
                   },
                   {
                       "path":  "vcruntime140_1.dll",
-                      "sha256":  "e6bfb3662ab4b1969a73441dbe35c96d51441b6bff8cf1fe7430bd5b246ca605",
-                      "size":  47264
+                      "sha256":  "1f2d41c4aa5db0bc33ebf7b66d72943a817d7ce6cbe880502a9403823633093f",
+                      "size":  49792
                   },
                   {
                       "path":  "vorbisfile.dll",
@@ -99837,29 +99817,24 @@
                                            "size":  48228
                                        },
                                        {
-                                           "path":  "Data/UniqueLook.off",
-                                           "sha256":  "3b0458eef48638701709243108b1dbcd641bbfee9b790cf9155dd0a44f9072ec",
-                                           "size":  245
-                                       },
-                                       {
                                            "path":  "Main.exe",
-                                           "sha256":  "197dcd069cfabc681614d1149b1fba3f95674c4f52498da0fd848b67b924c966",
-                                           "size":  13563368
+                                           "sha256":  "3e3e5a6a5e9c50b8919f40a13c8f0007d0c4719c7a25e551381ea5d787ffeb0f",
+                                           "size":  13667816
                                        },
                                        {
                                            "path":  "msvcp140.dll",
-                                           "sha256":  "def46aa6a8f72f27bafac0c43334419486a4d1dcdb6c479a8ef7034b3e1fa4cb",
-                                           "size":  553552
+                                           "sha256":  "0f885b509a685d2bbfa652fed26b5fb31d88fbdab0a978c641d1c7b8aa460aa9",
+                                           "size":  557728
                                        },
                                        {
                                            "path":  "MUnique.Client.Library.dll",
-                                           "sha256":  "dde8ff45f830d224dc715722311a36417f45a11049cbcdcfa074d482755f659b",
-                                           "size":  3246592
+                                           "sha256":  "b06ec0caaa7d91a8be28542b648177d30c4929cd723742d5b2fc64f0db1c79a5",
+                                           "size":  3249152
                                        },
                                        {
                                            "path":  "vcruntime140.dll",
-                                           "sha256":  "184146852727a9db4eea06178716bec3cdbb1015c911f6b0f915b184ad7775b2",
-                                           "size":  123472
+                                           "sha256":  "d5e4d9a3e835fa679450145d6a7d94e36573a509317111904d9b3712c30d9066",
+                                           "size":  124544
                                        },
                                        {
                                            "path":  "WebView2Loader.dll",
@@ -99870,11 +99845,11 @@
                      }
                  ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/956f672d1dd299c2db07620ac5aa2cfaa7baad5c89ebbd29a96ab7be99a728b1.zip",
-                     "sha256":  "956f672d1dd299c2db07620ac5aa2cfaa7baad5c89ebbd29a96ab7be99a728b1",
-                     "size":  21316068,
+                     "url":  "https://files.mu-horizon.com/zips/dfbadd51d9cccc702a25eaaf6288eba612263ecf34b556f2a93f4f5502b3bc59.zip",
+                     "sha256":  "dfbadd51d9cccc702a25eaaf6288eba612263ecf34b556f2a93f4f5502b3bc59",
+                     "size":  57197555,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-3/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-4/client-patch.zip"
                               ]
                  }
 }
