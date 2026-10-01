@@ -1,7 +1,6 @@
 {
     "generation":  1,
     "patch":  11,
-    "minLauncherVersion":  "1.10.0",
     "releasedAt":  "2026-10-01T00:09:41.4973382Z",
     "notes":  "Upgrade patch 11",
     "connection":  {
@@ -16,7 +15,6 @@
                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-11/client-full.zip"
                              ]
                 },
-    "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
     "files":  [
                   {
                       "path":  "config.ini.template",
@@ -99851,5 +99849,7 @@
                      "urls":  [
                                   "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-11/client-patch.zip"
                               ]
-                 }
+                 },
+    "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
+    "minLauncherVersion":  "1.12.0"
 }
