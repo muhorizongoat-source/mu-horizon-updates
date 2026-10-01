@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  10,
+    "patch":  11,
     "minLauncherVersion":  "1.10.0",
-    "releasedAt":  "2026-09-30T20:09:09.6074698Z",
-    "notes":  "Upgrade patch 10",
+    "releasedAt":  "2026-10-01T00:09:41.4973382Z",
+    "notes":  "Upgrade patch 11",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/9cddab1cca39199db43a62386590f3c84eab70c63dbe15a147eca8f143c39a2e.zip",
-                    "sha256":  "9cddab1cca39199db43a62386590f3c84eab70c63dbe15a147eca8f143c39a2e",
-                    "size":  1566232523,
+                    "url":  "https://files.mu-horizon.com/zips/c4c3bdc624ed59204fb5fc2345500f9c9f695274e294f1891cf422df619176f1.zip",
+                    "sha256":  "c4c3bdc624ed59204fb5fc2345500f9c9f695274e294f1891cf422df619176f1",
+                    "size":  1566235270,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-10/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-11/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -91105,8 +91105,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "0f30d511c97ac45b4e604c6d075edbb21a0ac89084b11acd1a8c388c1c134da8",
-                      "size":  12162536
+                      "sha256":  "9ea1fc6d8fdef83182b013ecb151bc969a8ca36c5a12f029143214ef510d58ef",
+                      "size":  12171752
                   },
                   {
                       "path":  "msvcp140.dll",
@@ -91115,12 +91115,12 @@
                   },
                   {
                       "path":  "MuHorizon.CrashReporter.exe",
-                      "sha256":  "5150ec35674fe04d758b207dcec310b9d6bb0bc0d442502cc1131ba67b27bdfb",
+                      "sha256":  "364651f2feb33f1f0014715d1452b080118c8804acd0f66be78ed2ae6ec39c37",
                       "size":  116844752
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
-                      "sha256":  "7f696bfbc414200ea3b9fc6ecac4ecefab53882fb3eddd73377b43ad37c4fd71",
+                      "sha256":  "3ce2a51665ae719bde7881c2e7ee98de58bc748fdbbd16582c242af1a08466aa",
                       "size":  2753000
                   },
                   {
@@ -99818,8 +99818,8 @@
                                        },
                                        {
                                            "path":  "Main.exe",
-                                           "sha256":  "098d14ca0290d97e301052dfbd2accd51379d0db1523da42d2343b5975bc609e",
-                                           "size":  13785584
+                                           "sha256":  "16d422362a7a7abce30ead6ba9a117accc00c33ee67e08752f879baf3dcb78e9",
+                                           "size":  13793768
                                        },
                                        {
                                            "path":  "msvcp140.dll",
@@ -99828,8 +99828,8 @@
                                        },
                                        {
                                            "path":  "MUnique.Client.Library.dll",
-                                           "sha256":  "67dd6cb64f68ab503b016c4d3502b3938a7c084928052575713b3274b084a945",
-                                           "size":  3259376
+                                           "sha256":  "67974f554e212ccaac30d80ae975fca187ee0921b1fe71a888d8f55b69856148",
+                                           "size":  3259368
                                        },
                                        {
                                            "path":  "vcruntime140.dll",
@@ -99845,11 +99845,11 @@
                      }
                  ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/e48ea452f364332e268dc91a8502142d2fea59da446c34e147c2ed6e91d9c992.zip",
-                     "sha256":  "e48ea452f364332e268dc91a8502142d2fea59da446c34e147c2ed6e91d9c992",
-                     "size":  56921468,
+                     "url":  "https://files.mu-horizon.com/zips/5da129d8486889086a0517d3ace49e69bfd09eecb684002c951e39d644bb058d.zip",
+                     "sha256":  "5da129d8486889086a0517d3ace49e69bfd09eecb684002c951e39d644bb058d",
+                     "size":  56810822,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-10/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-11/client-patch.zip"
                               ]
                  }
 }
