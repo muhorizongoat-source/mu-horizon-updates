@@ -1,20 +1,22 @@
 {
     "generation":  1,
-    "patch":  11,
-    "releasedAt":  "2026-10-01T00:09:41.4973382Z",
-    "notes":  "Upgrade patch 11",
+    "patch":  12,
+    "minLauncherVersion":  "1.12.0",
+    "releasedAt":  "2026-10-02T00:36:12.4563524Z",
+    "notes":  "Upgrade patch 12",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/c4c3bdc624ed59204fb5fc2345500f9c9f695274e294f1891cf422df619176f1.zip",
-                    "sha256":  "c4c3bdc624ed59204fb5fc2345500f9c9f695274e294f1891cf422df619176f1",
-                    "size":  1566235270,
+                    "url":  "https://files.mu-horizon.com/zips/90890ae477c5f9109ca6b1049910fcd4c198e20f2b204d2d280e82c61b324aec.zip",
+                    "sha256":  "90890ae477c5f9109ca6b1049910fcd4c198e20f2b204d2d280e82c61b324aec",
+                    "size":  1566235059,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-11/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-12/client-full.zip"
                              ]
                 },
+    "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
     "files":  [
                   {
                       "path":  "config.ini.template",
@@ -24603,8 +24605,8 @@
                   },
                   {
                       "path":  "Data/MonsterSpots.txt",
-                      "sha256":  "34d35d2beb4f85db2281c55acd6660950b45ce1a59d57c2a86ddeade27020127",
-                      "size":  32856
+                      "sha256":  "13502758a52ee90e5992cf62242a040570ffca46409a9ecc8f8658a8127d2b8a",
+                      "size":  32934
                   },
                   {
                       "path":  "Data/MonsterStyles.txt",
@@ -83728,7 +83730,7 @@
                   },
                   {
                       "path":  "Data/World39/EncTerrain39.att",
-                      "sha256":  "764ad2cbd9e84c45c5e715799773902237ca8add626ffea373d7daffb4fc7be1",
+                      "sha256":  "93e1862549777800a6f8199b55fae12ed0f432d3da82aabf39522ca1c466ae62",
                       "size":  131076
                   },
                   {
@@ -91103,8 +91105,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "9ea1fc6d8fdef83182b013ecb151bc969a8ca36c5a12f029143214ef510d58ef",
-                      "size":  12171752
+                      "sha256":  "fed18e776b7cd4a2ca46df6922a0ec85140487f333339685e2546b7efd30abba",
+                      "size":  12172264
                   },
                   {
                       "path":  "msvcp140.dll",
@@ -91113,13 +91115,13 @@
                   },
                   {
                       "path":  "MuHorizon.CrashReporter.exe",
-                      "sha256":  "364651f2feb33f1f0014715d1452b080118c8804acd0f66be78ed2ae6ec39c37",
+                      "sha256":  "c4dea954dd419e5db89570b34b102b178eb3655c8d24f8585aa350719ed85fd6",
                       "size":  116844752
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
-                      "sha256":  "3ce2a51665ae719bde7881c2e7ee98de58bc748fdbbd16582c242af1a08466aa",
-                      "size":  2753000
+                      "sha256":  "bfcc510651a8282821dff9b390fe9b75038a5bc8c276d6787cf8d5b4e52b8c29",
+                      "size":  2753008
                   },
                   {
                       "path":  "ogg.dll",
@@ -99816,8 +99818,8 @@
                                        },
                                        {
                                            "path":  "Main.exe",
-                                           "sha256":  "16d422362a7a7abce30ead6ba9a117accc00c33ee67e08752f879baf3dcb78e9",
-                                           "size":  13793768
+                                           "sha256":  "cea4d3cd386182e12b2987d4ca0383850e0d0fdb4bc5411e38b2e686c36b36cf",
+                                           "size":  13794792
                                        },
                                        {
                                            "path":  "msvcp140.dll",
@@ -99826,7 +99828,7 @@
                                        },
                                        {
                                            "path":  "MUnique.Client.Library.dll",
-                                           "sha256":  "67974f554e212ccaac30d80ae975fca187ee0921b1fe71a888d8f55b69856148",
+                                           "sha256":  "3c5e65f97b4e82d6693f0727c822b90873db8d5211228bd57de903bd7efe3141",
                                            "size":  3259368
                                        },
                                        {
@@ -99843,13 +99845,11 @@
                      }
                  ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/5da129d8486889086a0517d3ace49e69bfd09eecb684002c951e39d644bb058d.zip",
-                     "sha256":  "5da129d8486889086a0517d3ace49e69bfd09eecb684002c951e39d644bb058d",
-                     "size":  56810822,
+                     "url":  "https://files.mu-horizon.com/zips/bbf255f30dc1eee7aac7c89b16a57719e4222a0e1c8b7107a1a3632130e2bf19.zip",
+                     "sha256":  "bbf255f30dc1eee7aac7c89b16a57719e4222a0e1c8b7107a1a3632130e2bf19",
+                     "size":  56853223,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-11/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-12/client-patch.zip"
                               ]
-                 },
-    "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
-    "minLauncherVersion":  "1.12.0"
+                 }
 }
