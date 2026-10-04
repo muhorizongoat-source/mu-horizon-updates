@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  13,
+    "patch":  14,
     "minLauncherVersion":  "1.12.0",
-    "releasedAt":  "2026-10-03T00:45:23.0336412Z",
-    "notes":  "Upgrade patch 13",
+    "releasedAt":  "2026-10-04T01:54:07.9384866Z",
+    "notes":  "Upgrade patch 14",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/ad5d461876ad8283372969ad1ea227ff80c923b4f826b9cd882704fc0e946fbc.zip",
-                    "sha256":  "ad5d461876ad8283372969ad1ea227ff80c923b4f826b9cd882704fc0e946fbc",
-                    "size":  1566236920,
+                    "url":  "https://files.mu-horizon.com/zips/80a600972a3a6e2cfaf18feb507052ac78cc8cc975701b6dc3d8b15d313c6caa.zip",
+                    "sha256":  "80a600972a3a6e2cfaf18feb507052ac78cc8cc975701b6dc3d8b15d313c6caa",
+                    "size":  1569699670,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-13/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-14/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -25,8 +25,8 @@
                   },
                   {
                       "path":  "crash-reporter.config.json",
-                      "sha256":  "caf9131ac32780622ed12adf7d5f1c41ad97fb44d02891025d5fad30f321efa6",
-                      "size":  59
+                      "sha256":  "a9bcade4ae36c13cbdd5b002923b80045fb72d07f2a7a0bc78dfcf0e162bd6d3",
+                      "size":  56
                   },
                   {
                       "path":  "Data/Dec2.dat",
@@ -2405,18 +2405,18 @@
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSPackage.txt",
-                      "sha256":  "de72e38295064255583720c88969231483a2b346b47915710f3f63245584c7e7",
-                      "size":  11470
+                      "sha256":  "e09478fe244c1bd734734048fc736a30183562ea78e34ddee6f79223e82861a5",
+                      "size":  11615
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSProduct.txt",
-                      "sha256":  "557d4a80fccee4d70364a700f00ce909ebcac4893847521931f92eb60109ed21",
-                      "size":  7335
+                      "sha256":  "5045b72f1db76e9acfe04b0d0236ca134aa2d8ac10885873066e45ca12f2dbfb",
+                      "size":  8179
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSText.es.txt",
-                      "sha256":  "917f71c09920d533abbaf749f276fd1e851fab19851146646a65513713f1d77e",
-                      "size":  8069
+                      "sha256":  "19b99897f8f6a0c61b8fa23e21e7ed3e3d59a39fb8e0f8b290d17c52248d9509",
+                      "size":  8567
                   },
                   {
                       "path":  "Data/Interface/accept_box01.OZJ",
@@ -3577,6 +3577,306 @@
                       "path":  "Data/Interface/lo_webzen_logo_Eng.OZT",
                       "sha256":  "7f6ad3d737356b5926a917219b82acbaeae2ebdbaacb598a28ae7f1d693f1763",
                       "size":  249904
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/01/lo_back_im01.OZJ",
+                      "sha256":  "b5c78802a421f312e70992ab894912d7ae4d0741bb1ab9929fbf233bac84f592",
+                      "size":  144190
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/01/lo_back_im02.OZJ",
+                      "sha256":  "1a49f5d9a7a82e01169251ac071d400a10939da44c6bee40378510eb6085ebce",
+                      "size":  129573
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/01/lo_back_im03.OZJ",
+                      "sha256":  "68029d1e904d9dd7a1608ae347f8ef161e8e3c15b9c812858a73bb8c90e30653",
+                      "size":  78254
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/01/lo_back_im04.OZJ",
+                      "sha256":  "1be81785d19fdc144a749d625ea91a79b47dfc7c356d4636e40e9eb0d1397ff5",
+                      "size":  64422
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/01/lo_back_im05.OZJ",
+                      "sha256":  "2fae0efe8b94ae36cbfafe4580bc47a131496a5c0aff700339a9040ca119c212",
+                      "size":  52897
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/01/lo_back_im06.OZJ",
+                      "sha256":  "e1a0f26c8a1384414bade1dff254404227441ac2c41829bedb31ee6498aeab2a",
+                      "size":  30739
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/01/lo_back_s5_03.OZJ",
+                      "sha256":  "8e0e79fda5d1682826ea645d950e83cfcc81b6467815b07bed2465e905ae8416",
+                      "size":  13365
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/01/lo_back_s5_04.OZJ",
+                      "sha256":  "1116c5fa52cf592fa9644dc70416e0df2c81c21269d62c1f5397e8b9f00f7b0f",
+                      "size":  14384
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/01/lo_lo.OZJ",
+                      "sha256":  "249d06d63cb8eed21cc4470ee16c532b3698258f4035c5fea88d0ef53ffda952",
+                      "size":  684
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/01/LSBg01.OZJ",
+                      "sha256":  "f40fabc42f5057f57eaf2aa1329018bda52172e7fa3791c0bce71a327a1d6086",
+                      "size":  127971
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/01/LSBg02.OZJ",
+                      "sha256":  "c29e2ae1e9f7eb726fdabfca2f44e58e8008c4512ea25eb1bbdc5cdfe9497b84",
+                      "size":  123762
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/01/LSBg03.OZJ",
+                      "sha256":  "72b935cc007ac046d6a5ed65da09ff2ffbd0936f2cdcbb0d586b75064559d0d5",
+                      "size":  11375
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/01/LSBg04.OZJ",
+                      "sha256":  "aadde3b9e979a3af356bbc4aa9f67712dd3e679b0ecd0db652f24feca05ebec1",
+                      "size":  14455
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/01/New_lo_back_01.OZJ",
+                      "sha256":  "d8af5b43997db502a051d5a9cb35f2af9473c2adc415984acc8e7632911a6629",
+                      "size":  17629
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/01/New_lo_back_02.OZJ",
+                      "sha256":  "c713a38bbe7907d73e122f897436358d5839770759dbcf64e010b7b8843a24c9",
+                      "size":  15796
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/02/lo_back_im01.OZJ",
+                      "sha256":  "a4675234d4957400ccc39f94ea6e339e9850a791571a310433a4c9f7ebf86ae8",
+                      "size":  151437
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/02/lo_back_im02.OZJ",
+                      "sha256":  "98c661d37281a47e80dcb73d2ad7ddbabaa7fb7de167572668b236f07c11a37c",
+                      "size":  124796
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/02/lo_back_im03.OZJ",
+                      "sha256":  "de514f7019a031b2b61fd3f176ed3973a2555f1ef5e5a1e5a35ddd769fa31151",
+                      "size":  80360
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/02/lo_back_im04.OZJ",
+                      "sha256":  "451be7e44dbef866cba0e8fe56b0cef738be33a37f50eb86dad705daed5b3f0c",
+                      "size":  67126
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/02/lo_back_im05.OZJ",
+                      "sha256":  "6edc85981b918747033feed374f5eeb16203b537fe08b357bc23674fc91ba062",
+                      "size":  54953
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/02/lo_back_im06.OZJ",
+                      "sha256":  "b2784715c0e9bc42534fd8f0341cf15b622f3758cf40e1ffabb041a83c2d3097",
+                      "size":  33829
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/02/lo_back_s5_03.OZJ",
+                      "sha256":  "f1f105a716c01c5d2e6fe9d3e8312444dff594c137d8ca4e1d97ef12586041ec",
+                      "size":  25408
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/02/lo_back_s5_04.OZJ",
+                      "sha256":  "a6744da05574bbf3e1e1217711765f9411fa32527da150b3bfd09a8c523d7f7b",
+                      "size":  23316
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/02/lo_lo.OZJ",
+                      "sha256":  "249d06d63cb8eed21cc4470ee16c532b3698258f4035c5fea88d0ef53ffda952",
+                      "size":  684
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/02/LSBg01.OZJ",
+                      "sha256":  "53a0d7bfbe379a6deee2681fd4892a045cccf9a9c7443ba912806ad7af73fec6",
+                      "size":  130586
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/02/LSBg02.OZJ",
+                      "sha256":  "0cb35895322fd7f050b2455db181fd0141c679367777616f4f676214ffa62e4d",
+                      "size":  126751
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/02/LSBg03.OZJ",
+                      "sha256":  "419f28b6c94f025befc958cea999e6fb33fd70deece46159ae456e1ad1b7fa1c",
+                      "size":  24023
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/02/LSBg04.OZJ",
+                      "sha256":  "753f85a3836708f9f48f108b11a430ad2c4cd10d640a22e26062f9201b151915",
+                      "size":  22909
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/02/New_lo_back_01.OZJ",
+                      "sha256":  "84881fe85f338996b388518d4ff4fea262529be091d0bc0d6c4e61e911ef12e4",
+                      "size":  18144
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/02/New_lo_back_02.OZJ",
+                      "sha256":  "896716ff687eff6c033b143fe8413cebcf400186562f52de72eb9ea6baf3c986",
+                      "size":  16910
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/03/lo_back_im01.OZJ",
+                      "sha256":  "df13ea63bee5033c5bb5301bdb90db1b50f1d7453b0e92189f077190764cfeff",
+                      "size":  148628
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/03/lo_back_im02.OZJ",
+                      "sha256":  "91cbfd721f3beb3b3139f52ca4f1cf0da5dc36952e59d302c409bfd28a2d778e",
+                      "size":  119334
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/03/lo_back_im03.OZJ",
+                      "sha256":  "df696f03f8a4af0815ed4d1cc98f8cbf2fbcdfb4596a959f40355732df4a219c",
+                      "size":  75308
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/03/lo_back_im04.OZJ",
+                      "sha256":  "b5c2438820d7ad9a12516cfcd3413265b1dfd15d59a2340c70ca7c77816409c5",
+                      "size":  60947
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/03/lo_back_im05.OZJ",
+                      "sha256":  "4e4ecbc3245ff5f2c5424215b5ab919fb1002a5cad7a2cbb0b54d2ddee045f03",
+                      "size":  56785
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/03/lo_back_im06.OZJ",
+                      "sha256":  "4ba0ed36b9f1b5e923d821f191f19ded801685c15a324b2e4682d0f0a782bcb1",
+                      "size":  30938
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/03/lo_back_s5_03.OZJ",
+                      "sha256":  "f617afd1d05f8d43bb0f6fa0ed4b0845d341ef8f8fb4bbd35b0289c4786a2623",
+                      "size":  18804
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/03/lo_back_s5_04.OZJ",
+                      "sha256":  "241f1b1f0fe278572b0b6d0f8e1b15354b5210da256b2dfbc3fe73cc2635af4b",
+                      "size":  18483
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/03/lo_lo.OZJ",
+                      "sha256":  "249d06d63cb8eed21cc4470ee16c532b3698258f4035c5fea88d0ef53ffda952",
+                      "size":  684
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/03/LSBg01.OZJ",
+                      "sha256":  "9cf22857be96112cc005d77183256faea03b2b4251f300dd66e348533ff0af0f",
+                      "size":  126022
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/03/LSBg02.OZJ",
+                      "sha256":  "39f484d5b9e6c76c4580089f5da11184f6563b22256fd60c79262e019a763574",
+                      "size":  121435
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/03/LSBg03.OZJ",
+                      "sha256":  "095ce1cae786b8366496362a5d8e64a860e90c555514a72377008ed27341a0eb",
+                      "size":  17318
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/03/LSBg04.OZJ",
+                      "sha256":  "6e59107dd16d270108b759588f9647c2568eec5d62c62a9fa7248ccf3f82b3fb",
+                      "size":  18339
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/03/New_lo_back_01.OZJ",
+                      "sha256":  "32a5329a931d02abcdf12203acd25eb0b5311f6fd226e34d0fb3f4c42a982490",
+                      "size":  17155
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/03/New_lo_back_02.OZJ",
+                      "sha256":  "61b40a177d4ee6f6fc9825efd750bc3fa879af58af158b9818f2d57f35d143a4",
+                      "size":  16201
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/04/lo_back_im01.OZJ",
+                      "sha256":  "d8152711133dcaf542122f8afd42d6ebdee622bd23853754ec1158593115baf3",
+                      "size":  146403
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/04/lo_back_im02.OZJ",
+                      "sha256":  "9a3c5cdde94b3de86d2868ef6a5a6ceff9bfad180650fcb19a7d09a37e335d0f",
+                      "size":  135486
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/04/lo_back_im03.OZJ",
+                      "sha256":  "c7fbc643083bdc93fa3281bf9b9f786803c9d5d755810fd66d4762d180d440d4",
+                      "size":  74895
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/04/lo_back_im04.OZJ",
+                      "sha256":  "98ebf01497eb7bd53369b762fc35bd8edd4e4f3fde053cfa9af47a067a847a13",
+                      "size":  61264
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/04/lo_back_im05.OZJ",
+                      "sha256":  "1f4d89fcd6d0395a8abb083744e36785f24187a8414c8fbcf0627ba150859dd5",
+                      "size":  58200
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/04/lo_back_im06.OZJ",
+                      "sha256":  "244aa82e329a70642585efa7bca5b8fb8fcea423ef03ffbb9ecb9512d0cb67a4",
+                      "size":  29369
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/04/lo_back_s5_03.OZJ",
+                      "sha256":  "1e0e011e334d118a005e8afbffa1fc370fd64f70cdf97fdc5e355664f7b0d137",
+                      "size":  20529
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/04/lo_back_s5_04.OZJ",
+                      "sha256":  "84d30d38cd785d118b6ad13e04c9d920acbc42dcb7ad0a31b5e06b9b37a975f3",
+                      "size":  21962
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/04/lo_lo.OZJ",
+                      "sha256":  "249d06d63cb8eed21cc4470ee16c532b3698258f4035c5fea88d0ef53ffda952",
+                      "size":  684
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/04/LSBg01.OZJ",
+                      "sha256":  "ca5a5aff37bef57bc00583884f9e1b6417dc9291c38eff4a88c80ac913c7d0b6",
+                      "size":  128071
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/04/LSBg02.OZJ",
+                      "sha256":  "4c78ed742e310b8e3df67144b7b68b351af517ed433b62e8665ce0cfb9ca0813",
+                      "size":  124999
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/04/LSBg03.OZJ",
+                      "sha256":  "645c8eb36291a460a85c1d785b1bc9fd13af4967c5ca02941c85915cbb4a1d77",
+                      "size":  18763
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/04/LSBg04.OZJ",
+                      "sha256":  "3c4dab6416061e7e49336515000c57d8c214b148e19e85d1ff11e06fa8d0c67d",
+                      "size":  21385
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/04/New_lo_back_01.OZJ",
+                      "sha256":  "ed5e2a314a6ee48634ba57ade51b553adef4cd4a6d847de06390ec94efc41a5e",
+                      "size":  17572
+                  },
+                  {
+                      "path":  "Data/Interface/Loading/04/New_lo_back_02.OZJ",
+                      "sha256":  "fd858949885c4a54aa6e758c775d09dde48e71a2abc0ab198f4124ab21d593a0",
+                      "size":  15641
                   },
                   {
                       "path":  "Data/Interface/lock_01.OZJ",
@@ -91105,8 +91405,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "9df2eb92efb99f8ee1e206d3961cbb263187001aa86e6359ea26a1770595388a",
-                      "size":  12180456
+                      "sha256":  "3cf8e12c53b4e4cff818d07346e6fa4daf64bf493af934cb1fb87fb9992bcd08",
+                      "size":  12184040
                   },
                   {
                       "path":  "msvcp140.dll",
@@ -91115,12 +91415,12 @@
                   },
                   {
                       "path":  "MuHorizon.CrashReporter.exe",
-                      "sha256":  "492cfd8db90e453f9f4e7de5aebc0d1e85f07d4c93adfe578beac2510987dd74",
+                      "sha256":  "61e604ae61c7eb647248b7772b73a0f2dd6caa41173723874a551ffbaf474c3f",
                       "size":  116844752
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
-                      "sha256":  "9d1c71cb0eff1f10c32ab8b60bc9b098e2d21554cc015285f97f4c5106de15b4",
+                      "sha256":  "9fa526ec176de7a052919fd07b902d4f77f695553c8ef4b5f11e475ce1c45625",
                       "size":  2753000
                   },
                   {
@@ -99818,8 +100118,8 @@
                                        },
                                        {
                                            "path":  "Main.exe",
-                                           "sha256":  "facf8dac5e0955ef3ef808d4d7182f58d08972edb6baf2e0f652863cbd100170",
-                                           "size":  13805544
+                                           "sha256":  "69148a606b9f06d79f9a51e07022f1aa2f351dce6273d7492ccda345ba1e4b66",
+                                           "size":  13808616
                                        },
                                        {
                                            "path":  "msvcp140.dll",
@@ -99828,7 +100128,7 @@
                                        },
                                        {
                                            "path":  "MUnique.Client.Library.dll",
-                                           "sha256":  "9841d5adbfa1885c4070044ee3dd7192af2d151b320f5ef2f1dfb7ee6d1dbe17",
+                                           "sha256":  "2c7ac91ac8ce230b3283faf886b81799aae22323ed3104aa9610631644e1012b",
                                            "size":  3259368
                                        },
                                        {
@@ -99845,11 +100145,11 @@
                      }
                  ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/12de8dfb10871b0d6d4812af09e29ebe15a5e2a2c9be00cbe93813c5a4d79594.zip",
-                     "sha256":  "12de8dfb10871b0d6d4812af09e29ebe15a5e2a2c9be00cbe93813c5a4d79594",
-                     "size":  56812788,
+                     "url":  "https://files.mu-horizon.com/zips/406b3e400fe7ab1dd8f161e65ae9a4c65be4bd55ae1331b8b8bb4d56c8a92180.zip",
+                     "sha256":  "406b3e400fe7ab1dd8f161e65ae9a4c65be4bd55ae1331b8b8bb4d56c8a92180",
+                     "size":  60282692,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-13/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-14/client-patch.zip"
                               ]
                  }
 }
