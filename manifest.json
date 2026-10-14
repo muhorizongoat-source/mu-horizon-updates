@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  20,
+    "patch":  21,
     "minLauncherVersion":  "1.12.0",
-    "releasedAt":  "2026-10-14T15:08:33.9624799Z",
-    "notes":  "Upgrade patch 20",
+    "releasedAt":  "2026-10-14T17:52:48.4690010Z",
+    "notes":  "Upgrade patch 21",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/996cbb464397dc2e38246a53e246776157bd3798b5a3010b198ecb1deac0b5e6.zip",
-                    "sha256":  "996cbb464397dc2e38246a53e246776157bd3798b5a3010b198ecb1deac0b5e6",
-                    "size":  1593088845,
+                    "url":  "https://files.mu-horizon.com/zips/30962ed37afd4994f3a8bbf83eb87d0e73743e924d42977c06f2a4b7e74753e3.zip",
+                    "sha256":  "30962ed37afd4994f3a8bbf83eb87d0e73743e924d42977c06f2a4b7e74753e3",
+                    "size":  1593090796,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-20/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-21/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -2420,13 +2420,13 @@
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSProduct.txt",
-                      "sha256":  "e8c0ea91e13258f6f331c58a104f2e7f669c41cab1a3b8b2db0e7ba266dcda54",
-                      "size":  10610
+                      "sha256":  "449babcbe26e1b9a0781672ddff097e984ac669a6f79428450603af73b9160ae",
+                      "size":  10944
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSText.es.txt",
-                      "sha256":  "4c2e79273f1ec88f07cc5600341a2bc8b3b57a287682e1d5e9aba11de328caac",
-                      "size":  11588
+                      "sha256":  "6608703ffa92cad95b1dd87b095978746a6f3ae383dc899a1bf7c922981407ff",
+                      "size":  11714
                   },
                   {
                       "path":  "Data/Interface/accept_box01.OZJ",
@@ -91650,8 +91650,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "02bfc10c3cacf889322ca980e4ad6dec9500944bea5b806560ee59607a489fe0",
-                      "size":  14569448
+                      "sha256":  "1b2a5a88d78381ba2255010a03bf666bd4997121daa0599be0a38c31f2d881a2",
+                      "size":  14577640
                   },
                   {
                       "path":  "msvcp140.dll",
@@ -91665,7 +91665,7 @@
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
-                      "sha256":  "dd9317cfb30ddd03de2302807551f9d29f0e4694c54862cbd7b6ff724d6b5f5a",
+                      "sha256":  "4e6547a4adaa73fe901e31d1e84b3ca98410703d3e3c49327f67959d82c79b1e",
                       "size":  2641896
                   },
                   {
@@ -100568,8 +100568,8 @@
                                        },
                                        {
                                            "path":  "Main.exe",
-                                           "sha256":  "dc104578865057f0cce0de97f139a917c93209e644aaed0a5eb7ce629763fb2e",
-                                           "size":  16647656
+                                           "sha256":  "51e923f708e9347dbb51d8333b23ea267936d3b087f47f3697a6c060a4344b2e",
+                                           "size":  16658408
                                        },
                                        {
                                            "path":  "msvcp140.dll",
@@ -100578,7 +100578,7 @@
                                        },
                                        {
                                            "path":  "MUnique.Client.Library.dll",
-                                           "sha256":  "94b8345dcf00f61bb7d4f9ccec8f19972c368c75c26ac0551ec25fb8098b45b0",
+                                           "sha256":  "4a7abd98f2bae37d15d87af9f60da0902f3d3ed48729e73ff264c50a15d41b83",
                                            "size":  3117544
                                        },
                                        {
@@ -100595,11 +100595,11 @@
                      }
                  ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/446f1abea5d2bf3bda1894cfcdfb6b783999359b0d9ac5270d40a4f007209d2b.zip",
-                     "sha256":  "446f1abea5d2bf3bda1894cfcdfb6b783999359b0d9ac5270d40a4f007209d2b",
-                     "size":  62182119,
+                     "url":  "https://files.mu-horizon.com/zips/784f485782ef6855fc6310efecaf176ef7e8fca042c14adb6cd1557a49f983aa.zip",
+                     "sha256":  "784f485782ef6855fc6310efecaf176ef7e8fca042c14adb6cd1557a49f983aa",
+                     "size":  7432501,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-20/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-21/client-patch.zip"
                               ]
                  }
 }
