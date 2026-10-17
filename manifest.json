@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  26,
+    "patch":  27,
     "minLauncherVersion":  "1.12.0",
-    "releasedAt":  "2026-10-17T05:35:00.1680825Z",
-    "notes":  "Upgrade patch 26",
+    "releasedAt":  "2026-10-17T22:09:21.5708325Z",
+    "notes":  "Upgrade patch 27",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/c13023c0063ab08ee373076f54efcf550d854632439ac73f0c9b239238735a8f.zip",
-                    "sha256":  "c13023c0063ab08ee373076f54efcf550d854632439ac73f0c9b239238735a8f",
-                    "size":  1586162775,
+                    "url":  "https://files.mu-horizon.com/zips/b0b6604a18b967376adbd5dbc6173ba178563ec893b935afe20c2fb31111f717.zip",
+                    "sha256":  "b0b6604a18b967376adbd5dbc6173ba178563ec893b935afe20c2fb31111f717",
+                    "size":  1586166434,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-26/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-27/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -18045,7 +18045,7 @@
                   },
                   {
                       "path":  "Data/Local/Eng/MoveReq_eng.bmd",
-                      "sha256":  "3e58a2a4ee3587785c532d9d229648168fa76ac33b633d4ace1a430daf2d8dc7",
+                      "sha256":  "1894a85e26663058a7c95e5a3a2e895f3435891988545ae9585146b2d8cd74a1",
                       "size":  4204
                   },
                   {
@@ -18745,7 +18745,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/MoveReq_por.bmd",
-                      "sha256":  "5c3ffaebd8302cf38968691131ff5eb4dc1cf0466e546b6acfb0ac683c83f527",
+                      "sha256":  "1cf0ecc84e0ad81dd3aa91daa44ab0c7ca34101d22cfb784b2a169d1f8f18e7a",
                       "size":  4204
                   },
                   {
@@ -19270,7 +19270,7 @@
                   },
                   {
                       "path":  "Data/Local/Spn/movereq_spn.bmd",
-                      "sha256":  "c09a7d0134f59f1fbd9b088c2ae6054f32a68485eaeff54cbdf91b91b88fc905",
+                      "sha256":  "8380c0c6ed0ba0dd5d35c535f64d45eaae87357d844413f684debee4dff67ba2",
                       "size":  4204
                   },
                   {
@@ -25120,8 +25120,8 @@
                   },
                   {
                       "path":  "Data/MonsterSpots.txt",
-                      "sha256":  "fedc5b88492531dbf0b533cfdc3a30547499552f21b778e9caae758fb8dee1c0",
-                      "size":  42449
+                      "sha256":  "1c0b704b7317369c1f3f914e4795384be7c42620a9aea2ef5cd31ad50b6872a3",
+                      "size":  43706
                   },
                   {
                       "path":  "Data/MonsterStyles.txt",
@@ -92075,8 +92075,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "fac5c24683c7ebb47318064ef5dba27871c435cfe75a087c27829cebe85b5b32",
-                      "size":  14819816
+                      "sha256":  "d82ee4995fdb716186dd473b5ae4ac641d066af4189fd93442fbb67f7a19121e",
+                      "size":  14834160
                   },
                   {
                       "path":  "msvcp140.dll",
@@ -92090,7 +92090,7 @@
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
-                      "sha256":  "e57131e649614125f652379375f32d274934b87238768f4b71b6ed8d9d3ab79b",
+                      "sha256":  "dd870f5426842dc4c77a9117fa2d768d17e21132a7e6f19c8ae229fedc5db18d",
                       "size":  2641896
                   },
                   {
@@ -100993,8 +100993,8 @@
                                        },
                                        {
                                            "path":  "Main.exe",
-                                           "sha256":  "df283cd1bab91a6463efecf1b51db3dc8ca8624e1cf460b171f1106ca5f7d845",
-                                           "size":  16930792
+                                           "sha256":  "6794315173200a78f05b87c65c64492313c1c274b6321c4f2fff5b6d16673b21",
+                                           "size":  16948200
                                        },
                                        {
                                            "path":  "msvcp140.dll",
@@ -101003,7 +101003,7 @@
                                        },
                                        {
                                            "path":  "MUnique.Client.Library.dll",
-                                           "sha256":  "6d287a4ec1689151e00ddfc7d7deec97dd0adc153f034acebd6db7484c46a881",
+                                           "sha256":  "ef914af70dcb0f9d148faafd28e4e3bef0be0ee5e2478bdfa13d5e4e5f6ff90a",
                                            "size":  3117544
                                        },
                                        {
@@ -101020,11 +101020,11 @@
                      }
                  ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/e7b2328070b3b8a5bdaf12c1bc3e5627797bab54f4ae9ece52e1895512122113.zip",
-                     "sha256":  "e7b2328070b3b8a5bdaf12c1bc3e5627797bab54f4ae9ece52e1895512122113",
-                     "size":  10377960,
+                     "url":  "https://files.mu-horizon.com/zips/2d53055df0e5a1234ea40d32eaadb71b2fca8d5d15bf423c60ad9efac702ba6b.zip",
+                     "sha256":  "2d53055df0e5a1234ea40d32eaadb71b2fca8d5d15bf423c60ad9efac702ba6b",
+                     "size":  7543445,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-26/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-27/client-patch.zip"
                               ]
                  }
 }
