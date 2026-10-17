@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  25,
+    "patch":  26,
     "minLauncherVersion":  "1.12.0",
-    "releasedAt":  "2026-10-16T20:20:37.1532391Z",
-    "notes":  "Upgrade patch 25",
+    "releasedAt":  "2026-10-17T05:35:00.1680825Z",
+    "notes":  "Upgrade patch 26",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/3ca1b43169de7620e69630d5ad74ae4619ac7681c253a86b627f43d8333b4579.zip",
-                    "sha256":  "3ca1b43169de7620e69630d5ad74ae4619ac7681c253a86b627f43d8333b4579",
-                    "size":  1583818719,
+                    "url":  "https://files.mu-horizon.com/zips/c13023c0063ab08ee373076f54efcf550d854632439ac73f0c9b239238735a8f.zip",
+                    "sha256":  "c13023c0063ab08ee373076f54efcf550d854632439ac73f0c9b239238735a8f",
+                    "size":  1586162775,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-25/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-26/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -809,24 +809,29 @@
                       "size":  15737
                   },
                   {
+                      "path":  "Data/Effect/hzfx_domain_boundary.OZJ",
+                      "sha256":  "de189c84e6a233be3c9df50a751c5d4032d897462d9f223571995759e94bb4c0",
+                      "size":  77962
+                  },
+                  {
                       "path":  "Data/Effect/hzfx_domain_expansion.bmd",
-                      "sha256":  "9bb8d16a054ce4b1702ee20d2de9eec64acc5f7dd70384c3950fbabed70e363d",
-                      "size":  21168
+                      "sha256":  "47900c0161bff5e293190d683b196881efa26c952e213115a514114116a9fa35",
+                      "size":  24432
                   },
                   {
                       "path":  "Data/Effect/hzfx_domain_expansion.OZJ",
-                      "sha256":  "e37bb69c632b2b6842682e015fb6c0d343283af96ab0abc751b15ebdd8d652a0",
-                      "size":  16148
+                      "sha256":  "5e05ff54f6990ba28f787ceac4c11bff1e1e587dae995f844e9693d9ce1c0a1d",
+                      "size":  8863
                   },
                   {
                       "path":  "Data/Effect/hzfx_domain_expansion_c.OZJ",
-                      "sha256":  "c674a0237428d9378bc59325e4979704dd59160fe76704b3ddbf181957eaaeab",
-                      "size":  7824
+                      "sha256":  "64812cf23ecd39e71ce52da2ff173f73d93ecd195047a87235b0a9d453f8a2cb",
+                      "size":  7818
                   },
                   {
                       "path":  "Data/Effect/hzfx_domain_expansion_s.OZJ",
-                      "sha256":  "ddafca52dee0bfce96fc21e517059c41f55a90106e59e3cdbafd2e27a354565f",
-                      "size":  15678
+                      "sha256":  "a8948c355910824d7aea1e72ff374ef95d7ec216d817e790f7c036d69d365d0b",
+                      "size":  18386
                   },
                   {
                       "path":  "Data/Effect/hzfx_dragon_blessing.bmd",
@@ -2415,13 +2420,13 @@
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSPackage.txt",
-                      "sha256":  "21f43405747d49d110032a96452feb5cc0179c458f9141d86e4a6f7f96f526c5",
-                      "size":  17652
+                      "sha256":  "060b56d04d107d96aa0e86d8d3c9d97ea122981223f23e3be49885f6f34f1f37",
+                      "size":  17653
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSProduct.txt",
-                      "sha256":  "dbcb174d2d92f9bcfd2bdf105aac79c052f07c70c6118f77c7850de4fa7fd93d",
-                      "size":  11677
+                      "sha256":  "a7bb42d272d305fb2ab5006f7b86821bceb67ff217e7db17ed289b0943ae7256",
+                      "size":  11678
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSText.es.txt",
@@ -9847,6 +9852,16 @@
                       "path":  "Data/Item/HolyAngelSword_R.ozj",
                       "sha256":  "8ab57779da6fcfbc72ab797e97059274a8d5791df2319a2b95522bae168b66f6",
                       "size":  12949
+                  },
+                  {
+                      "path":  "Data/Item/HorizonCatalyst/HorizonCatalyst.bmd",
+                      "sha256":  "601cd241d0baa5d9d0e2ec35053e8750039432778a181bab9465a7ccbba8b0f9",
+                      "size":  137266
+                  },
+                  {
+                      "path":  "Data/Item/HorizonCatalyst/hz_catalyst.OZJ",
+                      "sha256":  "589e2fdc4ee9ee279104891dfbb779630adcac60df697fcaa17c407164554c2a",
+                      "size":  412809
                   },
                   {
                       "path":  "Data/Item/horseshoe.bmd",
@@ -69090,8 +69105,8 @@
                   },
                   {
                       "path":  "Data/Skill/fenril_black.OZJ",
-                      "sha256":  "4d953990aace36f955eba970461dd26375635e378d2bd896be7ec7187ca16ce0",
-                      "size":  79306
+                      "sha256":  "b454e26dbc085678e08c469a985f0998679a5c5d39aa8f38cf149f2281d14d98",
+                      "size":  279069
                   },
                   {
                       "path":  "Data/Skill/fenril_blue.bmd",
@@ -69100,8 +69115,8 @@
                   },
                   {
                       "path":  "Data/Skill/fenril_blue.OZJ",
-                      "sha256":  "6d1cdc2153cb7b0bac0c7b79699078fd0720b2ccfe67c35466c7447c154b6086",
-                      "size":  96076
+                      "sha256":  "3e22241a3eaf276393dfdcdf7d5482f2d6976b2b0c97535cd8828f571bd25644",
+                      "size":  351465
                   },
                   {
                       "path":  "Data/Skill/fenril_blue01.OZJ",
@@ -69120,8 +69135,8 @@
                   },
                   {
                       "path":  "Data/Skill/fenril_red.OZJ",
-                      "sha256":  "312f72ced598fede8122047061d2fcb163d3b69c68534148d4f2f69e03b07b3c",
-                      "size":  99989
+                      "sha256":  "bf690d1c17c9a011c0fb4febcd24cd5abc2a3c42fd3afa2cf10e1241948aac4f",
+                      "size":  345046
                   },
                   {
                       "path":  "Data/Skill/fenril_stellar.bmd",
@@ -69130,8 +69145,8 @@
                   },
                   {
                       "path":  "Data/Skill/fenril02.OZJ",
-                      "sha256":  "30c0216bb4a0496b7decddf3a0c4323c6590a225b62049504e1738cee3f0c858",
-                      "size":  30224
+                      "sha256":  "c384314ee1f538b5898015d05e5674ce62449613cfda3a3d3e594095374ab369",
+                      "size":  102876
                   },
                   {
                       "path":  "Data/Skill/fenrir_aurora_crown.OZJ",
@@ -69140,13 +69155,13 @@
                   },
                   {
                       "path":  "Data/Skill/fenrir_aurora_fur.OZJ",
-                      "sha256":  "f08239415048e1f1025c3655a10c45b0eeddd1361cb4cfdd0662e9c9a68f03a1",
-                      "size":  8066
+                      "sha256":  "9a14ac25327b3ddf5b576986b62264bc75decfcb7d174ad9b2978a0e4a7c4c65",
+                      "size":  75162
                   },
                   {
                       "path":  "Data/Skill/fenrir_aurora_plate.OZJ",
-                      "sha256":  "24fdfbbc66e1d6511ab446c58e7df9f22abd6c16fe8cd40e95733843aa549c45",
-                      "size":  105631
+                      "sha256":  "5bf62bf7dc49cd52a0cb55409e23ac7a8eaa0493f3e49eecd5130307a83e9a34",
+                      "size":  310762
                   },
                   {
                       "path":  "Data/Skill/fenrir_stellar_crown.OZJ",
@@ -69155,13 +69170,13 @@
                   },
                   {
                       "path":  "Data/Skill/fenrir_stellar_fur.OZJ",
-                      "sha256":  "f95d0338c39bc6bca85e7fe76e5998e719f65c9b37d7c2fb316b1fa96536182d",
-                      "size":  7024
+                      "sha256":  "7e1d3a52321ca422c68a5282de8a066ad1ff1d87c6f69648dde5a3de392076d4",
+                      "size":  67096
                   },
                   {
                       "path":  "Data/Skill/fenrir_stellar_plate.OZJ",
-                      "sha256":  "e8c8148de0759e3ba5f94e63d4f81184407a4e91f8c5d7bcdcf7c5d899a91e6b",
-                      "size":  33694
+                      "sha256":  "5ef61e8bfc988a6c5fda9165690d8778ee679e492df15fff15208e242ebc1b81",
+                      "size":  344053
                   },
                   {
                       "path":  "Data/Skill/ffa1.OZJ",
@@ -69795,8 +69810,8 @@
                   },
                   {
                       "path":  "Data/Skill/panril_golden.OZJ",
-                      "sha256":  "1914a79a9bf7b1cc31f0965c9c1a16ad3532427d559e0fe19a4b4502a17db5c3",
-                      "size":  101587
+                      "sha256":  "5d7d74a0ac9d2ffaec6b79cef3179477c95053881ba83409aa122e2f0b8ca7b1",
+                      "size":  362047
                   },
                   {
                       "path":  "Data/Skill/panril_stellar.OZJ",
@@ -69810,8 +69825,8 @@
                   },
                   {
                       "path":  "Data/Skill/panril03.OZJ",
-                      "sha256":  "57f664146b631a9ad9e46ba259c8511264130e8ffc7441c1318c47d03d34b67b",
-                      "size":  31231
+                      "sha256":  "0829b432c1b550db5018efa330b3f6b5b49d3772801c609ba56270b2e155521a",
+                      "size":  98275
                   },
                   {
                       "path":  "Data/Skill/PantMale55.bmd",
@@ -92060,8 +92075,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "5334c7a2ab20a34246cbc804c38d93d58d439d232f68a9a592e807703f110427",
-                      "size":  14697968
+                      "sha256":  "fac5c24683c7ebb47318064ef5dba27871c435cfe75a087c27829cebe85b5b32",
+                      "size":  14819816
                   },
                   {
                       "path":  "msvcp140.dll",
@@ -92075,7 +92090,7 @@
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
-                      "sha256":  "84cc9b1f0c18095d179fe578665b07de21976671e1ccbd0cf3ce3cbfed91671e",
+                      "sha256":  "e57131e649614125f652379375f32d274934b87238768f4b71b6ed8d9d3ab79b",
                       "size":  2641896
                   },
                   {
@@ -100978,8 +100993,8 @@
                                        },
                                        {
                                            "path":  "Main.exe",
-                                           "sha256":  "f2941355ac3787249938a7562085bca5c94c5f889db8e5cfacd6414446efba62",
-                                           "size":  16801256
+                                           "sha256":  "df283cd1bab91a6463efecf1b51db3dc8ca8624e1cf460b171f1106ca5f7d845",
+                                           "size":  16930792
                                        },
                                        {
                                            "path":  "msvcp140.dll",
@@ -100988,7 +101003,7 @@
                                        },
                                        {
                                            "path":  "MUnique.Client.Library.dll",
-                                           "sha256":  "d955f546b95d23d841c53cdd8202a14deea2ec9c984ba892e2c02fb34ff4cb3d",
+                                           "sha256":  "6d287a4ec1689151e00ddfc7d7deec97dd0adc153f034acebd6db7484c46a881",
                                            "size":  3117544
                                        },
                                        {
@@ -101005,11 +101020,11 @@
                      }
                  ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/c6b83b6edcffe5363aaff0225222cc324e67ae0937a7159ecfc41ceaa7b51c56.zip",
-                     "sha256":  "c6b83b6edcffe5363aaff0225222cc324e67ae0937a7159ecfc41ceaa7b51c56",
-                     "size":  7476013,
+                     "url":  "https://files.mu-horizon.com/zips/e7b2328070b3b8a5bdaf12c1bc3e5627797bab54f4ae9ece52e1895512122113.zip",
+                     "sha256":  "e7b2328070b3b8a5bdaf12c1bc3e5627797bab54f4ae9ece52e1895512122113",
+                     "size":  10377960,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-25/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-26/client-patch.zip"
                               ]
                  }
 }
