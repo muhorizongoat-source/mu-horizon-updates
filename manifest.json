@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  29,
+    "patch":  30,
     "minLauncherVersion":  "1.12.0",
-    "releasedAt":  "2026-10-19T23:41:07.0350542Z",
-    "notes":  "Upgrade patch 29",
+    "releasedAt":  "2026-10-20T16:40:53.5795217Z",
+    "notes":  "Upgrade patch 30",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/9d312692d30089313f2bb7b95a2cc8273507fabfe013fc849276593101cffe10.zip",
-                    "sha256":  "9d312692d30089313f2bb7b95a2cc8273507fabfe013fc849276593101cffe10",
-                    "size":  1705439787,
+                    "url":  "https://files.mu-horizon.com/zips/b83ddea9805422049c4acb5d6a25f77c4a39b2a0d5eadbcea1634618df52ad63.zip",
+                    "sha256":  "b83ddea9805422049c4acb5d6a25f77c4a39b2a0d5eadbcea1634618df52ad63",
+                    "size":  1705580699,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-29/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-30/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -18140,8 +18140,8 @@
                   },
                   {
                       "path":  "Data/Local/Eng/QuestWords_eng.bmd",
-                      "sha256":  "7d33713a3aba0aaf904899139ce27eaa398c67c07ad57111cb9c9000d36bf6e6",
-                      "size":  466426
+                      "sha256":  "bb75e7dd85384b1ff22a062fd26813954d68b145aeec392f6e92c44f1c466213",
+                      "size":  477730
                   },
                   {
                       "path":  "Data/Local/Eng/SetItemType.txt",
@@ -18865,8 +18865,8 @@
                   },
                   {
                       "path":  "Data/Local/Por/QuestWords_por.bmd",
-                      "sha256":  "4b560f4faed2935efa4da18f62a583238d8133c67775d8c3a31d2a040b0ec5ef",
-                      "size":  482298
+                      "sha256":  "fd841e4a9cee806bde3bc3b66964e545c823b380870d2fe672c3319767d83e20",
+                      "size":  494752
                   },
                   {
                       "path":  "Data/Local/Por/SetItemType.txt",
@@ -18910,8 +18910,8 @@
                   },
                   {
                       "path":  "Data/Local/QuestWords.bmd",
-                      "sha256":  "1a04994968a8229068c39b0ec5b307956905de4498867d281654264d83a23dda",
-                      "size":  426862
+                      "sha256":  "baecd9015094a107a686e1c97aad8d1fc97633d79e9f4e3d6c81df91cad0e42a",
+                      "size":  439316
                   },
                   {
                       "path":  "Data/Local/ServerList.bmd",
@@ -19410,8 +19410,8 @@
                   },
                   {
                       "path":  "Data/Local/Spn/QuestWords_spn.bmd",
-                      "sha256":  "11158945ecd892e3cd0a9082e12070ef05ed02a095aa929bafa3621f112e3220",
-                      "size":  504776
+                      "sha256":  "0b7e5609dd60030b71ccd85357c91aafce2c615bff3d8dd564a600515f654aa0",
+                      "size":  517230
                   },
                   {
                       "path":  "Data/Local/Spn/SetItemType.txt",
@@ -81360,8 +81360,8 @@
                   },
                   {
                       "path":  "Data/Sound/voices/index.txt",
-                      "sha256":  "c6edf9ca997b67e14eddc7f34647fbdd1827519c9931342b90353b475400c0aa",
-                      "size":  168461
+                      "sha256":  "587fa5df6c5b4a78339ef575ebaf738f6dea1a4e06d8433b30ed4705fe952fa1",
+                      "size":  168488
                   },
                   {
                       "path":  "Data/Sound/voices/isabel_c03_ice_monster_dura.wav",
@@ -83965,13 +83965,13 @@
                   },
                   {
                       "path":  "Data/Sound/voices/seal_dungeon_q_c04_thunder_lich_remind.wav",
-                      "sha256":  "c3522893b95620b4ef8b8d179e132d769e53a6b49212effe4cb9dafd8d139362",
-                      "size":  291918
+                      "sha256":  "ecf75ff060e0c16954ae14adf508f4eaa8419bade7f7675895e139f0a6ba617e",
+                      "size":  276558
                   },
                   {
                       "path":  "Data/Sound/voices/seal_dungeon_q_c04_thunder_lich_remind_en.wav",
-                      "sha256":  "f19b56bb08ad6eaaf0dba4136f18cbdc8630c82bbe6e3bc1f34b435d10a58160",
-                      "size":  230478
+                      "sha256":  "3ce5463994a96692726933115f72614a574894c3399e34c58253db24acec8929",
+                      "size":  272718
                   },
                   {
                       "path":  "Data/Sound/voices/seal_dungeon_q_c04_thunder_lich_story.wav",
@@ -85005,13 +85005,13 @@
                   },
                   {
                       "path":  "Data/Sound/voices/seal_noria_q_c02_stone_golem_remind.wav",
-                      "sha256":  "49be47d80a93b8bfcdc1ffe42e6b93a0a282653c118ef9e6121342341a510daf",
-                      "size":  203598
+                      "sha256":  "bc940490cd71d30b4f27efd1a30c4a3d5c26fe26f836975855d33c5444aab94b",
+                      "size":  268878
                   },
                   {
                       "path":  "Data/Sound/voices/seal_noria_q_c02_stone_golem_remind_en.wav",
-                      "sha256":  "2248a9237d6fdacd85d72bceeab6d07d97a00a9342c93a5964258bf021f1ec18",
-                      "size":  192078
+                      "sha256":  "7c818b35af3fd74f65d4bcff493a812dc6aa2806fec22a56bfe9a3ec27a59fb3",
+                      "size":  238158
                   },
                   {
                       "path":  "Data/Sound/voices/seal_noria_story_c02confrontation01.wav",
@@ -98415,8 +98415,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "5f42fc7de185127bb0480f81cebbb6ad8da5a59ed32b807c5e8aec3020432b71",
-                      "size":  15198192
+                      "sha256":  "bb83a678b226330d7562bde315b2674887e0c6ee0511ff6c4359ff3cf5398520",
+                      "size":  15251432
                   },
                   {
                       "path":  "msvcp140.dll",
@@ -98430,7 +98430,7 @@
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
-                      "sha256":  "5df7a54105227a5e2c72197f18bce0d9320f4978fc7d3fcc65af940721bd3b5d",
+                      "sha256":  "a2a13677337f74ad33abc1c91c164a93333506d89558843e30d09ad71d1f0ad1",
                       "size":  2645480
                   },
                   {
@@ -107333,8 +107333,8 @@
                                        },
                                        {
                                            "path":  "Main.exe",
-                                           "sha256":  "41f6e73e309908772d8ee6374ac4ae2eb086c39b45c66d83473432225cb20762",
-                                           "size":  17372136
+                                           "sha256":  "22a29f22e188ee8aabfd2f8dc8eb13dc14d368eddd94261ede2e26c97509123d",
+                                           "size":  17428456
                                        },
                                        {
                                            "path":  "msvcp140.dll",
@@ -107343,7 +107343,7 @@
                                        },
                                        {
                                            "path":  "MUnique.Client.Library.dll",
-                                           "sha256":  "03bef5f0116dbd6e8dd95e2d11818c896c60af568a69d2da297db9112c8da4b4",
+                                           "sha256":  "c355de102d7f8b30ff9c66feb4fad4a33734e17498d4f08111f1bc0822ef91d7",
                                            "size":  3121640
                                        },
                                        {
@@ -107360,11 +107360,11 @@
                      }
                  ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/ad674c7c40829ad2eea5f14bbd586242b021afd14cd979aaa76904b5bd3162e5.zip",
-                     "sha256":  "ad674c7c40829ad2eea5f14bbd586242b021afd14cd979aaa76904b5bd3162e5",
-                     "size":  7672086,
+                     "url":  "https://files.mu-horizon.com/zips/ae2d85fac300647d992918b9cbb918c4b2f368840cfe12f9271e832cb1a14b92.zip",
+                     "sha256":  "ae2d85fac300647d992918b9cbb918c4b2f368840cfe12f9271e832cb1a14b92",
+                     "size":  9192496,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-29/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-30/client-patch.zip"
                               ]
                  }
 }
