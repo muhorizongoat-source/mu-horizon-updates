@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  30,
+    "patch":  31,
     "minLauncherVersion":  "1.12.0",
-    "releasedAt":  "2026-10-20T16:40:53.5795217Z",
-    "notes":  "Upgrade patch 30",
+    "releasedAt":  "2026-10-22T03:09:40.5599714Z",
+    "notes":  "Upgrade patch 31",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/b83ddea9805422049c4acb5d6a25f77c4a39b2a0d5eadbcea1634618df52ad63.zip",
-                    "sha256":  "b83ddea9805422049c4acb5d6a25f77c4a39b2a0d5eadbcea1634618df52ad63",
-                    "size":  1705580699,
+                    "url":  "https://files.mu-horizon.com/zips/d24dec6eb7dbaad63b84fad683aeb63668e395a06ff5dc56f2919617f5181e1b.zip",
+                    "sha256":  "d24dec6eb7dbaad63b84fad683aeb63668e395a06ff5dc56f2919617f5181e1b",
+                    "size":  1733740841,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-30/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-31/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -2324,6 +2324,356 @@
                       "size":  7168
                   },
                   {
+                      "path":  "Data/Guia/guide.pack",
+                      "sha256":  "c45010bba34f58ccdd859a602ae8a390bb83bd00c77dbcf5a51139871d852964",
+                      "size":  673450
+                  },
+                  {
+                      "path":  "Data/Guia/img/arena.OZJ",
+                      "sha256":  "5a831094ff8408aa21a659a2c0c171b9470197a2293639a0bcd509c0f0638b4a",
+                      "size":  44101
+                  },
+                  {
+                      "path":  "Data/Guia/img/arena-islas.OZJ",
+                      "sha256":  "762a83c32c827af8a23697521510ff166cdc924ff9996adbc350b30f9408008a",
+                      "size":  117364
+                  },
+                  {
+                      "path":  "Data/Guia/img/caceria.OZJ",
+                      "sha256":  "5bffb1b6ef5dcf0a9b71314ab741cd9bee1ee9ea2cbe0dc43ca943f5a0d0bbdf",
+                      "size":  50565
+                  },
+                  {
+                      "path":  "Data/Guia/img/calidad-y-tiers.OZJ",
+                      "sha256":  "ad3fc2e1a524556f4e833057f75a72942c9f7ba226624a70ea1f173a2feff26b",
+                      "size":  34741
+                  },
+                  {
+                      "path":  "Data/Guia/img/cambios-de-clase.OZJ",
+                      "sha256":  "a83a8f8328065c9b080bf0be68b2384246cd756f8aee0d97989e6ed9acb7a060",
+                      "size":  125117
+                  },
+                  {
+                      "path":  "Data/Guia/img/campana.OZJ",
+                      "sha256":  "5519682c8e71934ddb42dc9bcecf664994d3cf606300d41d6337ff9fa2df61e4",
+                      "size":  37788
+                  },
+                  {
+                      "path":  "Data/Guia/img/catalogo-unique.OZJ",
+                      "sha256":  "aa1ef6be9b0c99da04493e46ed5102fc404cc35889542599f625ab53ff44a0e5",
+                      "size":  42502
+                  },
+                  {
+                      "path":  "Data/Guia/img/comandos-y-teclas.OZJ",
+                      "sha256":  "e25c9def5f334c4e7997263059aff25adcb9779de8aab0f1749a582a57a657b1",
+                      "size":  114534
+                  },
+                  {
+                      "path":  "Data/Guia/img/comunidad.OZJ",
+                      "sha256":  "f1e762f4675f9c9e510f73521fd34b8e4878320039df047b178d11760d378857",
+                      "size":  46525
+                  },
+                  {
+                      "path":  "Data/Guia/img/equipo.OZJ",
+                      "sha256":  "aeb4a290ae7c46c242c3b53fd2eda7724fdf80beac911b302267d929ced7e1a9",
+                      "size":  38575
+                  },
+                  {
+                      "path":  "Data/Guia/img/equipo-15-y-bonus-de-set.OZJ",
+                      "sha256":  "ffd04a9a31dcea13f1faafa697ee4c5fdeeebe1d78842ea200cd639a112f3bc4",
+                      "size":  17324
+                  },
+                  {
+                      "path":  "Data/Guia/img/eventos.OZJ",
+                      "sha256":  "402294a620a9f1a6b97fb2a949d71ca160126f823c2923422997e4a47a7391a9",
+                      "size":  49804
+                  },
+                  {
+                      "path":  "Data/Guia/img/guias.OZJ",
+                      "sha256":  "1051769239ab8f0eca0a086578fb5dbb465dead380754889c7c0e4d385b0d0a1",
+                      "size":  41027
+                  },
+                  {
+                      "path":  "Data/Guia/img/inicio.OZJ",
+                      "sha256":  "85fe7cbd18d99ff5be0c49cc0723c5ee438c84fbcaceb2181701fc5d567a6a5a",
+                      "size":  39127
+                  },
+                  {
+                      "path":  "Data/Guia/img/invasiones.OZJ",
+                      "sha256":  "5fc00fcaa972359452e9695d50a6047dbe8841089757d8d503feb28ecb32bb91",
+                      "size":  108087
+                  },
+                  {
+                      "path":  "Data/Guia/img/items-unique.OZJ",
+                      "sha256":  "2b1c9b4c02d0be750b34ae1454dc216d17f010005c260d0e65ec90ffefae6fdf",
+                      "size":  16675
+                  },
+                  {
+                      "path":  "Data/Guia/img/jefes-de-mapa.OZJ",
+                      "sha256":  "0d402a17849ec5d60cfedccf1cc5d3bc2d4fbe3aba7d97a6ff21f6b0604f7795",
+                      "size":  98717
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-arena-islas-p1.OZJ",
+                      "sha256":  "4939a0fae19db279a81bc42f283957a51b0b1e9870a4a744a3fa750405ce5c1f",
+                      "size":  141600
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-arena-islas-p2.OZJ",
+                      "sha256":  "7a9d8830ba92b812a06cc66e71323668fa32c7df43ce171e1f4ae547b6788110",
+                      "size":  136583
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-blood-castle-l.OZJ",
+                      "sha256":  "e0484258d2a9398bbec8d8e7f623e02fdeab18eb2f3ebd69af829ff75c4e6281",
+                      "size":  255240
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-caballo-y-cuervo-dl-p1.OZJ",
+                      "sha256":  "0a4fa5b1b5f9fe70054a335fc5096bb8e4af2518bb1f2c3ec7c81227dea98d6a",
+                      "size":  132758
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-caballo-y-cuervo-dl-p2.OZJ",
+                      "sha256":  "855f5f6a6e10be2ed6311c55eadacf429611c36b123ae0d8364799b751035ff5",
+                      "size":  110950
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-cambios-de-clase-p1.OZJ",
+                      "sha256":  "5c440a2cab9e14723edb5022f169eb19a0e6d78aa77c6e2296ed76ae10fa79d6",
+                      "size":  135475
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-cambios-de-clase-p2.OZJ",
+                      "sha256":  "d18f0919ab737174aa7527a8238e1b51d83a53ae214da352bd1fdf1086bf9393",
+                      "size":  131370
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-campana-como-se-juega-p1.OZJ",
+                      "sha256":  "befd95064a3ba6f453c40cd7908e73634749c5153afcb14f8d8a99d60f356d2d",
+                      "size":  135558
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-campana-como-se-juega-p2.OZJ",
+                      "sha256":  "c7356faa54f597b5ba5f234a1107412f67ce856ab3d6198e8d3998637539d364",
+                      "size":  129186
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-castle-siege-l.OZJ",
+                      "sha256":  "55eb42d0ac16f543db5720b1c7a99d4755a79fff2de25caf0bf5e37c332499d5",
+                      "size":  276082
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-chaos-castle-l.OZJ",
+                      "sha256":  "836eb39bee539e6d4835bba59e71f64100b87ff81faeace0b50626043ba72645",
+                      "size":  269882
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-cherry-blossom-p1.OZJ",
+                      "sha256":  "495c36598afb6dbef8953ef1513c400242d6b89c9bf32f682d085f2fdb7e67ec",
+                      "size":  123163
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-cherry-blossom-p2.OZJ",
+                      "sha256":  "e7c7230cca9db7706ffaab33b69efed1891ee4cc066c99f47a3fbe634b273d69",
+                      "size":  119827
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-comandos-y-teclas-p1.OZJ",
+                      "sha256":  "fb48c4a6b1ba560140291c59fe5977bd061c2c562e477c676207b8799b6c09fb",
+                      "size":  126312
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-comandos-y-teclas-p2.OZJ",
+                      "sha256":  "4051554d2bbea483dfc6bfb71f02fea5988ad9900cb434bdb913251d3cebbefb",
+                      "size":  119800
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-combinaciones-chaos-p1.OZJ",
+                      "sha256":  "5497bf831091da06bf5c951df1e0058cedb0e96c6fbec43d094cd6d3f26ae0c4",
+                      "size":  141241
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-combinaciones-chaos-p2.OZJ",
+                      "sha256":  "051f89d693b0aecae9e66caeeed854c45d56485cf2535e4b4e8f42b4c9c5edac",
+                      "size":  146423
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-devil-square-l.OZJ",
+                      "sha256":  "971793801350f6a53226e488e784b5c4c1e2b05fdd3675010a01fa04e2b910a6",
+                      "size":  272285
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-enciclopedia-de-drops-l.OZJ",
+                      "sha256":  "f632acebe47753df0cacf9979bd2d51cb48a89dee4207995e3a3a3aee774026e",
+                      "size":  224907
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-eventos-custom-l.OZJ",
+                      "sha256":  "a57877c950fa7be2235cd47d21e1d32d82f4b2289192a162d9141dd9153f31af",
+                      "size":  269577
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-flag-ctrl-f-l.OZJ",
+                      "sha256":  "b401ba425dc24a39d6029ebc69e41161a67700ca12eb84ea95a78e1ac0902d67",
+                      "size":  265799
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-gaion-imperial-guardian-l.OZJ",
+                      "sha256":  "9565e3dbff71516cc848dd472bbf6457445d0a14afad1cb73f5335514c317c5c",
+                      "size":  255382
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-gens-p1.OZJ",
+                      "sha256":  "fc251357090b4add1f26b8ab44ed23fe9ba792036ff33c6fd197178a2f433e53",
+                      "size":  143445
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-gens-p2.OZJ",
+                      "sha256":  "39e86d98e79711971d972bfcab15a80bf149bd961a3316648dd42e2e807fbfb7",
+                      "size":  135881
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-harmony-y-guardian-p1.OZJ",
+                      "sha256":  "175e010a2b2819f05da4cfef87fae33914850d1c588c5d2f5175c01a59afd1cd",
+                      "size":  123425
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-harmony-y-guardian-p2.OZJ",
+                      "sha256":  "9f5a6326b8d9502cda15c20bccd95328f661719f86710387254f6d840c804e62",
+                      "size":  114733
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-hoja-de-ruta-p1.OZJ",
+                      "sha256":  "91a0d2402b22b02eadfe93d7b32419f00802271b50aa521e492c36f23384a919",
+                      "size":  142149
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-hoja-de-ruta-p2.OZJ",
+                      "sha256":  "555281fca755f73d6a2469f04a6276eeb8ec74d16f16650d6d8c6b2d47f23b43",
+                      "size":  129599
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-invasiones-p1.OZJ",
+                      "sha256":  "dff3a504e8f56c49804488ba538090385221b2abaffdde4838a18fc215f5128e",
+                      "size":  126419
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-invasiones-p2.OZJ",
+                      "sha256":  "7071bc5ad0b787c35754e76aadccdf9f4f168aed216a52b34e6ef5b7c3f4540e",
+                      "size":  128502
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-items-unique-p1.OZJ",
+                      "sha256":  "ad7a7a9f27cf94fe4fd949116bc366a6c54c928ecef41603a582c12ef04a5f53",
+                      "size":  120004
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-items-unique-p2.OZJ",
+                      "sha256":  "7776a194f7e3d09e0a0d213937017f3958dcafca45df17e380b7c1cc325af818",
+                      "size":  121822
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-jefes-de-mapa-p1.OZJ",
+                      "sha256":  "4e49a65487e12936a902b5f65cac244bd8e34108a3fed0878facf466d69efe77",
+                      "size":  139726
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-jefes-de-mapa-p2.OZJ",
+                      "sha256":  "00e90a26f217b3da596b464461aa06dc61a386dfa8962a162a87fb8f7e238975",
+                      "size":  135428
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-jewel-excellent-y-quality-p1.OZJ",
+                      "sha256":  "f2fee8ef25eb1adc77f670a4e844023a287e460a148b3f05af602cf2a2e11e79",
+                      "size":  122455
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-jewel-excellent-y-quality-p2.OZJ",
+                      "sha256":  "a061cfe4df0d8e4a487bff183ead46e2a66076aa2368559d9f179ff9b57676c2",
+                      "size":  110979
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-joyas-y-consumo-p1.OZJ",
+                      "sha256":  "3a2e5b874298226f77561f42678168b26e2c62fcff63da5278cc094da0891e0f",
+                      "size":  126885
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-joyas-y-consumo-p2.OZJ",
+                      "sha256":  "ad38ec8a185f2f6837a58dd35bb48ee44d4c3bf957b71062c4be7a0b28b15123",
+                      "size":  125795
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-joyeria-hasta-15-p1.OZJ",
+                      "sha256":  "eca2972783ef1e3b0c0915c0360f6f7eddef7518ccac6a29f6c40c8e1aeed7e0",
+                      "size":  132823
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-joyeria-hasta-15-p2.OZJ",
+                      "sha256":  "69aedba0354d791211ce039b1e489d1590ed555f4a33526eaf9c97860e1f0670",
+                      "size":  126512
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-kundun-y-drops-p1.OZJ",
+                      "sha256":  "5112d46243b9c1811576fc36b93258aacc051f7a8ae7e2c92b5730789fdcdcfb",
+                      "size":  132820
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-kundun-y-drops-p2.OZJ",
+                      "sha256":  "c053e237adead1905b1254427fabe22c7b6ed7f9296bda8cf3009f605d324b0c",
+                      "size":  133720
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-leveo-drops-y-vip-p1.OZJ",
+                      "sha256":  "20afa3dddde08302e836179479d7eaaf36cf42d23cee90a316290188886809be",
+                      "size":  129620
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-leveo-drops-y-vip-p2.OZJ",
+                      "sha256":  "b998b6ca5dfeb3fbcefdd126e6ae41836c2ceebaeefb61e562bf94a87b4e0228",
+                      "size":  108232
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-muro-social-l.OZJ",
+                      "sha256":  "12f1922d01e0964c3d3797b8317c20654c58398ba47028c2e32191d5530cc1a3",
+                      "size":  215942
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-pase-de-temporada-p1.OZJ",
+                      "sha256":  "ba8cf6eafe1cd26b6afb784ff65cc5038374529de34449414977e982345b013f",
+                      "size":  131767
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-pase-de-temporada-p2.OZJ",
+                      "sha256":  "4a7eb1cd1d66d9fe465b0b88c42145e9ce219b09447ca493b647c8d73d82b017",
+                      "size":  117597
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-vip-p1.OZJ",
+                      "sha256":  "0ab1ff5ab58d3e79f5ac431cbb72318863637f1449ae5836fa92e220f4f9e3eb",
+                      "size":  122202
+                  },
+                  {
+                      "path":  "Data/Guia/img/lamina-vip-p2.OZJ",
+                      "sha256":  "c6e1860e9c4c0898d5e431db8e2a0f812a19d4b1fd5f7aff4f8f47709878d920",
+                      "size":  119232
+                  },
+                  {
+                      "path":  "Data/Guia/img/novedades.OZJ",
+                      "sha256":  "f09bfd44452d8fea1d43bf32cd1480e664688a0eb32c7e6ac2fbb195006899f9",
+                      "size":  44465
+                  },
+                  {
+                      "path":  "Data/Guia/img/poderes-de-clase.OZJ",
+                      "sha256":  "eb094fb878535c3f94cf0b2e1574af2f159144b57e619fe8f67c4b273db641e4",
+                      "size":  117941
+                  },
+                  {
+                      "path":  "Data/Guia/img/progresion.OZJ",
+                      "sha256":  "d6f5bda2dd3ada0521dd7faef44d5804429652085bc885ba5074bc7411889b67",
+                      "size":  51304
+                  },
+                  {
                       "path":  "Data/InGameShopBanner/583.2010.005/20101229SPEZDV8MJ7QMLGDE.jpg",
                       "sha256":  "13da11514aea2625d79dfa7a67fa34f18ee72afd507ff717fa43dc24199febf6",
                       "size":  22034
@@ -2420,18 +2770,18 @@
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSPackage.txt",
-                      "sha256":  "4b60e2013d740b06f3586909eefc340939091e71646a1e1dc50693415878f669",
-                      "size":  18051
+                      "sha256":  "a4fc6117e3ab209d85980d406d95c020899090fd11cd3e04b7b2c650c7220f49",
+                      "size":  18608
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSProduct.txt",
-                      "sha256":  "1e9bf69e91bcde006a63387de78fdd04d2ff05e917a1815b323d6e2073aa76d1",
-                      "size":  13288
+                      "sha256":  "a0169e185f0e86063d8e2ac3161ab26fefe747447703339608f62bbb3d489542",
+                      "size":  13465
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSText.es.txt",
-                      "sha256":  "4b935213e5281d071cfb9c8aec45b9076c3f4f7da028b94ce115b8a45861d22e",
-                      "size":  14547
+                      "sha256":  "8148045b1fef1f5df1984ad712d0de4e72cb1fed16806d467e14f28a3a293624",
+                      "size":  15002
                   },
                   {
                       "path":  "Data/Interface/accept_box01.OZJ",
@@ -17875,7 +18225,7 @@
                   },
                   {
                       "path":  "Data/Local/Eng/item_eng.bmd",
-                      "sha256":  "3cdd41049824c69860726ad3d4aa85d5d6334f9b31d6fcd895e4cf4e65512bad",
+                      "sha256":  "4393b9a5c1bc6767138724eb8441ddc88601ce7b343f87970e4ee6eb3f70a72b",
                       "size":  851972
                   },
                   {
@@ -17940,62 +18290,67 @@
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World1_eng.bmd",
-                      "sha256":  "bce8c01bbcd11556e3ec80512cf447521cd01fa65dff1d5fb0fdeea12521d29c",
+                      "sha256":  "48cdeb62398c7e3dd0b12a59b8ff8a300ab3c8c9e7ccf6d92c449e68e43f36b6",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World11_eng.bmd",
-                      "sha256":  "92fd95fafe42ab685b0eb2cba80cb9d3a21c35f6ad5f86d2ff6164251b2afcf6",
+                      "sha256":  "65c98e2b7cc6310df86938118793e3aa9fbd369967d550db28cfcf79fbb11d12",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World2_eng.bmd",
-                      "sha256":  "766aa8442d627690a3a54a281cff5f00f470fceeec119eca49b087faa4f54e70",
+                      "sha256":  "fdc5e3487eb338df55385a1cb911da654ca5c0e43312e79562f76edb6b504664",
+                      "size":  11649
+                  },
+                  {
+                      "path":  "Data/Local/Eng/Minimap/Minimap_World25_eng.bmd",
+                      "sha256":  "f9036cc8e732ebeeff7a205e7c61588cc768a7bd43cc18ed51f84faec684daa4",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World3_eng.bmd",
-                      "sha256":  "4f352f74d067ee7e63abff4a8e2e6e47f60bed61db5be51b33af897e199ee540",
+                      "sha256":  "198fc89d8f0487ba064c14802e7c68e183db4a733a526234215a5392ee4b0312",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World32_eng.bmd",
-                      "sha256":  "90bd7f8b564bde460bf2eba230730aa529df00f512f2b0b9e41fdf64099938b1",
+                      "sha256":  "0521e84945e21bd3ddbf3f7bf8f9b11b066aee5bb94aa91edf7212d8424d3053",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World34_eng.bmd",
-                      "sha256":  "543a119c86891b57a36c3d64c5a2f68f218efcd204da908a38b87cb4a7166334",
+                      "sha256":  "21cb967dea8d23cc46c9e116a381f12076b7b2d750255462e50e3c0bba942a39",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World35_eng.bmd",
-                      "sha256":  "b20cd63da7853fa8dda8c761bfa347d943e761e7cfb561434f1ed347be254a53",
+                      "sha256":  "ffe1988e9a9188a213a6ef5ac29ceb18249acb42392df03ab2a2712fa70d91a6",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World38_eng.bmd",
-                      "sha256":  "65bf1823a8522edb6ace8e2dc24e97ccc89003472eafcb4fe42423c83dfe2ed3",
+                      "sha256":  "5e6a4bdfd04d7497de165901b77f0347abd7ff4417f771aa8b9aa8cf705bf197",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World39_eng.bmd",
-                      "sha256":  "8cec832f6cfb36e7fc9eced05df90725855d14f54e07b1b607996e8916851cf7",
+                      "sha256":  "e05defde641b6d608c7ee431fc5695a38fa33fc20d3ee60d893def616e8d1918",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World4_eng.bmd",
-                      "sha256":  "015deb8b9cd2101b5478e384489c9c89356b2982c308b741783386fc95888c2b",
+                      "sha256":  "82408160dbc04e3aeb81d31cfb4c1a6ff42a230b54772b6addc18ddee2887a1c",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World42_eng.bmd",
-                      "sha256":  "edd8b1bf8204c7227bf787d81929c4037f6b5e73ad6a8bd410ba9781ca6ff1cf",
+                      "sha256":  "cf31f041aee32982336e709656def0df3a1e6e1339d7d763f2c968ab322b667a",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World5_eng.bmd",
-                      "sha256":  "7fc16ecc1a8b58717005ebdf0a89ed6d43c19bcd6fbc24530a53acf74b6b1bb4",
+                      "sha256":  "e743fffc64856fe199fc3677f7f8fc1dda8abd344cf0e5f974e4a21bfe746d9d",
                       "size":  11649
                   },
                   {
@@ -18005,17 +18360,17 @@
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World57_eng.bmd",
-                      "sha256":  "338ccfe1e36c4034e744899f18d93f371219468a59c4ce2ca037d4b3badb05f6",
+                      "sha256":  "e7048c010caed127407a6d8f360f767ebd1c31da942af4d1110a8e24ba95d37b",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World58_eng.bmd",
-                      "sha256":  "de3e18f8bb209be3f0cb0903d42c67bc8c88bd5c289fcc1989592a654633073b",
+                      "sha256":  "38936de4656d0c8d137b4080a4ea135735983a08f8627a90ccb09abb6e5aa3e7",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World64_eng.bmd",
-                      "sha256":  "31dd582664a3d158cbcbb5f8640052257d7a8233032c0be68698fe9afd5e3a52",
+                      "sha256":  "516a8edf19cb2ad3144db464a704f9e7748ad73eab2b3b2e196f9ce7582a2b42",
                       "size":  11649
                   },
                   {
@@ -18025,12 +18380,12 @@
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World8_eng.bmd",
-                      "sha256":  "16a6a43d6820357782339de278e585c0853d3354671615b0486d002812f3b52d",
+                      "sha256":  "a6c128fa03b9c352da31ba8067b609de2ae1a3de952072c188dcd24b0bd5907a",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World81_eng.bmd",
-                      "sha256":  "7da16fd88582df20202154ef2d88e0ae3670e6057ea11fb9520f00d1463be83b",
+                      "sha256":  "746de2b15601a91256048a47aef6a8b579ab2c85f2c642b6545c49d3cbf68e84",
                       "size":  11649
                   },
                   {
@@ -18075,7 +18430,7 @@
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World9_eng.bmd",
-                      "sha256":  "78eb8e33736a3f5534a0e72d97f883708e91a252cce24ffc29f818dc17ee0c3e",
+                      "sha256":  "8ca6284534d2c84528525ee7917e9f5f01dc4b141587ae974f444ff7c4355007",
                       "size":  11649
                   },
                   {
@@ -18140,8 +18495,8 @@
                   },
                   {
                       "path":  "Data/Local/Eng/QuestWords_eng.bmd",
-                      "sha256":  "bb75e7dd85384b1ff22a062fd26813954d68b145aeec392f6e92c44f1c466213",
-                      "size":  477730
+                      "sha256":  "5297b72b6bb6166f80e9125b29eacd625348f4658c540ff2f7937bb893709ea1",
+                      "size":  480057
                   },
                   {
                       "path":  "Data/Local/Eng/SetItemType.txt",
@@ -18525,7 +18880,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/item_por.bmd",
-                      "sha256":  "7eeeec72edee9a9d772c37ad17316e47c2442a05de3996c9ae82d98a485904bc",
+                      "sha256":  "bd16c7a9f69909f21f16ac01f8eb00564d5905e1cc1dc58454577fdbed0ad4fc",
                       "size":  851972
                   },
                   {
@@ -18580,7 +18935,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World1_por.bmd",
-                      "sha256":  "b998e07dec671ab6745b9f7655c7ab4c295d9c8079ac04faac623c3316440024",
+                      "sha256":  "402504c43277492099c676d3827488c7a4fea2888d66e6a015133f82d68ddbd5",
                       "size":  11649
                   },
                   {
@@ -18590,7 +18945,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World11_por.bmd",
-                      "sha256":  "6e79a31f025aa5fd5517bccde163416f3be7b9cabe10d8719844ce6190b3b9b6",
+                      "sha256":  "1d21f133b9d3994834f489b9fcecf8df89cbde445dbe8da30e203890af63bd4e",
                       "size":  11649
                   },
                   {
@@ -18600,7 +18955,12 @@
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World2_por.bmd",
-                      "sha256":  "5eb78d8e24959d0d0ea1857cb18c466aff983adae6b7d23c8ed962216f4feeda",
+                      "sha256":  "c3f82613c8ea0eb4e9b6f1f08ccfc7114ba959df5e1d261ffbf03143fbe360d4",
+                      "size":  11649
+                  },
+                  {
+                      "path":  "Data/Local/Por/Minimap/Minimap_World25_por.bmd",
+                      "sha256":  "f9036cc8e732ebeeff7a205e7c61588cc768a7bd43cc18ed51f84faec684daa4",
                       "size":  11649
                   },
                   {
@@ -18610,7 +18970,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World3_por.bmd",
-                      "sha256":  "96b922814247cf0415afc4cdbc175e3136bda816f3df6c07bc3df7a1af52ebf6",
+                      "sha256":  "1c2c7a6e9a955ebe9b9e8d4776768e984d7fcc3f7dccc55e3815f032fe55291a",
                       "size":  11649
                   },
                   {
@@ -18620,7 +18980,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World32_por.bmd",
-                      "sha256":  "2fe1471c458280c0aee056c49343ab5216d7fe9dbffd9006ef67b90394eac823",
+                      "sha256":  "b38c378e3d3afe6b236cd951803daacf695b503bd6e2672bf2d912c40a1e07c3",
                       "size":  11649
                   },
                   {
@@ -18630,7 +18990,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World34_por.bmd",
-                      "sha256":  "81c7919b527956e80b2de95ee3368edd4e34a375bad62966cd7244fd488d772d",
+                      "sha256":  "37fa1034d8c8d7738fe2f77bf1cff8fd8d4922230896009bc1dde0d2a3f58cc7",
                       "size":  11649
                   },
                   {
@@ -18640,7 +19000,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World35_por.bmd",
-                      "sha256":  "4713b2b5b06ba056ef1106f57fb7acb9a7b5a20547a3f9515e8d98e7170df2f1",
+                      "sha256":  "97889e799c2a4310b0a226692ea0300a37e48c939ff239f2e8023a28d78b6dd1",
                       "size":  11649
                   },
                   {
@@ -18650,7 +19010,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World38_por.bmd",
-                      "sha256":  "ce1fb97da67c184daa7ea4afd5b3829c0db5722ebaaecfe8dd46c83caafccdbd",
+                      "sha256":  "8004a1f85e9571bf7432c462504b04d5b0d2f30b1d2572c00507c2383a383b3c",
                       "size":  11649
                   },
                   {
@@ -18660,7 +19020,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World39_por.bmd",
-                      "sha256":  "88c6e052c21e5d08bdfe78f95559600962280ee5f923df2602c01f6fcbcfe1e7",
+                      "sha256":  "dae5e19b536b0f4f4e18c438c24532a991c45d35c6300d33f0e4f673d9bd473f",
                       "size":  11649
                   },
                   {
@@ -18670,7 +19030,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World4_por.bmd",
-                      "sha256":  "66aa1f9b0740c71cc38698fb73b347428d5eeda6f78d1c44399e02290fd298c7",
+                      "sha256":  "733500fb48792c0364a1276ac62a4e2ec812c937a38ba891bf3c53f3788b0a8c",
                       "size":  11649
                   },
                   {
@@ -18680,7 +19040,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World42_por.bmd",
-                      "sha256":  "4bc6e3f08269845fc6e4fee5d779f21bf3c782eb0d231aaacf8abe56a5ddef5b",
+                      "sha256":  "8cc180d0befac70605bbd75c0458be5854e6aa3bc15b0a6c18029a34f43e607d",
                       "size":  11649
                   },
                   {
@@ -18690,7 +19050,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World5_por.bmd",
-                      "sha256":  "89f5048eb76afa6c048d21af79f95003d26dc7d77cda61f5ee0cad5f9a6ea0b4",
+                      "sha256":  "566ae86f92d5ef47965432f7655de7d50ada55874689f5ae7dc8faeb4c732b3d",
                       "size":  11649
                   },
                   {
@@ -18710,7 +19070,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World57_por.bmd",
-                      "sha256":  "cc0d254bf7c266cdbf8d63e7ffefdac4a7d7fd07b4b7de7efb8a4fe78d7526fd",
+                      "sha256":  "592cf6ca704006e5e63e1fd7b07dcb4d05bbd8e3c2185d97f4d232aea2f226ea",
                       "size":  11649
                   },
                   {
@@ -18720,7 +19080,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World58_por.bmd",
-                      "sha256":  "281f1efd51e728c7fe2646629408dea3966bab47225248e12e69db355e47ab00",
+                      "sha256":  "e5d7581ea8928b758f802be818a27ae561fce7c96bb70968d3e46e8134da0408",
                       "size":  11649
                   },
                   {
@@ -18730,7 +19090,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World64_por.bmd",
-                      "sha256":  "f5ae153e73d03578b4d969d1d73396139a70f784871ca9ef1fc459a17253ea76",
+                      "sha256":  "3c490805bd5d7a5725716a31e20b500a72e4802f29e8a693b7c0754cb2c962d2",
                       "size":  11649
                   },
                   {
@@ -18745,12 +19105,12 @@
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World8_por.bmd",
-                      "sha256":  "cdfe8cd6daa340284271037035ec3bfed4f57fb349e95a6d116c6cc6f9bab628",
+                      "sha256":  "354a4960fe7a5acbd44df619a704cd1204975fd01d33cb96b4c21ef155ad7637",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World81_por.bmd",
-                      "sha256":  "c0e3d2d6cc1ab164011faed0960ee913ba2dfd15c7ef77b933d25eef6c5e7be4",
+                      "sha256":  "bbb5b07af1d8105f8abee2098aa37e749e70108da1c8c3683a1966f15e236d2a",
                       "size":  11649
                   },
                   {
@@ -18800,7 +19160,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World9_por.bmd",
-                      "sha256":  "22d810cf6676b73af52b0f32a5ddb5408930e3ff6d338aa78814cbb3e70411f8",
+                      "sha256":  "ae11b15c5bcdd1e5817e8ef233b04c84c2d30cb9521bf795d0c70fe4d973abaa",
                       "size":  11649
                   },
                   {
@@ -18865,8 +19225,8 @@
                   },
                   {
                       "path":  "Data/Local/Por/QuestWords_por.bmd",
-                      "sha256":  "fd841e4a9cee806bde3bc3b66964e545c823b380870d2fe672c3319767d83e20",
-                      "size":  494752
+                      "sha256":  "03a020d0317d87c1d457ba05ede5d903726ea31fe930920d129678c64b3cae03",
+                      "size":  495674
                   },
                   {
                       "path":  "Data/Local/Por/SetItemType.txt",
@@ -18910,8 +19270,8 @@
                   },
                   {
                       "path":  "Data/Local/QuestWords.bmd",
-                      "sha256":  "baecd9015094a107a686e1c97aad8d1fc97633d79e9f4e3d6c81df91cad0e42a",
-                      "size":  439316
+                      "sha256":  "b41598f85672e0996132e87e6da1c4c406f5c790ef542e16212241546b000e94",
+                      "size":  440238
                   },
                   {
                       "path":  "Data/Local/ServerList.bmd",
@@ -19150,7 +19510,7 @@
                   },
                   {
                       "path":  "Data/Local/Spn/item_spn.bmd",
-                      "sha256":  "d9d4876ad47c78a5b647eec735f65a270b5b00379c38aa60983bbbd4a8948858",
+                      "sha256":  "2f0dc3ef499102b81316166d460a3c03636017a2193f857bedff35bb89c5e960",
                       "size":  851972
                   },
                   {
@@ -19210,62 +19570,67 @@
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World1_spn.bmd",
-                      "sha256":  "aef5cd1654fc64a33fa6bca8b4f05b53a309fe8d4ee1a782eca739e4ce6034ae",
+                      "sha256":  "d498be1df3b7f6143fa5c5e0571a9e2d12c64f8d0f1120d06481d64ef8ec2a6f",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World11_spn.bmd",
-                      "sha256":  "2c9289e1dc66678f6ecfd47aa15d9c53b3bda5083960a7823a8556a762752d24",
+                      "sha256":  "9fdd1ff5051a54d4e8a6e3b30030df589c7cde87f4b77ff383635f39d9490369",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World2_spn.bmd",
-                      "sha256":  "9565607e5c014766ac5f9c131272f6c0098680418d7abeb194c1c189e153fafd",
+                      "sha256":  "f4d6df1b85cb16031d69e0bc46fef12a9b8fdd94bb81855af7b744d91ca10d7a",
+                      "size":  11649
+                  },
+                  {
+                      "path":  "Data/Local/Spn/Minimap/Minimap_World25_spn.bmd",
+                      "sha256":  "f9b1ba8c5b4a46f952ea5af881cfe247635fdb0e9f1674ee7e7d2ea28301b643",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World3_spn.bmd",
-                      "sha256":  "40b078e0e63df168db27889d13909f41dc06812d8d72b5076bf097bcf747855d",
+                      "sha256":  "30ec382531317a02de8521d920e356b670df2051fa8ef6439bd8e0f661ee3307",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World32_spn.bmd",
-                      "sha256":  "72a4063d38384825b22cc196bf501e746b0922200a9ba18e4c50af200b552181",
+                      "sha256":  "4c43578aede418575911f2c44ca2535205233a7ce5c497c5336e1605380f5278",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World34_spn.bmd",
-                      "sha256":  "6373ffa2cf51dfc264bb00e9544f650c7bf111618981144222489a113392bedd",
+                      "sha256":  "a3ad2e836994d1f983bd2440d82ba52bd09b3ad8f799f142c92b955d7db0bf50",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World35_spn.bmd",
-                      "sha256":  "c60a76592a10ac4bf8c6167384a4505dfb028b1656495c901215243f325e2e3a",
+                      "sha256":  "bfe1667ed27ba5cfbe12af787819b0e83349fc7265d11b0fe86b7ea7b22f318d",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World38_spn.bmd",
-                      "sha256":  "06deb592163f7db418d3704b65ba6ae3bfc78e124ede7abbee06d630b6091663",
+                      "sha256":  "d8c130eaff12095dbb8cbc51511c971933a2be9a696627e5fa551d215f5f79e8",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World39_spn.bmd",
-                      "sha256":  "efe454cd9d0d035756f0fe0e7d98af75b912364897b2432347ba2a44ad97e43b",
+                      "sha256":  "6c863e7d96c2853c80bbcf61ec7038a6f41851e2afa20019339d61994ef9025a",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World4_spn.bmd",
-                      "sha256":  "3b7ac6cb4681c443c5682162a6ecd49ddd5963b99ed03cb93f0b62d45f69157b",
+                      "sha256":  "d8823712c4f912d88fc32be4bd5c05864f59bba14c6f103635f558bfc9d3be34",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World42_spn.bmd",
-                      "sha256":  "1a17eb491c46a0a3eb7934670044622124d53716577bda602fe0a77d0ff3b25a",
+                      "sha256":  "e70ee7a668432fd16d45e28b70143f38f351cf24caaacbb15a04d5e36382b905",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World5_spn.bmd",
-                      "sha256":  "0dd53c3a40aab7e4da3da4974860c14784d75b3101d7afcb730c979d990b439e",
+                      "sha256":  "56b933e412c780e99ec9e20d288326adb6d6747d93b0c7b7e711f8d5c79ad4df",
                       "size":  11649
                   },
                   {
@@ -19275,17 +19640,17 @@
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World57_spn.bmd",
-                      "sha256":  "2ec706d637541344e8866bba1e84db7cdd996f1e8db674ac79a902cf0b339742",
+                      "sha256":  "c7c98be7b1466d7566bf0c6ab2404fae9d3fb81fb284149ac3b61ff51553cfb0",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World58_spn.bmd",
-                      "sha256":  "81a38be4b3380fb7d8a838ab6bc2dbb7d6297b4c5297c6dbb2f78fbe05465efb",
+                      "sha256":  "7799ef818255dde2bb4dec96feeb546828385c11c5ff159a361fa06864ef3c11",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World64_spn.bmd",
-                      "sha256":  "982b8ea3747166cac091abfd3b4cc71a7cd3e5fd2a54ee5bfe33005a95340fb8",
+                      "sha256":  "dad03cf3c97066d458996b70fe7b546297e7cafc0e0e0ec92c532b460b588a1a",
                       "size":  11649
                   },
                   {
@@ -19295,12 +19660,12 @@
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World8_spn.bmd",
-                      "sha256":  "1b5d8ee60d05d9c1472883569739a1df8e5333473c28c0da750db377fd2796f5",
+                      "sha256":  "f20fbbcf4fe3748df214ee3afe63c9f5b463c3303e79b19edec2475ece60ef40",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World81_spn.bmd",
-                      "sha256":  "715937325dcb6f08658428fa4e4cbd7299a860ff9d1b940fe8e057823f9ce75a",
+                      "sha256":  "541bbbcc233edcb8fc2c0663cef9ac8b913db142b6cc34077a61175d8cf7dfb9",
                       "size":  11649
                   },
                   {
@@ -19345,7 +19710,7 @@
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World9_spn.bmd",
-                      "sha256":  "ea80a19eb9da0851e1e40e9a77cb1a148cf4347ac8a8f94086e850cb1bf31958",
+                      "sha256":  "b529de6ccf5ae9a09e8476b092f596645ce6ae569d44b73a715a91a2a2e74f7c",
                       "size":  11649
                   },
                   {
@@ -19410,8 +19775,8 @@
                   },
                   {
                       "path":  "Data/Local/Spn/QuestWords_spn.bmd",
-                      "sha256":  "0b7e5609dd60030b71ccd85357c91aafce2c615bff3d8dd564a600515f654aa0",
-                      "size":  517230
+                      "sha256":  "dcb15dc90f79957b9c02eb4a1e873eed2c4533df2271640080787fba22932190",
+                      "size":  518152
                   },
                   {
                       "path":  "Data/Local/Spn/SetItemType.txt",
@@ -71354,6 +71719,11 @@
                       "size":  4044
                   },
                   {
+                      "path":  "Data/QuestSpots.txt",
+                      "sha256":  "1891b59d96164c077b0af67da9b9383147499d56856ff1eeb0a098190a9ec5a6",
+                      "size":  57533
+                  },
+                  {
                       "path":  "Data/Skill/2line_gost.OZJ",
                       "sha256":  "212ef2d058a636e2bb04f943686ce6c6b31b45ae7e47567bfdf580d401a9f4d0",
                       "size":  19361
@@ -72049,6 +72419,11 @@
                       "size":  380108
                   },
                   {
+                      "path":  "Data/Skill/fenril_universal.bmd",
+                      "sha256":  "32d6fba64b414081c39e99ac98ba7e64a99a99de379ec6d6e42c5b9c3b5c08f7",
+                      "size":  499888
+                  },
+                  {
                       "path":  "Data/Skill/fenril02.OZJ",
                       "sha256":  "c384314ee1f538b5898015d05e5674ce62449613cfda3a3d3e594095374ab369",
                       "size":  102876
@@ -72082,6 +72457,21 @@
                       "path":  "Data/Skill/fenrir_stellar_plate.OZJ",
                       "sha256":  "5ef61e8bfc988a6c5fda9165690d8778ee679e492df15fff15208e242ebc1b81",
                       "size":  344053
+                  },
+                  {
+                      "path":  "Data/Skill/fenrir_universal_crown.OZJ",
+                      "sha256":  "959e179f1e9f899fd108aa6ac34ea4c4db300635624e1a796171ec8d082573ef",
+                      "size":  157056
+                  },
+                  {
+                      "path":  "Data/Skill/fenrir_universal_fur.OZJ",
+                      "sha256":  "8a6bc05cc9c0067c78b51ce6b60ca09945ac722b659f7e7741e22faebe8f11af",
+                      "size":  177863
+                  },
+                  {
+                      "path":  "Data/Skill/fenrir_universal_plate.OZJ",
+                      "sha256":  "4f28b288b2cd2af53643fb1e54e6a4cc3e68280c8fd4163b6608ba9063e57344",
+                      "size":  519439
                   },
                   {
                       "path":  "Data/Skill/ffa1.OZJ",
@@ -76479,6 +76869,36 @@
                       "size":  303438
                   },
                   {
+                      "path":  "Data/Sound/voices/amy_c05_shadow.wav",
+                      "sha256":  "cae959bfe8dcad26ac8bc9932c3ff4c9db4a2c18f200db04ecc7b91a043ad38e",
+                      "size":  253518
+                  },
+                  {
+                      "path":  "Data/Sound/voices/amy_c05_shadow_en.wav",
+                      "sha256":  "d1bd2a6c3cbc988a9f9aee755ab325e8a353c8ab72422c934993881e0b124a9b",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/amy_c07_bloody_wolf_dura.wav",
+                      "sha256":  "3f30e30f04cfb39094c32672d31ff59e52953111bdb30a4f83fe7333792d0bf6",
+                      "size":  249678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/amy_c07_bloody_wolf_dura_en.wav",
+                      "sha256":  "5d861f8531ef57ca7b4b41cb6ef6a862bfa5ba0096b9e2bd9aa57235727458d2",
+                      "size":  234318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/amy_c17_iron_rider_dura.wav",
+                      "sha256":  "86418a9d38ef6c462e54d5dcd63dc4c42f4f2230b199e64aa8805c49ebf55ef4",
+                      "size":  215118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/amy_c17_iron_rider_dura_en.wav",
+                      "sha256":  "7af09449a96323864652ddb711c81c1d693393414080a3d8cc235a8c353600ba",
+                      "size":  180558
+                  },
+                  {
                       "path":  "Data/Sound/voices/amy_flask.wav",
                       "sha256":  "7fa6f0a08c35c24cca5aa601b32c046ddf74540f1f1e99191557fd1ffecef6ff",
                       "size":  145998
@@ -76537,6 +76957,26 @@
                       "path":  "Data/Sound/voices/amy_story_c03encounter13005_en.wav",
                       "sha256":  "e0eb8f1a9c02713e2f9eea70e6a714ba9b3e9dc9249ba11c1b6c8366ea2b990a",
                       "size":  299598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_c14_aegis_dura.wav",
+                      "sha256":  "543c343ae499e040a375906672e206c3924562f94232930f87426768b3e7f5ae",
+                      "size":  215118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_c14_aegis_dura_en.wav",
+                      "sha256":  "20c48876a0afd82101999f67d7c9ed86322eca05fd9011572c944825d0c0d60e",
+                      "size":  253518
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_c19_soram_aprendiz_dura.wav",
+                      "sha256":  "a4a2f44edd90f4e60488592907c5139db4b87b49a162e63f27eb898e0781e4fe",
+                      "size":  226638
+                  },
+                  {
+                      "path":  "Data/Sound/voices/apostle_devin_c19_soram_aprendiz_dura_en.wav",
+                      "sha256":  "da8dfacd016f6b4e544a27172d9387a674ec164ac285034610d706198e71ccc3",
+                      "size":  303438
                   },
                   {
                       "path":  "Data/Sound/voices/apostle_devin_ch16_close.wav",
@@ -76699,6 +77139,16 @@
                       "size":  111438
                   },
                   {
+                      "path":  "Data/Sound/voices/battlemaster_c25_resurrected_gladiator_dura.wav",
+                      "sha256":  "1cf890d9a717132f7b222a84887d80c0581e7be59e8f898cbc4c1ddcc4cfeee8",
+                      "size":  265038
+                  },
+                  {
+                      "path":  "Data/Sound/voices/battlemaster_c25_resurrected_gladiator_dura_en.wav",
+                      "sha256":  "5c167883c50d1da8b7b148abfa6a40d300e32cdc40cb3b8c2840416575ce1479",
+                      "size":  249678
+                  },
+                  {
                       "path":  "Data/Sound/voices/battlemaster_line1.wav",
                       "sha256":  "885a5722a0d594c50457d1cde42a4698607d00e76c50eb6d7a67db2404c90402",
                       "size":  222798
@@ -76777,6 +77227,16 @@
                       "path":  "Data/Sound/voices/baz_c04_thunder_lich_dura_en.wav",
                       "sha256":  "cc7f6f8bf54dc3c005c1b97015a878d9aea17d9fa3d99ec655b3a645befcf92c",
                       "size":  284238
+                  },
+                  {
+                      "path":  "Data/Sound/voices/baz_c06_bahamut_dura.wav",
+                      "sha256":  "b4aab267fd268b18c242c477ab7ca0df52b57ff1d5773547be2ca0b86a54dfa8",
+                      "size":  203598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/baz_c06_bahamut_dura_en.wav",
+                      "sha256":  "a45b8a3c181eb460339fbe854112f125a2e90b35f0686a2a7f1fced944bc860e",
+                      "size":  184398
                   },
                   {
                       "path":  "Data/Sound/voices/baz_open.wav",
@@ -76907,6 +77367,26 @@
                       "path":  "Data/Sound/voices/berdysh_c04_dark_knight_dura_en.wav",
                       "sha256":  "8aaed78548e3ffa04041c1c97e39e31bfa3f10c7aec7fed16ccf4f98c6c2d437",
                       "size":  230478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_c13_aegis_dura.wav",
+                      "sha256":  "741464be4ef350d7205ef9981b0a8dd52e72f01cfe518851611b2992f330ffc4",
+                      "size":  184398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_c13_aegis_dura_en.wav",
+                      "sha256":  "73d0bbc7ae5c9799068fbf58ae005ba69d689b99d575d657b5797b6e6542c519",
+                      "size":  203598
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_c27_axe_warrior_dura.wav",
+                      "sha256":  "68d3412976dc4f2955b2c6062ca2cd2c3aecacb240ed62b752f02acfa945f559",
+                      "size":  207438
+                  },
+                  {
+                      "path":  "Data/Sound/voices/berdysh_c27_axe_warrior_dura_en.wav",
+                      "sha256":  "99df4bc918372506e4ccffb1d1345b15b2c4351ceac3e67370ab7f3ffad1b184",
+                      "size":  203598
                   },
                   {
                       "path":  "Data/Sound/voices/berdysh_ch01_close.wav",
@@ -77557,6 +78037,36 @@
                       "path":  "Data/Sound/voices/berdysh_welcome_en.wav",
                       "sha256":  "b8aec398facdc1d1871ceb199130245a241e581168567c21f3f119497242b076",
                       "size":  176718
+                  },
+                  {
+                      "path":  "Data/Sound/voices/bolo_c23_orcus_dura.wav",
+                      "sha256":  "4806af6c0928601ae744a5f95e69ce6e7730bbee01dcd43eb6fd732093784e5b",
+                      "size":  276558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/bolo_c23_orcus_dura_en.wav",
+                      "sha256":  "78969aa73e8c78c1c2888f077c7d720b61e9cd35378df14521311bf63a6bc476",
+                      "size":  253518
+                  },
+                  {
+                      "path":  "Data/Sound/voices/bolo_c24_condra.wav",
+                      "sha256":  "f75f8b9ff38d66339b8be2af3f20483f6bfe2c84108fe8566e800bab96270e25",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/bolo_c24_condra_en.wav",
+                      "sha256":  "7a5b6396312bd66ae941e7bb2bbec7a375fbd646697655fc9bd38c5f527cb35b",
+                      "size":  261198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/bolo_c25_zombie_fighter_dura.wav",
+                      "sha256":  "2cc48ba3faaec02eca796163f4e527c562ba58d2e45103e909e621768733ec88",
+                      "size":  268878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/bolo_c25_zombie_fighter_dura_en.wav",
+                      "sha256":  "582df058f3206cca067e088f27d411b73a2bb508925229543c0a1582d0c3e459",
+                      "size":  218958
                   },
                   {
                       "path":  "Data/Sound/voices/bolo_ch24_close.wav",
@@ -80279,6 +80789,26 @@
                       "size":  291918
                   },
                   {
+                      "path":  "Data/Sound/voices/caren_c10_aegis_dura.wav",
+                      "sha256":  "aa1b3867c0ff60e6e42b9528662333af00ee5dea983e3c4517ba9c704035f92d",
+                      "size":  268878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_c10_aegis_dura_en.wav",
+                      "sha256":  "efeb46c3db916c4a2821b843fd2ade78b0d69ecff43ddba27ba2e301be22dcbe",
+                      "size":  257358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_c21_aegis_dura.wav",
+                      "sha256":  "9230d6092e08b2cd25aa68bded89c619743d0342b6da17e696e3b2b9e7a76d77",
+                      "size":  261198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/caren_c21_aegis_dura_en.wav",
+                      "sha256":  "6bfe3ec6e80bab4a58dfdb4294b4da6e04ffadd92e27c55305d8746e3f63b595",
+                      "size":  257358
+                  },
+                  {
                       "path":  "Data/Sound/voices/caren_ch03_close.wav",
                       "sha256":  "929e4276f81236324b27b92c12ad19e9e99c0e3c98444c95474e0fd2369efb86",
                       "size":  295758
@@ -80585,13 +81115,13 @@
                   },
                   {
                       "path":  "Data/Sound/voices/caren_q_c03_worm_dura_remind.wav",
-                      "sha256":  "878503de8a33f33a34818622a4e95515c35b8a2397bcbfbcec18db9d0511fd25",
-                      "size":  257358
+                      "sha256":  "b269a361f45f2f9c1bdf8e96dd76bc11fc1509e1b64d5cc9237822a25d68f686",
+                      "size":  299598
                   },
                   {
                       "path":  "Data/Sound/voices/caren_q_c03_worm_dura_remind_en.wav",
-                      "sha256":  "04f14f7023772f80feba277c94a896767a066304fd1ba5b703b2fdea54f08dd1",
-                      "size":  226638
+                      "sha256":  "1638faaab338e53a5ad92c8b1443c64ed7cc01b3ee36b5bc3c803c52b9bcacbf",
+                      "size":  276558
                   },
                   {
                       "path":  "Data/Sound/voices/caren_q_c03_worm_en.wav",
@@ -81309,6 +81839,26 @@
                       "size":  253518
                   },
                   {
+                      "path":  "Data/Sound/voices/hanzo_c07_mutant_dura.wav",
+                      "sha256":  "e8051126b2a267bae4aca4d7ac0c54064f9a53384df6847bc3571ba045a34b26",
+                      "size":  280398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/hanzo_c07_mutant_dura_en.wav",
+                      "sha256":  "651aeb8ccf9d51ce848f86411069409f9b2c09d230f5d0caea6a01063e592111",
+                      "size":  218958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/hanzo_c16_lance_scout_dura.wav",
+                      "sha256":  "ad57a3c5e2f3be5fad41b9f59e41e1814b33cb12749ee6fb5d7d48778be8a166",
+                      "size":  276558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/hanzo_c16_lance_scout_dura_en.wav",
+                      "sha256":  "1e81a37bc71278774e47dbf8b7d3ad11896991fde4b420169f075ec4e599c2c5",
+                      "size":  222798
+                  },
+                  {
                       "path":  "Data/Sound/voices/hanzo_iron.wav",
                       "sha256":  "26533e3c70d9cff6cfd6d08f1959e2e4bd4f58eff651cc838226745f7992d093",
                       "size":  157518
@@ -81360,8 +81910,8 @@
                   },
                   {
                       "path":  "Data/Sound/voices/index.txt",
-                      "sha256":  "587fa5df6c5b4a78339ef575ebaf738f6dea1a4e06d8433b30ed4705fe952fa1",
-                      "size":  168488
+                      "sha256":  "0f26f1e13d2cde073e8fcba869dd158b386e150db0aa6a9e9ce9d084708c177a",
+                      "size":  176440
                   },
                   {
                       "path":  "Data/Sound/voices/isabel_c03_ice_monster_dura.wav",
@@ -81452,6 +82002,16 @@
                       "path":  "Data/Sound/voices/isabel_stronger_en.wav",
                       "sha256":  "ecc3f23e8fc08ef51a5834d3d2f586468315d5a8750d4c02d4fed6289056aab1",
                       "size":  115278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/jerridon_c15_forest_orc_dura.wav",
+                      "sha256":  "133abf4653ad3ecc188c69177b1c48302d539d67ec70959e321ac0e65004fd52",
+                      "size":  276558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/jerridon_c15_forest_orc_dura_en.wav",
+                      "sha256":  "fc9daaa85be6e470c7f414291a08bb426cde6c27c644c064b3dbbe64a3b1fefa",
+                      "size":  222798
                   },
                   {
                       "path":  "Data/Sound/voices/jerridon_line1.wav",
@@ -81582,6 +82142,26 @@
                       "path":  "Data/Sound/voices/lala_woods_en.wav",
                       "sha256":  "0c4f683838da3f5c103a4b7d37728cdafbb09555585d4a827faf4dae9a63d7d5",
                       "size":  161358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/leina_c23_bone_scorpion_dura.wav",
+                      "sha256":  "0b2113b3224b227002b5845ff7589bc8a4ca944868108d9448b90fa078848dd7",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/leina_c23_bone_scorpion_dura_en.wav",
+                      "sha256":  "8d0b349bd91abc182714a2d5d8eea4b726b03a9c2687b59e731d7822400a9f38",
+                      "size":  222798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/leina_c24_narcondra_dura.wav",
+                      "sha256":  "2f96fedf887a184584245cdabffd62631a25584cb2e12ee30a4d8a3234c89426",
+                      "size":  261198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/leina_c24_narcondra_dura_en.wav",
+                      "sha256":  "5e5eca63b7fb67917fbf5a7046573f24f6228cd043ac74f4b6ea44349d1799ff",
+                      "size":  249678
                   },
                   {
                       "path":  "Data/Sound/voices/leina_ch23_close.wav",
@@ -81764,6 +82344,16 @@
                       "size":  153678
                   },
                   {
+                      "path":  "Data/Sound/voices/marlon_c06_vepar_dura.wav",
+                      "sha256":  "9c9d46ac656ad990f4d9bf912f997a6b8a971ca19d1dbc1277b6f79cef24820b",
+                      "size":  268878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/marlon_c06_vepar_dura_en.wav",
+                      "sha256":  "c03f1e58d38912f253dbde230ff1256485e44df9e0b9785bf64184e56415ff8d",
+                      "size":  234318
+                  },
+                  {
                       "path":  "Data/Sound/voices/marlon_ch06_close.wav",
                       "sha256":  "eef243a315302c8fa765674431f16b803aaefcf7f369952a4507b0ec9f526d7b",
                       "size":  364878
@@ -81894,6 +82484,26 @@
                       "size":  172878
                   },
                   {
+                      "path":  "Data/Sound/voices/martin_c15_death_tree_dura.wav",
+                      "sha256":  "beceef3c03910912846b2b476e1c745f3719a4c853bee0f293598e1b92457eef",
+                      "size":  230478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/martin_c15_death_tree_dura_en.wav",
+                      "sha256":  "ee2aab74032cc73a72132a8257f68eb42118a0b88df1a44dd598fb9c5a6d26ce",
+                      "size":  215118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/martin_c16_hammer_scout_dura.wav",
+                      "sha256":  "208f8e80cc9c75e617599d4c3d3eec0ce83bcec144833fb26b8a441d2aa12a3c",
+                      "size":  238158
+                  },
+                  {
+                      "path":  "Data/Sound/voices/martin_c16_hammer_scout_dura_en.wav",
+                      "sha256":  "1cc058b684409606ad17667282bdb9d608529a8f1ca9ba14000c4a255fd15cb8",
+                      "size":  195918
+                  },
+                  {
                       "path":  "Data/Sound/voices/martin_harold.wav",
                       "sha256":  "986060cf35de35aa51cc3b1a5158510a16ad4bbc737f68baa3114e0fa18b24ef",
                       "size":  103758
@@ -81992,6 +82602,76 @@
                       "path":  "Data/Sound/voices/narrator_story_c04introduction01_en.wav",
                       "sha256":  "ecea4fb2045e54b1d38a9b3ab7af70e465d71a7ba1746cf4252f19be05f6062b",
                       "size":  288078
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_c09_aegis.wav",
+                      "sha256":  "8b51c461b66a91f213f90282ab8b1e9c55a053dbc41b309b9877ecacf78b150e",
+                      "size":  230478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_c09_aegis_en.wav",
+                      "sha256":  "c0dec41da486210289f8cf8eb9e313554fb56593230e2713c3a833450612839d",
+                      "size":  226638
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_c10_rogue_centurion_dura.wav",
+                      "sha256":  "5fb771456e59eddcd95a234d9eb36821aad1e280ffc9f937e97fbe9c5ce29164",
+                      "size":  238158
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_c10_rogue_centurion_dura_en.wav",
+                      "sha256":  "32244e19b118aeac2b6058825b3b2c376e52ad3d4c29c25c2f35c3943f30d8cc",
+                      "size":  238158
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_c11_rogue_centurion_dura.wav",
+                      "sha256":  "501c13f9f9311a0085cd9f7efe0870338a9d7f6dd62d386db46d3ea0850cc060",
+                      "size":  226638
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_c11_rogue_centurion_dura_en.wav",
+                      "sha256":  "ae59e6aaa736045d9e82a215df6617f80036f6a6639e37cc43aa1ade8982b48c",
+                      "size":  234318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_c12_rogue_centurion_dura.wav",
+                      "sha256":  "85c9dff8c1ff2b7e203ac6abeb751f1e9c247f0b9419dda0d0471f80759a0e49",
+                      "size":  249678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_c12_rogue_centurion_dura_en.wav",
+                      "sha256":  "b4213c4454d8598338c282c8efb1ae39646e27e0c83a210b528e8fe5fa9f684c",
+                      "size":  241998
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_c13_rogue_centurion_dura.wav",
+                      "sha256":  "1e9b05ecbf1c46fdcf1832ac9a4a07497026c3232f8f27dd959ceb1f5be276cc",
+                      "size":  180558
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_c13_rogue_centurion_dura_en.wav",
+                      "sha256":  "98508a549b65125c9e4d5c0a0b6611b186a6769f2e86f15dbf02b427132491c9",
+                      "size":  161358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_c14_rogue_centurion_dura.wav",
+                      "sha256":  "0f7bbd4b3676c5bc7c3900b2d27464af376c0b5881246c9e0a253cf9d71b76d4",
+                      "size":  215118
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_c14_rogue_centurion_dura_en.wav",
+                      "sha256":  "a6de823f14037c5b3c86bf709a521a1f0946f066d3e06199ba8bc453645475cb",
+                      "size":  188238
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_c21_rogue_centurion_dura.wav",
+                      "sha256":  "b3010ad51b4b048c0418046391ee3b32989eb6c10ff1d272d4d1e4a6fd5ffb97",
+                      "size":  261198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/oracle_layla_c21_rogue_centurion_dura_en.wav",
+                      "sha256":  "d11c4b0873433e7748efd3e4e6f6f502bbd203b177da1b0930b3ab70b8c7ca9c",
+                      "size":  199758
                   },
                   {
                       "path":  "Data/Sound/voices/oracle_layla_careful.wav",
@@ -82824,6 +83504,26 @@
                       "size":  126798
                   },
                   {
+                      "path":  "Data/Sound/voices/osbourne_c17_splinter_wolf_dura.wav",
+                      "sha256":  "02d0263351bc57e075cb029f8ebf4ea6f728fd379a59a68d4dd72d676c50f3c2",
+                      "size":  226638
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_c17_splinter_wolf_dura_en.wav",
+                      "sha256":  "78c82df564f993beb75a76f83f785e0c5626065122589224be1ff60374e79b24",
+                      "size":  268878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_c22_ice_walker_dura.wav",
+                      "sha256":  "775604fcbc834b4e9a42cf8592961b3314a14d4c0177d080195971c5f1eb5326",
+                      "size":  230478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/osbourne_c22_ice_walker_dura_en.wav",
+                      "sha256":  "aff14fc7ecfe7fcc6000d213c9770e7529bbee48531d85ecc8cf395622509f9a",
+                      "size":  249678
+                  },
+                  {
                       "path":  "Data/Sound/voices/osbourne_ch15_close.wav",
                       "sha256":  "8a42a19ac75f71501fee44579c152748e5f116fc8f9d1c49801a7ceaec0aabca",
                       "size":  276558
@@ -83014,6 +83714,36 @@
                       "size":  268878
                   },
                   {
+                      "path":  "Data/Sound/voices/pasi_c05_shadow_dura.wav",
+                      "sha256":  "03674b06d7110edeef2a854dac85ba6b5cf7e21504951bf6c4b9df74afb057be",
+                      "size":  238158
+                  },
+                  {
+                      "path":  "Data/Sound/voices/pasi_c05_shadow_dura_en.wav",
+                      "sha256":  "fe07888e1ec707fbda7e9a5c488e221fdb29df2cb07e28e838e22e956ab77bd7",
+                      "size":  211278
+                  },
+                  {
+                      "path":  "Data/Sound/voices/pasi_c09_aegis_dura.wav",
+                      "sha256":  "95590578c2ade66496cd95a72fbcc926647539e0c7b3a9656527f35169b142a5",
+                      "size":  261198
+                  },
+                  {
+                      "path":  "Data/Sound/voices/pasi_c09_aegis_dura_en.wav",
+                      "sha256":  "7f564061d29c287e0f9fad474236819a669edeb443d19ac0bf1eb5bdc4cd5193",
+                      "size":  268878
+                  },
+                  {
+                      "path":  "Data/Sound/voices/pasi_c11_aegis_dura.wav",
+                      "sha256":  "f391205095f5409f97f1abb39bc8ef0579e2def4f770541ceff50350c205e6c6",
+                      "size":  253518
+                  },
+                  {
+                      "path":  "Data/Sound/voices/pasi_c11_aegis_dura_en.wav",
+                      "sha256":  "6cfd68da378b6d01ad858800d0ab8d0f95cd43f4e6f63dac47f81bb9a22a53da",
+                      "size":  314958
+                  },
+                  {
                       "path":  "Data/Sound/voices/pasi_honest.wav",
                       "sha256":  "dbdfd082d7eeec7dcc13f0b64983f5f60c86835854432edce365351f8a215331",
                       "size":  192078
@@ -83124,6 +83854,16 @@
                       "size":  169038
                   },
                   {
+                      "path":  "Data/Sound/voices/quarel_c19_balram_aprendiz.wav",
+                      "sha256":  "6f2aa2dddf4eabd176612d951183e3e41df402f85c044c0828bf708caa9b6345",
+                      "size":  314958
+                  },
+                  {
+                      "path":  "Data/Sound/voices/quarel_c19_balram_aprendiz_en.wav",
+                      "sha256":  "58b2b9cbd4b0a6c3188e514d65c396bd7278ab0a267285cf3fe7a2d5897fc5d3",
+                      "size":  295758
+                  },
+                  {
                       "path":  "Data/Sound/voices/quarel_ch19_close.wav",
                       "sha256":  "37a8d4f441f4264a93096e0f0b7d6e8909fc46e52c6da57ec01be9cd268a4b74",
                       "size":  357198
@@ -83215,13 +83955,13 @@
                   },
                   {
                       "path":  "Data/Sound/voices/seal_alen_ch08_present.wav",
-                      "sha256":  "e9dfbf34bef65ed6a94b22b42c5c950a942a60383cd8e422e89700f2aac8aada",
-                      "size":  222798
+                      "sha256":  "ddf65bdd841ff93b06fddc401b2a77f8524be599e207339e0fb4c487eb00696e",
+                      "size":  249678
                   },
                   {
                       "path":  "Data/Sound/voices/seal_alen_ch08_present_en.wav",
-                      "sha256":  "5865e37fc98b3d91080aceacbb6d8f0639d84dae81dc844bdc0e3b9524ed7480",
-                      "size":  245838
+                      "sha256":  "b6e479a5385600e3533b72efc9be4f3fd76d1511b6beb2c7363a877b9a7b8752",
+                      "size":  276558
                   },
                   {
                       "path":  "Data/Sound/voices/seal_alen_ch08_progress.wav",
@@ -83342,6 +84082,16 @@
                       "path":  "Data/Sound/voices/seal_alen_talk_en.wav",
                       "sha256":  "a02a7c06fb9190a871c7ab998bfbcf1a7e11e50e9d09a726e1e52f0a9f68658b",
                       "size":  326478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_brenn_c27_lizard_warrior_dura.wav",
+                      "sha256":  "a77c61c71a9cd213589408c1fe1e9fe9211335aeb0dbc6a687c13dbdbe7ec624",
+                      "size":  280398
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_brenn_c27_lizard_warrior_dura_en.wav",
+                      "sha256":  "11670b6acc3c9d6acb4ff9cf1f17a278c951f93ec1eb3896e80bfb3720c4ffd0",
+                      "size":  234318
                   },
                   {
                       "path":  "Data/Sound/voices/seal_brenn_ch27_close.wav",
@@ -84144,6 +84894,26 @@
                       "size":  238158
                   },
                   {
+                      "path":  "Data/Sound/voices/seal_ivo_c08_mega_crust_dura.wav",
+                      "sha256":  "2060edfb39725787d6243a33288c6398b1702c215c9d2acf25b96c73ac448d03",
+                      "size":  249678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_c08_mega_crust_dura_en.wav",
+                      "sha256":  "63060c3932151d69c441e689833cf668ac8f08143492853084c7751078ba27f7",
+                      "size":  195918
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_c12_aegis_dura.wav",
+                      "sha256":  "d0fe7d9728eb4fc17c6a2efc56d1651b26db2408d97a849b66300030a4697e6c",
+                      "size":  249678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_ivo_c12_aegis_dura_en.wav",
+                      "sha256":  "71ffa3fff8546c0f4e34dc4fb020f0cb85ecd749b8566295b7e931807e85da08",
+                      "size":  249678
+                  },
+                  {
                       "path":  "Data/Sound/voices/seal_ivo_ch05_close.wav",
                       "sha256":  "8fdaada805c4da0c718eb35aa5b282d522b050bd5814b33c3fa020c82cb3b5bd",
                       "size":  330318
@@ -84282,6 +85052,16 @@
                       "path":  "Data/Sound/voices/seal_ivo_talk_en.wav",
                       "sha256":  "f17cd7c4074a4d85a8caf588e18d7e091d6382f742fff5779300c9b4591c0504",
                       "size":  257358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_c22_giant_mammoth_dura.wav",
+                      "sha256":  "a18256f28e2aada6a93ef8b3b34a138b85caf88152a1b3651ec90c0eae2be5e3",
+                      "size":  230478
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_kael_c22_giant_mammoth_dura_en.wav",
+                      "sha256":  "723cde093421a78a3f8714e1736af323616db49675f5b43bcdc6050d5506ae6a",
+                      "size":  215118
                   },
                   {
                       "path":  "Data/Sound/voices/seal_kael_ch22_close.wav",
@@ -84432,6 +85212,16 @@
                       "path":  "Data/Sound/voices/seal_kael_talk_en.wav",
                       "sha256":  "d5981d1830e05ad029097a8c9b39ea9703a7e7d8e7ac4f94f9de5340f6d1f139",
                       "size":  249678
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_c18_dreadfear_dura.wav",
+                      "sha256":  "632dbed9befebda35f998b71e6baf8ad448258258513906812c4fc47d8767754",
+                      "size":  257358
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_mirka_c18_dreadfear_dura_en.wav",
+                      "sha256":  "212c011da9fad19a0c480c5ff799b0fd3b660870c1e2c06ed1f8fb3a6bca8b23",
+                      "size":  226638
                   },
                   {
                       "path":  "Data/Sound/voices/seal_mirka_ch17_close.wav",
@@ -85134,6 +85924,16 @@
                       "size":  245838
                   },
                   {
+                      "path":  "Data/Sound/voices/seal_oriana_c26_sapi_duo_dura.wav",
+                      "sha256":  "be64b72fc8e9de5294e79967acfc1f21959bcbddac3a8fbee52aee5ec2f83aa0",
+                      "size":  245838
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_oriana_c26_sapi_duo_dura_en.wav",
+                      "sha256":  "79058b17538c2b6b2211b2de61a5d9aace39cbea1839825ae3f3ef2d913e281d",
+                      "size":  307278
+                  },
+                  {
                       "path":  "Data/Sound/voices/seal_oriana_ch26_close.wav",
                       "sha256":  "93383f39434d00386426d32338f27dd16c7c9cdc635652302175067d3d7a2624",
                       "size":  288078
@@ -85314,6 +86114,16 @@
                       "size":  353358
                   },
                   {
+                      "path":  "Data/Sound/voices/seal_tobias_c18_persona.wav",
+                      "sha256":  "966bd0432bb47d34cfdd700710a06b9f5e8a8a427af706cfa8db5098198391bd",
+                      "size":  226638
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_tobias_c18_persona_en.wav",
+                      "sha256":  "022bc981c6074af8f2fc415329bd655a26389f50ef5495690c4071bb87d349fc",
+                      "size":  222798
+                  },
+                  {
                       "path":  "Data/Sound/voices/seal_tobias_ch18_close.wav",
                       "sha256":  "5bb8fd99903d7b8f3a3d835d5db05bd483251d5c06ce94a2f5fb1efaaec1f600",
                       "size":  307278
@@ -85402,6 +86212,16 @@
                       "path":  "Data/Sound/voices/seal_tobias_talk_en.wav",
                       "sha256":  "2615001bc9d2c8d2a27ce7fe1c0e7ff8c31f1d16687e553518276b33e37dd842",
                       "size":  234318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_c08_alquamos_dura.wav",
+                      "sha256":  "54a147252b8b19e9435045cd2e22eaf44a880122f45e3912a3b6ff81c4c9b6d2",
+                      "size":  234318
+                  },
+                  {
+                      "path":  "Data/Sound/voices/seal_zahra_c08_alquamos_dura_en.wav",
+                      "sha256":  "068e2e33a892c6aecfcc5d44baa9ea18369c36d432de575dcdfe4c2072fcbda6",
+                      "size":  245838
                   },
                   {
                       "path":  "Data/Sound/voices/seal_zahra_ch07_close.wav",
@@ -85832,6 +86652,16 @@
                       "path":  "Data/Sound/voices/sukuna_wheel_en.wav",
                       "sha256":  "38e1a92de7ffca11c21ec2620149eb442ac85a23d137aa72fc92c0cfca06c59f",
                       "size":  126798
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_c26_sapi_unus_dura.wav",
+                      "sha256":  "1bc951da3ee52a4c57dfea242a96eed7b47137522c4b1b3f0201a4359e2f7f96",
+                      "size":  238158
+                  },
+                  {
+                      "path":  "Data/Sound/voices/titus_c26_sapi_unus_dura_en.wav",
+                      "sha256":  "caf62d60e6bb4329a3e4426cee41b5e0f486244ec204820177de7ef649924db3",
+                      "size":  238158
                   },
                   {
                       "path":  "Data/Sound/voices/titus_ch25_close.wav",
@@ -98415,8 +99245,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "bb83a678b226330d7562bde315b2674887e0c6ee0511ff6c4359ff3cf5398520",
-                      "size":  15251432
+                      "sha256":  "7ec45a16e53d483d11b93b2eee988c403a99e15dfaa81804e7b34fa5df6ca165",
+                      "size":  16386024
                   },
                   {
                       "path":  "msvcp140.dll",
@@ -98430,7 +99260,7 @@
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
-                      "sha256":  "a2a13677337f74ad33abc1c91c164a93333506d89558843e30d09ad71d1f0ad1",
+                      "sha256":  "9dd80ecc74623caab8803d24e86ba199677e4801039e8e8f5199c28e35740e21",
                       "size":  2645480
                   },
                   {
@@ -107333,8 +108163,8 @@
                                        },
                                        {
                                            "path":  "Main.exe",
-                                           "sha256":  "22a29f22e188ee8aabfd2f8dc8eb13dc14d368eddd94261ede2e26c97509123d",
-                                           "size":  17428456
+                                           "sha256":  "029cabde1d32fae2abfb44f005b6544d3a7f04600c96ae68b87d901b83c24024",
+                                           "size":  18641384
                                        },
                                        {
                                            "path":  "msvcp140.dll",
@@ -107343,7 +108173,7 @@
                                        },
                                        {
                                            "path":  "MUnique.Client.Library.dll",
-                                           "sha256":  "c355de102d7f8b30ff9c66feb4fad4a33734e17498d4f08111f1bc0822ef91d7",
+                                           "sha256":  "8b3c68e54149a8dee8062ddc62a5b01b9a16dc0d46148f140896b38228174e19",
                                            "size":  3121640
                                        },
                                        {
@@ -107360,11 +108190,11 @@
                      }
                  ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/ae2d85fac300647d992918b9cbb918c4b2f368840cfe12f9271e832cb1a14b92.zip",
-                     "sha256":  "ae2d85fac300647d992918b9cbb918c4b2f368840cfe12f9271e832cb1a14b92",
-                     "size":  9192496,
+                     "url":  "https://files.mu-horizon.com/zips/7ac55785eda1a4845c2681bf003bd7d98e7fc90ac25886927492ad99ec09e19c.zip",
+                     "sha256":  "7ac55785eda1a4845c2681bf003bd7d98e7fc90ac25886927492ad99ec09e19c",
+                     "size":  37411134,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-30/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-31/client-patch.zip"
                               ]
                  }
 }
