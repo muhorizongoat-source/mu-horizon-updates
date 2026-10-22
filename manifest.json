@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  32,
+    "patch":  33,
     "minLauncherVersion":  "1.12.0",
-    "releasedAt":  "2026-10-22T18:38:46.3486418Z",
-    "notes":  "Upgrade patch 32",
+    "releasedAt":  "2026-10-22T23:04:21.5121182Z",
+    "notes":  "Upgrade patch 33",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/aeba34853bd26b48cf77fe4d0fffd971a51422402725a16993825ca65a857443.zip",
-                    "sha256":  "aeba34853bd26b48cf77fe4d0fffd971a51422402725a16993825ca65a857443",
-                    "size":  1733746373,
+                    "url":  "https://files.mu-horizon.com/zips/7127b870cb96ba346d17f301d71f41500a1073a1291bb947feb47dc6756e78ab.zip",
+                    "sha256":  "7127b870cb96ba346d17f301d71f41500a1073a1291bb947feb47dc6756e78ab",
+                    "size":  1738512277,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-32/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-33/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -2770,8 +2770,8 @@
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSPackage.txt",
-                      "sha256":  "a4fc6117e3ab209d85980d406d95c020899090fd11cd3e04b7b2c650c7220f49",
-                      "size":  18608
+                      "sha256":  "7bfa64a0b307d31aa793fe9e9cd46b58701c2d8ac5320a71898f3a9538e6c5fc",
+                      "size":  17615
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSProduct.txt",
@@ -2780,8 +2780,8 @@
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSText.es.txt",
-                      "sha256":  "8148045b1fef1f5df1984ad712d0de4e72cb1fed16806d467e14f28a3a293624",
-                      "size":  15002
+                      "sha256":  "c6c24b9bb1806734e3576ae4521fed9f15b288af4e596b688d705ec39ad333cb",
+                      "size":  14449
                   },
                   {
                       "path":  "Data/Interface/accept_box01.OZJ",
@@ -7064,8 +7064,33 @@
                       "size":  262166
                   },
                   {
+                      "path":  "Data/Interface/SocialStickers/bk-flex.OZT",
+                      "sha256":  "4886a8e10e111ce8ebed704227849f3c0a405eb78363a22cf4510a6eee93426b",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/bk-furia.OZT",
+                      "sha256":  "9697fe345e5fc63b8a4d01103937ea658fa08ff76ab760147a4dd0beb38bf2ec",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/bk-llora.OZT",
+                      "sha256":  "8849e85924e9a49bc0f7fda232a71eee8f1b4c10319232a7e8d53dbfe92d84d4",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/bk-palma.OZT",
+                      "sha256":  "2ee869142e5e3ee1c7a91e0049261cfab0b779f5db2628cfc3090e11670fafeb",
+                      "size":  262166
+                  },
+                  {
                       "path":  "Data/Interface/SocialStickers/bk-risa.OZT",
                       "sha256":  "5486054c8511347e3d71899110b6382e0aabf4b571a20539455dec5a459a58d6",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/bk-saludo.OZT",
+                      "sha256":  "e25223add34d49250a2269ed9840532104f3ae778d1823d64ee88eaa56be353f",
                       "size":  262166
                   },
                   {
@@ -7079,8 +7104,58 @@
                       "size":  262166
                   },
                   {
+                      "path":  "Data/Interface/SocialStickers/dl-llora.OZT",
+                      "sha256":  "d9998b4256ba14d5dd4b1a2c7e36fa996806b3f4cec75d8671c7779d69206c46",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/dl-orden.OZT",
+                      "sha256":  "15a2e27c460e6c86a404847ca0310f394288d0966f07d6f6c5127f6614a01d40",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/dl-palma.OZT",
+                      "sha256":  "2728214f62fa47368486e18c4506565243269096f5dc8e9bab492f9e7e682565",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/dl-rey.OZT",
+                      "sha256":  "75840490f514ba4e76f18f2ac1f420a86f8e0786d7dee2bdd9790bbc16042ed9",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/dl-saludo.OZT",
+                      "sha256":  "4e61e8637e568552319691e5c0e3a335e503f69b829729c404764c0981345841",
+                      "size":  262166
+                  },
+                  {
                       "path":  "Data/Interface/SocialStickers/elf-beso.OZT",
                       "sha256":  "42fb3c7380fab64c60f0f8558484a3495e26168dafc1d809fa1f303721367748",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/elf-furia.OZT",
+                      "sha256":  "1715179796886831901ba1699eb7d6dbb808e537391207821dadae6b11883d9b",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/elf-gano.OZT",
+                      "sha256":  "fcbc2972cb43f837d6b7d6a488c7978606717ae54bc0cadce4681077e597ac1b",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/elf-guino.OZT",
+                      "sha256":  "3c2069d26995eeefab4d2464c801b8ac7b6e1120afb1e24a5380f46e703cf51b",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/elf-llora.OZT",
+                      "sha256":  "b1df0d738af9c8de38f7619c2da3214a6f77c67234b5fe4f620372ed69b95998",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/elf-pulgar.OZT",
+                      "sha256":  "25773c5a5116f8dee95a1664dc0205c7ed10cd40ee5300cc0cc971c6764e92d1",
                       "size":  262166
                   },
                   {
@@ -7104,6 +7179,11 @@
                       "size":  262166
                   },
                   {
+                      "path":  "Data/Interface/SocialStickers/mg-aplauso.OZT",
+                      "sha256":  "0000b548a0c4cd1e4950f4cc405db7e5cf3aee0e76f1a9d807b97d7795ca9b73",
+                      "size":  262166
+                  },
+                  {
                       "path":  "Data/Interface/SocialStickers/mg-confuso.OZT",
                       "sha256":  "fff7990b8890b514520b51b6bdf6e25a8b71411e3c538ff320d5403f0ea90099",
                       "size":  262166
@@ -7111,6 +7191,26 @@
                   {
                       "path":  "Data/Interface/SocialStickers/mg-fresco.OZT",
                       "sha256":  "7c2df8aed8bebf2134108530efad89e320550d859363c0f954294901e326e5e1",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/mg-furia.OZT",
+                      "sha256":  "9a2b26a0719c6af6a79ce68d75ca03017d3d60eb30dce5796300a43eca895d14",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/mg-palma.OZT",
+                      "sha256":  "33b6df1dc67fe7b54016a23395fb3c3a1c4b860f4f88bed79b8d5d4aafda97bc",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/mg-risa.OZT",
+                      "sha256":  "e90f08a1eeeee86494f59b1a86900da452d42b4420f74be16a21ba74968dcac5",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/mg-susto.OZT",
+                      "sha256":  "264de5863f57522b4e7a0ea0a3373631af5619cc3e7ff994b8a80416a4908402",
                       "size":  262166
                   },
                   {
@@ -7124,8 +7224,33 @@
                       "size":  262166
                   },
                   {
+                      "path":  "Data/Interface/SocialStickers/rf-aplauso.OZT",
+                      "sha256":  "1e90b63e0c9195d695cd2b4e41f89154b0558b20464534234c8eb71998f8ed88",
+                      "size":  262166
+                  },
+                  {
                       "path":  "Data/Interface/SocialStickers/rf-biceps.OZT",
                       "sha256":  "981fc3c44452998d98e683615786f0baeca3ccd6064150d85e4c1ab3223b46d8",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/rf-furia.OZT",
+                      "sha256":  "c7708a83325d248c321aca5ae7c7e1d1db995c6b6933e9a425f41802f9436c09",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/rf-llora.OZT",
+                      "sha256":  "6f235926611cc864050dfd5cea9b88f308b2e60def1828990e4d771a9fb5aed5",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/rf-puno.OZT",
+                      "sha256":  "e5745f0b16723bae374054411841d6a02f0e47b5bcba06374f2d88cefc25f8d2",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/rf-risa.OZT",
+                      "sha256":  "913306262517dac5013fb20c60d764da942b35bc807b146729e6acd0a4d143b2",
                       "size":  262166
                   },
                   {
@@ -7149,6 +7274,41 @@
                       "size":  262166
                   },
                   {
+                      "path":  "Data/Interface/SocialStickers/sm-gano.OZT",
+                      "sha256":  "e6bcf0d9790f86e93697bf8361f4d39bb8189aee98d224a6bc4f62a9526a5789",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/sm-llora.OZT",
+                      "sha256":  "39eda4498738038e30ceccb8237e43a08b73e394158b7819a3ec0b2fd2ba44b0",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/sm-risa.OZT",
+                      "sha256":  "9b54ba45225710eef155602d6b8607b4155eabc72205a187ecd621726b9e84f5",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/sm-shh.OZT",
+                      "sha256":  "7c5a1972af395c4c043a95e8219c27ae40e748e80c76e8271223189f0d603518",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/sm-susto.OZT",
+                      "sha256":  "f71208dbd7f48b9af05fa692493bde1fba31156d29ba67941d553b6f25e38a47",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/sum-amor.OZT",
+                      "sha256":  "1cd018ed0649b5ad11ad235dab5c756f86a3e5b9fe8a861aa86364af3b216086",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/sum-furia.OZT",
+                      "sha256":  "d2dfa83576ca5ba7b16793ab23f69b351d7917f67619933d0837c215955f15be",
+                      "size":  262166
+                  },
+                  {
                       "path":  "Data/Interface/SocialStickers/sum-inocente.OZT",
                       "sha256":  "e3b31e566b6bfa1d29aa312b53edf2ddad9af0f7cce8ab1a9b707840fe4c43a4",
                       "size":  262166
@@ -7156,6 +7316,21 @@
                   {
                       "path":  "Data/Interface/SocialStickers/sum-lagrima.OZT",
                       "sha256":  "15441d75454ee3ffb3977069d0a4c0435d5113e8b0a09ea398351ef169dc7b21",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/sum-risa.OZT",
+                      "sha256":  "03ea721443742f22cccaf76448925bccc2c611838d5b58011b9d5ca00b3f5c12",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/sum-sueno.OZT",
+                      "sha256":  "02ebe6b3dd77b339778d46b373dbdec4d86a03aec4c308e79e7f97b23a20660b",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/sum-susto.OZT",
+                      "sha256":  "148933af7914134eaee464bb5e4e78cecb49746bf14f3aa41e4302109379b64d",
                       "size":  262166
                   },
                   {
@@ -99245,8 +99420,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "2259587f818f1f1356627e21a8cd2d3927f2c5a31755be26e95f9f6ce23305e1",
-                      "size":  16400872
+                      "sha256":  "ec37a5f4ff2a3ff92916c6867efd9a5d294e1b2b30d0050dfda72d78261896bb",
+                      "size":  16418280
                   },
                   {
                       "path":  "msvcp140.dll",
@@ -99260,8 +99435,8 @@
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
-                      "sha256":  "ddf1f6cf76f1c708eb410c5e75bcad710052ffb2f3099b110ce5d9d094e15772",
-                      "size":  2645480
+                      "sha256":  "264c2cf8e45c820b49af9dac5585da041a6c0573075895b5513b996bb5746072",
+                      "size":  2645992
                   },
                   {
                       "path":  "ogg.dll",
@@ -108163,8 +108338,8 @@
                                        },
                                        {
                                            "path":  "Main.exe",
-                                           "sha256":  "3be08fefff65b3791ad9ee3a96e9e54a3631d420947b22907f2c13429e5001b0",
-                                           "size":  18654696
+                                           "sha256":  "dfe6690ef44f0b6d1195a6c5b6bb326adf5a540a8a901a30502b6ffd918882e4",
+                                           "size":  18677224
                                        },
                                        {
                                            "path":  "msvcp140.dll",
@@ -108173,8 +108348,8 @@
                                        },
                                        {
                                            "path":  "MUnique.Client.Library.dll",
-                                           "sha256":  "c60f45245a639958f2bdc52aea46fecea3e58f2e2fa98cef89b946fe4889f195",
-                                           "size":  3121640
+                                           "sha256":  "84bfd64b1af5b7dd962482858ac6a0927d9ea79603239cc93a0716579bf90ca8",
+                                           "size":  3122152
                                        },
                                        {
                                            "path":  "vcruntime140.dll",
@@ -108190,11 +108365,11 @@
                      }
                  ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/eed44e25eccbdd127437f0cfafa9942769ea1d34ff32da34c4088077c4465e8d.zip",
-                     "sha256":  "eed44e25eccbdd127437f0cfafa9942769ea1d34ff32da34c4088077c4465e8d",
-                     "size":  7933325,
+                     "url":  "https://files.mu-horizon.com/zips/167bf7b5d6b0db125fbb7c1bcbdbca9a0f69570d5699ca4f8e785c266f0b6e43.zip",
+                     "sha256":  "167bf7b5d6b0db125fbb7c1bcbdbca9a0f69570d5699ca4f8e785c266f0b6e43",
+                     "size":  12708204,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-32/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-33/client-patch.zip"
                               ]
                  }
 }
