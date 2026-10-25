@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  34,
+    "patch":  35,
     "minLauncherVersion":  "1.12.0",
-    "releasedAt":  "2026-10-24T04:53:15.0221367Z",
-    "notes":  "Upgrade patch 34",
+    "releasedAt":  "2026-10-24T23:58:14.6923106Z",
+    "notes":  "Upgrade patch 35",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/f39db7882389de7224d28e16c1bbc47821335366c84926d8d09dc92ccc7f9f74.zip",
-                    "sha256":  "f39db7882389de7224d28e16c1bbc47821335366c84926d8d09dc92ccc7f9f74",
-                    "size":  1739168679,
+                    "url":  "https://files.mu-horizon.com/zips/daa9add16abf5c70f68b896381aebb6fd723b4df625e382debb3c7f5ed132d97.zip",
+                    "sha256":  "daa9add16abf5c70f68b896381aebb6fd723b4df625e382debb3c7f5ed132d97",
+                    "size":  1740333274,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-34/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-35/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -2770,18 +2770,18 @@
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSPackage.txt",
-                      "sha256":  "37380fd6a0be4532f25d961175f0d151fcc8240bd939aa1086b0af289f00f9a1",
-                      "size":  17638
+                      "sha256":  "631d342305636e7c3e10fefeecbba48346fd908e0de8fc9ebb82b252f0742f04",
+                      "size":  17591
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSProduct.txt",
-                      "sha256":  "0e509fc3a3d84f8d91f5fa2380317918f116f6a5889f5dbe085decbba161affe",
-                      "size":  13465
+                      "sha256":  "e261c191f544628ab391d27afacb7cf5ef5653c7e8973f828d1d6d57657dde8f",
+                      "size":  13466
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSText.es.txt",
-                      "sha256":  "0544390295f06cc2f0f7417b86ca3372cb94de4cb622d5f3e83de4cb94218577",
-                      "size":  14478
+                      "sha256":  "4a6f87d95527af6c4a6ff157be92ec41370d9795d21f8946a30f8c1e7fd73ed6",
+                      "size":  14486
                   },
                   {
                       "path":  "Data/Interface/accept_box01.OZJ",
@@ -7059,6 +7059,21 @@
                       "size":  121453
                   },
                   {
+                      "path":  "Data/Interface/SocialStickers/aclaracion.OZT",
+                      "sha256":  "c8ec47226e0b4f8e62a8dec0061875b03b8440e179d8d2f5def058152f3b0994",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/al-cielo.OZT",
+                      "sha256":  "ce1352bc1e3462aa9992592010e4ba5e6682244b6b8f279c05c5421b998175de",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/a-pinas.OZT",
+                      "sha256":  "f2f61b2ae1add1a2beb2ec384e81c2718484b6c26f1d5e7e4d2b809d9afffb18",
+                      "size":  262166
+                  },
+                  {
                       "path":  "Data/Interface/SocialStickers/bk-facil.OZT",
                       "sha256":  "1d4c1bf46e61124ce1a5e3894e170150a637b48a716dcbd6518cfa3ba2b9c37e",
                       "size":  262166
@@ -7091,6 +7106,11 @@
                   {
                       "path":  "Data/Interface/SocialStickers/bk-saludo.OZT",
                       "sha256":  "e25223add34d49250a2269ed9840532104f3ae778d1823d64ee88eaa56be353f",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/carcajada.OZT",
+                      "sha256":  "f8ed5f4b7e4a612e370c50c6741c694458eb9b81a03628c00760c34ac56a8975",
                       "size":  262166
                   },
                   {
@@ -7169,8 +7189,18 @@
                       "size":  262166
                   },
                   {
+                      "path":  "Data/Interface/SocialStickers/harold.OZT",
+                      "sha256":  "d728b63e799a1ae3ef2eb69730cf26a6a2ba376ab904079091488fecaafff633",
+                      "size":  262166
+                  },
+                  {
                       "path":  "Data/Interface/SocialStickers/king.OZT",
                       "sha256":  "3f5adac3ac4c0a0f6f03f6be0216f1600f22bb026e89cb00b9036ef5448d9d10",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/la-mirada.OZT",
+                      "sha256":  "45836f8c019174ff628da479e49220fc18d1f3473315202551d391b10939e7f7",
                       "size":  262166
                   },
                   {
@@ -7214,8 +7244,18 @@
                       "size":  262166
                   },
                   {
+                      "path":  "Data/Interface/SocialStickers/paloma.OZT",
+                      "sha256":  "a2dd40eec9fd8f2c141ee7fcd7dea2fcf7a5bc66af6cc14f0ee35d7daed7f667",
+                      "size":  262166
+                  },
+                  {
                       "path":  "Data/Interface/SocialStickers/party.OZT",
                       "sha256":  "d86e0fd3b65e78f9217322fea5531c09b2ce589def25633afbfab126c5d2df84",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/perro-amor.OZT",
+                      "sha256":  "067ec1a4df7825db59ced959fd9411155d1fcc99ba8c373212e284c601a171bc",
                       "size":  262166
                   },
                   {
@@ -7331,6 +7371,16 @@
                   {
                       "path":  "Data/Interface/SocialStickers/sum-susto.OZT",
                       "sha256":  "148933af7914134eaee464bb5e4e78cecb49746bf14f3aa41e4302109379b64d",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/todo-bien.OZT",
+                      "sha256":  "78e0a618fee2670882fe2d946740750318f24f308f1793025110510dbeb53987",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/victima.OZT",
+                      "sha256":  "bf01885abe3115ceec2ca33b25e2f05d177d20b33dc2726fbb3ca973691b1cc6",
                       "size":  262166
                   },
                   {
@@ -18650,7 +18700,7 @@
                   },
                   {
                       "path":  "Data/Local/Eng/MoveReq_eng.bmd",
-                      "sha256":  "1894a85e26663058a7c95e5a3a2e895f3435891988545ae9585146b2d8cd74a1",
+                      "sha256":  "d0cef70e595a628773dd5bf83dae9fa79b6637c3327a537d52d0df5ecb484e48",
                       "size":  4204
                   },
                   {
@@ -18790,8 +18840,8 @@
                   },
                   {
                       "path":  "Data/Local/mix.bmd",
-                      "sha256":  "7c01e776fa9f453417276ed17c82c61bbe0c82eeecb42061c2fcc43d047826ed",
-                      "size":  87960
+                      "sha256":  "86c2443c3361a0eaba18d53dfe48dd18b67948ab0030caffcbabbae1f7cc9525",
+                      "size":  89928
                   },
                   {
                       "path":  "Data/Local/MonsterSkill.bmd",
@@ -18800,7 +18850,7 @@
                   },
                   {
                       "path":  "Data/Local/Movereq.bmd",
-                      "sha256":  "0ea18cf4c37d7dc05bd2dc9dd4159e8e72a4bea17655399e652a03e1cfc69287",
+                      "sha256":  "30142c6899d7bac3cb59b9f3adb3fabfc900f55ad7219a4828c745a1ebc5aaae",
                       "size":  4204
                   },
                   {
@@ -19380,7 +19430,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/MoveReq_por.bmd",
-                      "sha256":  "1cf0ecc84e0ad81dd3aa91daa44ab0c7ca34101d22cfb784b2a169d1f8f18e7a",
+                      "sha256":  "4e5e6d29ff57d44cf59ed749b9e8bb6ea7428d22457fa2311eab659f98c57170",
                       "size":  4204
                   },
                   {
@@ -19930,7 +19980,7 @@
                   },
                   {
                       "path":  "Data/Local/Spn/movereq_spn.bmd",
-                      "sha256":  "8380c0c6ed0ba0dd5d35c535f64d45eaae87357d844413f684debee4dff67ba2",
+                      "sha256":  "22330ee3131053bb316c3ff65ce333e2d01edb8579b2832a464b56badc06611f",
                       "size":  4204
                   },
                   {
@@ -99430,8 +99480,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "b09903c5abb89a9d16c22e1935bbd5263d1b41afe6afd57e03e53b951ff355f6",
-                      "size":  16499176
+                      "sha256":  "ee298c45ff224fe6125fcedc0b1fa26c0ae469517ceb3e96b4437bdae3fb47ac",
+                      "size":  16510448
                   },
                   {
                       "path":  "msvcp140.dll",
@@ -99440,12 +99490,12 @@
                   },
                   {
                       "path":  "MuHorizon.CrashReporter.exe",
-                      "sha256":  "c27a266c7e8f932496eab9290a068c3d295fdcae8eb313efc9101ea5741d5a16",
+                      "sha256":  "5b6433e8eb96608f9642e705af958a90c03729681f2125eae34985f4400a9df6",
                       "size":  116861136
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
-                      "sha256":  "0ffbc4d02d54daa859d1e4d39c68ffa88d61f10ac84076df3a5cbb8e5bcec0c2",
+                      "sha256":  "fbf2b085cf05dd75d54584b77c336a368a6fea961bcfcf13c38ee27fb106071f",
                       "size":  2646504
                   },
                   {
@@ -108348,8 +108398,8 @@
                                        },
                                        {
                                            "path":  "Main.exe",
-                                           "sha256":  "2decc7c6b6cf3737e9195aebab35221b453e8ce8e5ac95f6cb2746d26e809a02",
-                                           "size":  18780136
+                                           "sha256":  "319bc334528164ee434fb96c231469364ab8a57d883f6e333b8da467a437c5d3",
+                                           "size":  18794472
                                        },
                                        {
                                            "path":  "msvcp140.dll",
@@ -108358,8 +108408,8 @@
                                        },
                                        {
                                            "path":  "MUnique.Client.Library.dll",
-                                           "sha256":  "95162e53872d5e1e1c0592a641ef40128b033fea95d99bfae57e6e4f13a87b9a",
-                                           "size":  3123184
+                                           "sha256":  "2d0cde589be4dfb36af2cb267938f1bfbc7e780ce710db92669f1d3433230b7a",
+                                           "size":  3123176
                                        },
                                        {
                                            "path":  "vcruntime140.dll",
@@ -108375,11 +108425,11 @@
                      }
                  ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/a94a4c332ba7a81b5c87908e9c49ccb8b92a653e2fb487150f14deced57b95f2.zip",
-                     "sha256":  "a94a4c332ba7a81b5c87908e9c49ccb8b92a653e2fb487150f14deced57b95f2",
-                     "size":  9904597,
+                     "url":  "https://files.mu-horizon.com/zips/3fe87b052157554bcbdc90373d180c9d4decbf6b970478ba9762de3d4341ae4f.zip",
+                     "sha256":  "3fe87b052157554bcbdc90373d180c9d4decbf6b970478ba9762de3d4341ae4f",
+                     "size":  59688143,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-34/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-35/client-patch.zip"
                               ]
                  }
 }
