@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  38,
+    "patch":  39,
     "minLauncherVersion":  "1.12.0",
-    "releasedAt":  "2026-10-26T03:34:21.5568004Z",
-    "notes":  "Upgrade patch 38",
+    "releasedAt":  "2026-10-27T21:36:58.0289214Z",
+    "notes":  "Upgrade patch 39",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/803e3275890a94e20e0cb4f525a9819c132c252c8e094405c8e8369afcd701db.zip",
-                    "sha256":  "803e3275890a94e20e0cb4f525a9819c132c252c8e094405c8e8369afcd701db",
-                    "size":  1740521160,
+                    "url":  "https://files.mu-horizon.com/zips/59ee0c0d2fa093ed39dbd4a56e67ffb37e4697cb9c032dbb0070e8ef10716981.zip",
+                    "sha256":  "59ee0c0d2fa093ed39dbd4a56e67ffb37e4697cb9c032dbb0070e8ef10716981",
+                    "size":  1747603158,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-38/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-39/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -97,6 +97,11 @@
                       "path":  "Data/Effect/blood01.ozt",
                       "sha256":  "b544ade9635359af5aa814db21093133d2fa86f63b1c5308c5c1dbbe265b30fc",
                       "size":  16432
+                  },
+                  {
+                      "path":  "Data/Effect/blood-pact-flow.OZJ",
+                      "sha256":  "b74ebda20617f095810f81d82f19c0b1878a0574120e30be36f9da789b4a4d43",
+                      "size":  2443
                   },
                   {
                       "path":  "Data/Effect/bluering0001_R.OZJ",
@@ -2330,8 +2335,8 @@
                   },
                   {
                       "path":  "Data/Guia/guide.pack",
-                      "sha256":  "5b08627cbaebcf105a79568153f31c9fa802cc4f297672919683ba467cfe5904",
-                      "size":  675410
+                      "sha256":  "b6119f9418b35a26dcb933a0043611f3c15cd83f2b4454538383b5c920b26f16",
+                      "size":  675538
                   },
                   {
                       "path":  "Data/Guia/img/arena.OZJ",
@@ -2775,18 +2780,18 @@
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSPackage.txt",
-                      "sha256":  "1e20ac0599e3fc258782b21ea22b5f6158d9b2182d3c758aa83b50e745420679",
-                      "size":  17536
+                      "sha256":  "8e7d1bedf3eb067a4fee61860779f93fd549a6d3ecd18033bc10750f8ad04faf",
+                      "size":  18392
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSProduct.txt",
-                      "sha256":  "e261c191f544628ab391d27afacb7cf5ef5653c7e8973f828d1d6d57657dde8f",
-                      "size":  13466
+                      "sha256":  "484e8875114c340bbdccce8c49035aeb17a1ae728b8c720f0dcc3263cd67202c",
+                      "size":  13721
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSText.es.txt",
-                      "sha256":  "0ccde3f28eaa230967e33f8359ff57f61da051015535776761c0cd72019464d2",
-                      "size":  14433
+                      "sha256":  "37561655069c62cdf23d5a43324ba0eb3fddf2a13e53514453f0d4212cedf780",
+                      "size":  15014
                   },
                   {
                       "path":  "Data/Interface/accept_box01.OZJ",
@@ -5482,6 +5487,16 @@
                       "path":  "Data/Interface/newui_expansion_btn.OZT",
                       "sha256":  "f499fede069cfe53ebe766d908524aa74f341ad964503e54e4080ea41a94deef",
                       "size":  133654
+                  },
+                  {
+                      "path":  "Data/Interface/newui_fenrir_thunder_beam.OZJ",
+                      "sha256":  "989c0ae853c56f903a71d8777c06a6762bbcd2764fd140e20033d9486a912025",
+                      "size":  191962
+                  },
+                  {
+                      "path":  "Data/Interface/newui_fenrir_thunder_beam_classic.OZJ",
+                      "sha256":  "989c0ae853c56f903a71d8777c06a6762bbcd2764fd140e20033d9486a912025",
+                      "size":  191962
                   },
                   {
                       "path":  "Data/Interface/newui_Figure_blood.OZT",
@@ -16870,8 +16885,8 @@
                   },
                   {
                       "path":  "Data/Item/UniqueModels/3_12.bmd",
-                      "sha256":  "e6b6294cfa70e60ab481d3c00fc48b51c269a2b4e93c846e30e5eae4bdf343e5",
-                      "size":  958745
+                      "sha256":  "0535eb0ece7720326ee05ece23ff50e863566527dde069901ca00a7f81e1c369",
+                      "size":  218519
                   },
                   {
                       "path":  "Data/Item/UniqueModels/3_13.bmd",
@@ -17577,6 +17592,36 @@
                       "path":  "Data/Item/UniqueModels/nks04.OZJ",
                       "sha256":  "a1f3b61ee52f97d9e200d88b9de47f472c4275b3d4f76b034770a9775c0dbeac",
                       "size":  3036
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/pact_blade.OZJ",
+                      "sha256":  "73e8abd09b8d95deafbe660d4471eae49aac79ff65336dfbfab553ecd9317eaa",
+                      "size":  77934
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/pact_channel.OZJ",
+                      "sha256":  "7aad20e0805fc5061f93eb6c54218fe0947de989591611bd256f03ef7d090f79",
+                      "size":  3216
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/pact_haft.OZJ",
+                      "sha256":  "ed8c60af52be52b701da609af457153f4211c4c1f5d08951e1ab601115b37c6a",
+                      "size":  92653
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/pact_inlay.OZJ",
+                      "sha256":  "9794f7295cf4d2c943cd880b4669cb0d64eec9036c0cfdfec3869a7622a13e45",
+                      "size":  1954
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/pact_prongs.OZJ",
+                      "sha256":  "73e8abd09b8d95deafbe660d4471eae49aac79ff65336dfbfab553ecd9317eaa",
+                      "size":  77934
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/pact_relief.OZJ",
+                      "sha256":  "b68d7ec7055c59e5152df57d18175bd62816a132f78b827ab5706a4cb8fb1bec",
+                      "size":  108576
                   },
                   {
                       "path":  "Data/Item/UniqueModels/stellar_blade.OZJ",
@@ -18465,7 +18510,7 @@
                   },
                   {
                       "path":  "Data/Local/Eng/item_eng.bmd",
-                      "sha256":  "cea2878600f69d6de09bd45fedd6d09364b8691aaf4b3a0bacaa26c3e15d1e9c",
+                      "sha256":  "7fec3d992478beaa777b1894d9716c3065722cb70a42182b5283a331b6d387c2",
                       "size":  851972
                   },
                   {
@@ -19120,7 +19165,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/item_por.bmd",
-                      "sha256":  "1e15bc1d9afcb6cb159bcd2ba7a446e0b18cf111d1d1670c817898139db89feb",
+                      "sha256":  "d7b879e63f83500871dd971010569dd240efe9185f5b54d4c4850d9018c05740",
                       "size":  851972
                   },
                   {
@@ -19750,7 +19795,7 @@
                   },
                   {
                       "path":  "Data/Local/Spn/item_spn.bmd",
-                      "sha256":  "f8bd5de4e75c293dbb1a496c4d520bc6c0a4c8361189ca2e843c663d2a85b2ce",
+                      "sha256":  "3001e1c565c18d7f2515959393b5f41dffb709d407aae8bdb89d9815fabbf103",
                       "size":  851972
                   },
                   {
@@ -25835,7 +25880,7 @@
                   },
                   {
                       "path":  "Data/MonsterSpots.txt",
-                      "sha256":  "bfdcc8b1aefc7571e47d7991e966c9f8f566afc1c528effb75fd7211654ddb35",
+                      "sha256":  "81cf6fc08c16e8fab20c667856191d48e0e97ad52b8f5c465b66b92a97968b02",
                       "size":  44527
                   },
                   {
@@ -88990,7 +89035,7 @@
                   },
                   {
                       "path":  "Data/UniqueItems.txt",
-                      "sha256":  "69bea53da5615f285fb5f2bbc5df17f6927e2cc767142074b3a5cd4889885071",
+                      "sha256":  "392bb59e296f99f4ed9a9092e9cd2ff621502a60e875ff933e51c0a80bb3b79b",
                       "size":  5595
                   },
                   {
@@ -95799,6 +95844,276 @@
                       "size":  34393
                   },
                   {
+                      "path":  "Data/World84/EncTerrain84.att",
+                      "sha256":  "6334994f950f7247ca2988cb79b967a770553f7f2fbdb23999f1fbb8f263fdde",
+                      "size":  65540
+                  },
+                  {
+                      "path":  "Data/World84/EncTerrain84.map",
+                      "sha256":  "8929050f376ec1dfc10807ce8a6b61bfdbb78ee2d5df2e2807f3227060056ed7",
+                      "size":  196610
+                  },
+                  {
+                      "path":  "Data/World84/EncTerrain84.obj",
+                      "sha256":  "6c0f8a8ffc51d5148386de7f5da0e0a8690f0d98597ba6ff95d9c212bf2b6172",
+                      "size":  98344
+                  },
+                  {
+                      "path":  "Data/World84/mini_map.OZT",
+                      "sha256":  "064fe69de3c06e26471a1d779ad1b32a9647c3b68865034335674d1f3013736a",
+                      "size":  4194352
+                  },
+                  {
+                      "path":  "Data/World84/TerrainHeight.OZB",
+                      "sha256":  "36af99336f1a5afbb78c965d21641c6bad9075a2f69295c15d4d5aaee52599b3",
+                      "size":  66620
+                  },
+                  {
+                      "path":  "Data/World84/TerrainLight.OZJ",
+                      "sha256":  "55f9da45dbdceb566e3cd02bf19642cfe6f8d04cbe6a7f789ccb5c4090a65f96",
+                      "size":  25228
+                  },
+                  {
+                      "path":  "Data/World84/TileGrass01.OZJ",
+                      "sha256":  "d32a5e2b81f76559c4289268e512995de440fbdb521563adffacb1d1b72f1770",
+                      "size":  138297
+                  },
+                  {
+                      "path":  "Data/World84/TileGrass01.OZT",
+                      "sha256":  "54f7bf2cd5963677e3feb6ec354fc0dcc8481d79cf9091ee7dfbe4f390db5cd6",
+                      "size":  65584
+                  },
+                  {
+                      "path":  "Data/World84/TileGrass02.OZJ",
+                      "sha256":  "0615192821555d14d5b153fb3c705cee759f10f4032c320ad999ba856f35441f",
+                      "size":  152839
+                  },
+                  {
+                      "path":  "Data/World84/TileGround01.OZJ",
+                      "sha256":  "ad55580452bacc933ac2b97dd807584d7118a4cfae89f7a8b24d96f92462e63a",
+                      "size":  143025
+                  },
+                  {
+                      "path":  "Data/World84/TileGround02.OZJ",
+                      "sha256":  "e1d3d38ab0ce30d14b9ab3cdabf47ef4dc0d9690642fcb442e67495b0e66ed52",
+                      "size":  124634
+                  },
+                  {
+                      "path":  "Data/World84/TileGround03.OZJ",
+                      "sha256":  "5e539d38963f06349e19c24462a140d46a78bf6e4681fda6ac78d5a9360e9309",
+                      "size":  158186
+                  },
+                  {
+                      "path":  "Data/World84/TileRock01.OZJ",
+                      "sha256":  "c6f9309f0033c266fb3f273dc5ebfff75f60865a75deaa3031b8964724089f37",
+                      "size":  123104
+                  },
+                  {
+                      "path":  "Data/World84/TileRock02.OZJ",
+                      "sha256":  "666adcd1c8ea069153a6d2c86888843f89d6c07864b062bba23cc2b85cd6864f",
+                      "size":  125661
+                  },
+                  {
+                      "path":  "Data/World84/TileRock03.OZJ",
+                      "sha256":  "a909ccad85465bf1576f99bc8ecdfba9a54960773e308aac354624f1b29bc9b7",
+                      "size":  137032
+                  },
+                  {
+                      "path":  "Data/World84/TileRock04.OZJ",
+                      "sha256":  "c6c9d9ba15d4bd671873d5696a7292cc6f52695da2e52583d2d59e7e6cc9c3b3",
+                      "size":  131538
+                  },
+                  {
+                      "path":  "Data/World84/TileWater01.OZJ",
+                      "sha256":  "247700eacae90f53efc092a6b8a759aef29365243c90a29033a9f6ebdd5c30d2",
+                      "size":  87988
+                  },
+                  {
+                      "path":  "Data/World84/TileWood01.OZJ",
+                      "sha256":  "f9ce64a729db4cd767ae9b39f61461850866925a87eac062cd8dfad296a91394",
+                      "size":  80994
+                  },
+                  {
+                      "path":  "Data/World85/EncTerrain85.att",
+                      "sha256":  "aacc9e0feb61ed8ef18981487d7aea649aef42ab54a8ebe2d3200ff775e482d7",
+                      "size":  65540
+                  },
+                  {
+                      "path":  "Data/World85/EncTerrain85.map",
+                      "sha256":  "e3146a1b71e025eb0d30e905effd7f0717ea78c9ce799c3e26992166373df2da",
+                      "size":  196610
+                  },
+                  {
+                      "path":  "Data/World85/EncTerrain85.obj",
+                      "sha256":  "e83e55219d87e42cb5dd8b4210d8acad75f1ba2c8a0f3a763a2b30f73bcd3df0",
+                      "size":  41164
+                  },
+                  {
+                      "path":  "Data/World85/mini_map.OZT",
+                      "sha256":  "eebee066d2756df1e4ba11b0acf1356f2a3540fd9a5d519f54bb8441b19fc731",
+                      "size":  4194352
+                  },
+                  {
+                      "path":  "Data/World85/TerrainHeight.OZB",
+                      "sha256":  "f28cfdc1fe518b26f26189bf824ab4cd5e65085ad6e8433282d1be8afaec9444",
+                      "size":  66620
+                  },
+                  {
+                      "path":  "Data/World85/TerrainLight.OZJ",
+                      "sha256":  "6b03be9554bf129ac9553fb1a402cefc6425b698db0e311f26097f0a5128dc3b",
+                      "size":  32073
+                  },
+                  {
+                      "path":  "Data/World85/TileGrass01.OZJ",
+                      "sha256":  "d32a5e2b81f76559c4289268e512995de440fbdb521563adffacb1d1b72f1770",
+                      "size":  138297
+                  },
+                  {
+                      "path":  "Data/World85/TileGrass01.OZT",
+                      "sha256":  "54f7bf2cd5963677e3feb6ec354fc0dcc8481d79cf9091ee7dfbe4f390db5cd6",
+                      "size":  65584
+                  },
+                  {
+                      "path":  "Data/World85/TileGrass02.OZJ",
+                      "sha256":  "0615192821555d14d5b153fb3c705cee759f10f4032c320ad999ba856f35441f",
+                      "size":  152839
+                  },
+                  {
+                      "path":  "Data/World85/TileGround01.OZJ",
+                      "sha256":  "ad55580452bacc933ac2b97dd807584d7118a4cfae89f7a8b24d96f92462e63a",
+                      "size":  143025
+                  },
+                  {
+                      "path":  "Data/World85/TileGround02.OZJ",
+                      "sha256":  "e1d3d38ab0ce30d14b9ab3cdabf47ef4dc0d9690642fcb442e67495b0e66ed52",
+                      "size":  124634
+                  },
+                  {
+                      "path":  "Data/World85/TileGround03.OZJ",
+                      "sha256":  "5e539d38963f06349e19c24462a140d46a78bf6e4681fda6ac78d5a9360e9309",
+                      "size":  158186
+                  },
+                  {
+                      "path":  "Data/World85/TileRock01.OZJ",
+                      "sha256":  "c6f9309f0033c266fb3f273dc5ebfff75f60865a75deaa3031b8964724089f37",
+                      "size":  123104
+                  },
+                  {
+                      "path":  "Data/World85/TileRock02.OZJ",
+                      "sha256":  "666adcd1c8ea069153a6d2c86888843f89d6c07864b062bba23cc2b85cd6864f",
+                      "size":  125661
+                  },
+                  {
+                      "path":  "Data/World85/TileRock03.OZJ",
+                      "sha256":  "a909ccad85465bf1576f99bc8ecdfba9a54960773e308aac354624f1b29bc9b7",
+                      "size":  137032
+                  },
+                  {
+                      "path":  "Data/World85/TileRock04.OZJ",
+                      "sha256":  "c6c9d9ba15d4bd671873d5696a7292cc6f52695da2e52583d2d59e7e6cc9c3b3",
+                      "size":  131538
+                  },
+                  {
+                      "path":  "Data/World85/TileWater01.OZJ",
+                      "sha256":  "247700eacae90f53efc092a6b8a759aef29365243c90a29033a9f6ebdd5c30d2",
+                      "size":  87988
+                  },
+                  {
+                      "path":  "Data/World85/TileWood01.OZJ",
+                      "sha256":  "f9ce64a729db4cd767ae9b39f61461850866925a87eac062cd8dfad296a91394",
+                      "size":  80994
+                  },
+                  {
+                      "path":  "Data/World86/EncTerrain86.att",
+                      "sha256":  "b43ee415717c6f4e13506293cf475fa3af424896cd211f38c1de0c54e1513b32",
+                      "size":  65540
+                  },
+                  {
+                      "path":  "Data/World86/EncTerrain86.map",
+                      "sha256":  "3afb5747e00d96a4ce402c9fc06b4f4d6614f32564e5188a57da1d9449e05a3f",
+                      "size":  196610
+                  },
+                  {
+                      "path":  "Data/World86/EncTerrain86.obj",
+                      "sha256":  "76e579541965e895b20c821739a0a37125e698be8436f6a1cd3d6f83ec8c5985",
+                      "size":  78244
+                  },
+                  {
+                      "path":  "Data/World86/mini_map.OZT",
+                      "sha256":  "3fcb0954c5b9f93ab1c9b377a434db81778271b8583ab95911b74693f05ad7ae",
+                      "size":  4194352
+                  },
+                  {
+                      "path":  "Data/World86/TerrainHeight.OZB",
+                      "sha256":  "80d76e8a6621b90d92e0c10123136ad5ba2e791b37745d4dbefbf09fb4f40592",
+                      "size":  66620
+                  },
+                  {
+                      "path":  "Data/World86/TerrainLight.OZJ",
+                      "sha256":  "12c407fe7824402905addaf0e5709317e0e9b5f5e2f3b874e7adc9584a3e8a91",
+                      "size":  23401
+                  },
+                  {
+                      "path":  "Data/World86/TileGrass01.OZJ",
+                      "sha256":  "d32a5e2b81f76559c4289268e512995de440fbdb521563adffacb1d1b72f1770",
+                      "size":  138297
+                  },
+                  {
+                      "path":  "Data/World86/TileGrass01.OZT",
+                      "sha256":  "54f7bf2cd5963677e3feb6ec354fc0dcc8481d79cf9091ee7dfbe4f390db5cd6",
+                      "size":  65584
+                  },
+                  {
+                      "path":  "Data/World86/TileGrass02.OZJ",
+                      "sha256":  "0615192821555d14d5b153fb3c705cee759f10f4032c320ad999ba856f35441f",
+                      "size":  152839
+                  },
+                  {
+                      "path":  "Data/World86/TileGround01.OZJ",
+                      "sha256":  "ad55580452bacc933ac2b97dd807584d7118a4cfae89f7a8b24d96f92462e63a",
+                      "size":  143025
+                  },
+                  {
+                      "path":  "Data/World86/TileGround02.OZJ",
+                      "sha256":  "e1d3d38ab0ce30d14b9ab3cdabf47ef4dc0d9690642fcb442e67495b0e66ed52",
+                      "size":  124634
+                  },
+                  {
+                      "path":  "Data/World86/TileGround03.OZJ",
+                      "sha256":  "5e539d38963f06349e19c24462a140d46a78bf6e4681fda6ac78d5a9360e9309",
+                      "size":  158186
+                  },
+                  {
+                      "path":  "Data/World86/TileRock01.OZJ",
+                      "sha256":  "c6f9309f0033c266fb3f273dc5ebfff75f60865a75deaa3031b8964724089f37",
+                      "size":  123104
+                  },
+                  {
+                      "path":  "Data/World86/TileRock02.OZJ",
+                      "sha256":  "666adcd1c8ea069153a6d2c86888843f89d6c07864b062bba23cc2b85cd6864f",
+                      "size":  125661
+                  },
+                  {
+                      "path":  "Data/World86/TileRock03.OZJ",
+                      "sha256":  "a909ccad85465bf1576f99bc8ecdfba9a54960773e308aac354624f1b29bc9b7",
+                      "size":  137032
+                  },
+                  {
+                      "path":  "Data/World86/TileRock04.OZJ",
+                      "sha256":  "c6c9d9ba15d4bd671873d5696a7292cc6f52695da2e52583d2d59e7e6cc9c3b3",
+                      "size":  131538
+                  },
+                  {
+                      "path":  "Data/World86/TileWater01.OZJ",
+                      "sha256":  "247700eacae90f53efc092a6b8a759aef29365243c90a29033a9f6ebdd5c30d2",
+                      "size":  87988
+                  },
+                  {
+                      "path":  "Data/World86/TileWood01.OZJ",
+                      "sha256":  "f9ce64a729db4cd767ae9b39f61461850866925a87eac062cd8dfad296a91394",
+                      "size":  80994
+                  },
+                  {
                       "path":  "Data/World87/EncTerrain87.att",
                       "sha256":  "b02eb8ac234a7b6419fe25c8b82389a4b48a3c86294c72677cc3dea0432c7e20",
                       "size":  65540
@@ -96787,6 +97102,161 @@
                       "path":  "Data/World96/TileGrass01.OZJ",
                       "sha256":  "c62cfb90f07e6f778cce2325483985243d87230b1054b1c57d4ce53f166d536d",
                       "size":  111398
+                  },
+                  {
+                      "path":  "Data/World97/EncTerrain97.att",
+                      "sha256":  "08432fa4734346174dcdfa132150de2dd6a596404af9013528dbe96931569e79",
+                      "size":  65540
+                  },
+                  {
+                      "path":  "Data/World97/EncTerrain97.map",
+                      "sha256":  "9a780cacfb54c58910ae4502e2bfa137d991395bf545395f0241ccc4a61a541c",
+                      "size":  196610
+                  },
+                  {
+                      "path":  "Data/World97/EncTerrain97.obj",
+                      "sha256":  "67c793da026f865ac060d06ea0a26a5261c7f86ece2f83a5e4330e2c617f68b6",
+                      "size":  11824
+                  },
+                  {
+                      "path":  "Data/World97/leaf01.OZJ",
+                      "sha256":  "7f9abbec653d6265aa97c2f18a18e4f9d7ab06a54cb779752a0ed664e6176aa1",
+                      "size":  2171
+                  },
+                  {
+                      "path":  "Data/World97/leaf01.OZT",
+                      "sha256":  "bd5f1729d2ef79e6ba37f95368e0532876def38867a0c202bc042ae65502a56b",
+                      "size":  1072
+                  },
+                  {
+                      "path":  "Data/World97/leaf02.OZJ",
+                      "sha256":  "482397cd34e1fd9ff9028753e626bbb85e2617f64ae0dac4b078d0808f68cdea",
+                      "size":  4445
+                  },
+                  {
+                      "path":  "Data/World97/mini_map.OZT",
+                      "sha256":  "16fd8c77fa171f27e9b279060593b15c927fde0b1aac8b27ccf5fb203307cdf2",
+                      "size":  4194352
+                  },
+                  {
+                      "path":  "Data/World97/rain01.OZT",
+                      "sha256":  "c226da807aec48cd365853a045332496bc498d607acfaeae126dded8ccc6bf84",
+                      "size":  560
+                  },
+                  {
+                      "path":  "Data/World97/rain02.OZT",
+                      "sha256":  "b9ae6e6271087ec3084f6d8ea9b359e1477b24df3c71e90eb0a7e4b271f29218",
+                      "size":  2096
+                  },
+                  {
+                      "path":  "Data/World97/TerrainHeight.OZB",
+                      "sha256":  "aa5c81b13ec74b9d33da6826f25b0bd332ef2b8f488db48e8fc93b2542c61b3e",
+                      "size":  66620
+                  },
+                  {
+                      "path":  "Data/World97/TerrainLight.OZJ",
+                      "sha256":  "32faa842bd209a3a6613b5a0f4645d4f17e23a1b4be41a607f495959cddcd97d",
+                      "size":  4170
+                  },
+                  {
+                      "path":  "Data/World97/TileGrass01.OZJ",
+                      "sha256":  "db2e2f0f479a6e0744940cd1f2e310d8e0e531c57043874d2499ed29fe4410fe",
+                      "size":  58863
+                  },
+                  {
+                      "path":  "Data/World97/TileGrass01.OZT",
+                      "sha256":  "94a44b3139aa478f7866cd115b33ae6a5f91f73d9edce0e098105f0e8c622f6e",
+                      "size":  65584
+                  },
+                  {
+                      "path":  "Data/World97/TileGrass02.OZJ",
+                      "sha256":  "dd90693b601c393ac9e4822470e44abecb3dcd1dd9373e450dae3ecbfa00a769",
+                      "size":  67683
+                  },
+                  {
+                      "path":  "Data/World97/TileGrass02.OZT",
+                      "sha256":  "9342d270039fae028af0f1658c1bc5456cb616893d9239ff4549c6ed5b24ba3a",
+                      "size":  65584
+                  },
+                  {
+                      "path":  "Data/World97/TileGrass03.OZT",
+                      "sha256":  "4e8df0d1fe9342ad4ca541ffdf4918ed73492ebfc3fb44a52102224d141c526a",
+                      "size":  131120
+                  },
+                  {
+                      "path":  "Data/World97/TileGround01.OZJ",
+                      "sha256":  "e890a8344a0af1de3f72d5d1b94a789f746dc0ce3d5ba34850025736ffa8e8b0",
+                      "size":  17184
+                  },
+                  {
+                      "path":  "Data/World97/TileGround02.OZJ",
+                      "sha256":  "2e8e7a733457818c6ae0c03e02ce6a0834797048364350366c3790aab06f876d",
+                      "size":  69735
+                  },
+                  {
+                      "path":  "Data/World97/TileGround03.OZJ",
+                      "sha256":  "110e9d03087d120566e46162b11a1684576f23e69826bb4fb31e13b263449d04",
+                      "size":  72945
+                  },
+                  {
+                      "path":  "Data/World97/TileRock.OZJ",
+                      "sha256":  "835d4321ce4e8a7de22156c4b3458873470895fd2668ec3d9bcd3c25ecf36de2",
+                      "size":  80441
+                  },
+                  {
+                      "path":  "Data/World97/TileRock01.OZJ",
+                      "sha256":  "a3019594abf340aab2a76aea04c92817a6d2cc9791937f55c18c65a602446fb0",
+                      "size":  112199
+                  },
+                  {
+                      "path":  "Data/World97/TileRock02.OZJ",
+                      "sha256":  "c82392a3f9c1c8fbc274e1890e7ae090fc87e0538a8155c4c5b8777dfe511d1c",
+                      "size":  49809
+                  },
+                  {
+                      "path":  "Data/World97/TileRock03.OZJ",
+                      "sha256":  "36d03f9d56232a0683d663f5c069776d3443a32694da826173c36451c177aaef",
+                      "size":  33276
+                  },
+                  {
+                      "path":  "Data/World97/TileRock04.OZJ",
+                      "sha256":  "57065ae5e4d15254f391ee5b3d8ee5dfbc9990759bde73c8afb7e49fb4e16500",
+                      "size":  116532
+                  },
+                  {
+                      "path":  "Data/World97/TileRock05.OZJ",
+                      "sha256":  "2b8686979fe0421d61a36a82bbcfe46d5eb5a606918e6d50cdf31ad0022aa204",
+                      "size":  89205
+                  },
+                  {
+                      "path":  "Data/World97/TileRock06.OZJ",
+                      "sha256":  "fd643db9572401c886b6aaf977a1aa9bd66665db87b5cc923c5976752730b65c",
+                      "size":  12347
+                  },
+                  {
+                      "path":  "Data/World97/TileRock07.OZJ",
+                      "sha256":  "7aa3d6a6375be817a416961938c9d552da6907892b4b0f4c1ad5d13fd003bf85",
+                      "size":  92612
+                  },
+                  {
+                      "path":  "Data/World97/TileWater00.OZJ",
+                      "sha256":  "82af029e4a6a043b266561117fecd19b9452832c9b0701e0a4e7887d2c66110d",
+                      "size":  87373
+                  },
+                  {
+                      "path":  "Data/World97/TileWater01.OZJ",
+                      "sha256":  "ebee568613c52d0612407c7d76787431a879be4969033e75d0e3243b3d7eaf7f",
+                      "size":  60279
+                  },
+                  {
+                      "path":  "Data/World97/TileWater011.OZJ",
+                      "sha256":  "82af029e4a6a043b266561117fecd19b9452832c9b0701e0a4e7887d2c66110d",
+                      "size":  87373
+                  },
+                  {
+                      "path":  "Data/World97/TileWood01.OZJ",
+                      "sha256":  "0d03162e61d33def3196423d75e60fafc236abeb5a5ba1b2b9aee433a087ed80",
+                      "size":  36888
                   },
                   {
                       "path":  "DataHi-approved/Player/AMB01114306201313.ozj",
@@ -99485,8 +99955,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "e147a1777c652f074a721667ba22c7adc45a34495d09c430f1df47ab94723027",
-                      "size":  16664552
+                      "sha256":  "d96c3f6f35b4f19d0fb318c1c5bf4c2656bcd4c139910178a561a3aec0a66bcc",
+                      "size":  16719856
                   },
                   {
                       "path":  "msvcp140.dll",
@@ -99500,7 +99970,7 @@
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
-                      "sha256":  "6e48031f3b781902e4a236761524f83f9e570d01597bce2b06579a5952af6b43",
+                      "sha256":  "ee9ed9d8e581034c1ae7286c317e35e4ba89677e9e4b7781e91087f56301615c",
                       "size":  2648552
                   },
                   {
@@ -108403,8 +108873,8 @@
                                        },
                                        {
                                            "path":  "Main.exe",
-                                           "sha256":  "1d142f475b884f96c32d1805346ddf7ce714921603a5a933df1c6298768a4efb",
-                                           "size":  18976232
+                                           "sha256":  "5cc400eff22afd4a57c9cf15836cd0a88f99e0e7e08450f7a88443ff73b452a8",
+                                           "size":  19040744
                                        },
                                        {
                                            "path":  "msvcp140.dll",
@@ -108413,8 +108883,8 @@
                                        },
                                        {
                                            "path":  "MUnique.Client.Library.dll",
-                                           "sha256":  "8d6246387fe5f1ea3b8740357d96de496cfef746d0d06967a0c7c6e36ebe33df",
-                                           "size":  3124720
+                                           "sha256":  "5613b5b5c1a197623aecabded4cce4457393f3dda0ff4a9a8a2187c4d518f753",
+                                           "size":  3124712
                                        },
                                        {
                                            "path":  "vcruntime140.dll",
@@ -108430,11 +108900,11 @@
                      }
                  ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/e0dec330f67a9197cf1f56e93e658e0c7475088f8e9fc148c08aa1df29bd8516.zip",
-                     "sha256":  "e0dec330f67a9197cf1f56e93e658e0c7475088f8e9fc148c08aa1df29bd8516",
-                     "size":  8171166,
+                     "url":  "https://files.mu-horizon.com/zips/186fcac5d0855ef03b39da6503686a29617478deb4a6b3b10e309da8d3bf2d12.zip",
+                     "sha256":  "186fcac5d0855ef03b39da6503686a29617478deb4a6b3b10e309da8d3bf2d12",
+                     "size":  16042773,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-38/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-39/client-patch.zip"
                               ]
                  }
 }
