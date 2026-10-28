@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  40,
+    "patch":  41,
     "minLauncherVersion":  "1.12.0",
-    "releasedAt":  "2026-10-28T18:06:19.6833823Z",
-    "notes":  "Upgrade patch 40",
+    "releasedAt":  "2026-10-28T22:27:52.1511811Z",
+    "notes":  "Upgrade patch 41",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/c4623d0464a81b4d05f85f0e6198f80545619eb545a6d5c29be75c4718ffd9e2.zip",
-                    "sha256":  "c4623d0464a81b4d05f85f0e6198f80545619eb545a6d5c29be75c4718ffd9e2",
-                    "size":  1747603072,
+                    "url":  "https://files.mu-horizon.com/zips/e1e9c2391b2385233fb1cb6937fc4e9aa4c4262af6c76144695059ed85b1ae03.zip",
+                    "sha256":  "e1e9c2391b2385233fb1cb6937fc4e9aa4c4262af6c76144695059ed85b1ae03",
+                    "size":  1747270220,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-40/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-41/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -2330,7 +2330,7 @@
                   },
                   {
                       "path":  "Data/gate.bmd",
-                      "sha256":  "dfcd55e110a49985ded2fda42b9bdf43274bf9929f5590b594c9566b747f8640",
+                      "sha256":  "19060bc2ad9e8303dd57f4a4fb0ac47040dcb620b05c35a2793411ee315bb65d",
                       "size":  7168
                   },
                   {
@@ -2722,11 +2722,6 @@
                       "path":  "Data/InGameShopBanner/583.2026.001/more-than-a-game.OZJ",
                       "sha256":  "5008e172360ea0aa9a4b86b35d5cb599e6a2ddad9b4b020ddc02537273710057",
                       "size":  60934
-                  },
-                  {
-                      "path":  "Data/InGameShopScript/512.2011.006.rar",
-                      "sha256":  "8214e0619dc1c3e2fe56af009b05832c280e7257d4f3c693b0e02e1005b90cf1",
-                      "size":  11654
                   },
                   {
                       "path":  "Data/InGameShopScript/512.2011.006/IBSCategory.txt",
@@ -16699,11 +16694,6 @@
                       "size":  34902
                   },
                   {
-                      "path":  "Data/Item/UniqueLook/README.md",
-                      "sha256":  "8d56eb9dac6fe8cdadd8a0fb07e97e57b492282acf44471b2d7b7fc944ada97c",
-                      "size":  437
-                  },
-                  {
                       "path":  "Data/Item/UniqueModels/0_29.bmd",
                       "sha256":  "0e4aac6b3198a73327b4706b4e1a62bd8ab9710b91ba96a27ed8ac5fd9436535",
                       "size":  681008
@@ -18630,7 +18620,7 @@
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World42_eng.bmd",
-                      "sha256":  "cf31f041aee32982336e709656def0df3a1e6e1339d7d763f2c968ab322b667a",
+                      "sha256":  "c0469d23e41752eb26bd0bfd2c183caec3010c611c763c7bc6214f4913ec6d94",
                       "size":  11649
                   },
                   {
@@ -18685,17 +18675,17 @@
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World84_eng.bmd",
-                      "sha256":  "8b09ac3721e0009da7a05027f8049280efd868ec1a893e87404682cc44415f61",
+                      "sha256":  "6301cbe51049346308994f42b2051cbed51638e314fbdf7bd1a6023624a8f76b",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World85_Eng.bmd",
-                      "sha256":  "8b09ac3721e0009da7a05027f8049280efd868ec1a893e87404682cc44415f61",
+                      "sha256":  "137d89be438aaf4595a714a4cff144c02d4679e575862f7ad0c4c01fff9b08ad",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World86_Eng.bmd",
-                      "sha256":  "8b09ac3721e0009da7a05027f8049280efd868ec1a893e87404682cc44415f61",
+                      "sha256":  "5ea8e9705e1f8926802a5421a1823dd09d7398efa081de0af397ff4a3620348b",
                       "size":  11649
                   },
                   {
@@ -19325,7 +19315,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World42_por.bmd",
-                      "sha256":  "8cc180d0befac70605bbd75c0458be5854e6aa3bc15b0a6c18029a34f43e607d",
+                      "sha256":  "852c73aecb7f5c16c7c788215bc0f0be76357f63c35464336c6ca1d915cdda88",
                       "size":  11649
                   },
                   {
@@ -19410,17 +19400,17 @@
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World84_por.bmd",
-                      "sha256":  "8b09ac3721e0009da7a05027f8049280efd868ec1a893e87404682cc44415f61",
+                      "sha256":  "819f7c0f7fb0b99c1f77e53ded5a2d233e09f56100ee5f93826950b783486ac5",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World85_por.bmd",
-                      "sha256":  "8b09ac3721e0009da7a05027f8049280efd868ec1a893e87404682cc44415f61",
+                      "sha256":  "3b13ee8bbe6cb12ed3a396d90e3a5c0314a8065b5d7e04cd7a7af76bba287a42",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World86_por.bmd",
-                      "sha256":  "8b09ac3721e0009da7a05027f8049280efd868ec1a893e87404682cc44415f61",
+                      "sha256":  "ccd849d5de6f12bd673a34cf861ce095b1957385c88b3c5a1c4a1265a787ef2d",
                       "size":  11649
                   },
                   {
@@ -19910,7 +19900,7 @@
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World42_spn.bmd",
-                      "sha256":  "e70ee7a668432fd16d45e28b70143f38f351cf24caaacbb15a04d5e36382b905",
+                      "sha256":  "1db34434b7bb3f91e3585885aac4ad42d15b5ec686a8dc268a213409947e9ac6",
                       "size":  11649
                   },
                   {
@@ -19965,17 +19955,17 @@
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World84_spn.bmd",
-                      "sha256":  "8b09ac3721e0009da7a05027f8049280efd868ec1a893e87404682cc44415f61",
+                      "sha256":  "b43181a688e3c0b7f5b17554efa3d0046cc2f0e33f984f3aac0ca423899bb93e",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World85_spn.bmd",
-                      "sha256":  "8b09ac3721e0009da7a05027f8049280efd868ec1a893e87404682cc44415f61",
+                      "sha256":  "546e66b70941d8fd3a0b89cc1d07345fa87216ea4d942000b4ffb614041aecec",
                       "size":  11649
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World86_spn.bmd",
-                      "sha256":  "8b09ac3721e0009da7a05027f8049280efd868ec1a893e87404682cc44415f61",
+                      "sha256":  "b0a3f75fa6a04b3b402c68bfa7ab2b37c3f34e9ef8877c381af5fb60cc397216",
                       "size":  11649
                   },
                   {
@@ -23879,6 +23869,11 @@
                       "size":  383481
                   },
                   {
+                      "path":  "Data/Monster/Monster223.bmd",
+                      "sha256":  "6d1e0b441fbd02d6162bb32468cef9b8b3bcd10103483980ac73eb630502514e",
+                      "size":  200073
+                  },
+                  {
                       "path":  "Data/Monster/Monster23.bmd",
                       "sha256":  "911bd4ecd6e43c0875202145e0f705ff55183de5ebb097b4c6de14db85c2a4dd",
                       "size":  101534
@@ -25870,8 +25865,8 @@
                   },
                   {
                       "path":  "Data/MonsterModels.txt",
-                      "sha256":  "b32687c375b6e445e1bf1a375e687c49e8b6786518334a0acd7f33e1e5411576",
-                      "size":  11206
+                      "sha256":  "2bb11c7ceda7b5656865bee7c70f40279ff9904ddd2504f17e2266ea0866016c",
+                      "size":  11330
                   },
                   {
                       "path":  "Data/MonsterPieces.txt",
@@ -25890,8 +25885,8 @@
                   },
                   {
                       "path":  "Data/MonsterVariants.txt",
-                      "sha256":  "4ff9ca92edc6f08a51e8f95ef95d3cdd93e1dc70962320ca0626d6ef2705ac50",
-                      "size":  2589
+                      "sha256":  "20c679bdce58998a21748fc885cb912278267a40122ab4e85c5495a664a53993",
+                      "size":  2497
                   },
                   {
                       "path":  "Data/Music/Aida.mp3",
@@ -89444,11 +89439,6 @@
                       "size":  34393
                   },
                   {
-                      "path":  "Data/World1/xxx",
-                      "sha256":  "5abbe2d8f589908656e65e4de9809c5211b6d87ea3696b152debfc55c819a738",
-                      "size":  2096
-                  },
-                  {
                       "path":  "Data/World10/(Server)Terrion10.att",
                       "sha256":  "bd1dab714df4421dcd324f03e7f520e9f6ad4d5ced76a7dce7ba94675ef78449",
                       "size":  65539
@@ -90854,11 +90844,6 @@
                       "size":  138314
                   },
                   {
-                      "path":  "Data/World34/world34狼 官肺 啊扁.lnk",
-                      "sha256":  "dd8ead3c11cfe3b9feaee8da772123ed9b18a32ef9a8fedcaabaaec4e1a939ea",
-                      "size":  474
-                  },
-                  {
                       "path":  "Data/World35/EncTerrain35.att",
                       "sha256":  "b03bcb088dfd2df8c98c054a12a42ffad1fc4c8015933512310f1fce45770f72",
                       "size":  131076
@@ -91690,8 +91675,8 @@
                   },
                   {
                       "path":  "Data/World42/EncTerrain42.obj",
-                      "sha256":  "892408abac08d4541b9ff76de806c85cfab8e997bdef39dbba5d396969d2f639",
-                      "size":  45934
+                      "sha256":  "0d09fe9d8e95dcfb12f1e219ae85d669420e4171623dcf5fc093a6c687cb88fb",
+                      "size":  46054
                   },
                   {
                       "path":  "Data/World42/mini_map.OZT",
@@ -95845,33 +95830,33 @@
                   },
                   {
                       "path":  "Data/World84/EncTerrain84.att",
-                      "sha256":  "6334994f950f7247ca2988cb79b967a770553f7f2fbdb23999f1fbb8f263fdde",
+                      "sha256":  "98b2b3eb0a853e2d6df870c20c859ad986c9b4ed7c5217a29a47a42107dca70e",
                       "size":  65540
                   },
                   {
                       "path":  "Data/World84/EncTerrain84.map",
-                      "sha256":  "8929050f376ec1dfc10807ce8a6b61bfdbb78ee2d5df2e2807f3227060056ed7",
+                      "sha256":  "5b17e1e3f0f5bf693e7df3a8afd031a6d42fb26e29a27dd76378de089320e6ce",
                       "size":  196610
                   },
                   {
                       "path":  "Data/World84/EncTerrain84.obj",
-                      "sha256":  "6c0f8a8ffc51d5148386de7f5da0e0a8690f0d98597ba6ff95d9c212bf2b6172",
-                      "size":  98344
+                      "sha256":  "db8382b94a2c5dff229c33b72f8cfa4988eced873d9bea1f03d412800a302ebc",
+                      "size":  89164
                   },
                   {
                       "path":  "Data/World84/mini_map.OZT",
-                      "sha256":  "064fe69de3c06e26471a1d779ad1b32a9647c3b68865034335674d1f3013736a",
+                      "sha256":  "93c81e6dfcef6f6f54e1b6b49650a037ffff0b6e2876aafd66acd92399264fc6",
                       "size":  4194352
                   },
                   {
                       "path":  "Data/World84/TerrainHeight.OZB",
-                      "sha256":  "36af99336f1a5afbb78c965d21641c6bad9075a2f69295c15d4d5aaee52599b3",
+                      "sha256":  "cb78f359927a9788cc163493a6cad1f8ef1ecdafdf1e5eb4c1fb572f13e9a1fa",
                       "size":  66620
                   },
                   {
                       "path":  "Data/World84/TerrainLight.OZJ",
-                      "sha256":  "55f9da45dbdceb566e3cd02bf19642cfe6f8d04cbe6a7f789ccb5c4090a65f96",
-                      "size":  25228
+                      "sha256":  "2682e56c7a75877af89987b3532e0f7f62014fd434ffeaf3f33be8e85bed721a",
+                      "size":  21504
                   },
                   {
                       "path":  "Data/World84/TileGrass01.OZJ",
@@ -95935,33 +95920,33 @@
                   },
                   {
                       "path":  "Data/World85/EncTerrain85.att",
-                      "sha256":  "aacc9e0feb61ed8ef18981487d7aea649aef42ab54a8ebe2d3200ff775e482d7",
+                      "sha256":  "3ac81ed7d815202869aff6346cb88c75954566299f378f2d035d7c0679e7cb82",
                       "size":  65540
                   },
                   {
                       "path":  "Data/World85/EncTerrain85.map",
-                      "sha256":  "e3146a1b71e025eb0d30e905effd7f0717ea78c9ce799c3e26992166373df2da",
+                      "sha256":  "19cb5996cee34563233c9afba46f4962e6a0867a82cf039ae24353289ff81490",
                       "size":  196610
                   },
                   {
                       "path":  "Data/World85/EncTerrain85.obj",
-                      "sha256":  "e83e55219d87e42cb5dd8b4210d8acad75f1ba2c8a0f3a763a2b30f73bcd3df0",
-                      "size":  41164
+                      "sha256":  "97d0a14e5c1a4c55c34807acc75e602c26ff135fbe6e90874efe66d466d18ad9",
+                      "size":  64234
                   },
                   {
                       "path":  "Data/World85/mini_map.OZT",
-                      "sha256":  "eebee066d2756df1e4ba11b0acf1356f2a3540fd9a5d519f54bb8441b19fc731",
+                      "sha256":  "e99e51fdb652ec52940bbc5594c3041145579994d474b49efda42c1dc1202e86",
                       "size":  4194352
                   },
                   {
                       "path":  "Data/World85/TerrainHeight.OZB",
-                      "sha256":  "f28cfdc1fe518b26f26189bf824ab4cd5e65085ad6e8433282d1be8afaec9444",
+                      "sha256":  "5e262581fa531a4151c679005ed9d6eb5792a41572a493996e3c824b99ba6e78",
                       "size":  66620
                   },
                   {
                       "path":  "Data/World85/TerrainLight.OZJ",
-                      "sha256":  "6b03be9554bf129ac9553fb1a402cefc6425b698db0e311f26097f0a5128dc3b",
-                      "size":  32073
+                      "sha256":  "3cd565391d2d60d75a7d0f315cb5fb60aa6ed248b3d48fa478f5531ff714fb34",
+                      "size":  28783
                   },
                   {
                       "path":  "Data/World85/TileGrass01.OZJ",
@@ -96030,13 +96015,13 @@
                   },
                   {
                       "path":  "Data/World86/EncTerrain86.map",
-                      "sha256":  "3afb5747e00d96a4ce402c9fc06b4f4d6614f32564e5188a57da1d9449e05a3f",
+                      "sha256":  "e239242f3dc7e155cc431a54c62b16505a9619fd96d4d150efc7f0d76e1a3a66",
                       "size":  196610
                   },
                   {
                       "path":  "Data/World86/EncTerrain86.obj",
-                      "sha256":  "76e579541965e895b20c821739a0a37125e698be8436f6a1cd3d6f83ec8c5985",
-                      "size":  78244
+                      "sha256":  "496fddc9704771f373f18bf5bf52f8744e893de8693682a37f525ba09050380c",
+                      "size":  77914
                   },
                   {
                       "path":  "Data/World86/mini_map.OZT",
@@ -96045,13 +96030,13 @@
                   },
                   {
                       "path":  "Data/World86/TerrainHeight.OZB",
-                      "sha256":  "80d76e8a6621b90d92e0c10123136ad5ba2e791b37745d4dbefbf09fb4f40592",
+                      "sha256":  "645dc4a2d495ea45c298ec81474b9c8cb2b15b2e7a211f5e3d23134c153d5419",
                       "size":  66620
                   },
                   {
                       "path":  "Data/World86/TerrainLight.OZJ",
-                      "sha256":  "12c407fe7824402905addaf0e5709317e0e9b5f5e2f3b874e7adc9584a3e8a91",
-                      "size":  23401
+                      "sha256":  "88b0119cf4891167ee1d088660fe63ed1473f51ddb5f371791467fd1a6f33e2e",
+                      "size":  21300
                   },
                   {
                       "path":  "Data/World86/TileGrass01.OZJ",
@@ -99955,8 +99940,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "6ac7b4efa6ea03fb490ad20d3d21efa6186a15fa0f79e19af44f96a2d797cfff",
-                      "size":  16719856
+                      "sha256":  "47c2177a8553e97932bd564f22d748a968240f5c2c844cd73be67ca07132287b",
+                      "size":  16730600
                   },
                   {
                       "path":  "msvcp140.dll",
@@ -99970,8 +99955,8 @@
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
-                      "sha256":  "0f678da4fb45b2c0090f6987ed59d2aebb7d7f8d135d7512db0a16c4d8bc6753",
-                      "size":  2648552
+                      "sha256":  "2d50600677bc7ea14d566683d884587907b20422a4a8d17eaa0ea9091f6d81d6",
+                      "size":  2649064
                   },
                   {
                       "path":  "ogg.dll",
@@ -108873,8 +108858,8 @@
                                        },
                                        {
                                            "path":  "Main.exe",
-                                           "sha256":  "76afe88d8cbeaa1a433a5497ecc6e53d04c6661242f6da53fc090dbdfbf08dd4",
-                                           "size":  19040744
+                                           "sha256":  "1af1c35b0a99137ae0617b348c8c4bee1fc9975ff6050d54844930786f0585c7",
+                                           "size":  19054056
                                        },
                                        {
                                            "path":  "msvcp140.dll",
@@ -108883,8 +108868,8 @@
                                        },
                                        {
                                            "path":  "MUnique.Client.Library.dll",
-                                           "sha256":  "25d228158aac28c4168d36540f4151159a144973632ba5d36531e66885191c5c",
-                                           "size":  3124720
+                                           "sha256":  "c9a8ecfbd5a7ec9d2b8c2c83728149619652dd097759f4d18d5fb16c0122f476",
+                                           "size":  3125736
                                        },
                                        {
                                            "path":  "vcruntime140.dll",
@@ -108900,11 +108885,11 @@
                      }
                  ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/ba88bd65cccdc4146d6a0ee73e184e08bca457d7a7098724894ba7f185bab9b6.zip",
-                     "sha256":  "ba88bd65cccdc4146d6a0ee73e184e08bca457d7a7098724894ba7f185bab9b6",
-                     "size":  8057527,
+                     "url":  "https://files.mu-horizon.com/zips/cf0976423e66e52104e6874a6ede1f8a3ea0339bfeaecd5e63a1301191ead440.zip",
+                     "sha256":  "cf0976423e66e52104e6874a6ede1f8a3ea0339bfeaecd5e63a1301191ead440",
+                     "size":  9244968,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-40/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-41/client-patch.zip"
                               ]
                  }
 }
