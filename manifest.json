@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  47,
+    "patch":  48,
     "minLauncherVersion":  "1.15.7",
-    "releasedAt":  "2026-10-31T21:07:08.4877908Z",
-    "notes":  "Upgrade patch 47",
+    "releasedAt":  "2026-11-01T01:24:52.9488055Z",
+    "notes":  "Upgrade patch 48",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/e6e5b71c3695527b8b3c44bbb588683a9ad47d91f1a5fa3f29a2fc3724c0246f.zip",
-                    "sha256":  "e6e5b71c3695527b8b3c44bbb588683a9ad47d91f1a5fa3f29a2fc3724c0246f",
-                    "size":  1747297356,
+                    "url":  "https://files.mu-horizon.com/zips/dc1638cbd4e700a75a25428164688c371c065516e74a25fac7233457a5a4d09c.zip",
+                    "sha256":  "dc1638cbd4e700a75a25428164688c371c065516e74a25fac7233457a5a4d09c",
+                    "size":  1747369514,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-47/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-48/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -18560,7 +18560,7 @@
                   },
                   {
                       "path":  "Data/Local/Eng/MasterSkillTooltip_eng.bmd",
-                      "sha256":  "c8389cc7494a7eb44368619f249d5f6984c43e1ca642a5d9c8bb0a39668eff40",
+                      "sha256":  "568e8d8e35c56987eaf8529e68da2363957fcb3b1482d735a99cdb85a0134177",
                       "size":  315396
                   },
                   {
@@ -18875,7 +18875,7 @@
                   },
                   {
                       "path":  "Data/Local/MasterSkillTreeData.bmd",
-                      "sha256":  "d5956ebb465755643bad689f8f18e6cef115d52b7806c86a62dc866c397ce9d7",
+                      "sha256":  "9aa129bbdc535ce059519e24ca8319219eaa054148a5b818a7ab07c44c3a238a",
                       "size":  12292
                   },
                   {
@@ -19840,7 +19840,7 @@
                   },
                   {
                       "path":  "Data/Local/Spn/MasterSkillTooltip_spn.bmd",
-                      "sha256":  "4cbff614276cfa4caa3c6abedd63c943e1e5aff296a0c211d435ccbf4602eca6",
+                      "sha256":  "bbb5498a2813fa7df53a700b36e0e86731661fdbdd60181b0d3eabe19f08b668",
                       "size":  315396
                   },
                   {
@@ -23874,6 +23874,16 @@
                       "size":  200073
                   },
                   {
+                      "path":  "Data/Monster/Monster224.bmd",
+                      "sha256":  "22d11c7b33db28a77c73d1b8bb70bd0149cfda0d3ee786c4bb4d99783df7bbb9",
+                      "size":  152678
+                  },
+                  {
+                      "path":  "Data/Monster/Monster225.bmd",
+                      "sha256":  "740bd11ff69c09f4b39a381bba30ffc9c5a0780f7b020f3fd05b8453e5eaeac3",
+                      "size":  152530
+                  },
+                  {
                       "path":  "Data/Monster/Monster23.bmd",
                       "sha256":  "911bd4ecd6e43c0875202145e0f705ff55183de5ebb097b4c6de14db85c2a4dd",
                       "size":  101534
@@ -24687,6 +24697,16 @@
                       "path":  "Data/Monster/pt3.OZJ",
                       "sha256":  "f2778c47df89c0ac6441681c24da8e17304b5cfb62aa727fac4838a1ea822311",
                       "size":  31969
+                  },
+                  {
+                      "path":  "Data/Monster/purge_blood.OZJ",
+                      "sha256":  "d81da1a4e2fc9f39b543b1ebc1db7e8616d19c7796ff732e494d89c666d27bc1",
+                      "size":  658
+                  },
+                  {
+                      "path":  "Data/Monster/purge_iron.OZJ",
+                      "sha256":  "d2616c854e1c929076aaa4820d0377fdc381a1afc8b8fab36fb2de908da8ec6b",
+                      "size":  655
                   },
                   {
                       "path":  "Data/Monster/quartermaster_body.OZJ",
@@ -99940,13 +99960,13 @@
                   },
                   {
                       "path":  "Horizon.Client.dll",
-                      "sha256":  "9860ce202e761c72080bad5064a5d69ed8f87133c725a0bc1995f85c0b227552",
+                      "sha256":  "9f87625503bc10ad44f61bc76821b2acf22ff4be2d7ac50e7417a6c12e030814",
                       "size":  2652648
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "f37fcc0af59035c9a1f44031ca0415a45d671d591e8e41abbf39234408120cf4",
-                      "size":  16783336
+                      "sha256":  "a5bdd6ca007f5a70badc729f8aac084cf92f9ed51abadc02ea52fc8d30fde305",
+                      "size":  16799728
                   },
                   {
                       "path":  "msvcp140.dll",
@@ -108858,13 +108878,13 @@
                                        },
                                        {
                                            "path":  "Horizon.Client.dll",
-                                           "sha256":  "16c41edeb0f6611dc51a3698773ad5919d6231faed187f6988a3fc674633aec8",
+                                           "sha256":  "33a73cbdb1eb25bd1df067becb44bb01f85a4ead750661ef934a979cc48401a9",
                                            "size":  3130856
                                        },
                                        {
                                            "path":  "Main.exe",
-                                           "sha256":  "e6ba2293d864ab370a6fdfd58ccd8e4a412e4257662151b8ced96596df33aac7",
-                                           "size":  19122664
+                                           "sha256":  "ffed7fc78cf268342aeceb3fb88813858e2262dfbfabb47b087ef9e8a918ebe6",
+                                           "size":  19140072
                                        },
                                        {
                                            "path":  "msvcp140.dll",
@@ -108897,11 +108917,11 @@
                            }
                        ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/5ebc0884493b290b877faa7502d2dc70825f00f9a710245ada1c736cc21376b6.zip",
-                     "sha256":  "5ebc0884493b290b877faa7502d2dc70825f00f9a710245ada1c736cc21376b6",
-                     "size":  8263420,
+                     "url":  "https://files.mu-horizon.com/zips/7598bedec826e8fa9d5ce9b2e321cffbd2806eed00c227d7814a6e44d7bffb94.zip",
+                     "sha256":  "7598bedec826e8fa9d5ce9b2e321cffbd2806eed00c227d7814a6e44d7bffb94",
+                     "size":  8196056,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-47/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-48/client-patch.zip"
                               ]
                  }
 }
