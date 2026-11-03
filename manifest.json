@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  52,
+    "patch":  53,
     "minLauncherVersion":  "1.15.7",
-    "releasedAt":  "2026-11-03T17:16:48.6458993Z",
-    "notes":  "Upgrade patch 52",
+    "releasedAt":  "2026-11-03T18:54:15.8806143Z",
+    "notes":  "Upgrade patch 53",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/8b0aa8c1745e7c63de3f6a0e4eae4b64833406e2d0baafc9df7290e9847602a8.zip",
-                    "sha256":  "8b0aa8c1745e7c63de3f6a0e4eae4b64833406e2d0baafc9df7290e9847602a8",
-                    "size":  1771834384,
+                    "url":  "https://files.mu-horizon.com/zips/6910befb75de20b91352ff11cd28daefd64275a4ade4007f488b4ac72f8c3b01.zip",
+                    "sha256":  "6910befb75de20b91352ff11cd28daefd64275a4ade4007f488b4ac72f8c3b01",
+                    "size":  1771834280,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-52/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-53/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -103030,12 +103030,12 @@
                   },
                   {
                       "path":  "Horizon.Client.dll",
-                      "sha256":  "49c70e41c951344b2f8ad9faf7a71ca8638d35e0c5ae56095344227b4b785ef4",
+                      "sha256":  "e4c50f9b0c5ebfda4a7c49ba239cfffeeb9eb50c32803a9b6cd35c196789f780",
                       "size":  2654696
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "84df0c8cc943778652452a1c852ab33b1497113b39daac75fcef3a01c1d83b5e",
+                      "sha256":  "aceb09b5557b0295998332af51bb76d7c9d4d4877491142e52c759d1c313ff46",
                       "size":  16963048
                   },
                   {
@@ -111949,12 +111949,12 @@
                                        },
                                        {
                                            "path":  "Horizon.Client.dll",
-                                           "sha256":  "34bdb1e777333fb7282c8ca4ed9d96fee12c2f50fad8c2e04d745f6f2e60880d",
-                                           "size":  3132400
+                                           "sha256":  "43555f2dd01fed979356de58b72978dda921dd95e51789d59c3d3482cf932dee",
+                                           "size":  3132392
                                        },
                                        {
                                            "path":  "Main.exe",
-                                           "sha256":  "d7092d1bb686e05ddc1121f5145f093952e01caa1485a6304d5d06841ea302f1",
+                                           "sha256":  "5d57f91f04b384c1f7565274a3e94d448382cfde8160c649d2cdc17e4c36ad92",
                                            "size":  19325416
                                        },
                                        {
@@ -111988,11 +111988,11 @@
                            }
                        ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/668cca6d041a0a623049f1492462d36265e9631a9ee8d684bef36aebe1e71aff.zip",
-                     "sha256":  "668cca6d041a0a623049f1492462d36265e9631a9ee8d684bef36aebe1e71aff",
-                     "size":  8404947,
+                     "url":  "https://files.mu-horizon.com/zips/6d687cf2dc8a6ef8c8e1898953ad88db19ab2682cc5c600b698f1b0edcdf84f5.zip",
+                     "sha256":  "6d687cf2dc8a6ef8c8e1898953ad88db19ab2682cc5c600b698f1b0edcdf84f5",
+                     "size":  8163437,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-52/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-53/client-patch.zip"
                               ]
                  }
 }
