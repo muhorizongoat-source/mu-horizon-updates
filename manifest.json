@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  54,
+    "patch":  55,
     "minLauncherVersion":  "1.15.7",
-    "releasedAt":  "2026-11-04T23:01:13.0491641Z",
-    "notes":  "Upgrade patch 54",
+    "releasedAt":  "2026-11-07T16:45:48.7067951Z",
+    "notes":  "Upgrade patch 55",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/bfc3303f56233ed6333e2b180003fcf0bc3050f6b61752bb34674ac2f34865b4.zip",
-                    "sha256":  "bfc3303f56233ed6333e2b180003fcf0bc3050f6b61752bb34674ac2f34865b4",
-                    "size":  1771836709,
+                    "url":  "https://files.mu-horizon.com/zips/ac6db886e768cf06a5aa2644956c425682637830a0eaa4c4803a0872b33f643e.zip",
+                    "sha256":  "ac6db886e768cf06a5aa2644956c425682637830a0eaa4c4803a0872b33f643e",
+                    "size":  1771846071,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-54/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-55/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -2335,8 +2335,8 @@
                   },
                   {
                       "path":  "Data/Guia/guide.pack",
-                      "sha256":  "0185b7c0b8bfbb6b3c95669d94c4aa177bab2648c963d870e1a0339753b0cb3c",
-                      "size":  878520
+                      "sha256":  "71d3d5362e0865f1a250ae5b39a954f94e046c5c529683cc865a36a3955e2233",
+                      "size":  878825
                   },
                   {
                       "path":  "Data/Guia/img/arena.OZJ",
@@ -18620,7 +18620,7 @@
                   },
                   {
                       "path":  "Data/Local/Eng/Minimap/Minimap_World3_eng.bmd",
-                      "sha256":  "198fc89d8f0487ba064c14802e7c68e183db4a733a526234215a5392ee4b0312",
+                      "sha256":  "6223e69d6781cbdd8ed60dbd94704ab096d052a9d5d5c7629af55e4e31d0749b",
                       "size":  11649
                   },
                   {
@@ -19280,7 +19280,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/Minimap/Minimap_World3_por.bmd",
-                      "sha256":  "1c2c7a6e9a955ebe9b9e8d4776768e984d7fcc3f7dccc55e3815f032fe55291a",
+                      "sha256":  "7b1f662209087cc1e7a890e54f915d732ba6081ff783292545c87aaeaa415c1a",
                       "size":  11649
                   },
                   {
@@ -19900,7 +19900,7 @@
                   },
                   {
                       "path":  "Data/Local/Spn/Minimap/Minimap_World3_spn.bmd",
-                      "sha256":  "30ec382531317a02de8521d920e356b670df2051fa8ef6439bd8e0f661ee3307",
+                      "sha256":  "7048c71ea079c3dece8f6b9b8fa6d73851474420d0727eb285869d2dad20ceb0",
                       "size":  11649
                   },
                   {
@@ -91960,13 +91960,13 @@
                   },
                   {
                       "path":  "Data/UniqueMods_Eng.txt",
-                      "sha256":  "b38e3d5256411a0e1a032b887b34ff5e5190886b5686f4c4ed0ba2d3208d4b83",
-                      "size":  8212
+                      "sha256":  "5010e50b163f5dfeb7ce79f2f5ec31bf110f3807da2ad9d196c8e54537c56cc3",
+                      "size":  8225
                   },
                   {
                       "path":  "Data/UniqueMods_Spn.txt",
-                      "sha256":  "784656a5690e2754107b363bf8a4a1dc3f43cdc9cc925e9410e9d5d49db45c7e",
-                      "size":  8395
+                      "sha256":  "b9ecb0333b11237d4f7fa8da44c42050f992e45f1d41f71f3bb556064a8f78f5",
+                      "size":  8413
                   },
                   {
                       "path":  "Data/upscaled.txt",
@@ -103030,13 +103030,13 @@
                   },
                   {
                       "path":  "Horizon.Client.dll",
-                      "sha256":  "be8aa4575a349fb0e91e6875aee2f71a2d0bd2ec1025c52d222552b57f9ef5ef",
+                      "sha256":  "a252898a59e8c475e7f89ff9fdbcf7847688daa4f45324f3f5f71f489b46aefa",
                       "size":  2654696
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "56eb7d811c734b47ff612caee20b134da14af82bb0aedd48792356c622e7bcbf",
-                      "size":  16993256
+                      "sha256":  "ad06ca846298d8f48999096a72b863ab1ec4e16018d181955b518b5d164edbdd",
+                      "size":  17005544
                   },
                   {
                       "path":  "msvcp140.dll",
@@ -111949,13 +111949,13 @@
                                        },
                                        {
                                            "path":  "Horizon.Client.dll",
-                                           "sha256":  "b255b86536f3484d53573024d69ae539a5b2e1842b1c59d5e5c4eac979a08848",
-                                           "size":  3132400
+                                           "sha256":  "834c5aee2b647a99e5e3b20e5d9a9f2d12506120bb7ab9ab700a75ca01e21c01",
+                                           "size":  3132392
                                        },
                                        {
                                            "path":  "Main.exe",
-                                           "sha256":  "4d552da98d02f66eea5f3a0b23ede5ecea26310360053466bd452800151f0410",
-                                           "size":  19383272
+                                           "sha256":  "d8748da28464f0441c7325d9abf41fb668d7a9ef9c57567ad0e377bd22cc5590",
+                                           "size":  19395048
                                        },
                                        {
                                            "path":  "msvcp140.dll",
@@ -111988,11 +111988,11 @@
                            }
                        ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/09825156574b167c29bd428124a695fe8a328fa597cc96df28c1b7001072bf2d.zip",
-                     "sha256":  "09825156574b167c29bd428124a695fe8a328fa597cc96df28c1b7001072bf2d",
-                     "size":  8250193,
+                     "url":  "https://files.mu-horizon.com/zips/a9e96f1f674f8805d917520042d1e3c111f8a4b493680fe9f32db0794b32860e.zip",
+                     "sha256":  "a9e96f1f674f8805d917520042d1e3c111f8a4b493680fe9f32db0794b32860e",
+                     "size":  8413679,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-54/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-55/client-patch.zip"
                               ]
                  }
 }
