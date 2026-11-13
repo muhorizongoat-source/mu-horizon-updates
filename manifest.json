@@ -1,20 +1,17 @@
 {
     "generation":  1,
-    "patch":  58,
+    "patch":  59,
     "minLauncherVersion":  "1.15.7",
-    "releasedAt":  "2026-11-09T01:21:25.1513677Z",
-    "notes":  "Upgrade patch 58",
+    "releasedAt":  "2026-11-13T20:52:55.8674235Z",
+    "notes":  "Upgrade patch 59",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/e8761462dbc4aa3719a53d3d4486e0e4c0bab8b39d7514ee2c10a3cb856b9edb.zip",
-                    "sha256":  "e8761462dbc4aa3719a53d3d4486e0e4c0bab8b39d7514ee2c10a3cb856b9edb",
-                    "size":  1771847134,
-                    "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-58/client-full.zip"
-                             ]
+                    "url":  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-59/client-full.zip",
+                    "sha256":  "86e667713e89b2ca97f138cb2558b9e2e635e776bc48158ce5360b923af5e9fd",
+                    "size":  1771848121
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
     "files":  [
@@ -103030,13 +103027,13 @@
                   },
                   {
                       "path":  "Horizon.Client.dll",
-                      "sha256":  "9180b8c9de6f6249f5631d9f566344cce542f2934773fe63635f26f0478dd63b",
+                      "sha256":  "a534b7812e6e36530e4050595b62f63371fc76d26db9ca21a62ff2156741f0b7",
                       "size":  2654696
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "672fab6a317f830b2457caf03affbdb2acd2339ef37f273401f1c58b37ac2f40",
-                      "size":  17014248
+                      "sha256":  "100fb20c27b4adaa6250783fa9aec6d49a54c405ffb4446e0a0b931077801314",
+                      "size":  17015784
                   },
                   {
                       "path":  "msvcp140.dll",
@@ -111949,13 +111946,13 @@
                                        },
                                        {
                                            "path":  "Horizon.Client.dll",
-                                           "sha256":  "e2f7f02be0db355ca5365f499f651905b765db447066eabd51e16a6754bb3364",
+                                           "sha256":  "925e0bc27bd9d75d55cd6de8c350d73a9c0c9b9b03a1c8b3c88c85c6699fbfa7",
                                            "size":  3132392
                                        },
                                        {
                                            "path":  "Main.exe",
-                                           "sha256":  "e44d29d32125e2aed05ae0ac404d66a7951d94210f827226c115b1ca14c4de10",
-                                           "size":  19405288
+                                           "sha256":  "8cb48a2a7d7a9cc5493fcc74886dfd755c2b40bfdf8ba18ccb7999d1eef17a7c",
+                                           "size":  19405800
                                        },
                                        {
                                            "path":  "msvcp140.dll",
@@ -111988,11 +111985,8 @@
                            }
                        ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/90f5e53a82db2f476e64cecff267616e8603b721e13518dbfb1bb703bcb8d8ad.zip",
-                     "sha256":  "90f5e53a82db2f476e64cecff267616e8603b721e13518dbfb1bb703bcb8d8ad",
-                     "size":  8298284,
-                     "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-58/client-patch.zip"
-                              ]
+                     "url":  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-59/client-patch.zip",
+                     "sha256":  "8accfe06f9abd069c4ed40ab3c2c86da4a2d2531bb2672b344158cbb91a0efca",
+                     "size":  8177518
                  }
 }
