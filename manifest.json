@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  61,
+    "patch":  62,
     "minLauncherVersion":  "1.15.7",
-    "releasedAt":  "2026-11-24T18:29:22.0663751Z",
-    "notes":  "Upgrade patch 61",
+    "releasedAt":  "2026-11-25T16:29:22.1219999Z",
+    "notes":  "Upgrade patch 62",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/12ea2baef368b1852146f0af684bd8ef3cd5b67a5cc59cb0d13c8351d32a8cd2.zip",
-                    "sha256":  "12ea2baef368b1852146f0af684bd8ef3cd5b67a5cc59cb0d13c8351d32a8cd2",
-                    "size":  1768478763,
+                    "url":  "https://files.mu-horizon.com/zips/0ea25872dd34802003e6be456584e89bc0f3c9a5adb704336fb91e12a940906f.zip",
+                    "sha256":  "0ea25872dd34802003e6be456584e89bc0f3c9a5adb704336fb91e12a940906f",
+                    "size":  1788429265,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-61-986528a3d/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-62/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -2335,8 +2335,8 @@
                   },
                   {
                       "path":  "Data/Guia/guide.pack",
-                      "sha256":  "2d1c62c6e96223fc7c45881540309e09c9ad96b674fa2c806008a126144e0a49",
-                      "size":  878965
+                      "sha256":  "c5042fde0cde022b286d76929f447006e01a80759d9782f3bbf05e839e9c800e",
+                      "size":  879005
                   },
                   {
                       "path":  "Data/Guia/img/arena.OZJ",
@@ -2775,18 +2775,18 @@
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSPackage.txt",
-                      "sha256":  "8e7d1bedf3eb067a4fee61860779f93fd549a6d3ecd18033bc10750f8ad04faf",
-                      "size":  18392
+                      "sha256":  "03fea2ff9768671fc666d11de6f2dc10089373f2d72226bf75d2692d5f9f07ea",
+                      "size":  19140
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSProduct.txt",
-                      "sha256":  "484e8875114c340bbdccce8c49035aeb17a1ae728b8c720f0dcc3263cd67202c",
-                      "size":  13721
+                      "sha256":  "13a0103ae56f127d98a07c4546bb23f5c5939e28a8ffda3cdf71f00592bd64f4",
+                      "size":  13891
                   },
                   {
                       "path":  "Data/InGameShopScript/583.2026.001/IBSText.es.txt",
-                      "sha256":  "37561655069c62cdf23d5a43324ba0eb3fddf2a13e53514453f0d4212cedf780",
-                      "size":  15014
+                      "sha256":  "f7afcf1c303a3c3724b2e6001c8a2f747b7aba344a1f00471112ec724cf30c08",
+                      "size":  15604
                   },
                   {
                       "path":  "Data/Interface/accept_box01.OZJ",
@@ -3352,6 +3352,41 @@
                       "path":  "Data/Interface/horizon_panel_top.OZT",
                       "sha256":  "edf5ad888a292bf8d0e79a968dbb50344a8a30e1f589f6dd2cb0b889476f5c11",
                       "size":  61662
+                  },
+                  {
+                      "path":  "Data/Interface/horizon_pvp_0.OZT",
+                      "sha256":  "3d588969deb7faf0eada5e0a8e51b8b6080d4c12657aaabb81525edf91e94e60",
+                      "size":  2097200
+                  },
+                  {
+                      "path":  "Data/Interface/horizon_pvp_1.OZT",
+                      "sha256":  "c3238ae18a81d771e94dcbe740e25e244a4aae6583282d5d7871ff0db834319a",
+                      "size":  2097200
+                  },
+                  {
+                      "path":  "Data/Interface/horizon_pvp_2.OZT",
+                      "sha256":  "29ffeccd6aa455ec199dd6921fa5af60916cb115805f452e89ef988c03ed6e44",
+                      "size":  2097200
+                  },
+                  {
+                      "path":  "Data/Interface/horizon_pvp_3.OZT",
+                      "sha256":  "5188a9a43e21097a905436c0108e124dca28a3e9fede57d93b16becc8ed831f1",
+                      "size":  2097200
+                  },
+                  {
+                      "path":  "Data/Interface/horizon_pvp_4.OZT",
+                      "sha256":  "dd28aad90b28b49492b821ab98bb839d08224d2096e0fb6a9820890d31653a38",
+                      "size":  2097200
+                  },
+                  {
+                      "path":  "Data/Interface/horizon_pvp_5.OZT",
+                      "sha256":  "b5ce19a71fbf39fa114dc3b03bac0be25b2253b4900a66a172138d0cf78f3ca4",
+                      "size":  2097200
+                  },
+                  {
+                      "path":  "Data/Interface/horizon_pvp_6.OZT",
+                      "sha256":  "3b14e01316f263faa9c0e547ce439c2849115dc232169f108035b9d7664461ae",
+                      "size":  2097200
                   },
                   {
                       "path":  "Data/Interface/horizon_skill_frame_obsidian.OZT",
@@ -7079,6 +7114,11 @@
                       "size":  262166
                   },
                   {
+                      "path":  "Data/Interface/SocialStickers/acuerdo.OZT",
+                      "sha256":  "f3310193fb808ba226977f579c5e33fb927e5b02131db8da105e227a0150a117",
+                      "size":  262166
+                  },
+                  {
                       "path":  "Data/Interface/SocialStickers/al-cielo.OZT",
                       "sha256":  "ce1352bc1e3462aa9992592010e4ba5e6682244b6b8f279c05c5421b998175de",
                       "size":  262166
@@ -7086,6 +7126,16 @@
                   {
                       "path":  "Data/Interface/SocialStickers/a-pinas.OZT",
                       "sha256":  "f2f61b2ae1add1a2beb2ec384e81c2718484b6c26f1d5e7e4d2b809d9afffb18",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/aware.OZT",
+                      "sha256":  "50cc4941a041bbc2c3db6bbf2d93a0a05fc5a0fa80387674ed0d818fa2f49fb5",
+                      "size":  1048598
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/barco.OZT",
+                      "sha256":  "52fceee685eb09f96c7aaecba0ef0f8523da0cbaa10ec8fdf1f8dd585bc2a6e8",
                       "size":  262166
                   },
                   {
@@ -7124,8 +7174,63 @@
                       "size":  262166
                   },
                   {
+                      "path":  "Data/Interface/SocialStickers/bob-burla.OZT",
+                      "sha256":  "557c88d6aa8f2ed05f9665e0d91feb3c499798964a1e97ddd8a3388e1a878255",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/bodoque.OZT",
+                      "sha256":  "fdaeda675e61d6c9949fe652f375af636f218d0921dff80910be4a444931ec47",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/bongo.OZT",
+                      "sha256":  "d138fa65d09adc63ec816bf8c0af318e23518fd92504caf8079e1ec170ad617a",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/cangrejo.OZT",
+                      "sha256":  "fa2c2c8b8a67329f5f1a8b0b2d256c0366601b63a620cbceee16afc43f5bf37e",
+                      "size":  1048598
+                  },
+                  {
                       "path":  "Data/Interface/SocialStickers/carcajada.OZT",
                       "sha256":  "f8ed5f4b7e4a612e370c50c6741c694458eb9b81a03628c00760c34ac56a8975",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/cerebro.OZT",
+                      "sha256":  "bb522f0d2346939d313cd96aa1683b0f3671d76b9da944efdb8f99ac8e1990dd",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/cheems.OZT",
+                      "sha256":  "ad4e2a095e3029405ef58cdbde4cec1bcfc96d27cc6256c8b61626c2bee48ac8",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/chill.OZT",
+                      "sha256":  "53c784b3fec112eff9b228d11d1125101a23d3ce9b6482a6fbf5fda9f5a00548",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/chloe.OZT",
+                      "sha256":  "ef77a9a0b3edcfc53b7db2ffd334f1277d98c672c7bf4a06d09f7635dfb6ecce",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/cine.OZT",
+                      "sha256":  "dcc036e8ea185fe2c886f328c2231fa56ce8b0a5e58ed4186d83db65de7e91b5",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/comandante.OZT",
+                      "sha256":  "08deca06b350f9335cee4495dd1fc7405352d2e99dea982bd3942a09bc8b19d8",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/dibu.OZT",
+                      "sha256":  "e4da2cf65609d7f2d316ce3df1f8821aaf286d27b7ebeefafca08844ca4c7d67",
                       "size":  262166
                   },
                   {
@@ -7164,6 +7269,16 @@
                       "size":  262166
                   },
                   {
+                      "path":  "Data/Interface/SocialStickers/doge.OZT",
+                      "sha256":  "092deabade075c6b924c030df43c386f74ab5c6aedad71b46eea6a610599f806",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/dos-spideys.OZT",
+                      "sha256":  "9d070d471c6e666f51b885695b27b93cfe03e8f9fd23588660b24b1e86be7ade",
+                      "size":  262166
+                  },
+                  {
                       "path":  "Data/Interface/SocialStickers/elf-beso.OZT",
                       "sha256":  "42fb3c7380fab64c60f0f8558484a3495e26168dafc1d809fa1f303721367748",
                       "size":  262166
@@ -7199,13 +7314,98 @@
                       "size":  262166
                   },
                   {
+                      "path":  "Data/Interface/SocialStickers/el-kun.OZT",
+                      "sha256":  "bad3186d5327fe837d89af39a0f28d371dd26d6bb73d429d6c61a524a2d80d91",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/elmo.OZT",
+                      "sha256":  "dfa9a8832f28937d0ae06ea21638e3a12f8d0b61232120b6723182550bf1d166",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/facepalm.OZT",
+                      "sha256":  "f3262ef8e9902f43eff0aec64571dd3781588c473ad1c9017a9af08a20e395be",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/farmea-aura.OZT",
+                      "sha256":  "81b964ce43fd3af153a87a5cc74d004f954117c841c8a95d07f56a5b170bb30a",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/floppa.OZT",
+                      "sha256":  "fd02f7965787ba12324ae212655d8ce3c748fb2f5afa463d3a1134922a539374",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/fry.OZT",
+                      "sha256":  "aaf959551349d90488565e9f48f3d59ebae1ed5a776fe30e0312775d8f665618",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/gato-aplaude.OZT",
+                      "sha256":  "13ebcd3a3ca550316d1fb674a9ae877086c22bdcc4b4e045eed310d129292813",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/gato-diario.OZT",
+                      "sha256":  "36c929e404ad6895eb165ca4bbb2b3551d5891bb7c57da0132936cc26e3902a5",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/gato-jam.OZT",
+                      "sha256":  "e90793ce49ec748a48dac5a278d4d86bfc79f1ea810eaf1585f3ce45903cd896",
+                      "size":  1048598
+                  },
+                  {
                       "path":  "Data/Interface/SocialStickers/gg.OZT",
                       "sha256":  "763a2c2679da813ad7ac9259b75bfc0faf43fc2fbcee690e36cf6be4e19dfca3",
                       "size":  262166
                   },
                   {
+                      "path":  "Data/Interface/SocialStickers/gigachad.OZT",
+                      "sha256":  "9faa14561f2d84c8eff3b36c6e674fea7052a38a571871b3bd09c7a28f3efa91",
+                      "size":  1048598
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/hagrid.OZT",
+                      "sha256":  "e6e9c938597cfc83afb32a994c6b563e988aa1fb0f67948e362d1c2f86e29517",
+                      "size":  262166
+                  },
+                  {
                       "path":  "Data/Interface/SocialStickers/harold.OZT",
                       "sha256":  "d728b63e799a1ae3ef2eb69730cf26a6a2ba376ab904079091488fecaafff633",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/hermosa.OZT",
+                      "sha256":  "bd8526c83f089c4892b1480b96fc8d7a4ed67bcf2112e04e5589ffe2b836dfde",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/honesto.OZT",
+                      "sha256":  "a1e4a0bea4a5657d3253e3be05e13d9fa809eac65d1a8c4376b52c9220a19dd0",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/incendio.OZT",
+                      "sha256":  "c2df9df5270922f173d201657bed7b1db546d0ebc60231a468db10e1deb6847b",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/keanu.OZT",
+                      "sha256":  "ed3bf2ab8eebaa105056fbe6342d7c7df2abf63a9aa1879fc4e36032ea8a6adb",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/kermit.OZT",
+                      "sha256":  "0bb544759239632f0b70b6508344acbef845b8ca7e0082e7211b3458d534aa11",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/khaby.OZT",
+                      "sha256":  "4d1fd8373f8575f6cae2cb849dde16a8978755ca79e2d557a5e37836989c2966",
                       "size":  262166
                   },
                   {
@@ -7219,8 +7419,23 @@
                       "size":  262166
                   },
                   {
+                      "path":  "Data/Interface/SocialStickers/loro-fiesta.OZT",
+                      "sha256":  "fc6482658cdc60330618d17e0b2933adffacb045106b4ad360978317dd7ff2b6",
+                      "size":  1048598
+                  },
+                  {
                       "path":  "Data/Interface/SocialStickers/love.OZT",
                       "sha256":  "2ff5b8c11cc4dac81564d0666db0d60902d043a50954793f0504497f25707152",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/maxwell.OZT",
+                      "sha256":  "8586560f884bce516164574da33dfb62bfe8f1474b229d31d802933387708077",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/messirve.OZT",
+                      "sha256":  "da0a98d37e2c520ef837911dd632a0483b4550c6f43512ac810640971eed7489",
                       "size":  262166
                   },
                   {
@@ -7259,8 +7474,63 @@
                       "size":  262166
                   },
                   {
+                      "path":  "Data/Interface/SocialStickers/michi-grunon.OZT",
+                      "sha256":  "4b360851ff19f150db3e5f70845c56835a762336278a4761a44aab7e58c096ba",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/mini-exito.OZT",
+                      "sha256":  "7375730afad1ecf62e6942e8b0a72b6da1418c9b99d767a9d28db445ba42983b",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/mirtha.OZT",
+                      "sha256":  "067fb0d1673450f8bccc226910ec8bbf8afedb3fd8a3c5dc4ffae69e4c73f347",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/mono.OZT",
+                      "sha256":  "042a059f5da70bf041cf66982115b13d53834a38c22d499f86cf0819bf00e7c0",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/nick-young.OZT",
+                      "sha256":  "52feb29773d25b2b955aae852d58fb56b668eb27905ff91fae7404273bdb823d",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/ni-idea.OZT",
+                      "sha256":  "2587ac43300d3d094547ff6a287d7e48cdc0501acca7c83569896840b4d11371",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/no-dios.OZT",
+                      "sha256":  "d51b08dbb16adb46441a39834a01d9940788f18a6abbc64fbafac8fe2100ce6c",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/oso.OZT",
+                      "sha256":  "fe6a185836e3c5ef3604ed482b5365844cd65f3c6359600d0b2db67285e2ec3a",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/pagchomp.OZT",
+                      "sha256":  "bb9285ce073d6d79989627121477bc179afcc0dcf04196a694fb92fa1c540b5e",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/palla-bobo.OZT",
+                      "sha256":  "903817af7427873a0cc1264a94bc826111f651da153757af505daa0d7a523777",
+                      "size":  262166
+                  },
+                  {
                       "path":  "Data/Interface/SocialStickers/paloma.OZT",
                       "sha256":  "a2dd40eec9fd8f2c141ee7fcd7dea2fcf7a5bc66af6cc14f0ee35d7daed7f667",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/palomitas.OZT",
+                      "sha256":  "7fd2915c410788aeeb67260642222fa0f8acb421a2013fa575e4923f588b5b5a",
                       "size":  262166
                   },
                   {
@@ -7269,8 +7539,43 @@
                       "size":  262166
                   },
                   {
+                      "path":  "Data/Interface/SocialStickers/pedro.OZT",
+                      "sha256":  "568f52ca1ba2fcbe5000f041d0ec5a6e07aec45590f0024ab6e59cb6ca5c5ea0",
+                      "size":  1048598
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/pepe-risa.OZT",
+                      "sha256":  "ec5efcfcf269ba2d161a7ecd85692a35f9c99fc5e4e5fe2d83192b8389b9f459",
+                      "size":  524310
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/pepe-triste.OZT",
+                      "sha256":  "c85eb77f8a4b2da59cd27900683e53653408bbd6b8835c32eb52c4089fe08066",
+                      "size":  262166
+                  },
+                  {
                       "path":  "Data/Interface/SocialStickers/perro-amor.OZT",
                       "sha256":  "067ec1a4df7825db59ced959fd9411155d1fcc99ba8c373212e284c601a171bc",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/pikachu.OZT",
+                      "sha256":  "723327986737e27917395a80171160511690568d512c2b824d4aeeea5a9e2d6e",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/pop-cat.OZT",
+                      "sha256":  "bf88a560174005fb5b0b3deb84748351d95bdec1ad047ead6fcdd9a045e0cb3d",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/prayge.OZT",
+                      "sha256":  "a6d0e1e8040b429bac38598081def9797cfcbaa5b6b4cd8eb95a2c3d2cc3ef85",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/raptor.OZT",
+                      "sha256":  "48b85dd67ca8a609aaaa8581b477fc28cfe8da0d568ccc92b26d979ed4d4210b",
                       "size":  262166
                   },
                   {
@@ -7314,8 +7619,33 @@
                       "size":  262166
                   },
                   {
+                      "path":  "Data/Interface/SocialStickers/risitas.OZT",
+                      "sha256":  "dad9c2f91582b7fe120da7bd32ef9abe3abb5fc3fba35c7b717b4e2bc0a41b5d",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/roll-safe.OZT",
+                      "sha256":  "cf1c72ccde0df7d8e6f9e5a453f76fab1e0bac7864c2c82f3c4dc0455ca07b1f",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/salt-bae.OZT",
+                      "sha256":  "de9d1eec2db44c91b9155253f904da33f7a70f2d704980e426dca51d0db987d8",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/scaloneta.OZT",
+                      "sha256":  "81cc8f7890abcfeef04453db11b5b0ce0fa4c96fb7af823e55b8575ec57d32d8",
+                      "size":  262166
+                  },
+                  {
                       "path":  "Data/Interface/SocialStickers/shock.OZT",
                       "sha256":  "28f93490bf4305a0a1f3e0fa40b50a802afc452dc2da368683a5c95fde1ca020",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/sin-rumbo.OZT",
+                      "sha256":  "8fff208c924fda94bc7de103ac7e741f960df326b977b2407dee460801e89a51",
                       "size":  262166
                   },
                   {
@@ -7351,6 +7681,11 @@
                   {
                       "path":  "Data/Interface/SocialStickers/sm-susto.OZT",
                       "sha256":  "f71208dbd7f48b9af05fa692493bde1fba31156d29ba67941d553b6f25e38a47",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/stonks.OZT",
+                      "sha256":  "277a6fd1799c7332b3a664256853132607bd7a2fe9a070f933b7099bee660d1b",
                       "size":  262166
                   },
                   {
@@ -7394,8 +7729,33 @@
                       "size":  262166
                   },
                   {
+                      "path":  "Data/Interface/SocialStickers/tralalero.OZT",
+                      "sha256":  "d034e2e24f4befa21dbfda1281c98e3571f327bfd04f1c62f4757c3f0eda7419",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/trampa.OZT",
+                      "sha256":  "928885bfd3de7ce16bbb90c8ff03c516dde7b811af06997704201b1c77cc097a",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/travolta.OZT",
+                      "sha256":  "fdec142cad6c9b63b222614294c6ff8ec785bff9ede5d8da5f58a2bc4f231dea",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/tribuna.OZT",
+                      "sha256":  "f55e8e466a16eca6cf943c1465e01c0d1d90e88c61764e7f618550315e5a1879",
+                      "size":  262166
+                  },
+                  {
                       "path":  "Data/Interface/SocialStickers/victima.OZT",
                       "sha256":  "bf01885abe3115ceec2ca33b25e2f05d177d20b33dc2726fbb3ca973691b1cc6",
+                      "size":  262166
+                  },
+                  {
+                      "path":  "Data/Interface/SocialStickers/y-u-no.OZT",
+                      "sha256":  "d464d953f29f143d62d5992ff6fb6dc4f15dbd36cbb0247dda8337ffd7ab110b",
                       "size":  262166
                   },
                   {
@@ -9247,6 +9607,66 @@
                       "path":  "Data/Item/dl_redwings03.OZT",
                       "sha256":  "2fc790a6e7dea76527a01dd5ccfba489b9cca7fe26fc2ccd35eaaac53969221a",
                       "size":  16432
+                  },
+                  {
+                      "path":  "Data/Item/dlAscensionSeal.bmd",
+                      "sha256":  "ebc376a1bccb3eacf76e2b4f261b967773fa49c7f08a403faee04aa037784783",
+                      "size":  21180
+                  },
+                  {
+                      "path":  "Data/Item/dlEarthArt.OZJ",
+                      "sha256":  "821c8d6e97062407d74d958564f2f590eb19fe6d851c337c512be111f9266e7a",
+                      "size":  717439
+                  },
+                  {
+                      "path":  "Data/Item/dlEmberArt.OZJ",
+                      "sha256":  "7833049040010cdafea07360f186320c1ab58ea370c792a7cd42b7d1b9ca5e8d",
+                      "size":  764528
+                  },
+                  {
+                      "path":  "Data/Item/dlQuillEmber.bmd",
+                      "sha256":  "87793b771ced7ac8bbce267c0e99c2b9a50a9ca5b2d7b3df6701d736f68a03f0",
+                      "size":  59250
+                  },
+                  {
+                      "path":  "Data/Item/dlQuillStorm.bmd",
+                      "sha256":  "cff43f01124e80152dd0880965f0dc918ca07ff381e38a449ccbc611722a2bb3",
+                      "size":  73010
+                  },
+                  {
+                      "path":  "Data/Item/dlRegaliaMetal.OZJ",
+                      "sha256":  "f016571a5b7dd3b52531c390e40ab1a37ddcce53f5b2b2104ffa1daa7095624c",
+                      "size":  349684
+                  },
+                  {
+                      "path":  "Data/Item/dlRuneEarth.bmd",
+                      "sha256":  "3a6f3dafa8f2fc0c7df879a4150f898a09271325e955533e96ea0d5eca4e2538",
+                      "size":  20018
+                  },
+                  {
+                      "path":  "Data/Item/dlRuneTide.bmd",
+                      "sha256":  "b6e42953ca320f4ba3e113c7c932561ce02cad09c1fa192feb457c179d5c51b4",
+                      "size":  15890
+                  },
+                  {
+                      "path":  "Data/Item/dlStormArt.OZJ",
+                      "sha256":  "a9271187eaf9193453eacf08ee7f25c656c087c58d9780685de23e736cf33a00",
+                      "size":  827610
+                  },
+                  {
+                      "path":  "Data/Item/dlTideArt.OZJ",
+                      "sha256":  "02fc0c799c44d2075b8f13caabf76875f2a4d6eb3c026a92d41e1c22e137714c",
+                      "size":  871145
+                  },
+                  {
+                      "path":  "Data/Item/dlVanguardShard.bmd",
+                      "sha256":  "e0f2ebd5706d17b4495d1ab1fa4fec45edaf69926caccd00123806c706dd538a",
+                      "size":  10684
+                  },
+                  {
+                      "path":  "Data/Item/dlWarCrest.bmd",
+                      "sha256":  "b40f090259706f9da3b69e3916bbac9138135ea494dc32ade060f554b7551a96",
+                      "size":  21180
                   },
                   {
                       "path":  "Data/Item/DMhorn.bmd",
@@ -18535,7 +18955,7 @@
                   },
                   {
                       "path":  "Data/Local/Eng/item_eng.bmd",
-                      "sha256":  "5dc2ff5a096f265db95c4c253263cb077a8d19252b9b0788bd1fe45b7c29fbe1",
+                      "sha256":  "88c2600a767ba8c0e8c83068e13acbf8baed6c3153d4adb9fd981b9438a3f3a2",
                       "size":  851972
                   },
                   {
@@ -18815,7 +19235,7 @@
                   },
                   {
                       "path":  "Data/Local/Eng/skill_eng.bmd",
-                      "sha256":  "e907c82c69d3a4664bc5bc3a9f5e715d366bc65870b58b0239d6746b2a7cbe93",
+                      "sha256":  "d67dcc517a0c4a21c85fbb1833fb6caa087eeaf4b40509385ea5bdd1e46f441a",
                       "size":  70204
                   },
                   {
@@ -18910,13 +19330,13 @@
                   },
                   {
                       "path":  "Data/Local/MasterSkillTreeData.bmd",
-                      "sha256":  "70f6e40b387af3de4c9fa8d02d16a5a660c17e17694095bec1b5bad40dd2b314",
+                      "sha256":  "1d81e769b7e75f6b89cd186295f45aabb2b6499f2573a92d3da5403e80ea3f48",
                       "size":  12292
                   },
                   {
                       "path":  "Data/Local/mix.bmd",
-                      "sha256":  "488a01842572d7df2fda8aa68d591a5899ccecc6d2688217e8a3ef64397a7b27",
-                      "size":  92552
+                      "sha256":  "d5bd20de6ed1e04552519ca7c1e523b4feccb75d4ade4089c00807137b48aee7",
+                      "size":  95176
                   },
                   {
                       "path":  "Data/Local/MonsterSkill.bmd",
@@ -19190,7 +19610,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/item_por.bmd",
-                      "sha256":  "509d2d21902f4a363bdda1f8076efd9843aa525f0c0861b7eae0914c8b915ae3",
+                      "sha256":  "ce53184cf9a3ecefacf4d29e68fd36eb772a2903883cc011844af0ac4c9e3fbd",
                       "size":  851972
                   },
                   {
@@ -19550,7 +19970,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/skill_por.bmd",
-                      "sha256":  "401c1300739c2053bf0aa5c8bc7a872346d051ebbe9df5bc55047365882c431f",
+                      "sha256":  "46012a1f983ef10c727f9b7e028c2ae2ca27748ff5c755a2d5e5096a19f4743b",
                       "size":  57204
                   },
                   {
@@ -19820,7 +20240,7 @@
                   },
                   {
                       "path":  "Data/Local/Spn/item_spn.bmd",
-                      "sha256":  "b7067c9b659ea37491b07b6bea8ff7994243d6784a8e3a43772debcbc7a74157",
+                      "sha256":  "e59d83ad12c7e8901aaad34f64a1239638a2a395b4f0630a19fcc347e576e5d2",
                       "size":  851972
                   },
                   {
@@ -20100,7 +20520,7 @@
                   },
                   {
                       "path":  "Data/Local/Spn/skill_spn.bmd",
-                      "sha256":  "4332ed7557f04617d4a2a49f62a529d7fa80eca673c71ffe7d1a66bba3acb006",
+                      "sha256":  "eda918bc42fda6df4f4072c9843d945f168e9a24fa4cc1eb25c2da86d1b3fbf1",
                       "size":  57204
                   },
                   {
@@ -74939,6 +75359,231 @@
                       "size":  5576
                   },
                   {
+                      "path":  "Data/Skill/dlEarthArt.OZJ",
+                      "sha256":  "821c8d6e97062407d74d958564f2f590eb19fe6d851c337c512be111f9266e7a",
+                      "size":  717439
+                  },
+                  {
+                      "path":  "Data/Skill/dlEarthGem.OZJ",
+                      "sha256":  "9ab8de5a868f1dc3164ec0be2149e39f81fc51c04425e6a82dd7d4f036bbbebb",
+                      "size":  8750
+                  },
+                  {
+                      "path":  "Data/Skill/dlEarthI.bmd",
+                      "sha256":  "3a6808ada8335f2964304237f6e7b502bfdb4d8aa79e3373ea11d81a8a286c49",
+                      "size":  670755
+                  },
+                  {
+                      "path":  "Data/Skill/dlEarthII.bmd",
+                      "sha256":  "e4785554891fbe71e3e3cbe6ca2206c5de2bb39609acf3adbc05e19b55343517",
+                      "size":  781219
+                  },
+                  {
+                      "path":  "Data/Skill/dlEarthIII.bmd",
+                      "sha256":  "75a0a4323beb2ba140bce956c10397156ebb09dd849094963a23d17a22abb689",
+                      "size":  916771
+                  },
+                  {
+                      "path":  "Data/Skill/dlEarthIV.bmd",
+                      "sha256":  "5fb44e11eb99eb3f4607e13536ab98f5ab77e7e21153fab43f3b5ab4e61ea480",
+                      "size":  1075747
+                  },
+                  {
+                      "path":  "Data/Skill/dlEarthSkin11.OZJ",
+                      "sha256":  "fd6052bfe5c5b2f6d4da68ec2ddffc5f148809b007034d0595d97488c39754b8",
+                      "size":  1341
+                  },
+                  {
+                      "path":  "Data/Skill/dlEarthSkin12.OZJ",
+                      "sha256":  "46487e7e8b00f7081623adff823127062b2a24724afde23be4cb9a03a8518e68",
+                      "size":  1462
+                  },
+                  {
+                      "path":  "Data/Skill/dlEarthSkin2.OZJ",
+                      "sha256":  "0b7e4c908783eeb6370dfdb4a89b564ae9569dd38acf063cf533b7a40a4c7d82",
+                      "size":  1632
+                  },
+                  {
+                      "path":  "Data/Skill/dlEarthSkin3.OZJ",
+                      "sha256":  "e8ea39eaaac66397b35eefb4dca32a3dec440e0b68e99a2d7af8941bfcd7b2ef",
+                      "size":  3524
+                  },
+                  {
+                      "path":  "Data/Skill/dlEarthSkin4.OZJ",
+                      "sha256":  "b7b572d26bcddc1e6d99e7c3094424078dfda602fa14716cad5a5dbeb6dea016",
+                      "size":  3881
+                  },
+                  {
+                      "path":  "Data/Skill/dlEarthSkin6.OZJ",
+                      "sha256":  "3dd30d2d83c51592d54b32b01174cf09a2534082d2bdc9ed1b51fc1107af49c7",
+                      "size":  1674
+                  },
+                  {
+                      "path":  "Data/Skill/dlEarthSkin7.OZJ",
+                      "sha256":  "7fedf1a000280764c40f19e47af4dfbd1880303dae57d9bffc91300720276a75",
+                      "size":  3632
+                  },
+                  {
+                      "path":  "Data/Skill/dlEarthSkin8.OZJ",
+                      "sha256":  "e19eb24ae54dc0945ec51cb171b33a317db363d5a16b41923fbd9e754d9970bc",
+                      "size":  5445
+                  },
+                  {
+                      "path":  "Data/Skill/dlEmberArt.OZJ",
+                      "sha256":  "7833049040010cdafea07360f186320c1ab58ea370c792a7cd42b7d1b9ca5e8d",
+                      "size":  764528
+                  },
+                  {
+                      "path":  "Data/Skill/dlEmberGem.OZJ",
+                      "sha256":  "115ed405de82c551dc3aa633f96d8f96472a43b061b6a04205e22b02b0ec953e",
+                      "size":  9803
+                  },
+                  {
+                      "path":  "Data/Skill/dlEmberI.bmd",
+                      "sha256":  "f1ec048e97652b1d6b591baffd06f48dd6604bac3e66d69be2fe02ac9d3429f6",
+                      "size":  544223
+                  },
+                  {
+                      "path":  "Data/Skill/dlEmberII.bmd",
+                      "sha256":  "85b7cdf409820b509db089c860eb6014a8c71c62fa9b034bfcc9c50bd2c4a7bf",
+                      "size":  700959
+                  },
+                  {
+                      "path":  "Data/Skill/dlEmberIII.bmd",
+                      "sha256":  "3dce6ee9b6f5d2e0ed59fbd1a7d5126cbfdf752c234c96f3153daf26f3dda0b4",
+                      "size":  780447
+                  },
+                  {
+                      "path":  "Data/Skill/dlEmberIV.bmd",
+                      "sha256":  "f71a7231d4a473d9683342c5ad7327b3efac921bedd214c4a9a5e7a1a1136048",
+                      "size":  870431
+                  },
+                  {
+                      "path":  "Data/Skill/dlEmberSkin0.OZJ",
+                      "sha256":  "51fa79572bcfe5a3f9753d22a6dd620563677edd4ccadfd85edb536fb2ab1244",
+                      "size":  7905
+                  },
+                  {
+                      "path":  "Data/Skill/dlEmberSkin1.OZT",
+                      "sha256":  "490bf0cbaee84c32f6a2aaf7662ee2b26453620b5fc6e87c205a052f55d878b1",
+                      "size":  65558
+                  },
+                  {
+                      "path":  "Data/Skill/dlRegaliaMetal.OZJ",
+                      "sha256":  "f016571a5b7dd3b52531c390e40ab1a37ddcce53f5b2b2104ffa1daa7095624c",
+                      "size":  349684
+                  },
+                  {
+                      "path":  "Data/Skill/dlStormArt.OZJ",
+                      "sha256":  "a9271187eaf9193453eacf08ee7f25c656c087c58d9780685de23e736cf33a00",
+                      "size":  827610
+                  },
+                  {
+                      "path":  "Data/Skill/dlStormGem.OZJ",
+                      "sha256":  "4104b64877a7b4aa0514da9b5408f995ebcc6c593403fe473f65fc55421a6296",
+                      "size":  8556
+                  },
+                  {
+                      "path":  "Data/Skill/dlStormI.bmd",
+                      "sha256":  "a2698355f39673e77bfd94669e9755290686fffb558134ca96b341d935397ccc",
+                      "size":  555231
+                  },
+                  {
+                      "path":  "Data/Skill/dlStormII.bmd",
+                      "sha256":  "b7d56feddc385b02552fc26d548925c42b3015582510e4426d15ed025dcd492d",
+                      "size":  695967
+                  },
+                  {
+                      "path":  "Data/Skill/dlStormIII.bmd",
+                      "sha256":  "4275385cb09921c5d086a44d21a9ef13262a07b05bddf2f9eb189c59b9d08d0f",
+                      "size":  775455
+                  },
+                  {
+                      "path":  "Data/Skill/dlStormIV.bmd",
+                      "sha256":  "f71c67a90efb43f9bddd5a58139626cf4dd3d3fad897a2b6a2e602e2c2c83986",
+                      "size":  865439
+                  },
+                  {
+                      "path":  "Data/Skill/dlStormSkin0.OZJ",
+                      "sha256":  "8fb46a37d7f255873d313d59bf039336fbcd9a7d495592806e070ea405a8e665",
+                      "size":  6139
+                  },
+                  {
+                      "path":  "Data/Skill/dlStormSkin1.OZT",
+                      "sha256":  "a550e9c0f9cb2e0a8ee66459c5ab08d267008e30a7c7c8a4efe48329352e40a5",
+                      "size":  65558
+                  },
+                  {
+                      "path":  "Data/Skill/dlTideArt.OZJ",
+                      "sha256":  "02fc0c799c44d2075b8f13caabf76875f2a4d6eb3c026a92d41e1c22e137714c",
+                      "size":  871145
+                  },
+                  {
+                      "path":  "Data/Skill/dlTideGem.OZJ",
+                      "sha256":  "7490ef295cdad210e0e31282c2f78e9e9c4623f6ef57d7df69d2cacc17b11a9a",
+                      "size":  9608
+                  },
+                  {
+                      "path":  "Data/Skill/dlTideI.bmd",
+                      "sha256":  "7b3492352fccef057d024d0964f415191da798140a5775f7328c209f5b8a12eb",
+                      "size":  657507
+                  },
+                  {
+                      "path":  "Data/Skill/dlTideII.bmd",
+                      "sha256":  "ecd1097ca685ba152bcdb2bd1289c3c62e83b313a4b49cedd56f7e43f609a082",
+                      "size":  780515
+                  },
+                  {
+                      "path":  "Data/Skill/dlTideIII.bmd",
+                      "sha256":  "ae191e9637a23550819c6e7ab32ec58536d8b8406a6fcb3fbef896e9fb420a9f",
+                      "size":  916067
+                  },
+                  {
+                      "path":  "Data/Skill/dlTideIV.bmd",
+                      "sha256":  "613cd1ad2e89fa2832cd45a14c8878a0a52b67407a39f095c9c2da16a8f02308",
+                      "size":  987299
+                  },
+                  {
+                      "path":  "Data/Skill/dlTideSkin11.OZJ",
+                      "sha256":  "b7f6ee98ecdf59f3d4930eda9b35c5f150c10e8f34e73ce769004e9b18a05238",
+                      "size":  1282
+                  },
+                  {
+                      "path":  "Data/Skill/dlTideSkin12.OZJ",
+                      "sha256":  "f105ae41c2943f8c9bd542f70cdf2a67a89a0cffb1740f070b3e453929b30a77",
+                      "size":  1416
+                  },
+                  {
+                      "path":  "Data/Skill/dlTideSkin2.OZJ",
+                      "sha256":  "1a08bf6433451b3f0900fd0e3bb672f09bd4262fb3ca4f8c589428db04c2584c",
+                      "size":  1525
+                  },
+                  {
+                      "path":  "Data/Skill/dlTideSkin3.OZJ",
+                      "sha256":  "58ee3741eaeda65015dc1a88811712965144854e2c3083f4f78cdda91711b242",
+                      "size":  3332
+                  },
+                  {
+                      "path":  "Data/Skill/dlTideSkin4.OZJ",
+                      "sha256":  "3b7ff21cc21f0aae5402fa1d4a329e60f65ab305738edcc25451e3b0aa93fc2e",
+                      "size":  3595
+                  },
+                  {
+                      "path":  "Data/Skill/dlTideSkin6.OZJ",
+                      "sha256":  "7543773ec6c5c57613913c36568d150d2ee9bfb4e0a5e7bb9dc9731642f2e253",
+                      "size":  1542
+                  },
+                  {
+                      "path":  "Data/Skill/dlTideSkin7.OZJ",
+                      "sha256":  "0be135881f420053654eb4ddc06434570038aaf49bc88556f8a2a992b27da9f2",
+                      "size":  3267
+                  },
+                  {
+                      "path":  "Data/Skill/dlTideSkin8.OZJ",
+                      "sha256":  "2150bfcb5c8e8ce96575a215e5fc7d6d9ffce8be3ed68702f3c90fa71f9b83aa",
+                      "size":  5218
+                  },
+                  {
                       "path":  "Data/Skill/dragon02.OZJ",
                       "sha256":  "37ade9d827e654687498719bc266f14c04fc2f5df47836560044017c3605f8df",
                       "size":  18247
@@ -91960,13 +92605,13 @@
                   },
                   {
                       "path":  "Data/UniqueMods_Eng.txt",
-                      "sha256":  "dbdee004415f84388138d528547dff2a46d1208f7cabc2b59456e42494bf10bd",
-                      "size":  8282
+                      "sha256":  "17a3533617aa985b2b64b454608c9d432dae84834a75540cebd8793d0ebd64bb",
+                      "size":  8285
                   },
                   {
                       "path":  "Data/UniqueMods_Spn.txt",
-                      "sha256":  "5612aec6ce2394423ef3ee6278462fa95698c0e1329788d3e72f9f4931cc997d",
-                      "size":  8466
+                      "sha256":  "176ba52bab1f11fca398956aa9d7e69faee29430be7625a141a9ecda59787d8b",
+                      "size":  8465
                   },
                   {
                       "path":  "Data/upscaled.txt",
@@ -103030,13 +103675,13 @@
                   },
                   {
                       "path":  "Horizon.Client.dll",
-                      "sha256":  "18a60ac26ec44c1c0fc98e191429d43e288e081374acd676cfe65ece88c39b5d",
-                      "size":  2739688
+                      "sha256":  "85cb090b18ccf08100e22aa6ac4cebe4aaa9971de5233ab65cc040cbf634f7b5",
+                      "size":  3309032
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "770b8ef37419c59167c3cc86b921508d1c4806ea0bd8d9f803a640af36f7829b",
-                      "size":  17119720
+                      "sha256":  "1c8c8eec8aaa15eda35c91b1f535c367879aa021f36448ead925f7f4a11c7dd3",
+                      "size":  17172968
                   },
                   {
                       "path":  "msvcp140.dll",
@@ -103045,8 +103690,8 @@
                   },
                   {
                       "path":  "MuHorizon.CrashReporter.exe",
-                      "sha256":  "44e6c77a45d0ea7a4b4dfda01513187e32e2080af5afbfb8426052de82fb18bf",
-                      "size":  110635224
+                      "sha256":  "5ba3f3ea99277f5c7eab03b6fd1c3cf16760b58e4929112e7545c9c02be2e983",
+                      "size":  110635216
                   },
                   {
                       "path":  "ogg.dll",
@@ -111949,13 +112594,13 @@
                                        },
                                        {
                                            "path":  "Horizon.Client.dll",
-                                           "sha256":  "69a14355cd265f0ab49713721f2e876ff3f6fb23aac1c99c480ea8943473cbd5",
-                                           "size":  3234792
+                                           "sha256":  "73a6e822d7de26e97332f6770c40f2e3f59c726ef704e0a5daa28719791e965b",
+                                           "size":  3880432
                                        },
                                        {
                                            "path":  "Main.exe",
-                                           "sha256":  "19b9f92e1ec314c34bb6a8e69dc2795a3d93c3c1e61740bfaa3f6acb56b67738",
-                                           "size":  19514856
+                                           "sha256":  "33c3944ef61dae8a6c24792ac1b0d44d560782c876c31dff3d0ae8a299d13302",
+                                           "size":  19572200
                                        },
                                        {
                                            "path":  "msvcp140.dll",
@@ -111988,11 +112633,11 @@
                            }
                        ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/a38668a2f6c290eabf6cdb9cb7d058e1dd665c15902151d8d1c7ae0ac832e860.zip",
-                     "sha256":  "a38668a2f6c290eabf6cdb9cb7d058e1dd665c15902151d8d1c7ae0ac832e860",
-                     "size":  55693231,
+                     "url":  "https://files.mu-horizon.com/zips/446c04cf6496c2f3c506cc1202e1a7a5b82e68007852a6386c40a04272258ca0.zip",
+                     "sha256":  "446c04cf6496c2f3c506cc1202e1a7a5b82e68007852a6386c40a04272258ca0",
+                     "size":  75693248,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-61-986528a3d/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-62/client-patch.zip"
                               ]
                  }
 }
