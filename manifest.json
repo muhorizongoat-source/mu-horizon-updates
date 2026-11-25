@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  62,
+    "patch":  63,
     "minLauncherVersion":  "1.15.7",
-    "releasedAt":  "2026-11-25T16:29:22.1219999Z",
-    "notes":  "Upgrade patch 62",
+    "releasedAt":  "2026-11-25T17:07:09.1948750Z",
+    "notes":  "Upgrade patch 63",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/0ea25872dd34802003e6be456584e89bc0f3c9a5adb704336fb91e12a940906f.zip",
-                    "sha256":  "0ea25872dd34802003e6be456584e89bc0f3c9a5adb704336fb91e12a940906f",
-                    "size":  1788429265,
+                    "url":  "https://files.mu-horizon.com/zips/5cf57272e9fccd0b26b9927f69b76e09b3001a488580b2eab759908d37a44721.zip",
+                    "sha256":  "5cf57272e9fccd0b26b9927f69b76e09b3001a488580b2eab759908d37a44721",
+                    "size":  1788429977,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-62/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-63/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -103680,8 +103680,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "1c8c8eec8aaa15eda35c91b1f535c367879aa021f36448ead925f7f4a11c7dd3",
-                      "size":  17172968
+                      "sha256":  "3d7efcde37e0ab968f4fcf468b81a344defc6f25933b0700881f516d2285015b",
+                      "size":  17173992
                   },
                   {
                       "path":  "msvcp140.dll",
@@ -112599,8 +112599,8 @@
                                        },
                                        {
                                            "path":  "Main.exe",
-                                           "sha256":  "33c3944ef61dae8a6c24792ac1b0d44d560782c876c31dff3d0ae8a299d13302",
-                                           "size":  19572200
+                                           "sha256":  "e3f94bf9981ad3b3d17da01a53725f596c6dfab8e2c05c5b3e0ced5506abe6d8",
+                                           "size":  19573224
                                        },
                                        {
                                            "path":  "msvcp140.dll",
@@ -112633,11 +112633,11 @@
                            }
                        ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/446c04cf6496c2f3c506cc1202e1a7a5b82e68007852a6386c40a04272258ca0.zip",
-                     "sha256":  "446c04cf6496c2f3c506cc1202e1a7a5b82e68007852a6386c40a04272258ca0",
-                     "size":  75693248,
+                     "url":  "https://files.mu-horizon.com/zips/464feefd2c848f3b9c44924f4e2c212c7baa7a4099ad6e12ff69175a3c62fbff.zip",
+                     "sha256":  "464feefd2c848f3b9c44924f4e2c212c7baa7a4099ad6e12ff69175a3c62fbff",
+                     "size":  6850313,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-62/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-63/client-patch.zip"
                               ]
                  }
 }
