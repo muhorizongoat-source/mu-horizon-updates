@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  65,
+    "patch":  66,
     "minLauncherVersion":  "1.15.7",
-    "releasedAt":  "2026-11-25T21:55:30.1997049Z",
-    "notes":  "Upgrade patch 65",
+    "releasedAt":  "2026-11-27T15:57:47.3209390Z",
+    "notes":  "Upgrade patch 66",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/f5f4959b96e27c0198d36dd0c59dc8b575590817321e8323b00776c20d95d951.zip",
-                    "sha256":  "f5f4959b96e27c0198d36dd0c59dc8b575590817321e8323b00776c20d95d951",
-                    "size":  1790794416,
+                    "url":  "https://files.mu-horizon.com/zips/a38cbcdc180c136ad0fa310c6a0ff2fd7c1fe816e5ffd6a5e92eb1ecf2e1084b.zip",
+                    "sha256":  "a38cbcdc180c136ad0fa310c6a0ff2fd7c1fe816e5ffd6a5e92eb1ecf2e1084b",
+                    "size":  1823736015,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-65/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-66/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -2335,8 +2335,8 @@
                   },
                   {
                       "path":  "Data/Guia/guide.pack",
-                      "sha256":  "c5042fde0cde022b286d76929f447006e01a80759d9782f3bbf05e839e9c800e",
-                      "size":  879005
+                      "sha256":  "b6f51d3de8924ac4a998d1effd9af0bdf2a82f256de758c25677efaa243b8a24",
+                      "size":  879866
                   },
                   {
                       "path":  "Data/Guia/img/arena.OZJ",
@@ -3317,6 +3317,11 @@
                       "path":  "Data/Interface/horizon_chrome_obsidian.OZT",
                       "sha256":  "17e0d9b858350d02fd82f204a42e325706e6c5bd97f5a79396c14b3175f358d7",
                       "size":  4194352
+                  },
+                  {
+                      "path":  "Data/Interface/horizon_defense_portraits.OZT",
+                      "sha256":  "c905aeeac8b46e3eb2277414f8b634958d4b37830ef4513c76d809319231042c",
+                      "size":  1048598
                   },
                   {
                       "path":  "Data/Interface/horizon_dragon_orbs_obsidian.OZT",
@@ -4890,13 +4895,13 @@
                   },
                   {
                       "path":  "Data/Interface/new_Master_Icon.OZJ",
-                      "sha256":  "b9d364a21cf7a0da85e8adc691b8bfcbf506a14819521fad745196be8691b770",
-                      "size":  910890
+                      "sha256":  "bfa056cc929417540c396a05ef336fa91535d7887a39068c2a41e9e60ec24744",
+                      "size":  911478
                   },
                   {
                       "path":  "Data/Interface/new_Master_non_Icon.OZJ",
-                      "sha256":  "b5f44e181168ac8e32ea1e73239e8f66f8f9aa7443ba0e3ccf34c5774741f7c7",
-                      "size":  562645
+                      "sha256":  "a1a96be796b62c81b55ebf4e54aa54a451f6c18b336c3fb782ac6dc3389af6b5",
+                      "size":  562304
                   },
                   {
                       "path":  "Data/Interface/newui_Account_title.OZT",
@@ -17194,6 +17199,46 @@
                       "size":  34902
                   },
                   {
+                      "path":  "Data/Item/UniqueModels/0_204.bmd",
+                      "sha256":  "0dd68d81cb2140dbde70ae661c9236de009d3787ae3d155c72344dfeec1e95ef",
+                      "size":  357674
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/0_205.bmd",
+                      "sha256":  "224b8bed415668f361fe495c9dfe2675dd66c8686d2c052e6a07234afa05e65d",
+                      "size":  380127
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/0_213.bmd",
+                      "sha256":  "c82e96bff84c9baede6e56a16b57562f45dd9b937a86ae100cd28337fe721e91",
+                      "size":  307389
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/0_216.bmd",
+                      "sha256":  "2cfa0b494362a540c8c442c01910b6087fa616e75c7a57939399cae6199a496f",
+                      "size":  335100
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/0_219.bmd",
+                      "sha256":  "41348399327a7afc414186648db8f1ec0de7559040b238d4e58e15719db05fe8",
+                      "size":  312313
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/0_222.bmd",
+                      "sha256":  "d82a21b7930df99a175679d16f06bf19592808a9261b7f1fd9276223ff9f0b58",
+                      "size":  627078
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/0_222_L.bmd",
+                      "sha256":  "65eedeee64c11990d3884aae55317efa4343939535465fe23085535612ab0e4f",
+                      "size":  602114
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/0_222_R.bmd",
+                      "sha256":  "958acc2fa873090b390ec9b902522fdbb3909462a59eb18c7f36ed2d86a877d3",
+                      "size":  602114
+                  },
+                  {
                       "path":  "Data/Item/UniqueModels/0_29.bmd",
                       "sha256":  "0e4aac6b3198a73327b4706b4e1a62bd8ab9710b91ba96a27ed8ac5fd9436535",
                       "size":  681008
@@ -17274,6 +17319,16 @@
                       "size":  221286
                   },
                   {
+                      "path":  "Data/Item/UniqueModels/1_206.bmd",
+                      "sha256":  "2ddc6af0c1c1b2005b1e2043f222f2510ecc2a34a097b116e3f7205fc89dd8e3",
+                      "size":  427711
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/1_215.bmd",
+                      "sha256":  "19e00cc3535e443aaf1ba87890f0c2366bd6716f185c54d3f858e4825c890b55",
+                      "size":  470716
+                  },
+                  {
                       "path":  "Data/Item/UniqueModels/1_9.bmd",
                       "sha256":  "c0dbaba9ff4ea452f46306b12f391eec43940d842e20defd32bf2160c9e5fd04",
                       "size":  491408
@@ -17339,6 +17394,16 @@
                       "size":  266914
                   },
                   {
+                      "path":  "Data/Item/UniqueModels/13_223.bmd",
+                      "sha256":  "589de3da7f1986632db51b009b5890db60157d0ae8f739bf04c247b67ecea969",
+                      "size":  791792
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/13_224.bmd",
+                      "sha256":  "4fedbb88c0f1b0a2140380bff53d8a87da9250782d991498612fde086b84bed9",
+                      "size":  733294
+                  },
+                  {
                       "path":  "Data/Item/UniqueModels/2_19.bmd",
                       "sha256":  "f0b22ad5436bc99e83dbe39d018f59a0f1985d7715efa8e96a3281834847dfd7",
                       "size":  942189
@@ -17347,6 +17412,21 @@
                       "path":  "Data/Item/UniqueModels/2_20.bmd",
                       "sha256":  "3afbc383429b3fa5250216da875b0427c7d5db78ac9cfe705e336836b1925abb",
                       "size":  937637
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/2_202.bmd",
+                      "sha256":  "7a1b0dcb281e54e888aaccc0290d0b412fd1adaae0d7a40fb76bdc6f2a751463",
+                      "size":  956252
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/2_212.bmd",
+                      "sha256":  "78ed6ba325642c5b8f53314d213fab734079fbd40e22fe02461ba3f61ab73a5e",
+                      "size":  490226
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/2_220.bmd",
+                      "sha256":  "de383fec1befe49825972d6fcb48c099203a48b95e4a18d45d198ed35b3f79fb",
+                      "size":  785822
                   },
                   {
                       "path":  "Data/Item/UniqueModels/2_23.bmd",
@@ -17389,6 +17469,26 @@
                       "size":  783560
                   },
                   {
+                      "path":  "Data/Item/UniqueModels/3_207.bmd",
+                      "sha256":  "1d3a896e48d8e4c293e234b995d5a83f58216e27b20654c58fca94d7dffb2b2a",
+                      "size":  499912
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/4_203.bmd",
+                      "sha256":  "022ad246b40934ca5be0528635419d5b1f4f264963b8ab79f8abb4743b5f8649",
+                      "size":  586169
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/4_210.bmd",
+                      "sha256":  "07e691562949384773de2e8afd27c6b7ea15961adfb4cd0b16fbad2f61b9a92f",
+                      "size":  491914
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/4_218.bmd",
+                      "sha256":  "16cce5c1dbcf40cb4c216ce56eb3966fa341999813d1fc5e67211ec0596a5c36",
+                      "size":  727501
+                  },
+                  {
                       "path":  "Data/Item/UniqueModels/4_25.bmd",
                       "sha256":  "c6c8e88c85f2026bcdb7faa38142232e6a1f908d12ea7122460d2a21184f1e6f",
                       "size":  1572675
@@ -17417,6 +17517,41 @@
                       "path":  "Data/Item/UniqueModels/4_31.bmd",
                       "sha256":  "6e71e41573062db9b4b542750ac811f7be0b7882c398ce161e3fc3224aaf0c5a",
                       "size":  1356391
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/5_201.bmd",
+                      "sha256":  "23880ed68adb27c735840697a582b80fc1f364df42de66a59d6a3120ada75650",
+                      "size":  426008
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/5_208.bmd",
+                      "sha256":  "ce52ea703cb5e06aead524d1420f437561be99d331a12c02b44a9a0376a327e1",
+                      "size":  333746
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/5_209.bmd",
+                      "sha256":  "9753f5751c1af55ae1eedfdcf0136b8c2e92e18fc28317625d1df2b8a6e579ae",
+                      "size":  558076
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/5_211.bmd",
+                      "sha256":  "b1a2989361b6df098961265e3530947d3aea19d44eba59a2e85943baea74ae93",
+                      "size":  926146
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/5_214.bmd",
+                      "sha256":  "2214a19a18af6cbbbf6615bda1e15342115e5ca7667e33130e39b9db9a8c48d3",
+                      "size":  502238
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/5_217.bmd",
+                      "sha256":  "efd7cc4f9a9e0b5d763a2e2166b2104d6db9078e832cb529d64b9c072769d83e",
+                      "size":  665759
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/5_221.bmd",
+                      "sha256":  "47a17a66b17d3112c60b0ab7e1fb82d90caa6495e9d105a76d55073cc62e1732",
+                      "size":  466783
                   },
                   {
                       "path":  "Data/Item/UniqueModels/5_24.bmd",
@@ -18122,6 +18257,351 @@
                       "path":  "Data/Item/UniqueModels/sword077.OZJ",
                       "sha256":  "635775634f8b2fc9bbf5a6135cbecc9d96c9a05df5ce65ba2ec070ed0fc84cc5",
                       "size":  7250
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub01_0.OZJ",
+                      "sha256":  "e76a79db7106ba4e862280a76eee1af539a8e6038620ee2879441aba8a02b3e5",
+                      "size":  303874
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub02_0.OZJ",
+                      "sha256":  "417dc35312deaf32f159f2a1d2927f57f6b8c0d0d4f5bbf87a9e6fe76c934cc7",
+                      "size":  344197
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub02_1.OZJ",
+                      "sha256":  "a5bdf98f67d50f55fbe90959d9b0bcbbe7c161bb4ad14ae41c28c9b2629229b7",
+                      "size":  30876
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub03_0.OZJ",
+                      "sha256":  "fcf018ee9d32cb2291c759aa3d5b87bdf057ad4efb7a62247691e2508a2ca0d4",
+                      "size":  238078
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub03_1.OZJ",
+                      "sha256":  "9487f68e1c5a3e9e6fce4fddcee07fdf4311d5592d45c213071796417d3ff685",
+                      "size":  5414
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub04_0.OZJ",
+                      "sha256":  "e374f705788da1af6f0375de05acac9af071cf32b9b524b53e0224594d0a706d",
+                      "size":  143272
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub04_1.OZJ",
+                      "sha256":  "03a3780da79b974bbcdb53126a747677eaa3132573c9653384d1c2d74726cc73",
+                      "size":  3682
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub05_0.OZJ",
+                      "sha256":  "464e9dced9e79e94c5353550321f2d8d61b58d86b90b2737bdbbe3e27e503679",
+                      "size":  73290
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub05_1.OZJ",
+                      "sha256":  "c7cc489df8e5f53182134962b14e6a9e5bc16c9fbb65309a98c428927101181b",
+                      "size":  878
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub05_2.OZJ",
+                      "sha256":  "85127efb0c73d1302c12f27dda877f9daaf7267ea1be2c08f2482f797c53d8ad",
+                      "size":  18312
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub06_0.OZJ",
+                      "sha256":  "a1c575bde73e2c63bd76525365f088da4f681d62b5cfd9037aeda72044c4701d",
+                      "size":  128339
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub07_0.OZT",
+                      "sha256":  "3f30750fc3a9c3cb4ce46edb829241b96c9bf1d1fcfc71ff4b34a341cba9f653",
+                      "size":  2097174
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub08_0.OZJ",
+                      "sha256":  "bd04704979f1991337ccc921aeb282c8f655efadd6ed429f4f1a85082e23d591",
+                      "size":  200685
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub08_1.OZJ",
+                      "sha256":  "93c4c1a3ab27f8afae06fc194a7bd02b84be6a3e6aa7e6d4b8d56fa6b1accb2f",
+                      "size":  1444
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub09_0.OZJ",
+                      "sha256":  "5c9b283ca0e884e9cbd7227dfd165c10f80cd3df74aceb99858ef54267353da1",
+                      "size":  286798
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub10_0.OZJ",
+                      "sha256":  "dc39de0691570da39eea6791a4cb8edde9e1f3c79391ab63a6849b6ddd929f89",
+                      "size":  105007
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub10_1.OZJ",
+                      "sha256":  "05efed4fc104c65bbe68374ce9817471935943b5b0b45757ca63deac05135727",
+                      "size":  2169
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub11_0.OZJ",
+                      "sha256":  "eff36416093ee68a2de6858bd81b11ab01716ea19b7d1e774de3136b819d99cd",
+                      "size":  157785
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub11_1.OZJ",
+                      "sha256":  "9a8e9932df6dd203b5282bf45125fd6247df198e329e0257cc0003f6eb9b900d",
+                      "size":  852
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub12_0.OZJ",
+                      "sha256":  "42fa79f4d9d27eaf67a4169e4a597f1b08917126cf782b6593a2011333354248",
+                      "size":  102604
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub12_1.OZJ",
+                      "sha256":  "6bca3896805a5f5767862db1937cd1297511f3c9569bc3cf6e284452d02e16e4",
+                      "size":  9448
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub12_2.OZJ",
+                      "sha256":  "94687da9a96fd6f118cceb09a69a7587f230212fe099f78ac260f3aa7cc11079",
+                      "size":  4134
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub13_0.OZJ",
+                      "sha256":  "86a6d82cbb3ef6c8f9492e7e403aeec477f4e2ddfda3b56be74df8fb525ec7db",
+                      "size":  5973
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub13_1.OZJ",
+                      "sha256":  "dac79dea853bc1a12be9da18cc9a8ff00d84b388c0d504c7e8ed87f28c81697c",
+                      "size":  78576
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub13_2.OZJ",
+                      "sha256":  "785693e233992a9509697abb36479a6b88870ccdcef59e07de48c7707416ea54",
+                      "size":  27759
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub13_3.OZJ",
+                      "sha256":  "910c9ef3ea01a02e50b386a14b43cf04c41b54fe6eb80b23e40ba2917347afda",
+                      "size":  92497
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub14_0.OZJ",
+                      "sha256":  "aa9c4754b55a3ec0970234cb6d5e01aeb2f20a7e9ef76b8834723006098115dd",
+                      "size":  148962
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub14_1.OZJ",
+                      "sha256":  "4004501aefe6a887031926d9ba94e83dcf281f2cdd65259c6906ca1e7071bff6",
+                      "size":  111302
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub14_2.OZJ",
+                      "sha256":  "49f0652d9741af687e20ecea8d732bebd09bd482d5261685868bafb14ff5a821",
+                      "size":  8871
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub14_3.OZJ",
+                      "sha256":  "a8cdd367e0e209071fd7d54efc26813a9f6f0994b224ecf10dcef401ba227a32",
+                      "size":  99601
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub15_0.OZJ",
+                      "sha256":  "5806010ca5e506831385801db8cf1e04c127bae9318d60364ef2dae41b91afd6",
+                      "size":  173933
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub16_0.OZJ",
+                      "sha256":  "58062fec40b3a24abb562dc470f4dcc2089208375addb61db6e778419238e738",
+                      "size":  77019
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub17_0.OZJ",
+                      "sha256":  "fa903a0cd5e72873f0c81a393a3d882c49cf468080900c0dd72c5e624764f0ef",
+                      "size":  145504
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub18_0.OZJ",
+                      "sha256":  "157da87a58768a6b1e7e0a47c2e91f859d5cffab0e0ecfec4154e87579e4c3e2",
+                      "size":  157451
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub19_0.OZJ",
+                      "sha256":  "0fd88d090b4c0fb1d8beba2654c5a0db088f7c5b4f3308283a8cd9961ce84ff1",
+                      "size":  125535
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub19_1.OZT",
+                      "sha256":  "31c581c267e19f89dd10efd3e0d1e7efecbc349f2ca98c0cd1c9fd30c1a500b4",
+                      "size":  1048598
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub19_2.OZJ",
+                      "sha256":  "dd89520d2ae5e60908f2dd47ae3e86e1473e2c7c82a748bac2bd651cc58e015a",
+                      "size":  6286
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub20_0.OZJ",
+                      "sha256":  "ee23fb0c6b7544b1676393c908705e029dcb4d1f2951efc4ece4d6dc497755d7",
+                      "size":  292748
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub21_0.OZT",
+                      "sha256":  "3e4069d2e9fc318174dc7c4f766a0eb3e9028571ff819c915d05e965dbad222e",
+                      "size":  4194326
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub21_1.OZJ",
+                      "sha256":  "1e54bb3b27ee92fbd9794f50ee5e97ef5185e58f0eb7e6fdb88ae0987e5aefae",
+                      "size":  847
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub22_0.OZJ",
+                      "sha256":  "681cf527d145239cd1994bcbaefb643e15d73f0a6ce00f3172e9556e088cd578",
+                      "size":  328450
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub22_1.OZJ",
+                      "sha256":  "4d6f78295b9de0f0d8df3267e9255dc19c459741d210e100736ed4856eb54801",
+                      "size":  15890
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub23_aro0.OZJ",
+                      "sha256":  "f38c526414223d17272f3ed9e75a564f15de2459b1d6a831856457a5862ad0e8",
+                      "size":  335210
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub24_aro0.OZJ",
+                      "sha256":  "57d457126e6b3979a886c484e94db2f8153c04c5db7065815cd2da3d5de01a47",
+                      "size":  298322
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ub24_aro1.OZJ",
+                      "sha256":  "57d457126e6b3979a886c484e94db2f8153c04c5db7065815cd2da3d5de01a47",
+                      "size":  298322
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur01_joya.OZJ",
+                      "sha256":  "6ca6bff257f9b25680629af514328f0b9531c416f360ca80bd639a1bb422cd46",
+                      "size":  332623
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur02_joya.OZJ",
+                      "sha256":  "4d670e8d75065f31433fda00c61033da4a34da6cfdf61c7daee579c73a7ae7f8",
+                      "size":  293328
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur03_joya.OZJ",
+                      "sha256":  "a92bc5a631ad1963e6c2b006d3728138fdfdcc83c83c7627d018297c0febf259",
+                      "size":  297455
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur04_joya.OZJ",
+                      "sha256":  "9a7283b2cd9184517af24bb217217d082f0d37d8d0e80eaee357f7d31b54bd17",
+                      "size":  271910
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur05_joya.OZJ",
+                      "sha256":  "4f22caf6b1f6d9c1d866e5f658ec5296d9958dec6694c90f916bc6e8e3833d0b",
+                      "size":  254469
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur06_joya.OZJ",
+                      "sha256":  "22dd235765450dbd3e62d78fbe7ecc247c44d35ebf65b3bdb912aede3b16f6c0",
+                      "size":  224790
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur07_joya.OZJ",
+                      "sha256":  "c1b60caaa1d8bbeb12621362573710c1bfbb49e3f3154f01665581735ea2ea7d",
+                      "size":  267431
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur08_joya.OZJ",
+                      "sha256":  "f4819d55e099b84bae45333702ccb63b6074c590e7b14246dad367b0296f53dc",
+                      "size":  242602
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur09_joya.OZJ",
+                      "sha256":  "ca5954181906b342e2862467cc98d5025ea994fe3beeeec49d4a9bc49af2b494",
+                      "size":  322312
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur10_joya.OZJ",
+                      "sha256":  "87183bf1755fbaf62fbb3a3f8288ef2b9f4f42a28924e9123f096f47f54509f6",
+                      "size":  337106
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur11_joya.OZJ",
+                      "sha256":  "e135a08c4edcf759d962d90cd6be48a4d10f8886d1e13cb173bf517562a74a96",
+                      "size":  367146
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur12_joya.OZJ",
+                      "sha256":  "d0d77e955d449e30ba5166dedc98b14540141baee18c589b63dd2873bee6373a",
+                      "size":  311888
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur13_joya.OZJ",
+                      "sha256":  "7ac0b1b9bb3d6b715c216675a5da8608d1b1679ba9fe506aacc460beb2474d30",
+                      "size":  318344
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur14_joya.OZJ",
+                      "sha256":  "e488fb43c618729eccc8e372357af1f4ae1492dcca33c1681456b38bc7086eb3",
+                      "size":  320688
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur15_joya.OZJ",
+                      "sha256":  "a149e8c267fdb153452fe78baade700fe67e5c4a8d7c54e99292e476faf5fc32",
+                      "size":  235211
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur16_joya.OZJ",
+                      "sha256":  "6a729c10d657ebc47fae439d42d9f0a6b81817303b43db6950953f4b71ce8b68",
+                      "size":  310805
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur17_joya.OZJ",
+                      "sha256":  "84b75bc4f0f66951dcc299016763571e2be6f1ca22eed7b4f1e2ec3c84b090d3",
+                      "size":  309127
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur18_joya.OZJ",
+                      "sha256":  "0dfb5734fdbb0e98ebe928fb72d8a0460914ea52dcbed43195c83002a8e6ea32",
+                      "size":  294176
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur19_joya.OZJ",
+                      "sha256":  "1c9f2ad29856c8385d46b5da9fdb8f2466625d83f785a0bb6fca2aa2ac169631",
+                      "size":  297355
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur20_joya.OZJ",
+                      "sha256":  "4ca1935481e0a82624805a08eb68fda8bcf1daab9e0208b2204c06a8825e232e",
+                      "size":  372390
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur21_joya.OZJ",
+                      "sha256":  "0e287c2824cfbbe227045d121a3157b7b1830135af9c08644ea35777de36af0b",
+                      "size":  325131
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur22_joya.OZJ",
+                      "sha256":  "1b9c4d486feb3fd971bd3292fc7f0ea040465f1d20b842e0ba4a1d9f97951ad7",
+                      "size":  402174
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur23_joya.OZJ",
+                      "sha256":  "f38c526414223d17272f3ed9e75a564f15de2459b1d6a831856457a5862ad0e8",
+                      "size":  335210
+                  },
+                  {
+                      "path":  "Data/Item/UniqueModels/ur24_joya.OZJ",
+                      "sha256":  "57d457126e6b3979a886c484e94db2f8153c04c5db7065815cd2da3d5de01a47",
+                      "size":  298322
                   },
                   {
                       "path":  "Data/Item/upper_09.OZJ",
@@ -19000,7 +19480,7 @@
                   },
                   {
                       "path":  "Data/Local/Eng/item_eng.bmd",
-                      "sha256":  "88c2600a767ba8c0e8c83068e13acbf8baed6c3153d4adb9fd981b9438a3f3a2",
+                      "sha256":  "6c04e30809b8e3c9ae600f887e7587aabe357bcdd7e09cf102496f1531d45cd2",
                       "size":  851972
                   },
                   {
@@ -19250,8 +19730,8 @@
                   },
                   {
                       "path":  "Data/Local/Eng/NpcName_Eng.txt",
-                      "sha256":  "3b0d0b0b0068dcbfaae9c90e93478acd4f21ee5a081fe2887c59c90bc9a53bf8",
-                      "size":  19409
+                      "sha256":  "db847adf0f87b81a9de3ecf5401e2fe7389d16d7e39719a77d5f8fef93f5f75b",
+                      "size":  19701
                   },
                   {
                       "path":  "Data/Local/Eng/partCharge1/ShopCategoryItems.bmd",
@@ -19270,8 +19750,8 @@
                   },
                   {
                       "path":  "Data/Local/Eng/QuestWords_eng.bmd",
-                      "sha256":  "bc372f0a75a317104e686cc8e8e5d86ea833bf281d48a786182b19dd16b218a6",
-                      "size":  480051
+                      "sha256":  "ac3ac7109b100efcb2a86b5e66e478b64c6a54dd2afe4a00df623b2380e19af0",
+                      "size":  514538
                   },
                   {
                       "path":  "Data/Local/Eng/SetItemType.txt",
@@ -19655,7 +20135,7 @@
                   },
                   {
                       "path":  "Data/Local/Por/item_por.bmd",
-                      "sha256":  "ce53184cf9a3ecefacf4d29e68fd36eb772a2903883cc011844af0ac4c9e3fbd",
+                      "sha256":  "c3fbfd4f4acbd6e1a4f20ed5585cfd069cbff6e75d5ebcdf866a908136581a14",
                       "size":  851972
                   },
                   {
@@ -19980,8 +20460,8 @@
                   },
                   {
                       "path":  "Data/Local/Por/NpcName_Por.txt",
-                      "sha256":  "05b893762c79fb5ecff1920fc6b63761bf7ded1e19884980ee41cbce2b44416f",
-                      "size":  18561
+                      "sha256":  "f4d670591aecd95fec29ef0272c53cf602fe8e3d5d5953d1492c14b3e111c2db",
+                      "size":  18851
                   },
                   {
                       "path":  "Data/Local/Por/partCharge1/ShopCategoryItems.bmd",
@@ -20000,8 +20480,8 @@
                   },
                   {
                       "path":  "Data/Local/Por/QuestWords_por.bmd",
-                      "sha256":  "d87f7cfab0224c1978887ee352443ff007e2362e6e4a0d7fab7e84bb21755a97",
-                      "size":  495662
+                      "sha256":  "38e3e9bf0fe35169e8719116f9d12cc44921d235b31356ae623765f078c43df1",
+                      "size":  530132
                   },
                   {
                       "path":  "Data/Local/Por/SetItemType.txt",
@@ -20040,13 +20520,13 @@
                   },
                   {
                       "path":  "Data/Local/QuestProgress.bmd",
-                      "sha256":  "c6503fbbb31f33ac6654356ef09b8ac911e261e8a0dd137e34ff26418cd80dbc",
-                      "size":  87453
+                      "sha256":  "a48a4cb76019cda849838297a44ef45dd31f463870c04e9a976d8605f0effe04",
+                      "size":  94833
                   },
                   {
                       "path":  "Data/Local/QuestWords.bmd",
-                      "sha256":  "a35a3fe95df134de3cadde165bfb6592603a50f848f6ec20c1c23607412661c4",
-                      "size":  440226
+                      "sha256":  "d714cf66b307b7f9e4f5214fbd9f45a1c966465df216c7e1ca0ad2832671dedd",
+                      "size":  474696
                   },
                   {
                       "path":  "Data/Local/ServerList.bmd",
@@ -20285,7 +20765,7 @@
                   },
                   {
                       "path":  "Data/Local/Spn/item_spn.bmd",
-                      "sha256":  "e59d83ad12c7e8901aaad34f64a1239638a2a395b4f0630a19fcc347e576e5d2",
+                      "sha256":  "f1f43cae118e9b8681dd41016ad6e20dbdd1f73a3df2f62f4b743bf268d604b3",
                       "size":  851972
                   },
                   {
@@ -20530,8 +21010,8 @@
                   },
                   {
                       "path":  "Data/Local/Spn/NpcName_Spn.txt",
-                      "sha256":  "903d2f7646ebbbd05627ae2e500f648cbb144b2bf54bff9781543ca29b162cee",
-                      "size":  18759
+                      "sha256":  "847c3f80ebcfce042f49347907bdd6a9739aeb804b288944ac3b27b9a12095a6",
+                      "size":  19060
                   },
                   {
                       "path":  "Data/Local/Spn/partCharge1/ShopCategoryItems.bmd",
@@ -20550,8 +21030,8 @@
                   },
                   {
                       "path":  "Data/Local/Spn/QuestWords_spn.bmd",
-                      "sha256":  "f99a311edb86450db6cc4f2794db3d716d354ea46e64e71a4b7a345d1b3a20c2",
-                      "size":  518140
+                      "sha256":  "8c8c1878158d40cc78ee45b6151a497b1f7adff88761c69c1ed2526afee706ac",
+                      "size":  552610
                   },
                   {
                       "path":  "Data/Local/Spn/SetItemType.txt",
@@ -24384,6 +24864,26 @@
                       "size":  152530
                   },
                   {
+                      "path":  "Data/Monster/Monster226.bmd",
+                      "sha256":  "8cd76c92af0c09daea039614e5b41e16957953e1b4d32d60625fdf7f93253acd",
+                      "size":  567057
+                  },
+                  {
+                      "path":  "Data/Monster/Monster227.bmd",
+                      "sha256":  "34c5d5d684c1f3379d5350ee70a88a77acd4a2b45565ec03d77c5c3c4fafaa42",
+                      "size":  323601
+                  },
+                  {
+                      "path":  "Data/Monster/Monster228.bmd",
+                      "sha256":  "1fab7b3f635ceefcd60602c6b2bcb3cff318c99bb65620b3d67b8e5eeb079752",
+                      "size":  343373
+                  },
+                  {
+                      "path":  "Data/Monster/Monster229.bmd",
+                      "sha256":  "ac961e152e76883233391fd24ea6d8473635e5bcd18854a8f41ba0649b8eb6b5",
+                      "size":  280607
+                  },
+                  {
                       "path":  "Data/Monster/Monster23.bmd",
                       "sha256":  "911bd4ecd6e43c0875202145e0f705ff55183de5ebb097b4c6de14db85c2a4dd",
                       "size":  101534
@@ -25082,6 +25582,81 @@
                       "path":  "Data/Monster/p_d.OZT",
                       "sha256":  "5f896e492cb80a7770074142f9fc921cad40b99746a2b1331d6bbd26f2c679d3",
                       "size":  16432
+                  },
+                  {
+                      "path":  "Data/Monster/pal226_0.OZJ",
+                      "sha256":  "4d2530370a70620bc21946f19a058d6d164b61876ac5e92a2dfd01d125ea08d4",
+                      "size":  19313
+                  },
+                  {
+                      "path":  "Data/Monster/pal226_1.OZJ",
+                      "sha256":  "f550268d1399d3a6bc442f8ce35368ca0a38b0175ca4050469483e142ea89b4e",
+                      "size":  4285
+                  },
+                  {
+                      "path":  "Data/Monster/pal226_2.OZJ",
+                      "sha256":  "d7e2b6a9e08eaf7c4d751915086a410664553b3b8be974b46bc6b9b1b3eda9f2",
+                      "size":  657
+                  },
+                  {
+                      "path":  "Data/Monster/pal226_3.OZJ",
+                      "sha256":  "19d3cf0c8cad0e60cb9fc155347adab83472b8b447201c41d04842458b88f2fb",
+                      "size":  19949
+                  },
+                  {
+                      "path":  "Data/Monster/pal226_4.OZJ",
+                      "sha256":  "0303106fe8d5cfaa2fd24080754484c642ce15f1c922e12fa368982127bde8ab",
+                      "size":  14666
+                  },
+                  {
+                      "path":  "Data/Monster/pal226_5.OZJ",
+                      "sha256":  "b6ea1c529dd22062a691974f65f599c861dfa94f17d66c599614370dc52610fe",
+                      "size":  2939
+                  },
+                  {
+                      "path":  "Data/Monster/pal227_0.OZJ",
+                      "sha256":  "884701cfe8b1120c00526afcb7d6b6de6052c55ce9800245a101eeb7b15a19bd",
+                      "size":  32308
+                  },
+                  {
+                      "path":  "Data/Monster/pal227_1.OZT",
+                      "sha256":  "a114182cb1a1a1f9103079932f4b503d7a8c3c52342ee5ad57a64908726f0a56",
+                      "size":  65558
+                  },
+                  {
+                      "path":  "Data/Monster/pal228_0.OZJ",
+                      "sha256":  "6c023cea5ed2c7fb16b40e8995aede0d934123e8614ca319d41d5f24d8c83497",
+                      "size":  1326
+                  },
+                  {
+                      "path":  "Data/Monster/pal228_1.OZJ",
+                      "sha256":  "393192d5a47d8170525226cbe5a231ec23bd7abd0a2d05bb93a6ff3dba53370a",
+                      "size":  847
+                  },
+                  {
+                      "path":  "Data/Monster/pal228_2.OZJ",
+                      "sha256":  "c2221039559e063fb61440b2fb43cf5958778cd744351964efbdc9b5a46774f7",
+                      "size":  20194
+                  },
+                  {
+                      "path":  "Data/Monster/pal228_3.OZJ",
+                      "sha256":  "d726d704dc763bda124995c07b7e01061b7f0ad0e3d8ff621c2bdf9352f6840a",
+                      "size":  4510
+                  },
+                  {
+                      "path":  "Data/Monster/pal229_0.OZJ",
+                      "sha256":  "87fb6113250e5c8791f93699f0278ee375328008b729ea3253fb649c76472f00",
+                      "size":  29092
+                  },
+                  {
+                      "path":  "Data/Monster/pal229_1.OZJ",
+                      "sha256":  "2f2a445b6f80676c81c5d11787c0618232674d081bba9babac29a477ba709752",
+                      "size":  38804
+                  },
+                  {
+                      "path":  "Data/Monster/palseal.OZJ",
+                      "sha256":  "ba9e9ca8ae4c51cbcbaba7c91462501c1f664d613e9047260cb9927a026cca4a",
+                      "size":  2985
                   },
                   {
                       "path":  "Data/Monster/Pieles/Custodia/snow_queen01.OZJ",
@@ -26740,8 +27315,8 @@
                   },
                   {
                       "path":  "Data/MonsterModels.txt",
-                      "sha256":  "c675fa1da4a2ca24157433dd74ff8db45c768415558c889be669235540a59a3e",
-                      "size":  11566
+                      "sha256":  "6434268ada8663fe0d07745a73f95a71c8effd496ccddeff8c6564aca5f587d5",
+                      "size":  11727
                   },
                   {
                       "path":  "Data/MonsterPieces.txt",
@@ -26755,8 +27330,8 @@
                   },
                   {
                       "path":  "Data/MonsterStyles.txt",
-                      "sha256":  "ac4326f12a5874b74d75c78b9cf386d74c0255c9cbcd5cad57f4d2f5a9f0d390",
-                      "size":  3936
+                      "sha256":  "070dffa092f67b20b63e7d9ee3583c82617d3da8f67b6f13b0eb6d2ce1207956",
+                      "size":  4226
                   },
                   {
                       "path":  "Data/MonsterVariants.txt",
@@ -30409,6 +30984,11 @@
                       "size":  5438
                   },
                   {
+                      "path":  "Data/Object100/Object83.bmd",
+                      "sha256":  "9b9c8d8c94856b117940f18e85a0377c708d4f2e26fad9316593c06d0c6866a0",
+                      "size":  391488
+                  },
+                  {
                       "path":  "Data/Object100/oro.OZJ",
                       "sha256":  "ff7df2b25c74f95a8a4ad3d605312294a292e48e308424deff18f7f8534e6f11",
                       "size":  5036
@@ -30457,6 +31037,711 @@
                       "path":  "Data/Object100/top02_R.OZJ",
                       "sha256":  "ad45eecd77c1b0dd1b417aeb7faea8013461c710098ab3b549d68a778d10f3e3",
                       "size":  6688
+                  },
+                  {
+                      "path":  "Data/Object101/cloud.bmd",
+                      "sha256":  "422daad8880717e88ebe963f7fd1cd09114e1e55f9ff5b02652f81ca60b10b4d",
+                      "size":  2814
+                  },
+                  {
+                      "path":  "Data/Object101/cloud.OZJ",
+                      "sha256":  "f3ed8ccf52c3dc8c70dbb7fad0d4efe2536ff7bd470bd2136a64650a5a8d820c",
+                      "size":  9264
+                  },
+                  {
+                      "path":  "Data/Object101/clouds.OZJ",
+                      "sha256":  "26f8eb906f85f836d56480ff336d95b8fa0d5e9733e196e396bbdb147432cb26",
+                      "size":  32981
+                  },
+                  {
+                      "path":  "Data/Object101/hscastleA01_R.OZJ",
+                      "sha256":  "9b5c48fa9dd58c0a84f6215a619241e652c18b42d02808e35fb9243707591ea1",
+                      "size":  272245
+                  },
+                  {
+                      "path":  "Data/Object101/hsguardian01_R.OZJ",
+                      "sha256":  "41896766151f686f9928182954e7995e8d32f75920b447acf0cb879b765b1d5e",
+                      "size":  130502
+                  },
+                  {
+                      "path":  "Data/Object101/hsguardian02_R.OZJ",
+                      "sha256":  "0374fb283e85339c7fe503a81a673843639ab68f0b33443ddcdac05239b11b17",
+                      "size":  65783
+                  },
+                  {
+                      "path":  "Data/Object101/hsguardian03_R.OZJ",
+                      "sha256":  "8edb84c2e91298ec477c81477683d1db01f644c29b0c25ecf124084333fa7e51",
+                      "size":  431064
+                  },
+                  {
+                      "path":  "Data/Object101/hspillarA01_R.OZJ",
+                      "sha256":  "c36ef1b774c7ca843f24413fe2253fab3f2c04fdab608b22f8700ab9a9d2ac1c",
+                      "size":  38787
+                  },
+                  {
+                      "path":  "Data/Object101/hspillarA02_R.OZJ",
+                      "sha256":  "a25e907f181e72b5a0203f563d941d3cdfadd86f353a11b49ff7bc015469fce9",
+                      "size":  98099
+                  },
+                  {
+                      "path":  "Data/Object101/Object05.bmd",
+                      "sha256":  "3246134ca4a77f5bf51b50a3e8ce7230c79bd29414fc1729e75a516af68c5f8f",
+                      "size":  1194
+                  },
+                  {
+                      "path":  "Data/Object101/Object100.bmd",
+                      "sha256":  "fb6e9a29c77dc1c1dc29528e8c6182a203e5defc83a563b89071072865f6f841",
+                      "size":  287216
+                  },
+                  {
+                      "path":  "Data/Object101/Object101.bmd",
+                      "sha256":  "a4865ff79e7d47e1880a77a3094bc3b7bad96d3afb3cbfd225681fd6fd5a94bf",
+                      "size":  236648
+                  },
+                  {
+                      "path":  "Data/Object101/Object102.bmd",
+                      "sha256":  "80daed6bc4950ff074651a5b3674179275a979f3a99278b1ee3bd21987068ad9",
+                      "size":  220184
+                  },
+                  {
+                      "path":  "Data/Object101/Object105.bmd",
+                      "sha256":  "b38e6cb0a377f3c4c17b236d5c18e0626b5cde3bbc09c4edd5a15cf67fa2c469",
+                      "size":  6614
+                  },
+                  {
+                      "path":  "Data/Object101/Object106.bmd",
+                      "sha256":  "2efbeb3b4050c6119f0d4929dab3b2741a298a5732988e31b8e13da365c28af9",
+                      "size":  14846
+                  },
+                  {
+                      "path":  "Data/Object101/Object107.bmd",
+                      "sha256":  "a6d844656fb4702646b258f8684599e37ddc12a7d9650d8239cef8c63dde67a1",
+                      "size":  12494
+                  },
+                  {
+                      "path":  "Data/Object101/Object108.bmd",
+                      "sha256":  "c39284192b6ca4b9c6ded1b2e2a4cd2b5f825aa3522ce56f00ca26d41fb5574d",
+                      "size":  7244
+                  },
+                  {
+                      "path":  "Data/Object101/Object109.bmd",
+                      "sha256":  "9f912169b0dd237d31310aeadcf4ac23b163dcb680ce1153b1120ce1e8704f70",
+                      "size":  33116
+                  },
+                  {
+                      "path":  "Data/Object101/Object110.bmd",
+                      "sha256":  "f0ccb30567347b94437775aa6bb800879b720a4c7571c90431403a49521e48df",
+                      "size":  41348
+                  },
+                  {
+                      "path":  "Data/Object101/Object111.bmd",
+                      "sha256":  "6c4536deb776599cad09adafb5eae748d874eaa71c99b3ed4fb3170fe10a001a",
+                      "size":  5438
+                  },
+                  {
+                      "path":  "Data/Object101/Object112.bmd",
+                      "sha256":  "fcf8a7b6843eaa905aba553b7bb59e6e489b563a7cc9669c48315a51c4f2e042",
+                      "size":  6068
+                  },
+                  {
+                      "path":  "Data/Object101/Object113.bmd",
+                      "sha256":  "919f0827529f0497f709c69f9d9cc2b7c2109075dc9dc939221cf7dd1bc17d09",
+                      "size":  14846
+                  },
+                  {
+                      "path":  "Data/Object101/Object114.bmd",
+                      "sha256":  "24088b8ac53462ae54033381d90f0ca599d167a0e4776e9d3788a9e94fbe4dda",
+                      "size":  14846
+                  },
+                  {
+                      "path":  "Data/Object101/Object121.bmd",
+                      "sha256":  "a776ef14b603d879944947e7b88758bdc149689ffc9772280050b76990f4283c",
+                      "size":  5676
+                  },
+                  {
+                      "path":  "Data/Object101/Object122.bmd",
+                      "sha256":  "d03108879f20dcb42d801e11ab7c42572043abcf60b20b2aa53fc8c565fc6e46",
+                      "size":  5676
+                  },
+                  {
+                      "path":  "Data/Object101/Object123.bmd",
+                      "sha256":  "1ddf33018837149c20f672673e7654ac55b69cde3f646c385e6b6cac6073c928",
+                      "size":  5676
+                  },
+                  {
+                      "path":  "Data/Object101/Object124.bmd",
+                      "sha256":  "807d0dd4c9ce2769c4444304c5b4e8680f049dbdec000826265fa73ad77888ed",
+                      "size":  5676
+                  },
+                  {
+                      "path":  "Data/Object101/Object126.bmd",
+                      "sha256":  "7e8938b00df403c710163c677b27eadc8284e5f50e419589a0076a80c7f89c85",
+                      "size":  15868
+                  },
+                  {
+                      "path":  "Data/Object101/Object127.bmd",
+                      "sha256":  "3a4ccf4fb2821f8e236d90bcf4c6268f6e4950007cd97e2b1ec3cbae5a641a30",
+                      "size":  28412
+                  },
+                  {
+                      "path":  "Data/Object101/Object128.bmd",
+                      "sha256":  "0f4273fc3c8785eb09486a80fd4be672bee0a20f26c16a33d476f1d8a59e3b02",
+                      "size":  240134
+                  },
+                  {
+                      "path":  "Data/Object101/Object129.bmd",
+                      "sha256":  "0484112f3268a03959d67045fbae34c66288aadf4ebe7c6db686df23eb6a47d2",
+                      "size":  134294
+                  },
+                  {
+                      "path":  "Data/Object101/Object13.bmd",
+                      "sha256":  "ead0d0c15b7930a1d00447c378c10cc7a6acf2ee7bfe67d02c90d57f5320e5ef",
+                      "size":  34634
+                  },
+                  {
+                      "path":  "Data/Object101/Object130.bmd",
+                      "sha256":  "3b8448a10d7ca23648f4bd755ba3bbb6c2bb8c02dc9b7b4b50b468beaaac2aae",
+                      "size":  146054
+                  },
+                  {
+                      "path":  "Data/Object101/Object17.bmd",
+                      "sha256":  "6502e39491b64979c354e40c26653482563c79f7aa68b98740797485ad6a64ad",
+                      "size":  69840
+                  },
+                  {
+                      "path":  "Data/Object101/Object18.bmd",
+                      "sha256":  "11b6272cec71882ff99f71b8511187f0e5e1771072d76284846c6a0edf1e3781",
+                      "size":  40278
+                  },
+                  {
+                      "path":  "Data/Object101/Object29.bmd",
+                      "sha256":  "f3c673283bea14e4638adf5f1e0b694e8926040269e65fbe1b837dec0d9dde10",
+                      "size":  197593
+                  },
+                  {
+                      "path":  "Data/Object101/Object38.bmd",
+                      "sha256":  "4c7763746bdb3fc16aac9bdb4dd3477b3a96b9eb361d34036a8e2fc2da252391",
+                      "size":  20209
+                  },
+                  {
+                      "path":  "Data/Object101/Object41.bmd",
+                      "sha256":  "a48738f11d4f2239e1e5038567048fc893fd5086a2392803e979192944b58606",
+                      "size":  63158
+                  },
+                  {
+                      "path":  "Data/Object101/Object42.bmd",
+                      "sha256":  "bd194b9baf8ae60173bed4c57207105cc29cd710bf28517b8a3c68dec1ade446",
+                      "size":  12690
+                  },
+                  {
+                      "path":  "Data/Object101/Object49.bmd",
+                      "sha256":  "a09aff385aca64d98eeea8b75a07ba866013c423cf7f18ceaf616698ecb41cda",
+                      "size":  84095
+                  },
+                  {
+                      "path":  "Data/Object101/Object54.bmd",
+                      "sha256":  "3bc02ac4ee8a4f4cf07ea74aaedec1a00010ea8df189a7aaf0fd602ec9765982",
+                      "size":  14988
+                  },
+                  {
+                      "path":  "Data/Object101/Object57.bmd",
+                      "sha256":  "1db7c4499aabf6aa769cae24749cfe065cf7e2795de3bec9384533648a77bfd6",
+                      "size":  136980
+                  },
+                  {
+                      "path":  "Data/Object101/Object89.bmd",
+                      "sha256":  "2a25362c98be66789e90bd4f3d5ded5052fe19d095ec0b585cad4daa960609ae",
+                      "size":  278942
+                  },
+                  {
+                      "path":  "Data/Object101/Object90.bmd",
+                      "sha256":  "7ac4f71987fa16fd3ff62cc733c3563819d732dc92eac60ccfd5b1873426b09a",
+                      "size":  100274
+                  },
+                  {
+                      "path":  "Data/Object101/Object91.bmd",
+                      "sha256":  "90771586051e0b0ba62d0e3aa81496d8b01329db045f301aa8676a28926f795c",
+                      "size":  36686
+                  },
+                  {
+                      "path":  "Data/Object101/Object92.bmd",
+                      "sha256":  "1fa2cfe7bd3fdd1741543dcfd751dc7208f95884d69210977ec14430aa4241b8",
+                      "size":  138998
+                  },
+                  {
+                      "path":  "Data/Object101/Object93.bmd",
+                      "sha256":  "e54ff6b2147d7bc4312fe642efea0a88bc361504d6e40d429216a0ca38af180e",
+                      "size":  101324
+                  },
+                  {
+                      "path":  "Data/Object101/Object94.bmd",
+                      "sha256":  "660feeab487e3738cc2274b8a85142dac83e81ceaeae9bad2d95e79ef45730aa",
+                      "size":  19004
+                  },
+                  {
+                      "path":  "Data/Object101/Object95.bmd",
+                      "sha256":  "3cfb36a5ec901892de21267613e525f39156f6799a69c3f0634492091ecef8ab",
+                      "size":  185492
+                  },
+                  {
+                      "path":  "Data/Object101/Object96.bmd",
+                      "sha256":  "5b62dcd1ef4e9784f763b3c1edf1ceb3990fe780af420eb0201bcdd200cc2afa",
+                      "size":  1714
+                  },
+                  {
+                      "path":  "Data/Object101/Object97.bmd",
+                      "sha256":  "b15685448e657df1061abe0cac8a573219c1fa64126ebfd61ef0c5546d546ccb",
+                      "size":  1714
+                  },
+                  {
+                      "path":  "Data/Object101/Object98.bmd",
+                      "sha256":  "34e57f2c0c50be981a2c1bbff58b274aedef58078c1d3162ad982612e2c0ac69",
+                      "size":  1714
+                  },
+                  {
+                      "path":  "Data/Object101/Object99.bmd",
+                      "sha256":  "be493c2fbb781ce7ddb365d0bf8d9bdbdcdb9a4a5df72ab72c4000582e5486e9",
+                      "size":  1714
+                  },
+                  {
+                      "path":  "Data/Object101/p100agujaacero.OZJ",
+                      "sha256":  "00ef41b7238ae02e5f0166e071805db441a2e9357428f299a823bea896030cc6",
+                      "size":  3617
+                  },
+                  {
+                      "path":  "Data/Object101/p100basaltoarde.OZJ",
+                      "sha256":  "f985479ba839574eae234df0e6659084bffdd27c60904b03afded159d3f77603",
+                      "size":  5274
+                  },
+                  {
+                      "path":  "Data/Object101/p100hielocristal.OZJ",
+                      "sha256":  "77637c8c960954ab83756921e0cd66d8a9dbecc29cd03645fb134f8716ad5837",
+                      "size":  5125
+                  },
+                  {
+                      "path":  "Data/Object101/p100oro.OZJ",
+                      "sha256":  "ff7df2b25c74f95a8a4ad3d605312294a292e48e308424deff18f7f8534e6f11",
+                      "size":  5036
+                  },
+                  {
+                      "path":  "Data/Object101/p100oroluz_R.OZJ",
+                      "sha256":  "dc4dd0d73a1149a4606a9d24a0138649f1d74d659cd4dfd3f5b40df58c058a3b",
+                      "size":  3203
+                  },
+                  {
+                      "path":  "Data/Object101/p98hielocristal.OZJ",
+                      "sha256":  "378d710baa8be869c24bd0441ff99b6e2c96cd5bdabdb8421b5bfe60af97fc31",
+                      "size":  10434
+                  },
+                  {
+                      "path":  "Data/Object101/p99basalto.OZJ",
+                      "sha256":  "21c343b7616cdf79e17d22c285d3e87ebc38272a67958003263c6cf5ffabf5e6",
+                      "size":  10647
+                  },
+                  {
+                      "path":  "Data/Object101/p99basaltog_R.OZJ",
+                      "sha256":  "79657d1eb157435a703382a39351d88c6afae477d80c4bbc0de2bc172338879e",
+                      "size":  24055
+                  },
+                  {
+                      "path":  "Data/Object101/pg0.OZJ",
+                      "sha256":  "f10a1d050b05ae77e5761cd989eee4a1939e4a47b26f804d127726b347e34285",
+                      "size":  208373
+                  },
+                  {
+                      "path":  "Data/Object101/pg1.OZJ",
+                      "sha256":  "f58881542a842291f0a2c29fc0172064bd3262cf5f752a4acf48aff1d34b11e8",
+                      "size":  202814
+                  },
+                  {
+                      "path":  "Data/Object101/pg2.OZJ",
+                      "sha256":  "812a25196b263cf636fe1b84222a84ee1d492142bdb382d3a8f08c358b15b1a6",
+                      "size":  209015
+                  },
+                  {
+                      "path":  "Data/Object101/pg3.OZJ",
+                      "sha256":  "ec64b9f4a8cf887e3535f47b3bd1f061e88216ab1f59bd1da3297dc16402919b",
+                      "size":  191017
+                  },
+                  {
+                      "path":  "Data/Object101/pi0.OZJ",
+                      "sha256":  "4ed970fc925f4d3a7b42bc4368aac8f4f822b34c3d880cb85dc9b761d4e19f81",
+                      "size":  183224
+                  },
+                  {
+                      "path":  "Data/Object101/pi1.OZJ",
+                      "sha256":  "ea5e5cf270c11034e0af2f049152e2ebfb6984809938e9f2f17dbb84ea0a8f17",
+                      "size":  154794
+                  },
+                  {
+                      "path":  "Data/Object101/pi2.OZJ",
+                      "sha256":  "c654fc49e091a2b635efc6d79f7345ecf006e4c3085f27b64d8616635067ff0a",
+                      "size":  156394
+                  },
+                  {
+                      "path":  "Data/Object101/pi3.OZJ",
+                      "sha256":  "0b2d00fcf64796cc787455639e9c8f88ee683816ce1be9230f2d7bf08d2a91d9",
+                      "size":  163762
+                  },
+                  {
+                      "path":  "Data/Object101/pl0_R.OZJ",
+                      "sha256":  "4125a7543f3e62a15446edad99eb9e03f851741cc123bd0e90ddeb13e000cfb5",
+                      "size":  88545
+                  },
+                  {
+                      "path":  "Data/Object101/pl1_R.OZJ",
+                      "sha256":  "00f6f7d8f82a98a1d690720292c75ffacbfcce925db9bcd9874eade590861f62",
+                      "size":  69136
+                  },
+                  {
+                      "path":  "Data/Object101/pl2_R.OZJ",
+                      "sha256":  "d63218231f531d984e77f6e9a01cc14d4957c2fc2455db96bed3c454c662cc16",
+                      "size":  85991
+                  },
+                  {
+                      "path":  "Data/Object101/pl3_R.OZJ",
+                      "sha256":  "1fd319acc920282155c14a1bd24d99a61e9b8262e0fdce16d3ef12ce67f8847d",
+                      "size":  92999
+                  },
+                  {
+                      "path":  "Data/Object101/plbasalt.OZJ",
+                      "sha256":  "0aa95523b16deb730b6a77b5e82993e793064a2d68d28edc6c63c3e6336b9b25",
+                      "size":  19857
+                  },
+                  {
+                      "path":  "Data/Object101/plcoal.OZJ",
+                      "sha256":  "daffa3a4a394a46d91b0dc066ce054b47ff246fc242068f54b22b741ea7fe9e9",
+                      "size":  8765
+                  },
+                  {
+                      "path":  "Data/Object101/pleclipse.OZJ",
+                      "sha256":  "9de04b9a3c5c8e5b3ce5abc995ab199ae863e802eb8a012e1b4e7a0fc66b8039",
+                      "size":  21273
+                  },
+                  {
+                      "path":  "Data/Object101/plgold.OZJ",
+                      "sha256":  "b8e808d20cfcd807d9847f637c5bebac9ce2cd0e1df440ccfd4ce14ec057d1fb",
+                      "size":  76011
+                  },
+                  {
+                      "path":  "Data/Object101/plheat_R.OZJ",
+                      "sha256":  "8296ea520ebee6fc59bdff05017cc13fe50a7cd02dd3fc3c19ecd9104c92bf2f",
+                      "size":  5610
+                  },
+                  {
+                      "path":  "Data/Object101/pliron.OZJ",
+                      "sha256":  "c6c64fc57f30d156e0494b3ae6af9578805f6b35452b6be3de8895d32e902da6",
+                      "size":  4802
+                  },
+                  {
+                      "path":  "Data/Object101/plkiln.OZJ",
+                      "sha256":  "afeba5f3e417064084b41820bc2f70676f492dc8535cc0468d999681334ec895",
+                      "size":  6048
+                  },
+                  {
+                      "path":  "Data/Object101/pllapis.OZJ",
+                      "sha256":  "625bb433b1353b6052990d10d202a44a283b3e82800bda45a69bccfe353b5327",
+                      "size":  106186
+                  },
+                  {
+                      "path":  "Data/Object101/sdikob02A_R.OZJ",
+                      "sha256":  "5b0fca645f4920df435028b954d2123085e7503094c9d343fd746c0f9c80dd03",
+                      "size":  97255
+                  },
+                  {
+                      "path":  "Data/Object101/sdikob03A_R.OZJ",
+                      "sha256":  "f55200e0823b0a965dc664491918c68b70b04f0bf872e4ba46039e2ef0f291be",
+                      "size":  69883
+                  },
+                  {
+                      "path":  "Data/Object101/sdikob03B_R.OZJ",
+                      "sha256":  "e4a5f6ad746795848b3595ac2c980ad9345652dec2d0514460baf30b5c572f8c",
+                      "size":  72006
+                  },
+                  {
+                      "path":  "Data/Object101/sdikob05A_R.OZJ",
+                      "sha256":  "e88f177d667db9b962d4e9d383f087d0c57b23f15b157aebeb0d68337e503080",
+                      "size":  31327
+                  },
+                  {
+                      "path":  "Data/Object101/test12_H.OZJ",
+                      "sha256":  "b0a415a7a8ef89cfcd2a72a5cf298b29101eb9488f235680e7f63893e514c0b3",
+                      "size":  1916
+                  },
+                  {
+                      "path":  "Data/Object101/top02_b.OZJ",
+                      "sha256":  "a8cbd66ea4fa9eae30e08cd824005292b0998ce271e8a8d538a147e7ffd635c0",
+                      "size":  23007
+                  },
+                  {
+                      "path":  "Data/Object101/top02_R.OZJ",
+                      "sha256":  "a8cbd66ea4fa9eae30e08cd824005292b0998ce271e8a8d538a147e7ffd635c0",
+                      "size":  23007
+                  },
+                  {
+                      "path":  "Data/Object102/Ascuas.OZJ",
+                      "sha256":  "f30f536a05fd9a68d19a5bab2236a7434986e9fc13d38efe1d4d8711708ebafc",
+                      "size":  5545
+                  },
+                  {
+                      "path":  "Data/Object102/Barnert.OZJ",
+                      "sha256":  "2dd648ad651ac5ea9b8722a3476938b1853cfb8e4bef8fbe7a743e91d448bbad",
+                      "size":  87611
+                  },
+                  {
+                      "path":  "Data/Object102/Basalto.OZJ",
+                      "sha256":  "cb34100738c2c6f60cdbf96220e7b4414cd0d3dbce7695d2e2325067eb82790d",
+                      "size":  10679
+                  },
+                  {
+                      "path":  "Data/Object102/Bronce.OZJ",
+                      "sha256":  "5ae7620b699e59eb3002a36d0d18da3ebcb2c77fefff6919460aba27632a2dbd",
+                      "size":  20586
+                  },
+                  {
+                      "path":  "Data/Object102/Campana.OZJ",
+                      "sha256":  "c0e50d4e9184ca4fb60e877191d009d9956e0dc1b273eedf2205caa982469de5",
+                      "size":  205111
+                  },
+                  {
+                      "path":  "Data/Object102/Cartela.OZJ",
+                      "sha256":  "0d50028e7abdafea606aa6a36489cf41383b6ef273891d41cfdf6619ebd5cfbd",
+                      "size":  158509
+                  },
+                  {
+                      "path":  "Data/Object102/Cipres.OZJ",
+                      "sha256":  "712cb072118bbc8f8da7f9a17acb3bd2be4cf4bc68271f07aca390254e541199",
+                      "size":  10768
+                  },
+                  {
+                      "path":  "Data/Object102/Estandar.OZJ",
+                      "sha256":  "587bad1eec6a5e7060b38cecf7f0d6fb9e2db5364640929880907facf28c4b36",
+                      "size":  204639
+                  },
+                  {
+                      "path":  "Data/Object102/Gradas.OZJ",
+                      "sha256":  "96466ac301097f362553d4c5c720326e5632522e1a2f3e6f99358b5c1f61f261",
+                      "size":  118639
+                  },
+                  {
+                      "path":  "Data/Object102/Granate.OZJ",
+                      "sha256":  "4407e9942789a863b9bcb74334b00198df8a3a341a438eacc3a6671adfe055e2",
+                      "size":  3816
+                  },
+                  {
+                      "path":  "Data/Object102/Indigo.OZJ",
+                      "sha256":  "e344939219fb0d00e7b22d0079282520bccbf4cdd3974a62dd355925f59580f4",
+                      "size":  2938
+                  },
+                  {
+                      "path":  "Data/Object102/Insignia.OZJ",
+                      "sha256":  "abb6525399e53c83223fef9b6d55737cf0fe6953254382842df859e2f1a768f8",
+                      "size":  196326
+                  },
+                  {
+                      "path":  "Data/Object102/Jardin.OZJ",
+                      "sha256":  "9c4d0cac4fe9c15bc71af9267427886e8ef0edcfaf5cf99f970a5aa08e6deb23",
+                      "size":  22599
+                  },
+                  {
+                      "path":  "Data/Object102/Lino.OZJ",
+                      "sha256":  "c96b68629da1d2dc2cf5731d8b1dac5131f39d3f87e47f51f0f83877b0d06c47",
+                      "size":  4389
+                  },
+                  {
+                      "path":  "Data/Object102/Man.OZJ",
+                      "sha256":  "3d19ae4ffda23b752a9283a5f5025af7714ceb0875efbfa559e6e4d978bbf265",
+                      "size":  41557
+                  },
+                  {
+                      "path":  "Data/Object102/Mosaico.OZJ",
+                      "sha256":  "145a5cd8c3684dc0cd17c9206e50082338a3c16ce181664962eb989aaf9e0946",
+                      "size":  616515
+                  },
+                  {
+                      "path":  "Data/Object102/Ob.OZJ",
+                      "sha256":  "33da059b67e6482d8f4c4fa64f63a957aef81090a63ce7031b48a7bedb277597",
+                      "size":  24663
+                  },
+                  {
+                      "path":  "Data/Object102/Object01.bmd",
+                      "sha256":  "290802d6f1c8f918236e29459196a4125a731ad1d1e1fd4b621f0b1df9150393",
+                      "size":  141912
+                  },
+                  {
+                      "path":  "Data/Object102/Object02.bmd",
+                      "sha256":  "ec856079a26c1f3e933365014d6cbdb8409c2b0aabc2a96ac249492e21c3b5c1",
+                      "size":  18962
+                  },
+                  {
+                      "path":  "Data/Object102/Object03.bmd",
+                      "sha256":  "38b57ff9ff7752a726dc48b13c7a6aae10159d0928c098fc38f37e8b42b1a9b9",
+                      "size":  242780
+                  },
+                  {
+                      "path":  "Data/Object102/Object04.bmd",
+                      "sha256":  "53c8ec1cc5efbfa0c5552b9eb45d8a593c363bc4508d5b78ddc41e5f545b01ef",
+                      "size":  196124
+                  },
+                  {
+                      "path":  "Data/Object102/Object05.bmd",
+                      "sha256":  "c5ebfbfd3232cb83f6da505e2b686288dd4ac4693968176c321eaf8d00e40886",
+                      "size":  195046
+                  },
+                  {
+                      "path":  "Data/Object102/Object06.bmd",
+                      "sha256":  "95beafa911a4a8eaf589f4f3bbca4ef29d86948ab2aa1754589cc7a7672323e3",
+                      "size":  195046
+                  },
+                  {
+                      "path":  "Data/Object102/Object07.bmd",
+                      "sha256":  "d6e91869252fb5e9a8da1746cfec37ccd991a7966cc961ae67d45fff372d00b3",
+                      "size":  196124
+                  },
+                  {
+                      "path":  "Data/Object102/Object08.bmd",
+                      "sha256":  "554e4228a167b8c3ca6f7ce785725174c1c819058a88c2b44a0a0a8d06b6b030",
+                      "size":  195046
+                  },
+                  {
+                      "path":  "Data/Object102/Object09.bmd",
+                      "sha256":  "b04b9204e51a705d57f85a640d7a68e200004afae7b39a893fc21a3ed62488fc",
+                      "size":  242780
+                  },
+                  {
+                      "path":  "Data/Object102/Object10.bmd",
+                      "sha256":  "b0b46414a8e83c554c3a84376096e46f0e9f0027b902b788fba589a0cff84fcf",
+                      "size":  306422
+                  },
+                  {
+                      "path":  "Data/Object102/Object11.bmd",
+                      "sha256":  "9f60c7fdaa798ac268ec59d78eacdee5055503ff11104bdae4cd91776c80e1b1",
+                      "size":  172246
+                  },
+                  {
+                      "path":  "Data/Object102/Object12.bmd",
+                      "sha256":  "8a86c30b017eb6e6ca17beff4056f12dbec15ca96e344ac75cadfabada93eba6",
+                      "size":  504438
+                  },
+                  {
+                      "path":  "Data/Object102/Object13.bmd",
+                      "sha256":  "a367c690325869d34e231c18431fde16011ef64d948c9b976adf0cb0e7ab5cef",
+                      "size":  196124
+                  },
+                  {
+                      "path":  "Data/Object102/Object14.bmd",
+                      "sha256":  "ad8c0553d4c030c6adafeb00cbb8470cc716d32bf125c847b6416e3d1a53c389",
+                      "size":  195046
+                  },
+                  {
+                      "path":  "Data/Object102/Object15.bmd",
+                      "sha256":  "72ef7125b9524a0b0a7194df09c548960829602e153d1ea0889fb63cae7bf747",
+                      "size":  242780
+                  },
+                  {
+                      "path":  "Data/Object102/Object16.bmd",
+                      "sha256":  "e04d02e00ef99d720aee1ab1fe2a44fb58f79989b257af7a9fa14fc52f7b0a7f",
+                      "size":  196124
+                  },
+                  {
+                      "path":  "Data/Object102/Object17.bmd",
+                      "sha256":  "69fea2e18412097bb461b3787241daaaf016f9194e8b0a2c1a784ce66d47f973",
+                      "size":  195046
+                  },
+                  {
+                      "path":  "Data/Object102/Object18.bmd",
+                      "sha256":  "9449a1fd9232ac0d61ce77449ff1b8168e94b589667720f7db92eb79d6b0ec6a",
+                      "size":  195046
+                  },
+                  {
+                      "path":  "Data/Object102/Object19.bmd",
+                      "sha256":  "844f314a383ceb8bb96501445da3fc968e0e87cb35902b4eaa521c9ef45eedfd",
+                      "size":  196124
+                  },
+                  {
+                      "path":  "Data/Object102/Object20.bmd",
+                      "sha256":  "74e6bbee73ffeb66329615248ee82937a2157830dbfad592018eb4b61924c1fe",
+                      "size":  195046
+                  },
+                  {
+                      "path":  "Data/Object102/Object21.bmd",
+                      "sha256":  "66506efc3eb47404ba117833c34f95bd9ec4a4dbe3a3e16986a4a14c3278fdd4",
+                      "size":  242780
+                  },
+                  {
+                      "path":  "Data/Object102/Object22.bmd",
+                      "sha256":  "e2f9880381248f383cb0af6fd9b502c527c3c0f78245909f031f4db24ec28e86",
+                      "size":  196124
+                  },
+                  {
+                      "path":  "Data/Object102/Object23.bmd",
+                      "sha256":  "bc94210ea8d6a14c48ff7578f60f90471baac31fe92ff90de968b3877a28bab9",
+                      "size":  195046
+                  },
+                  {
+                      "path":  "Data/Object102/Object24.bmd",
+                      "sha256":  "9e2940c06079af7b130cf835fd16299a6dac93533660754e56ebebb99ecb46dc",
+                      "size":  195046
+                  },
+                  {
+                      "path":  "Data/Object102/Object25.bmd",
+                      "sha256":  "cd2e03398bb2ab215830a58fb6efd62eb51a847467231dfd2ca4f6ebd1174c3a",
+                      "size":  196124
+                  },
+                  {
+                      "path":  "Data/Object102/Object26.bmd",
+                      "sha256":  "d57fb0febbd9ebe0ee9e312b4fd9db965568de94ffde1de28d145085e7b11eab",
+                      "size":  195046
+                  },
+                  {
+                      "path":  "Data/Object102/Object27.bmd",
+                      "sha256":  "783c15ca01243548a18eb91a752ac36667fb7b132bf5057954f3f111c4b5eff9",
+                      "size":  28678
+                  },
+                  {
+                      "path":  "Data/Object102/Object28.bmd",
+                      "sha256":  "aa9304bffc54bdcf2f422d9c35a536e8f250debc0f31913f68958c9955a35a15",
+                      "size":  44186
+                  },
+                  {
+                      "path":  "Data/Object102/Object29.bmd",
+                      "sha256":  "282b4e8147bbb8abe4df88989f87e75e9fa1b85bdf4f385bddc2dd431be44b50",
+                      "size":  116930
+                  },
+                  {
+                      "path":  "Data/Object102/PiedraCl.OZJ",
+                      "sha256":  "f645b153c4879bba508d060a33b1e345fd7bfc0b8c855f44cd2732534459acc9",
+                      "size":  9458
+                  },
+                  {
+                      "path":  "Data/Object102/Porfido.OZJ",
+                      "sha256":  "548049c65a79772c240e24f25fd073bc30c81e34dedf9221f10972457231c555",
+                      "size":  14236
+                  },
+                  {
+                      "path":  "Data/Object102/Sigilo.OZJ",
+                      "sha256":  "4228176c5d3c98dbacdb3837c03cd8d7d564406503ca395d1749c8a2c304d8fc",
+                      "size":  25383
+                  },
+                  {
+                      "path":  "Data/Object102/Silleria.OZJ",
+                      "sha256":  "c826a090066af28ef2e479748e4072ca08ed082ed651d827e8ee2e0a70ec091d",
+                      "size":  21446
+                  },
+                  {
+                      "path":  "Data/Object102/Talud.OZJ",
+                      "sha256":  "97a9b7d01367036970cbfea102ad6c0231f9b36291bfc4f0add7d504e98fca4f",
+                      "size":  11063
+                  },
+                  {
+                      "path":  "Data/Object102/Travertin.OZJ",
+                      "sha256":  "fe11fdccb38a63457a122f679c65a1fee6ad5e6715770e4780f725f445482686",
+                      "size":  30411
+                  },
+                  {
+                      "path":  "Data/Object102/Umbral.OZJ",
+                      "sha256":  "efc886ba8a107871424c1dd69e6bfb7c9bcf009ec6f173673ef2334e9787394f",
+                      "size":  33162
                   },
                   {
                       "path":  "Data/Object11/cloud.bmd",
@@ -67859,6 +69144,201 @@
                       "size":  4144
                   },
                   {
+                      "path":  "Data/Object97/Caliza.OZJ",
+                      "sha256":  "02ac0f41522ba60a8da2dbd81091fe9ba791a57e063b7e219af176fcd0109f67",
+                      "size":  99074
+                  },
+                  {
+                      "path":  "Data/Object97/Cristal.OZJ",
+                      "sha256":  "03e607c0ccb8357d8858b635b3a79b05c505c63d2ddd676f0768ba0b6d450cc1",
+                      "size":  16975
+                  },
+                  {
+                      "path":  "Data/Object97/Esmalte.OZJ",
+                      "sha256":  "16a3a57e0c4548ab34b13e422b0e96cc5e5a7d94204fbf3d56255ff237b1d17a",
+                      "size":  10685
+                  },
+                  {
+                      "path":  "Data/Object97/Icaro_hscastleA01_piedra.OZJ",
+                      "sha256":  "330b3a93a2b975b2d45b6eff58786664fe9c0d490f9d166ce56f2bc7b5a6cf83",
+                      "size":  101074
+                  },
+                  {
+                      "path":  "Data/Object97/Icaro_top02_b.OZJ",
+                      "sha256":  "3e4d11839508584b3345c659779ee87d352a7463209cb16587ec284f4c355e69",
+                      "size":  7271
+                  },
+                  {
+                      "path":  "Data/Object97/Icaro_top02_piedra.OZJ",
+                      "sha256":  "3e4d11839508584b3345c659779ee87d352a7463209cb16587ec284f4c355e69",
+                      "size":  7271
+                  },
+                  {
+                      "path":  "Data/Object97/Laton.OZJ",
+                      "sha256":  "75533f90b0554f6a21eec0c23072df2fe1b62f35b9e653021d94795c2dc9a7f7",
+                      "size":  32426
+                  },
+                  {
+                      "path":  "Data/Object97/Nubes.OZJ",
+                      "sha256":  "09dde87e5981d9c8b76b3edee47c07cee4f812605db469cba73857e16f506f3a",
+                      "size":  327751
+                  },
+                  {
+                      "path":  "Data/Object97/Object01.bmd",
+                      "sha256":  "c97b3a1347f401ccc1a536ee3e2b4958f595327648a0c4b0039796a254705fe1",
+                      "size":  38192
+                  },
+                  {
+                      "path":  "Data/Object97/Object02.bmd",
+                      "sha256":  "72a517e77121b3a941623fd937633ba36154b62ad2be29daafeb8845d2c6480b",
+                      "size":  109754
+                  },
+                  {
+                      "path":  "Data/Object97/Object03.bmd",
+                      "sha256":  "994a0bb3fc030cc6fff2d9860fa719842d47ff071edf699bd95389698247f571",
+                      "size":  18962
+                  },
+                  {
+                      "path":  "Data/Object97/Object04.bmd",
+                      "sha256":  "f0011e0892efc13ebcf6d9e8f0accdbfae507c275279dc6943c0aa1fefdffc2b",
+                      "size":  505604
+                  },
+                  {
+                      "path":  "Data/Object97/Object05.bmd",
+                      "sha256":  "0ab98352eefd7bcccb107bc33993c14ce8ebd91242adb1e3f18aeaf59eb30589",
+                      "size":  41414
+                  },
+                  {
+                      "path":  "Data/Object97/Object06.bmd",
+                      "sha256":  "7ae0400e0f4d350d80290d75e1497da8040974f2c330996563cbab84df0fb046",
+                      "size":  63154
+                  },
+                  {
+                      "path":  "Data/Object97/Object07.bmd",
+                      "sha256":  "5921fc32bd5a301d5932f03b0812e20e0d4a82f7305c9b280d2166669346b87b",
+                      "size":  34634
+                  },
+                  {
+                      "path":  "Data/Object97/Object08.bmd",
+                      "sha256":  "5519d1e8fb2bf3b0a15a55971d141f1c92cb66c2de1cc55d43b6b097dbbbff2f",
+                      "size":  24178
+                  },
+                  {
+                      "path":  "Data/Object97/Object09.bmd",
+                      "sha256":  "0fef5d18d3680f41fd8017e728567089e533ce86269d540beae1cb55b2d77cbe",
+                      "size":  69836
+                  },
+                  {
+                      "path":  "Data/Object97/Object10.bmd",
+                      "sha256":  "1ee91b3c77221bb65c324f8e5aab2f47fb1a9ff7950817eccee4c16b8db5f646",
+                      "size":  40274
+                  },
+                  {
+                      "path":  "Data/Object97/Object11.bmd",
+                      "sha256":  "c62e6d5e5bf5b7eea7f3b6e5e91c749d1f09345cecee7d588a9a1b74bdb5290a",
+                      "size":  18962
+                  },
+                  {
+                      "path":  "Data/Object97/Object12.bmd",
+                      "sha256":  "b9a3a7d5812da0b5718947feb3ce8c6eb44af63616fb965192126490ae124902",
+                      "size":  18962
+                  },
+                  {
+                      "path":  "Data/Object97/Object13.bmd",
+                      "sha256":  "640269f599b884bbd90b581793892f933dbc0235c2ae0205f5a8777da96f7eba",
+                      "size":  18962
+                  },
+                  {
+                      "path":  "Data/Object97/Object14.bmd",
+                      "sha256":  "bfa1cc7d92db298417141b53d3f240915e7acc46e0bb7c73be16ddb31accda3a",
+                      "size":  18962
+                  },
+                  {
+                      "path":  "Data/Object97/Object15.bmd",
+                      "sha256":  "bc3907f3a363aa242c7a0ea3a6c5cfa636e8520fc66514a81dd816e28b669c09",
+                      "size":  450
+                  },
+                  {
+                      "path":  "Data/Object97/Object16.bmd",
+                      "sha256":  "ac4f46e2fc7d9ec7291f62dc7eb3bef40add41be73c17e38d8cdc6a34498753b",
+                      "size":  450
+                  },
+                  {
+                      "path":  "Data/Object97/Object17.bmd",
+                      "sha256":  "498145fe09c315f9eeac78ec0b6419b7ae92a8983f1d7f1d43402199f67882b5",
+                      "size":  450
+                  },
+                  {
+                      "path":  "Data/Object97/Object18.bmd",
+                      "sha256":  "a329472ab157abbf296c9da8d6dbf5928e7bb46cee0a827a30145d56ed288e31",
+                      "size":  450
+                  },
+                  {
+                      "path":  "Data/Object97/Object19.bmd",
+                      "sha256":  "beea9caee7ba1a7a1457ee77102ec89d7d4c73a6e870d764ddabf1f612495322",
+                      "size":  450
+                  },
+                  {
+                      "path":  "Data/Object97/Object20.bmd",
+                      "sha256":  "dd6bf3839194edfb2225b522c3597f1942c12f81d54b16ae7765b81120bdda03",
+                      "size":  450
+                  },
+                  {
+                      "path":  "Data/Object97/Object21.bmd",
+                      "sha256":  "afceb7f8be1fa6a0bc2dd051ed8685e468ce13176b5eeabca4f43c4c1d058799",
+                      "size":  450
+                  },
+                  {
+                      "path":  "Data/Object97/Object22.bmd",
+                      "sha256":  "3e1c6df1b198a4dd278f7f53f64a4995215156d8383b17d1bee05f89b04ab762",
+                      "size":  450
+                  },
+                  {
+                      "path":  "Data/Object97/Object23.bmd",
+                      "sha256":  "da7830c99c7b8eca612bf87206b4ce1e27fc452ae2980f5df548729df23b8f22",
+                      "size":  450
+                  },
+                  {
+                      "path":  "Data/Object97/Pendon.OZJ",
+                      "sha256":  "104aec012b1fc77851c757f4bf634a9906761af336aafa649f0e1d9b4ba5336d",
+                      "size":  118934
+                  },
+                  {
+                      "path":  "Data/Object97/Pizarra.OZJ",
+                      "sha256":  "8b3be01c2c6257b029ed1bf7cfb514b96ce820ff55ceb2e21756f26ba4365bcb",
+                      "size":  88174
+                  },
+                  {
+                      "path":  "Data/Object97/Risco.OZJ",
+                      "sha256":  "568be51c600bee1790932cec263ea10b882a7e524a8a64b001c00c468eecf52f",
+                      "size":  81243
+                  },
+                  {
+                      "path":  "Data/Object97/Rosa.OZJ",
+                      "sha256":  "db3165e4d86298ffa64a13927d7ba38bf795134e9ddcad64d6e0b54185b7a953",
+                      "size":  530315
+                  },
+                  {
+                      "path":  "Data/Object97/Sello1.OZJ",
+                      "sha256":  "db81a29ec2c3843bdc2ad8d56feaa9df20b49919e171b37daf686150fd7770e2",
+                      "size":  144295
+                  },
+                  {
+                      "path":  "Data/Object97/Sello2.OZJ",
+                      "sha256":  "490f5be602f5d6647a6c948e7a9c8a2d4eb77a28b5a39e8a0a7cfb794bf719e2",
+                      "size":  129548
+                  },
+                  {
+                      "path":  "Data/Object97/Sello3.OZJ",
+                      "sha256":  "132b18e9476572fc177cca399b6fee8b5e6dd8cb23866f2dd09df7d30dbdc114",
+                      "size":  141002
+                  },
+                  {
+                      "path":  "Data/Object97/Sello4.OZJ",
+                      "sha256":  "1aa7c546a9fdc4f4e8214a9086d32ee7c01be962ff70dad21abfeda8cf1d0022",
+                      "size":  132196
+                  },
+                  {
                       "path":  "Data/Object98/cloud.bmd",
                       "sha256":  "422daad8880717e88ebe963f7fd1cd09114e1e55f9ff5b02652f81ca60b10b4d",
                       "size":  2814
@@ -73559,6 +75039,81 @@
                       "size":  32850
                   },
                   {
+                      "path":  "Data/Player/PalArmor01.bmd",
+                      "sha256":  "8a6d9ed1f6b8d2ca09e25cca1c65011f99a8b93cee9425459932021016f5b964",
+                      "size":  27615
+                  },
+                  {
+                      "path":  "Data/Player/PalArmor02.bmd",
+                      "sha256":  "f9cc8ee98684c86a01f65e46d047045547a9f7f91ac44fbff0bd13ed9fd2fe92",
+                      "size":  18913
+                  },
+                  {
+                      "path":  "Data/Player/PalArmor03.bmd",
+                      "sha256":  "5d8a0eddb19a79f8863bdfcd981a18ca266200fae7b7945cc5b8db81ec300888",
+                      "size":  25655
+                  },
+                  {
+                      "path":  "Data/Player/PalBoot01.bmd",
+                      "sha256":  "1639441f7546d678b5df96061bd3079b8d144d05282e8e77a79f8d07dc0b7dc1",
+                      "size":  15883
+                  },
+                  {
+                      "path":  "Data/Player/PalBoot02.bmd",
+                      "sha256":  "a84127d2d6c85d735199d33e4c1860599ea7e735f52f9228028146f479226b70",
+                      "size":  14825
+                  },
+                  {
+                      "path":  "Data/Player/PalBoot03.bmd",
+                      "sha256":  "22f4674e787d4baf926a4fddee8a88b3582291a3da194b1cdbb281326c652ac3",
+                      "size":  15915
+                  },
+                  {
+                      "path":  "Data/Player/PalGlove01.bmd",
+                      "sha256":  "1aba18c206494603c73844ba88b5743ada7aed65620d1263e902f189ff55dddc",
+                      "size":  16539
+                  },
+                  {
+                      "path":  "Data/Player/PalGlove02.bmd",
+                      "sha256":  "a8fabb0cc5800b3d3b27c5e45ddbe0266b53ea0f97d67d3c3fb008840f9f5a06",
+                      "size":  18109
+                  },
+                  {
+                      "path":  "Data/Player/PalGlove03.bmd",
+                      "sha256":  "ef5c2cd5ffeb0c546d23909ff4ec0781651d087d77029655f68686e250c8cf9a",
+                      "size":  16571
+                  },
+                  {
+                      "path":  "Data/Player/PalHelm01.bmd",
+                      "sha256":  "3908cdbf04d741dee3fb3a2d694d3fda1e03aefc6e5528c70141c15491b439e8",
+                      "size":  20333
+                  },
+                  {
+                      "path":  "Data/Player/PalHelm02.bmd",
+                      "sha256":  "a8a064522eccbe79a3c12175649e6dac6de23ee87d953ad5aac4e5bc44716def",
+                      "size":  13045
+                  },
+                  {
+                      "path":  "Data/Player/PalHelm03.bmd",
+                      "sha256":  "45d8e28b82cbb3858587f0742dec8d56371a04dec566f8f1678c9862f0a20dff",
+                      "size":  18229
+                  },
+                  {
+                      "path":  "Data/Player/PalPant01.bmd",
+                      "sha256":  "9a6a331bb6b5db4f467b0fa9385b2d2149f988d0220b7908e24f74e2f0ae27ce",
+                      "size":  14073
+                  },
+                  {
+                      "path":  "Data/Player/PalPant02.bmd",
+                      "sha256":  "1bebc3d31479a477bdda1f2140169673c5917fe0ed9c711d35938c44fab0b7ed",
+                      "size":  14747
+                  },
+                  {
+                      "path":  "Data/Player/PalPant03.bmd",
+                      "sha256":  "beab4bcb9aa713cb88b5e715110f8a66cc24a5ff8b690937269583033a8a07c8",
+                      "size":  15947
+                  },
+                  {
                       "path":  "Data/Player/PantClass01.bmd",
                       "sha256":  "4ec3f3f21ec2c9b0d8acd00bc44c310dde1647a2e31e71633606777e0762470e",
                       "size":  13955
@@ -74072,6 +75627,111 @@
                       "path":  "Data/Player/pants22.OZT",
                       "sha256":  "309f5b0228bf2902e869ef7e9661714284e6248b2ef7249afdbb710218ae0eae",
                       "size":  16432
+                  },
+                  {
+                      "path":  "Data/Player/pg1_00.OZJ",
+                      "sha256":  "ae95808916590c9dcccf3141392e13ef1e2439c1b4604b713eb8a119ed35f604",
+                      "size":  3172
+                  },
+                  {
+                      "path":  "Data/Player/pg1_01.OZJ",
+                      "sha256":  "0032ee10f7661be134b57e3427f5af1be765b4b742be7f3f042e24c505a7ad05",
+                      "size":  19332
+                  },
+                  {
+                      "path":  "Data/Player/pg1_02.OZJ",
+                      "sha256":  "0e9103ba87664f65647744e6dd463916003cd0ad7114e9cb7b85e54387f5a3b2",
+                      "size":  11471
+                  },
+                  {
+                      "path":  "Data/Player/pg1_03.OZT",
+                      "sha256":  "9c7d0cad1e06d8be43a1e18debcdc0a690ba2d97855eebeaf0077ca1ec249647",
+                      "size":  16406
+                  },
+                  {
+                      "path":  "Data/Player/pg1_04.OZJ",
+                      "sha256":  "c51553b1261b8bfd5f4c521f68bec979512ca144fd4f8543483bd906105485ff",
+                      "size":  9897
+                  },
+                  {
+                      "path":  "Data/Player/pg1_05.OZJ",
+                      "sha256":  "ad903e2d0056b24bc4cde67fd42638d92fb8558f57396ba38c56e137f27a2a99",
+                      "size":  3342
+                  },
+                  {
+                      "path":  "Data/Player/pg1_06.OZJ",
+                      "sha256":  "f6d764c87e6d476ba4275ee434fed917496a49e10953ef4e2586057f25d15f94",
+                      "size":  3295
+                  },
+                  {
+                      "path":  "Data/Player/pg2_00.OZJ",
+                      "sha256":  "ae28d7df21d28358955928e3a9a00dcf87f1dcfcfd479bc0827814d2cf8d3912",
+                      "size":  2688
+                  },
+                  {
+                      "path":  "Data/Player/pg2_01.OZJ",
+                      "sha256":  "635bc29cf6317af34cb86793e42bc94e38bb29322805e9fafef1f39b8058fece",
+                      "size":  19256
+                  },
+                  {
+                      "path":  "Data/Player/pg2_02.OZJ",
+                      "sha256":  "bdae8e471b2f97438376d1bfcfdda2d59575e00cf3ca9d98e583455188094916",
+                      "size":  7532
+                  },
+                  {
+                      "path":  "Data/Player/pg2_03.OZT",
+                      "sha256":  "1592c56198309772667ed22fcdb0cebd6a45e58043f7cad42d283856098d0eb5",
+                      "size":  8214
+                  },
+                  {
+                      "path":  "Data/Player/pg2_04.OZJ",
+                      "sha256":  "67f775132cafe0b0f55ad1ea477023936c100b65beb1a7b0d386b69f554eaae1",
+                      "size":  4826
+                  },
+                  {
+                      "path":  "Data/Player/pg2_05.OZJ",
+                      "sha256":  "2e06254e5253525e074552acb2f9ba92dd25f7d84b680af637cdda360de29cdf",
+                      "size":  2067
+                  },
+                  {
+                      "path":  "Data/Player/pg2_06.OZJ",
+                      "sha256":  "343a32f23096a596f178fb3fa8d5d15b621094b4af11ec4cbae88fb66dd2967f",
+                      "size":  2571
+                  },
+                  {
+                      "path":  "Data/Player/pg3_00.OZJ",
+                      "sha256":  "0db1d96f164e7d0536ed8e3db0c372e9e63a478c2c08f7f9232c156e603a5167",
+                      "size":  3338
+                  },
+                  {
+                      "path":  "Data/Player/pg3_01.OZJ",
+                      "sha256":  "635bc29cf6317af34cb86793e42bc94e38bb29322805e9fafef1f39b8058fece",
+                      "size":  19256
+                  },
+                  {
+                      "path":  "Data/Player/pg3_02.OZJ",
+                      "sha256":  "34bba38590ac425e73356b4c164371bf9c79795ce9c6bf7427ba4941aa77512b",
+                      "size":  13297
+                  },
+                  {
+                      "path":  "Data/Player/pg3_03.OZJ",
+                      "sha256":  "8fa751d3e36e47498e67b50059d7a9968d756bf3b2c979f8c22391089cf2ec8c",
+                      "size":  12726
+                  },
+                  {
+                      "path":  "Data/Player/pg3_04.OZT",
+                      "sha256":  "e4b6fb109548cf17c3116417cfc4950867ff4a638034475ed76d99995ab2e3d0",
+                      "size":  16406
+                  },
+                  {
+                      "path":  "Data/Player/pg3_05.OZJ",
+                      "sha256":  "d17a63454d90a97e2179d6bd2ff91d0cae283d97dab6a8e1cc1e2558c9cfa5d5",
+                      "size":  4014
+                  },
+                  {
+                      "path":  "Data/Player/pg3_06.OZJ",
+                      "sha256":  "9234f4be7c482077d23bca7a6e85b7e049e4b458ed914c62b514b6199bf005b1",
+                      "size":  4241
                   },
                   {
                       "path":  "Data/Player/PhoenixSoul.OZJ",
@@ -74885,8 +76545,8 @@
                   },
                   {
                       "path":  "Data/QuestSpots.txt",
-                      "sha256":  "1bafe50d77636acec99ae2a01097d88d0d29040dfbe8d591b226bf0f2bc139c7",
-                      "size":  57533
+                      "sha256":  "aebc9ec88720b466f53c858bf278e261aa6cbe2d01e2772c83de0388eb013403",
+                      "size":  61615
                   },
                   {
                       "path":  "Data/Skill/2line_gost.OZJ",
@@ -79477,6 +81137,26 @@
                       "path":  "Data/Sound/nMix.wav",
                       "sha256":  "bd8ce458536f49b4b33e9366ea108225efd17099ffe7433947d86db2376b49bf",
                       "size":  751442
+                  },
+                  {
+                      "path":  "Data/Sound/palace_eclipse.wav",
+                      "sha256":  "5b8a0a938118f7439217977b586e817aa5ed7b6276cc6fc0960308855c21ac77",
+                      "size":  84558
+                  },
+                  {
+                      "path":  "Data/Sound/palace_forge.wav",
+                      "sha256":  "ed6f7797ee4f74071086ef34072c1060c87064bb8dcca71440f23e86cfd74427",
+                      "size":  84558
+                  },
+                  {
+                      "path":  "Data/Sound/palace_mirror.wav",
+                      "sha256":  "ea392d8e1aac2b42f5775eb35e87b04c6fc146cfaa1cc75446e55fbb1f38e56b",
+                      "size":  84558
+                  },
+                  {
+                      "path":  "Data/Sound/palace_seal.wav",
+                      "sha256":  "2d0cd1231f32803e1da599d7513bbfee553f70373df3ebe37358f7bc95e408e2",
+                      "size":  84558
                   },
                   {
                       "path":  "Data/Sound/pDarkDeath.wav",
@@ -92630,8 +94310,8 @@
                   },
                   {
                       "path":  "Data/UniqueItems.txt",
-                      "sha256":  "392bb59e296f99f4ed9a9092e9cd2ff621502a60e875ff933e51c0a80bb3b79b",
-                      "size":  5595
+                      "sha256":  "c02056f0cdae49b1d81cd1814f003a9dabc5735dd7f13dc841780da8712e739a",
+                      "size":  7580
                   },
                   {
                       "path":  "Data/UniqueLook.off",
@@ -92640,8 +94320,8 @@
                   },
                   {
                       "path":  "Data/UniqueLore.txt",
-                      "sha256":  "3c889affe4c212e057a0739f083b21d9374a6c6452fc3170c78bc7dbd81ce45f",
-                      "size":  13182
+                      "sha256":  "f23102473e6b32d7aa6230e21efe76ee6ca9842dda9dca526a74cb56f0b25e37",
+                      "size":  16744
                   },
                   {
                       "path":  "Data/UniqueMods.txt",
@@ -92650,13 +94330,13 @@
                   },
                   {
                       "path":  "Data/UniqueMods_Eng.txt",
-                      "sha256":  "17a3533617aa985b2b64b454608c9d432dae84834a75540cebd8793d0ebd64bb",
-                      "size":  8285
+                      "sha256":  "7e4c4bb35f5db2db5ad8907b722358c031d32e241e25da39dc82d2266e1d3de0",
+                      "size":  13081
                   },
                   {
                       "path":  "Data/UniqueMods_Spn.txt",
-                      "sha256":  "176ba52bab1f11fca398956aa9d7e69faee29430be7625a141a9ecda59787d8b",
-                      "size":  8465
+                      "sha256":  "cab97bd3ef15cdc5ba4f7fca048bd1bb40b620e95146217f47d1c5c89a3bab99",
+                      "size":  13377
                   },
                   {
                       "path":  "Data/upscaled.txt",
@@ -93150,8 +94830,8 @@
                   },
                   {
                       "path":  "Data/World100/EncTerrain100.obj",
-                      "sha256":  "433a34f636665bb1280e85c7393245c7a8834663f48ab2eaabd46150ad7107e5",
-                      "size":  59044
+                      "sha256":  "d73e45098005b1981694ac6191bbc47fb14ed32d717e3a8bbc4c5b5b64ed1a82",
+                      "size":  59074
                   },
                   {
                       "path":  "Data/World100/leaf01.OZT",
@@ -93187,6 +94867,221 @@
                       "path":  "Data/World100/TileGrass01.OZJ",
                       "sha256":  "c62cfb90f07e6f778cce2325483985243d87230b1054b1c57d4ce53f166d536d",
                       "size":  111398
+                  },
+                  {
+                      "path":  "Data/World101/EncTerrain101.att",
+                      "sha256":  "852e6cbb782ab5001d541e4d3a4d63cba5e34d0e630ed3bcb5b357ee7376a905",
+                      "size":  65540
+                  },
+                  {
+                      "path":  "Data/World101/EncTerrain101.map",
+                      "sha256":  "75a5951c7300374f89e2cd619478b738b9cc795f00adf3895f6c9a168158bcd4",
+                      "size":  196610
+                  },
+                  {
+                      "path":  "Data/World101/EncTerrain101.obj",
+                      "sha256":  "a2dccdd8607f224d84c2bce24066611c1fcc2e9eac2d8e197d4ec9dcfd4cdab3",
+                      "size":  39634
+                  },
+                  {
+                      "path":  "Data/World101/leaf01.OZT",
+                      "sha256":  "bd5f1729d2ef79e6ba37f95368e0532876def38867a0c202bc042ae65502a56b",
+                      "size":  1072
+                  },
+                  {
+                      "path":  "Data/World101/leaf02.OZJ",
+                      "sha256":  "482397cd34e1fd9ff9028753e626bbb85e2617f64ae0dac4b078d0808f68cdea",
+                      "size":  4445
+                  },
+                  {
+                      "path":  "Data/World101/mini_map.OZT",
+                      "sha256":  "ee6de9981b7146082f380763fad304cfc0386eeae431b1f0bc6e85dbb861d7ad",
+                      "size":  262192
+                  },
+                  {
+                      "path":  "Data/World101/rain01.OZT",
+                      "sha256":  "c226da807aec48cd365853a045332496bc498d607acfaeae126dded8ccc6bf84",
+                      "size":  560
+                  },
+                  {
+                      "path":  "Data/World101/TerrainHeight.OZB",
+                      "sha256":  "c7a7247adaacb2531709aabb74137a32c24fc5783d4d3c51b14217165a5289d2",
+                      "size":  66620
+                  },
+                  {
+                      "path":  "Data/World101/TerrainLight.OZJ",
+                      "sha256":  "da5de30f1467eca5f0bb053ad5d59421b7ab5cf5f166e938b74b37aa3ef210cf",
+                      "size":  29579
+                  },
+                  {
+                      "path":  "Data/World101/TileGrass01.OZJ",
+                      "sha256":  "e754004e4817d18459da2f978a73878484c5ac32710d7db06f804ca44c1eb0b4",
+                      "size":  104413
+                  },
+                  {
+                      "path":  "Data/World101/TileGrass02.OZJ",
+                      "sha256":  "71f1019af334edd899c111d9380adb1b368158ea507467e8d9891c301dcdf06c",
+                      "size":  82861
+                  },
+                  {
+                      "path":  "Data/World101/TileGround01.OZJ",
+                      "sha256":  "8adf303f4be55a66119e642f6463f09c04c13062e7d35c300e095d3d247aa36f",
+                      "size":  20150
+                  },
+                  {
+                      "path":  "Data/World101/TileGround02.OZJ",
+                      "sha256":  "584ce340fd8f5f32613b331ba2086c314d1ee1dd6f1eb3ea7d716aa7f1fe9f5a",
+                      "size":  30934
+                  },
+                  {
+                      "path":  "Data/World101/TileGround03.OZJ",
+                      "sha256":  "a3b260fc35b6d70e68a0d322c17774eff79f146ed031c5f73bcba9d54bf07e57",
+                      "size":  26808
+                  },
+                  {
+                      "path":  "Data/World101/TileRock01.OZJ",
+                      "sha256":  "3779c473bff800e57fcc6c4eb1f6141f40548bdf00a1c80d8b7039b960585f8f",
+                      "size":  22050
+                  },
+                  {
+                      "path":  "Data/World101/TileRock02.OZJ",
+                      "sha256":  "b5e4d887f8542178d77c1d0d8365a9d2ec3606e4868382d21d62198ffe2f6f83",
+                      "size":  20684
+                  },
+                  {
+                      "path":  "Data/World101/TileRock03.OZJ",
+                      "sha256":  "494eb2e216a9728c14ef184d42e80e3c93f45da1ae361370fd6542d34126ac75",
+                      "size":  19817
+                  },
+                  {
+                      "path":  "Data/World102/EncTerrain102.att",
+                      "sha256":  "a70ea3fc3b95cdda7f7f79d696956e69721bb1fb9da130879a8d48510502ead7",
+                      "size":  65540
+                  },
+                  {
+                      "path":  "Data/World102/EncTerrain102.map",
+                      "sha256":  "b38392484b535142ca5bef1bf0d085708e40570466375e2b21aa4d88a22b44cd",
+                      "size":  196610
+                  },
+                  {
+                      "path":  "Data/World102/EncTerrain102.obj",
+                      "sha256":  "43c647cf923ed6eabf38656bb6b7a36f0c434477f3ec144931bcfd01240f03d9",
+                      "size":  3034
+                  },
+                  {
+                      "path":  "Data/World102/mini_map.OZT",
+                      "sha256":  "178c0fb08ba6088c8a11914b0f45a9de51ae2024ef06885a5b66c8f5a225b864",
+                      "size":  4194352
+                  },
+                  {
+                      "path":  "Data/World102/TerrainHeight.OZB",
+                      "sha256":  "aa5c81b13ec74b9d33da6826f25b0bd332ef2b8f488db48e8fc93b2542c61b3e",
+                      "size":  66620
+                  },
+                  {
+                      "path":  "Data/World102/TerrainLight.OZJ",
+                      "sha256":  "1ebb9f9cc4164e7db755ac46b9ad00d8b1995bc1908626ea0c4a176c0019697a",
+                      "size":  2331
+                  },
+                  {
+                      "path":  "Data/World102/TileGrass01.OZJ",
+                      "sha256":  "db2e2f0f479a6e0744940cd1f2e310d8e0e531c57043874d2499ed29fe4410fe",
+                      "size":  58863
+                  },
+                  {
+                      "path":  "Data/World102/TileGrass01.OZT",
+                      "sha256":  "94a44b3139aa478f7866cd115b33ae6a5f91f73d9edce0e098105f0e8c622f6e",
+                      "size":  65584
+                  },
+                  {
+                      "path":  "Data/World102/TileGrass02.OZJ",
+                      "sha256":  "dd90693b601c393ac9e4822470e44abecb3dcd1dd9373e450dae3ecbfa00a769",
+                      "size":  67683
+                  },
+                  {
+                      "path":  "Data/World102/TileGrass02.OZT",
+                      "sha256":  "9342d270039fae028af0f1658c1bc5456cb616893d9239ff4549c6ed5b24ba3a",
+                      "size":  65584
+                  },
+                  {
+                      "path":  "Data/World102/TileGrass03.OZT",
+                      "sha256":  "4e8df0d1fe9342ad4ca541ffdf4918ed73492ebfc3fb44a52102224d141c526a",
+                      "size":  131120
+                  },
+                  {
+                      "path":  "Data/World102/TileGround01.OZJ",
+                      "sha256":  "e890a8344a0af1de3f72d5d1b94a789f746dc0ce3d5ba34850025736ffa8e8b0",
+                      "size":  17184
+                  },
+                  {
+                      "path":  "Data/World102/TileGround02.OZJ",
+                      "sha256":  "2e8e7a733457818c6ae0c03e02ce6a0834797048364350366c3790aab06f876d",
+                      "size":  69735
+                  },
+                  {
+                      "path":  "Data/World102/TileGround03.OZJ",
+                      "sha256":  "bcffe75bd6c969426c4eb4057f9d2bd3e625f6b6d33705b78453d252f5f41922",
+                      "size":  66324
+                  },
+                  {
+                      "path":  "Data/World102/TileRock.OZJ",
+                      "sha256":  "835d4321ce4e8a7de22156c4b3458873470895fd2668ec3d9bcd3c25ecf36de2",
+                      "size":  80441
+                  },
+                  {
+                      "path":  "Data/World102/TileRock01.OZJ",
+                      "sha256":  "a3019594abf340aab2a76aea04c92817a6d2cc9791937f55c18c65a602446fb0",
+                      "size":  112199
+                  },
+                  {
+                      "path":  "Data/World102/TileRock02.OZJ",
+                      "sha256":  "c82392a3f9c1c8fbc274e1890e7ae090fc87e0538a8155c4c5b8777dfe511d1c",
+                      "size":  49809
+                  },
+                  {
+                      "path":  "Data/World102/TileRock03.OZJ",
+                      "sha256":  "36d03f9d56232a0683d663f5c069776d3443a32694da826173c36451c177aaef",
+                      "size":  33276
+                  },
+                  {
+                      "path":  "Data/World102/TileRock04.OZJ",
+                      "sha256":  "57065ae5e4d15254f391ee5b3d8ee5dfbc9990759bde73c8afb7e49fb4e16500",
+                      "size":  116532
+                  },
+                  {
+                      "path":  "Data/World102/TileRock05.OZJ",
+                      "sha256":  "2b8686979fe0421d61a36a82bbcfe46d5eb5a606918e6d50cdf31ad0022aa204",
+                      "size":  89205
+                  },
+                  {
+                      "path":  "Data/World102/TileRock06.OZJ",
+                      "sha256":  "229cda6fe29949064ed3cba297b497308f0ac9cddbc05afefc8468aebaaccddd",
+                      "size":  131391
+                  },
+                  {
+                      "path":  "Data/World102/TileRock07.OZJ",
+                      "sha256":  "7aa3d6a6375be817a416961938c9d552da6907892b4b0f4c1ad5d13fd003bf85",
+                      "size":  92612
+                  },
+                  {
+                      "path":  "Data/World102/TileWater00.OZJ",
+                      "sha256":  "82af029e4a6a043b266561117fecd19b9452832c9b0701e0a4e7887d2c66110d",
+                      "size":  87373
+                  },
+                  {
+                      "path":  "Data/World102/TileWater01.OZJ",
+                      "sha256":  "ebee568613c52d0612407c7d76787431a879be4969033e75d0e3243b3d7eaf7f",
+                      "size":  60279
+                  },
+                  {
+                      "path":  "Data/World102/TileWater011.OZJ",
+                      "sha256":  "82af029e4a6a043b266561117fecd19b9452832c9b0701e0a4e7887d2c66110d",
+                      "size":  87373
+                  },
+                  {
+                      "path":  "Data/World102/TileWood01.OZJ",
+                      "sha256":  "0d03162e61d33def3196423d75e60fafc236abeb5a5ba1b2b9aee433a087ed80",
+                      "size":  36888
                   },
                   {
                       "path":  "Data/World11/EncTerrain11.att",
@@ -100775,13 +102670,13 @@
                   },
                   {
                       "path":  "Data/World97/EncTerrain97.map",
-                      "sha256":  "9a780cacfb54c58910ae4502e2bfa137d991395bf545395f0241ccc4a61a541c",
+                      "sha256":  "2bf99ddf68745fb8a1804129cdad5ac421640bcfd54023ff56fda70f9361f988",
                       "size":  196610
                   },
                   {
                       "path":  "Data/World97/EncTerrain97.obj",
-                      "sha256":  "67c793da026f865ac060d06ea0a26a5261c7f86ece2f83a5e4330e2c617f68b6",
-                      "size":  11824
+                      "sha256":  "94a05c48815288e55e7dadf0ddeee44cfe8ab4ab7a8f108ef7310c4d1da8abac",
+                      "size":  14194
                   },
                   {
                       "path":  "Data/World97/leaf01.OZJ",
@@ -100800,7 +102695,7 @@
                   },
                   {
                       "path":  "Data/World97/mini_map.OZT",
-                      "sha256":  "16fd8c77fa171f27e9b279060593b15c927fde0b1aac8b27ccf5fb203307cdf2",
+                      "sha256":  "55e45da558b0e8687a743ea5bc171ffdfd2fb77b8558561a47a44f709b150e2a",
                       "size":  4194352
                   },
                   {
@@ -100815,18 +102710,18 @@
                   },
                   {
                       "path":  "Data/World97/TerrainHeight.OZB",
-                      "sha256":  "aa5c81b13ec74b9d33da6826f25b0bd332ef2b8f488db48e8fc93b2542c61b3e",
+                      "sha256":  "0438e80f8022e038e8081d1a6260644b5c6461e1e03dd605b1ba92c64a24420b",
                       "size":  66620
                   },
                   {
                       "path":  "Data/World97/TerrainLight.OZJ",
-                      "sha256":  "32faa842bd209a3a6613b5a0f4645d4f17e23a1b4be41a607f495959cddcd97d",
-                      "size":  4170
+                      "sha256":  "2ea42dc2490b867f2e4c4dbee9817bc796a5db28d32c05c334d9283424fde878",
+                      "size":  4035
                   },
                   {
                       "path":  "Data/World97/TileGrass01.OZJ",
-                      "sha256":  "db2e2f0f479a6e0744940cd1f2e310d8e0e531c57043874d2499ed29fe4410fe",
-                      "size":  58863
+                      "sha256":  "f702c27651c71ab6f184ebb6b0bd37b932a174ba3b1b6ef6774d5cef62441737",
+                      "size":  125674
                   },
                   {
                       "path":  "Data/World97/TileGrass01.OZT",
@@ -100835,8 +102730,8 @@
                   },
                   {
                       "path":  "Data/World97/TileGrass02.OZJ",
-                      "sha256":  "dd90693b601c393ac9e4822470e44abecb3dcd1dd9373e450dae3ecbfa00a769",
-                      "size":  67683
+                      "sha256":  "694a8ccf505325a21ad9df2b96c1661337a58da587ef0660499c6529aaab6189",
+                      "size":  125972
                   },
                   {
                       "path":  "Data/World97/TileGrass02.OZT",
@@ -100850,18 +102745,18 @@
                   },
                   {
                       "path":  "Data/World97/TileGround01.OZJ",
-                      "sha256":  "e890a8344a0af1de3f72d5d1b94a789f746dc0ce3d5ba34850025736ffa8e8b0",
-                      "size":  17184
+                      "sha256":  "c129f408bead4d0d66550978265e88fa1a39c8972da76ef5134b7f4c37894b21",
+                      "size":  105258
                   },
                   {
                       "path":  "Data/World97/TileGround02.OZJ",
-                      "sha256":  "2e8e7a733457818c6ae0c03e02ce6a0834797048364350366c3790aab06f876d",
-                      "size":  69735
+                      "sha256":  "b037137a72680465a359a625ede3c020c51d346749bf1ce773ab5f6546d78e46",
+                      "size":  137856
                   },
                   {
                       "path":  "Data/World97/TileGround03.OZJ",
-                      "sha256":  "110e9d03087d120566e46162b11a1684576f23e69826bb4fb31e13b263449d04",
-                      "size":  72945
+                      "sha256":  "fa99990797e56a016c1261aef4ca3012bc0fef91bb618868d93f34d8d1c66826",
+                      "size":  137043
                   },
                   {
                       "path":  "Data/World97/TileRock.OZJ",
@@ -100870,8 +102765,8 @@
                   },
                   {
                       "path":  "Data/World97/TileRock01.OZJ",
-                      "sha256":  "a3019594abf340aab2a76aea04c92817a6d2cc9791937f55c18c65a602446fb0",
-                      "size":  112199
+                      "sha256":  "ee3cf16abd8972d1b1557108757ecea04b3dde45e1f1c28323ac5ee7ac9aa004",
+                      "size":  144013
                   },
                   {
                       "path":  "Data/World97/TileRock02.OZJ",
@@ -100895,8 +102790,8 @@
                   },
                   {
                       "path":  "Data/World97/TileRock06.OZJ",
-                      "sha256":  "fd643db9572401c886b6aaf977a1aa9bd66665db87b5cc923c5976752730b65c",
-                      "size":  12347
+                      "sha256":  "be23e860bbc63c35bf50a9a66c02786cc4e33d18cd4392156aa3a6e79a1d6e46",
+                      "size":  115378
                   },
                   {
                       "path":  "Data/World97/TileRock07.OZJ",
@@ -103720,13 +105615,13 @@
                   },
                   {
                       "path":  "Horizon.Client.dll",
-                      "sha256":  "4261e1510b93b19e5f794b4d94f0166493bd05a738067b719966d46e7837be94",
+                      "sha256":  "fa0b37ff7668fb40d7f98c144151a47383ca722fd3f5daddc17bc97c5addc12a",
                       "size":  3309032
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "d38397b4269671cf3a6b2ae813d1ceebd426a2f2c2f1fa81f286753e9915494d",
-                      "size":  17180136
+                      "sha256":  "86f0e4b3cf6f23e5037e31f4b278234ddfebfeb1de9e3a0fe271ccd3cec7afa2",
+                      "size":  17320936
                   },
                   {
                       "path":  "msvcp140.dll",
@@ -112639,13 +114534,13 @@
                                        },
                                        {
                                            "path":  "Horizon.Client.dll",
-                                           "sha256":  "3e717eaad120b9eece7b1808df8309bbd26e15a197326c7631b46ec89a5f8a9e",
+                                           "sha256":  "78714d1a2e5ecd8b9588c01642a3e8f54857054791c4bc741369896024559708",
                                            "size":  3880424
                                        },
                                        {
                                            "path":  "Main.exe",
-                                           "sha256":  "653f6384118af3001aa07d868322bff32f62b2e33943bd5403412d2d4e217b4a",
-                                           "size":  19579368
+                                           "sha256":  "684b1f414f682b643dce7508346060ef7e68940395ad6eba8c1f04edd2493ab3",
+                                           "size":  19747816
                                        },
                                        {
                                            "path":  "msvcp140.dll",
@@ -112678,11 +114573,11 @@
                            }
                        ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/2dd89a6369e9d1ae36b4ea25a79805824119be81dafad74b4cd1d863bfc8eb57.zip",
-                     "sha256":  "2dd89a6369e9d1ae36b4ea25a79805824119be81dafad74b4cd1d863bfc8eb57",
-                     "size":  8682408,
+                     "url":  "https://files.mu-horizon.com/zips/98ab3da2a7933ca6014dcbfd9b9618c361a9c02ff3a3e2cb66d734ca4e2c28e6.zip",
+                     "sha256":  "98ab3da2a7933ca6014dcbfd9b9618c361a9c02ff3a3e2cb66d734ca4e2c28e6",
+                     "size":  44438444,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-65/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-66/client-patch.zip"
                               ]
                  }
 }
